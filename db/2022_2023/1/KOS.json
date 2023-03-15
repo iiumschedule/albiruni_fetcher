@@ -1,0 +1,4230 @@
+[
+    {
+        "code": "BAPS 1112",
+        "sect": 1,
+        "title": "PRINCIPLES OF MICROBIOLOGY",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MD HOIRUL AZRI BIN PONARI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "BAPS 1211",
+        "sect": 1,
+        "title": "PRINCIPLES OF CELL BIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAPS 1313",
+        "sect": 1,
+        "title": "GENERAL CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR HASLINDA BINTI NOOR HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1301",
+        "sect": 1,
+        "title": "ISLAM AND SCIENCE",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS ALT 1",
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1301",
+        "sect": 2,
+        "title": "ISLAM AND SCIENCE",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS ALT 1",
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1302",
+        "sect": 1,
+        "title": "COMPUTER IN SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1302",
+        "sect": 2,
+        "title": "COMPUTER IN SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1302",
+        "sect": 3,
+        "title": "COMPUTER IN SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1303",
+        "sect": 1,
+        "title": "PHILOSOPHY OF SCIENCE",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS ALT 3",
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1303",
+        "sect": 2,
+        "title": "PHILOSOPHY OF SCIENCE",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS ALT 3",
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1303",
+        "sect": 3,
+        "title": "PHILOSOPHY OF SCIENCE",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS ALT 3",
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1303",
+        "sect": 4,
+        "title": "PHILOSOPHY OF SCIENCE",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS ALT 3",
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:39"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 4304",
+        "sect": 1,
+        "title": "ENTREPRENEURSHIP AND INNOVATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD SYAHMI BIN SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1311",
+        "sect": 1,
+        "title": "INTRODUCTION TO MARINE SCIENCE AND TECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1312",
+        "sect": 1,
+        "title": "CALCULUS OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1321",
+        "sect": 1,
+        "title": "PHYSICAL OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD FAIZ BIN MOHD. HANAPIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1322",
+        "sect": 1,
+        "title": "CHEMICAL OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FUAD BIN MISKON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1323",
+        "sect": 1,
+        "title": "BIOLOGICAL OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1324",
+        "sect": 1,
+        "title": "MARINE INSTRUMENTATION AND SYSTEM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZAINI BIN MUSTAPA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1311",
+        "sect": 1,
+        "title": "GENERAL CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ZURINA SAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1311",
+        "sect": 2,
+        "title": "GENERAL CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ZURINA SAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1312",
+        "sect": 1,
+        "title": "CALCULUS FOR BIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1312",
+        "sect": 2,
+        "title": "CALCULUS FOR BIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1313",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF MICROBIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HAFIZAH BINTI AZIZAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1313",
+        "sect": 2,
+        "title": "FUNDAMENTALS OF MICROBIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HAFIZAH BINTI AZIZAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2211",
+        "sect": 1,
+        "title": "RECOMBINANT DNA TECHNOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZRUL NAIM BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2211",
+        "sect": 2,
+        "title": "RECOMBINANT DNA TECHNOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZRUL NAIM BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2312",
+        "sect": 1,
+        "title": "GENETICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZRUL NAIM BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2312",
+        "sect": 2,
+        "title": "GENETICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZRUL NAIM BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2313",
+        "sect": 1,
+        "title": "ENZYMOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. TENGKU HAZIYAMIN BIN TENGKU ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2313",
+        "sect": 2,
+        "title": "ENZYMOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. TENGKU HAZIYAMIN BIN TENGKU ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2314",
+        "sect": 1,
+        "title": "BIOSTATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FAIRUZ BINTI CHE OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 2314",
+        "sect": 2,
+        "title": "BIOSTATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FAIRUZ BINTI CHE OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3211",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3211",
+        "sect": 2,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3312",
+        "sect": 1,
+        "title": "PROTEIN BIOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3312",
+        "sect": 2,
+        "title": "PROTEIN BIOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3313",
+        "sect": 1,
+        "title": "INSTRUMENTATION IN BIOTECHNOLOGY RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIANA MOHD. ASHAARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3313",
+        "sect": 2,
+        "title": "INSTRUMENTATION IN BIOTECHNOLOGY RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIANA MOHD. ASHAARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3314",
+        "sect": 1,
+        "title": "BIOPROCESS DESIGN AN OPTIMISATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANIL AZURA BT. JALALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3314",
+        "sect": 2,
+        "title": "BIOPROCESS DESIGN AN OPTIMISATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANIL AZURA BT. JALALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3315",
+        "sect": 1,
+        "title": "IMMUNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAMZAH BIN MOHD NASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3315",
+        "sect": 2,
+        "title": "IMMUNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAMZAH BIN MOHD NASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3353",
+        "sect": 1,
+        "title": "MEDICAL MICROBIOLOGY & PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WIDYA BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4122",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4311",
+        "sect": 1,
+        "title": "BIONANOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR FAEZAH BINTI ANSARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4311",
+        "sect": 2,
+        "title": "BIONANOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR FAEZAH BINTI ANSARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4335",
+        "sect": 1,
+        "title": "FOOD PROCESS ENGINEERING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TAN TENG JU"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4336",
+        "sect": 1,
+        "title": "FATS AND OILS CHEMISTRY AND TECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TAN TENG JU"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4337",
+        "sect": 1,
+        "title": "FOOD TOXICOLOGY AND ASSESSMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WIDYA BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4338",
+        "sect": 1,
+        "title": "FOOD, NUTRITION AND HEALTH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORMAH BINTI HARON"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4345",
+        "sect": 1,
+        "title": "ENVIRONMENTAL LAWS AND POLICIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAKUAN AZIZI BIN SHAMSUL HARUMAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4346",
+        "sect": 1,
+        "title": "INTEGRATED WASTE MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AZZMER AZZAR BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4348",
+        "sect": 1,
+        "title": "BIOREMEDIATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAKUAN AZIZI BIN SHAMSUL HARUMAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4355",
+        "sect": 1,
+        "title": "HUMAN GENETICS AND GENETIC DISORDERS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR FIRDAUS BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4356",
+        "sect": 1,
+        "title": "ONCOLOGY AND CANCER THERAPY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. FAEZ BIN SHARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4357",
+        "sect": 1,
+        "title": "MOLECULAR EPIDEMIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HANUM BINTI YA'AKUB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4412",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HANUM BINTI YA'AKUB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 1212",
+        "sect": 1,
+        "title": "Introduction to Practical Organic Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURASYIKIN BINTI HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1214",
+        "sect": 1,
+        "title": "Statistic",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1311",
+        "sect": 1,
+        "title": "Organic Chemistry 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR SALIYANA JUMALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1313",
+        "sect": 1,
+        "title": "Physical Chemistry 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSLIZA BINTI MOHD. SALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2215",
+        "sect": 1,
+        "title": "Computational Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2312",
+        "sect": 1,
+        "title": "Inorganic Chemistry 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FIONA HOW NI FOONG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2313",
+        "sect": 1,
+        "title": "Physical Chemistry 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2314",
+        "sect": 1,
+        "title": "Analytical Chemistry 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL 'ARIFIN BIN SHAFIEE"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2411",
+        "sect": 1,
+        "title": "Organic Chemistry 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3213",
+        "sect": 1,
+        "title": "Chemical Health & Safety Management",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3214",
+        "sect": 1,
+        "title": "Materials Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3311",
+        "sect": 1,
+        "title": "Natural Product Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3312",
+        "sect": 1,
+        "title": "Environmental Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURZIANA BINTI NGAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3331",
+        "sect": 1,
+        "title": "Food Chemistry and Safety",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3332",
+        "sect": 1,
+        "title": "Chemistry of Fats, Oils and Emulsifiers",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3341",
+        "sect": 1,
+        "title": "Medicinal Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURASYIKIN BINTI HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3342",
+        "sect": 1,
+        "title": "Drug Dosage Form",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3351",
+        "sect": 1,
+        "title": "Occupational Safety and Health Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ARMI BIN ABU SAMAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3352",
+        "sect": 1,
+        "title": "Industrial Chemical Hygiene",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 1213",
+        "sect": 1,
+        "title": "PRINCIPLES OF PLANT SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAIZATUL AKMA BINTI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 1223",
+        "sect": 1,
+        "title": "STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HUDA BINTI ABDUL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 1233",
+        "sect": 1,
+        "title": "PLANT TAXONOMY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROZILAWATI SHAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 1243",
+        "sect": 1,
+        "title": "PLANT ANATOMY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. CHE NURUL AINI BINTI CHE AMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 2113",
+        "sect": 1,
+        "title": "SOIL SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHUHADA BINTI MUHAMAD TAJUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 2123",
+        "sect": 1,
+        "title": "PLANT PROTECTION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HUDA BINTI ABDUL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 2133",
+        "sect": 1,
+        "title": "PLANT PHYSIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL LATIF BIN NOH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 2143",
+        "sect": 1,
+        "title": "PLANT TISSUE CULTURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ZARINA BT. ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 3113",
+        "sect": 1,
+        "title": "PLANT AND CROP MODELING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL NAJIHAH BINTI MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SAP 3123",
+        "sect": 1,
+        "title": "PLANT BIOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ZARINA BT. ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 3133",
+        "sect": 1,
+        "title": "PLANT BREEDING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIMATON SAADIAH BINTI OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 3143",
+        "sect": 1,
+        "title": "SEED SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR SYAHEERA BINTI MOHD YUNUS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 3153",
+        "sect": 1,
+        "title": "PLANT NATURAL PRODUCTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 3193",
+        "sect": 1,
+        "title": "LABORATORY AND FIELD TECHNIQUES IN PLANT SCIENCES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD FAHMI BIN YUNUS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4191",
+        "sect": 1,
+        "title": "PROJECT SEMINAR",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. CHE NURUL AINI BINTI CHE AMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4195",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZAHANA BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SAP 4553",
+        "sect": 1,
+        "title": "SOIL AND PLANT WATER RELATIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHUHADA BINTI MUHAMAD TAJUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4563",
+        "sect": 1,
+        "title": "PLANT-MICROBE INTERACTIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SABRINA BINTI AHMAD AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4583",
+        "sect": 1,
+        "title": "PLANT, SOIL AND CLIMATE CHANGE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FAUZIHAN BIN KARIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4653",
+        "sect": 1,
+        "title": "PLANT CYTOGENETICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD RAZIK BIN MIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4663",
+        "sect": 1,
+        "title": "PLANT EVOLUTION AND ORIGIN OF CROP SPECIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SAP 4673",
+        "sect": 1,
+        "title": "BREEDING FOR PEST AND DISEASE RESISTANCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIMATON SAADIAH BINTI OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 1413",
+        "sect": 1,
+        "title": "ORGANIC CHEMISTRY I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR SALIYANA JUMALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 2213",
+        "sect": 1,
+        "title": "INORGANIC CHEMISTRY II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FIONA HOW NI FOONG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 3434",
+        "sect": 1,
+        "title": "ORGANIC SYNTHESIS",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4435",
+        "sect": 1,
+        "title": "FLAVOURS AND FRAGRANCES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ZURINA SAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:30",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4437",
+        "sect": 1,
+        "title": "HALAL FOODS AND RELATED PRODUCTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4438",
+        "sect": 1,
+        "title": "ADVANCE ANALYTICAL METHODS FOR HALAL HARAM PRODUCTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL 'ARIFIN BIN SHAFIEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4535",
+        "sect": 1,
+        "title": "INDUSTRIAL HYGIENE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4536",
+        "sect": 1,
+        "title": "INDUSTRIAL TOXICOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FIONA HOW NI FOONG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4537",
+        "sect": 1,
+        "title": "OCCUPATIONAL, SAFETY AND HEALTH LEGISLATION AND MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ARMI BIN ABU SAMAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4612",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AZAIMA BINTI RAZALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4635",
+        "sect": 1,
+        "title": "MEDICINAL CHEMISTRY II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:00"
+            },
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4636",
+        "sect": 1,
+        "title": "DRUG DELIVERY & APPLICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4637",
+        "sect": 1,
+        "title": "SEPARATION TECHNIQUES FOR MEDICINAL CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL IMAN AMINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCH 4974",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURASYIKIN BINTI HAMZAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMS 1301",
+        "sect": 1,
+        "title": "ANALYTIC GEOMETRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FATIMAH BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1301",
+        "sect": 2,
+        "title": "ANALYTIC GEOMETRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FATIMAH BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1302",
+        "sect": 1,
+        "title": "CALCULUS 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1302",
+        "sect": 2,
+        "title": "CALCULUS 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1303",
+        "sect": 1,
+        "title": "NUMBER THEORY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN NUR FAIRUZ ALWANI BT W ROZALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1303",
+        "sect": 2,
+        "title": "NUMBER THEORY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN NUR FAIRUZ ALWANI BT W ROZALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1304",
+        "sect": 1,
+        "title": "CALCULUS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR ZATUL AKMAR BTE HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1305",
+        "sect": 1,
+        "title": "LINEAR ALGEBRA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUPIAN BIN MAT SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1306",
+        "sect": 1,
+        "title": "ALGEBRA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUPIAN BIN MAT SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1306",
+        "sect": 2,
+        "title": "ALGEBRA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUPIAN BIN MAT SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2307",
+        "sect": 1,
+        "title": "ADVANCED CALCULUS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. PAH CHIN HEE"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2307",
+        "sect": 2,
+        "title": "ADVANCED CALCULUS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. PAH CHIN HEE"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2308",
+        "sect": 1,
+        "title": "MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2309",
+        "sect": 1,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI MARPONGA BINTI TOLOS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2309",
+        "sect": 2,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI MARPONGA BINTI TOLOS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2309",
+        "sect": 3,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI MARPONGA BINTI TOLOS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2310",
+        "sect": 1,
+        "title": "MATHEMATICAL ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2311",
+        "sect": 1,
+        "title": "ADVANCED MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2311",
+        "sect": 2,
+        "title": "ADVANCED MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2380",
+        "sect": 1,
+        "title": "DISCRETE MATHEMATICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. PAH CHIN HEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2411",
+        "sect": 1,
+        "title": "ADVANCED MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3311",
+        "sect": 1,
+        "title": "ADVANCED NUMERICAL ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3314",
+        "sect": 1,
+        "title": "SCIENTIFIC COMPUTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3314",
+        "sect": 2,
+        "title": "SCIENTIFIC COMPUTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3331",
+        "sect": 1,
+        "title": "FINANCIAL MATHEMATICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZAH BINTI BAHALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3341",
+        "sect": 1,
+        "title": "LINEAR PROGRAMMING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3351",
+        "sect": 1,
+        "title": "STATISTICAL MODELLING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL NAJIHAH BINTI MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3384",
+        "sect": 1,
+        "title": "COMPLEX VARIABLE FUNCTIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUPIAN BIN MAT SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3386",
+        "sect": 1,
+        "title": "INTRODUCTION TO FINANCIAL MATHEMATICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MIMI HAFIZAH BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3387",
+        "sect": 1,
+        "title": "BASIC INFERENTIAL STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL NAJIHAH BINTI MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3388",
+        "sect": 1,
+        "title": "VECTOR ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3391",
+        "sect": 1,
+        "title": "ADVANCED ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3392",
+        "sect": 1,
+        "title": "OPERATIONAL RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORFAIEQAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3616",
+        "sect": 1,
+        "title": "ADVANCED ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 4121",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN NUR FAIRUZ ALWANI BT W ROZALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMS 4312",
+        "sect": 1,
+        "title": "PARALLEL COMPUTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 4332",
+        "sect": 1,
+        "title": "FINANCIAL MATHEMATICS III",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MIMI HAFIZAH BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 4342",
+        "sect": 1,
+        "title": "DYNAMIC PROGRAMMING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORFAIEQAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 4352",
+        "sect": 1,
+        "title": "STOCHASTIC PROCESSES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN NUR FAIRUZ ALWANI BT W ROZALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 4432",
+        "sect": 1,
+        "title": "FINANCIAL MATHEMATICS III",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MIMI HAFIZAH BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 4802",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZAH BINTI BAHALUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMT 2113",
+        "sect": 1,
+        "title": "MARINE ELECTRONIC AND INSTRUMENTATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZAINI BIN MUSTAPA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2123",
+        "sect": 1,
+        "title": "ENVIRONMENTAL IMPACTS ASSESSMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2133",
+        "sect": 1,
+        "title": "MARINE POLLUTION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. KAMARUZZAMAN BIN YUNUS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2143",
+        "sect": 1,
+        "title": "GIS AND REMOTE SENSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TS. ZUHAIRI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3113",
+        "sect": 1,
+        "title": "MARINE EXPEDITION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FIKRIAH BINTI FAUDZI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3123",
+        "sect": 1,
+        "title": "SEAFOOD SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR NAZIFAH BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3133",
+        "sect": 1,
+        "title": "INTEGRATED COASTAL ZONE MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JULIANA BT MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3143",
+        "sect": 1,
+        "title": "MARINE BIODIVERSITY AND CONSERVATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI WAZNAH BINTI ABDURAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3153",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3163",
+        "sect": 1,
+        "title": "COASTAL GEOMORPHOLOGY AND PROCESSES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHAHBUDIN BIN SAAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4115",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT (2)",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NAJATUL SU AD BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4523",
+        "sect": 1,
+        "title": "REMOTE SENSING FOR MARINE APPLICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TS. ZUHAIRI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4543",
+        "sect": 1,
+        "title": "GIS FOR COASTAL ZONE MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TS. ZUHAIRI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4553",
+        "sect": 1,
+        "title": "COASTAL NUMERICAL MODELLING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4563",
+        "sect": 1,
+        "title": "MARINE ECOTOURISM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AIMIMULIANI BINTI ADAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4583",
+        "sect": 1,
+        "title": "ISLAND ECOSYSTEM AND MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD FAIZ BIN MOHD. HANAPIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4653",
+        "sect": 1,
+        "title": "ECOLOGICAL AQUACULTURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD AZFAR BIN MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4663",
+        "sect": 1,
+        "title": "MARINE MICROBIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RASHIDAH BINTI ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4673",
+        "sect": 1,
+        "title": "SEED PRODUCTION AND CULTURE TECHNIQUE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD FITRI BIN YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4683",
+        "sect": 1,
+        "title": "MARICULTURE TECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD FITRI BIN YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4753",
+        "sect": 1,
+        "title": "Fisheries Legislation and Regulation",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JULIANA BT MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4763",
+        "sect": 1,
+        "title": "Fisheries Products and Quality Control",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FIRDAUS BIN NAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4783",
+        "sect": 1,
+        "title": "Fishing Port and Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FUAD BIN MISKON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1103",
+        "sect": 1,
+        "title": "CLASSICAL MECHANICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAFIZAH NOOR BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1202",
+        "sect": 1,
+        "title": "EXPERIMENTAL PHYSICS I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SAMSUN BAHARIN BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1203",
+        "sect": 1,
+        "title": "ELECTRICITY AND MAGNETISM I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZAMANI BIN ZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1205",
+        "sect": 1,
+        "title": "LINEAR ALGEBRA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILI BT KAMARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1213",
+        "sect": 1,
+        "title": "VIBRATION, WAVES AND OPTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD ZAMZURI BIN ABDUL KADIR @ JAAFAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1278",
+        "sect": 1,
+        "title": "CALCULUS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FAKHRURRAZI BIN AHMAD NOORDEN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 2103",
+        "sect": 1,
+        "title": "MODERN PHYSICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. ADLI BIN MD. ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 2113",
+        "sect": 1,
+        "title": "ELECTRONICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FATIMAH BINTI NORIZAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 2247",
+        "sect": 1,
+        "title": "PROBABILITY AND DATA ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAFIZAH NOOR BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 2281",
+        "sect": 1,
+        "title": "MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILI BT KAMARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 2282",
+        "sect": 1,
+        "title": "ADVANCED MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILI BT KAMARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 2284",
+        "sect": 1,
+        "title": "MATHEMATICAL ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ISKANDAR BIN BAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3103",
+        "sect": 1,
+        "title": "STATISTICAL PHYSICS I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNI BINTI ABDUL AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3123",
+        "sect": 1,
+        "title": "OPTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD ZAMZURI BIN ABDUL KADIR @ JAAFAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3133",
+        "sect": 1,
+        "title": "ELECTRICITY AND MAGNETISM II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAMSUN BAHARIN BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3203",
+        "sect": 1,
+        "title": "QUANTUM MECHANICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. JESNI BIN SHAMSUL SHAARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3210",
+        "sect": 1,
+        "title": "SCIENTIFIC COMPUTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNI BINTI ABDUL AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3220",
+        "sect": 1,
+        "title": "BIOPHYSICS I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAZIMIN BIN MOHD SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3230",
+        "sect": 1,
+        "title": "INTRODUCTION TO MICROPROCESSOR",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FATIMAH BINTI NORIZAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4103",
+        "sect": 1,
+        "title": "SOLID STATE PHYSICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SHAFIQAH BINTI AHMAD SHAHARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4110",
+        "sect": 1,
+        "title": "COMPUTATIONAL METHOD IN PHYSICS I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. ADLI BIN MD. ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4111",
+        "sect": 1,
+        "title": "COMPUTATIONAL METHOD IN PHYSICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FAKHRURRAZI BIN AHMAD NOORDEN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4113",
+        "sect": 1,
+        "title": "STATISTICAL PHYSICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNI BINTI ABDUL AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:30",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4116",
+        "sect": 1,
+        "title": "PHYSICS PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAFIZAH NOOR BINTI ISA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SPS 4120",
+        "sect": 1,
+        "title": "BIOPHYSICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAZIMIN BIN MOHD SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4121",
+        "sect": 1,
+        "title": "BIOPHYSICS III",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAMSUN BAHARIN BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4130",
+        "sect": 1,
+        "title": "INSTRUMENTATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZAMANI BIN ZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4131",
+        "sect": 1,
+        "title": "LASERS AND ITS USES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FATIMAH BINTI NORIZAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    }
+]

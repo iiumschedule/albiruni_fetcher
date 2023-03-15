@@ -1,0 +1,3242 @@
+[
+    {
+        "code": "AAUD 1204",
+        "sect": 1,
+        "title": "Introduction to Clinical Practice",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MARINA L. ALISAPUTRI @ MARINA BINTI LAMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "AAUD 1305",
+        "sect": 1,
+        "title": "Human Structure and Function",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAITUNNATAKHIN BINTI ZAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AAUD 2202",
+        "sect": 1,
+        "title": "Otology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL ADLI BIN JAMALUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AAUD 2301",
+        "sect": 1,
+        "title": "Basic Audiometry for Audiology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TENGKU ZULAILA HASMA BINTI TENGKU ZAM ZAM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "22:00",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1211",
+        "sect": 1,
+        "title": "PRINCIPLES OF MICROBIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1211",
+        "sect": 2,
+        "title": "PRINCIPLES OF MICROBIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1213",
+        "sect": 1,
+        "title": "IT & HEALTH INFORMATICS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. IBRAHIM ADHAM BIN TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1311",
+        "sect": 1,
+        "title": "ANATOMY 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAITUNNATAKHIN BINTI ZAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1311",
+        "sect": 2,
+        "title": "ANATOMY 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAITUNNATAKHIN BINTI ZAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1313",
+        "sect": 1,
+        "title": "PHYSIOLOGY 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. RADIAH BT. ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1315",
+        "sect": 1,
+        "title": "BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHANA BT. MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 1322",
+        "sect": 1,
+        "title": "HUMAN BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHANA BT. MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2313",
+        "sect": 1,
+        "title": "PHARMACOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SUZANAH BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2315",
+        "sect": 1,
+        "title": "MEDICAL PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAZSIDA BINTI RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2315",
+        "sect": 2,
+        "title": "MEDICAL PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAZSIDA BINTI RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2315",
+        "sect": 3,
+        "title": "MEDICAL PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAZSIDA BINTI RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2317",
+        "sect": 1,
+        "title": "MEDICAL MICROBIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2317",
+        "sect": 2,
+        "title": "MEDICAL MICROBIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2317",
+        "sect": 3,
+        "title": "MEDICAL MICROBIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2319",
+        "sect": 1,
+        "title": "BASIC PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD SYAIFUL BAHARI BIN ABDULL RASAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2319",
+        "sect": 2,
+        "title": "BASIC PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD SYAIFUL BAHARI BIN ABDULL RASAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 2319",
+        "sect": 3,
+        "title": "BASIC PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD SYAIFUL BAHARI BIN ABDULL RASAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3211",
+        "sect": 1,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AZANTEE YAZMIE BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3211",
+        "sect": 2,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AZANTEE YAZMIE BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3211",
+        "sect": 3,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AZANTEE YAZMIE BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3311",
+        "sect": 1,
+        "title": "BIOSTATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZLINA A. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3311",
+        "sect": 2,
+        "title": "BIOSTATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZLINA A. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3311",
+        "sect": 3,
+        "title": "BIOSTATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZLINA A. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3331",
+        "sect": 1,
+        "title": "IMMUNOLOGY AND HAEMATOLOGY LABORATORY PRACTICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. AFFENDI BIN MOHD SHAFRI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3331",
+        "sect": 2,
+        "title": "IMMUNOLOGY AND HAEMATOLOGY LABORATORY PRACTICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. AFFENDI BIN MOHD SHAFRI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3341",
+        "sect": 1,
+        "title": "MOLECULAR BIOLOGY TECHNIQUES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORAFIZA BINTI ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3431",
+        "sect": 1,
+        "title": "CLINICAL BIOCHEMISTRY",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIATY IRYANI BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3431",
+        "sect": 2,
+        "title": "CLINICAL BIOCHEMISTRY",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIATY IRYANI BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3441",
+        "sect": 1,
+        "title": "NATURAL PRODUCT & HERBAL MEDICINE",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SUZANAH BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3701",
+        "sect": 1,
+        "title": "BIOMEDICAL PRACTICUM I",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORAFIZA BINTI ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3703",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MARDHIAH BINTI MOHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 4105",
+        "sect": 1,
+        "title": "BIOMEDICAL PRACTICUM II",
+        "chr": 18.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORAFIZA BINTI ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 4107",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING II",
+        "chr": 18.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MARDHIAH BINTI MOHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 1211",
+        "sect": 1,
+        "title": "Nutrition & Health",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. HANAPI BIN MAT JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 1312",
+        "sect": 1,
+        "title": "Food Science & Technology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM BIN ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 1313",
+        "sect": 1,
+        "title": "Nutritional Biochemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 2211",
+        "sect": 1,
+        "title": "Nutritional Immunology",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MUHAMMAD MUZAFFAR ALI KHAN KHATTAK"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 2213",
+        "sect": 1,
+        "title": "Nutrition Policy and Food Security",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AFLAH BT. AFANDI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 2312",
+        "sect": 1,
+        "title": "Nutritional Status Assessment",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZWANI BINTI MOHD SHUKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHDT 2326",
+        "sect": 1,
+        "title": "Nutrition and Exercise",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORASHIKIN BINTI MUSTAFA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 3211",
+        "sect": 1,
+        "title": "ADVANCED HEARING AMPLIFICATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL ADLI BIN JAMALUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 3312",
+        "sect": 1,
+        "title": "AUDITORY ELECTROPHYSIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. AHMAD AIDIL ARAFAT BIN DZULKARNAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 3413",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 1",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL SYARIDA BINTI MOHD SAKERI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 3423",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL SYARIDA BINTI MOHD SAKERI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 4211",
+        "sect": 1,
+        "title": "NOISE AND HEARING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAIDAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 4214",
+        "sect": 1,
+        "title": "SEMINARS IN AUDIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAIDAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 4612",
+        "sect": 1,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 4613",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 3",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHHA 4623",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 4",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 1431",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE 1",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. IQBAL BIN JAMALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 2224",
+        "sect": 1,
+        "title": "DIGITAL IMAGING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. IQBAL BIN JAMALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 2321",
+        "sect": 1,
+        "title": "RADIOBIOLOGY AND RADIATION PROTECTION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SAYED INAYATULLAH SHAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 2431",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. UMMI FARHANA BINTI HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3214",
+        "sect": 1,
+        "title": "SECTIONAL ANATOMY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORHANNA BINTI SOHAIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3215",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY FOR MEDICAL IMAGING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SAYED INAYATULLAH SHAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3311",
+        "sect": 1,
+        "title": "MAGNETIC RESONANCE IMAGING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. IQBAL BIN JAMALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3312",
+        "sect": 1,
+        "title": "COMPUTERISED TOMOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. UMMI FARHANA BINTI HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3313",
+        "sect": 1,
+        "title": "ULTRASOUND",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. UMMI FARHANA BINTI HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3521",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE 3",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 4131",
+        "sect": 1,
+        "title": "SPECIALISED CLINICAL PRACTICE",
+        "chr": 13.0,
+        "venue": null,
+        "lect": [
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 4211",
+        "sect": 1,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ZAFRI AZRAN ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 3314",
+        "sect": 1,
+        "title": "RESEARCH PROJECT IN DIETETICS 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ASHRAF BIN ROSTAM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 3324",
+        "sect": 1,
+        "title": "RESEARCH PROJECT IN DIETETICS 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ARIFF BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 3413",
+        "sect": 1,
+        "title": "INTERMEDIATE MEDICAL NUTRITION THERAPY",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN FATHIN FARIZA BT. WAN MAHMOOD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4113",
+        "sect": 1,
+        "title": "PROFESSIONAL DIETETICS",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NURANIZA BINTI AZAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4414",
+        "sect": 1,
+        "title": "COMMUNITY NUTRITION PLACEMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HAZIRAH BINTI JAAFAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4511",
+        "sect": 1,
+        "title": "CLINICAL ROTATION: OUTPATIENT 1",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. ALIZA HASLINDA BINTI HAMIRUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4512",
+        "sect": 1,
+        "title": "CLINICAL ROTATION: OUTPATIENT 2",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NURANIZA BINTI AZAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 2211",
+        "sect": 1,
+        "title": "FOOD ANALYSIS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM BIN ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 2213",
+        "sect": 1,
+        "title": "SOCIO-CULTURAL ASPECTS OF NUTRITION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN AZDIE BIN MOHD. ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 2214",
+        "sect": 1,
+        "title": "NUTRITIONAL IMMUNOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MUHAMMAD MUZAFFAR ALI KHAN KHATTAK"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 2315",
+        "sect": 1,
+        "title": "NUTRITIONAL STATUS ASSESSMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZWANI BINTI MOHD SHUKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 3211",
+        "sect": 1,
+        "title": "ADVANCED NUTRITION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAISHAH BINTI MOHAMED NOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 3221",
+        "sect": 1,
+        "title": "NUTRITION POLICY & FOOD SECURITY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AFLAH BT. AFANDI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHNS 3312",
+        "sect": 1,
+        "title": "NUTRITION AND EXERCISE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORASHIKIN BINTI MUSTAFA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 1311",
+        "sect": 1,
+        "title": "OPTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. ZULFAEZAL BIN CHE AZEMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 1312",
+        "sect": 1,
+        "title": "OCULAR ANATOMY & PHYSIOLOGY 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 2211",
+        "sect": 1,
+        "title": "OPHTHALMIC INSTRUMENTS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAH FAREZ BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 2212",
+        "sect": 1,
+        "title": "OPHTHALMIC OPTICS AND DISPENSING 2",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAH FAREZ BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 2213",
+        "sect": 1,
+        "title": "VISUAL PERCEPTION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORSHAM BT AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 2221",
+        "sect": 1,
+        "title": "OCULAR GENETICS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR EZAILINA BINTI BADARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 2311",
+        "sect": 1,
+        "title": "OPTOMETRIC EXAMINATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FIRDAUS BIN YUSOF @ ALIAS"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3212",
+        "sect": 1,
+        "title": "STRABISMUS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "NOOR WAFIRAH BINTI SHAFEE"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3214",
+        "sect": 1,
+        "title": "PAEDIATRIC OPTOMETRY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORSHAM BT AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3311",
+        "sect": 1,
+        "title": "POSTERIOR OCULAR PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD RADZI BIN HILMI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3312",
+        "sect": 1,
+        "title": "CONTACT LENS PRACTICE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR EZAILINA BINTI BADARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3313",
+        "sect": 1,
+        "title": "OPTOMETRIC DECISION MAKING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HAFIDZ BIN ITHNIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3322",
+        "sect": 1,
+        "title": "INVESTIGATIVE PROJECT 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. ZULFAEZAL BIN CHE AZEMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 3323",
+        "sect": 1,
+        "title": "PRIMARY OPTOMETRY CLINIC 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4211",
+        "sect": 1,
+        "title": "CASE MANAGEMENT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4311",
+        "sect": 1,
+        "title": "PRIMARY OPTOMETRY CLINIC 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4312",
+        "sect": 1,
+        "title": "SPECIALIZATION CLINIC A 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR WAFIRAH BINTI SHAFEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4313",
+        "sect": 1,
+        "title": "SPECIALIZATION CLINIC B 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4314",
+        "sect": 1,
+        "title": "INVESTIGATIVE PROJECT 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. ZULFAEZAL BIN CHE AZEMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4321",
+        "sect": 1,
+        "title": "PRIMARY OPTOMETRY CLINIC 3",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHOV 4324",
+        "sect": 1,
+        "title": "SPECIALIZATION CLINIC B 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHP 3366",
+        "sect": 1,
+        "title": "CLINICAL PHYSIOTHERAPY 3",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHP 4176",
+        "sect": 1,
+        "title": "CLINICAL PHYSIOTHERAPY 4",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 1211",
+        "sect": 1,
+        "title": "ANATOMY AND PHYSIOLOGY I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. YUSOF BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 1213",
+        "sect": 1,
+        "title": "APPLIED ANATOMY I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "NURUL AMIRAH BINTI MUSTAPA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:30",
+                "endTime": "11:30"
+            },
+            {
+                "day": 3,
+                "startTime": "09:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 1214",
+        "sect": 1,
+        "title": "ANATOMY AND PHYSIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. YUSOF BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 1215",
+        "sect": 1,
+        "title": "CRITICAL THINKING IN HEALTHCARE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ISHFAQ BASHIR BHAT"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 1216",
+        "sect": 1,
+        "title": "APPLIED ANATOMY II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "SHAHID MOHD DAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 2211",
+        "sect": 1,
+        "title": "HEALTH COMMUNICATION AND BEHAVIORAL SCIENCES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD NAZIR BIN MOHD NAZORI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 2231",
+        "sect": 1,
+        "title": "CONTEMPORARY PHYSIOTHERAPY MODALITIES I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ISHFAQ BASHIR BHAT"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 2233",
+        "sect": 1,
+        "title": "NEUROLOGICAL PHYSIOTHERAPY I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ISHFAQ BASHIR BHAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 2312",
+        "sect": 1,
+        "title": "PATHOLOGY AND PHARMACOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROZLIN BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 2331",
+        "sect": 1,
+        "title": "MUSCULOSKELETAL PHYSIOTHERAPY I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "SHAHID MOHD DAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 2333",
+        "sect": 1,
+        "title": "CARDIORESPIRATORY PHYSIOTHERAPY I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "SHAHID MOHD DAR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 3541",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN NEUROLOGY",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 3543",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN MUSCULOSKELETAL",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 3545",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN CARDIORESPIRATORY",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 4331",
+        "sect": 1,
+        "title": "PHYSIOTHERAPY IN MEN AND WOMEN'S HEALTH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 4333",
+        "sect": 1,
+        "title": "PHYSIOTHERAPY IN SPORTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 4631",
+        "sect": 1,
+        "title": "RESEARCH PROJECT IN PHYSIOTHERAPY",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMED ARSHAD BIN MOHAMED SIDEEK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1221",
+        "sect": 1,
+        "title": "CRITICAL THINKING IN HEALTHCARE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURULWAHIDA SAAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1222",
+        "sect": 1,
+        "title": "HEALTH MANAGEMENT & ADMINISTRATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIZA BINTI SAMSUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1222",
+        "sect": 2,
+        "title": "HEALTH MANAGEMENT & ADMINISTRATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIZA BINTI SAMSUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1311",
+        "sect": 1,
+        "title": "HUMAN STRUCTURE & FUNCTION 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAITUNNATAKHIN BINTI ZAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1311",
+        "sect": 2,
+        "title": "HUMAN STRUCTURE & FUNCTION 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAITUNNATAKHIN BINTI ZAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1313",
+        "sect": 1,
+        "title": "FUNCTIONAL BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHANA BT. MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1314",
+        "sect": 1,
+        "title": "DEVELOPMENTAL PSYCHOLOGY IN HEALTH SCIENCES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ARIFF BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1314",
+        "sect": 2,
+        "title": "DEVELOPMENTAL PSYCHOLOGY IN HEALTH SCIENCES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ARIFF BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 1314",
+        "sect": 3,
+        "title": "DEVELOPMENTAL PSYCHOLOGY IN HEALTH SCIENCES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ARIFF BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 2211",
+        "sect": 1,
+        "title": "INTRODUCTION TO HEALTH COMMUNICATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD NAZIR BIN MOHD NAZORI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 2211",
+        "sect": 2,
+        "title": "INTRODUCTION TO HEALTH COMMUNICATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD NAZIR BIN MOHD NAZORI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 2211",
+        "sect": 3,
+        "title": "INTRODUCTION TO HEALTH COMMUNICATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD NAZIR BIN MOHD NAZORI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 2217",
+        "sect": 1,
+        "title": "FOUNDATION PATHOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ROZLIN BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 2312",
+        "sect": 1,
+        "title": "PATHOLOGY & PHARMACOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIATY IRYANI BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 2312",
+        "sect": 2,
+        "title": "PATHOLOGY & PHARMACOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIATY IRYANI BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 3210",
+        "sect": 1,
+        "title": "ENTREPRENEURSHIP",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MARDHIAH BINTI MOHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 3210",
+        "sect": 2,
+        "title": "ENTREPRENEURSHIP",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MARDHIAH BINTI MOHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "AHSC 3321",
+        "sect": 1,
+        "title": "EPIDEMIOLOGY & RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURULWAHIDA SAAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 3203",
+        "sect": 1,
+        "title": "ADULT LANGUAGE DISORDERS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLIN BT ALI HANAFIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 6,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 3242",
+        "sect": 1,
+        "title": "NEUROPSYCHOLOGY FOR SPEECH-LANGUAGE PATHOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TENGKU ZULAILA HASMA BINTI TENGKU ZAM ZAM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 3252",
+        "sect": 1,
+        "title": "MOTOR SPEECH DISORDERS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 6,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 3274",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC 4",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 3283",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC 3",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 4202",
+        "sect": 1,
+        "title": "ALTERNATIVE AND AUGMENTATIVE COMMUNICATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "21:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 4223",
+        "sect": 1,
+        "title": "FEEDING & SWALLOWING DISORDERS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 4236",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 4246",
+        "sect": 1,
+        "title": "RESEARCH PROJECT FOR SPEECH 1",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASLP 4265",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC  5",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "ASPA 1201",
+        "sect": 1,
+        "title": "Introduction to Speech-Language Pathology Clinic",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZRITA BT. MOHAMED ZAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "ASPA 1302",
+        "sect": 1,
+        "title": "Language Development",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZRITA BT. MOHAMED ZAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            }
+        ]
+    }
+]
