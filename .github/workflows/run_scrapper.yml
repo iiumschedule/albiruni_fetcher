@@ -1,0 +1,54 @@
+name: Run scrapper script
+
+"on":
+  workflow_dispatch:
+    inputs:
+      session:
+        description: "Academic session"
+        default: "2022/2023"
+        required: true
+        type: string
+      semester:
+        description: "Semester"
+        default: 1
+        required: true
+        type: choice
+        options:
+          - 1
+          - 2
+          - 3
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Dart SDK
+        id: setup-dart-sdk
+        uses: dart-lang/setup-dart@v1.4
+
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Run scrapper
+        run: dart bin/albiruni_fetcher.dart --session ${{ inputs.session }} --sem ${{ inputs.semester }}
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m ":card_file_box: update DB `date +"%d-%m-%Y"`" -a
+
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+
+      - run: echo "Job completed successfully. Using **Dart ${{ steps.setup-dart-sdk.outputs.dart-version }}**"
+
+      - run: echo "Scrap job for **session ${{ inputs.session }}** and **semester ${{ inputs.semester }}**"
