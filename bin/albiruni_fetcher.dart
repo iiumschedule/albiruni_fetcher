@@ -26,27 +26,28 @@ void main(List<String> arguments) async {
   print("ℹ️ Getting data for $session and semester $semester");
 
   for (var kull in kulliyyahs) {
-    print('\n');
-    print("🏢 ${kull.name}");
-    Albiruni albiruni =
-        Albiruni(semester: semester, session: session.replaceAll('_', '/'));
+    print('');
+    print("🏢 Getting ${kull.name}");
+    Albiruni albiruni = Albiruni(semester: semester, session: session);
 
     List<Subject> subjects = await retrieveSubjects(albiruni, kull);
-    print(subjects);
-    // delay a few seconds to avoid 'DDOS'
 
     print("📚 Fetched ${subjects.length} subjects");
     String jsonString = prettyJson(subjects);
-    // print(jsonString);
+
+    // sanitize sesssion before creating directory
+    var sessionDir = session.replaceAll('/', '_');
 
     // Create a file and write JSON string to it
-    var dbFile = await File('db/$session/$semester/${kull.code}.json')
+    var dbFile = await File('db/$sessionDir/$semester/${kull.code}.json')
         .create(recursive: true);
-    dbFile.writeAsString(jsonString).then((file) {
-      print('JSON file created successfully!');
-    }).catchError((error) {
-      print('Error while creating JSON file: $error');
-    });
+
+    try {
+      var res = await dbFile.writeAsString(jsonString);
+      print('JSON dumped successfully!: $res');
+    } catch (e) {
+      print('Error while creating JSON file: $e');
+    }
   }
 }
 
@@ -54,10 +55,16 @@ Future<List<Subject>> retrieveSubjects(
     Albiruni albiruni, Kulliyyah kulliyyah) async {
   List<Subject> subjects = [];
 
+  // use [useProxy] to allow the data fetching on GitHub runners
+  bool useProxy = true;
+
   try {
     for (int i = 1;; i++) {
-      var res = await albiruni.fetch(kulliyyah.code, page: i);
+      var res =
+          await albiruni.fetch(kulliyyah.code, page: i, useProxy: useProxy);
       subjects.addAll(res);
+
+      // delay a few seconds to avoid 'DDOS'
       Future.delayed(Duration(seconds: 1));
     }
   } catch (e) {

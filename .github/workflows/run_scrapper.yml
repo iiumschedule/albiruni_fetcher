@@ -36,18 +36,15 @@ jobs:
       - name: Run scrapper
         run: dart bin/albiruni_fetcher.dart --session ${{ inputs.session }} --sem ${{ inputs.semester }}
 
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m ":card_file_box: update DB `date +"%d-%m-%Y"`" -a
-
-      - name: push changes
-        uses: ad-m/github-push-action@master
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: ":card_file_box: update DB `date +"%d-%m-%Y"`"
+          title: ":card_file_box: update DB `date +"%d-%m-%Y"`"
+          body: "Scrap job for **session ${{ inputs.session }}** and **semester ${{ inputs.semester }}**"
+          branch: update/db-`date +"%d-%m-%Y"`
+          base: master
 
       - run: echo "Job completed successfully. Using **Dart ${{ steps.setup-dart-sdk.outputs.dart-version }}**"
 
