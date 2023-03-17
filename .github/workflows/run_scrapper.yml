@@ -40,10 +40,10 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: ":card_file_box: update DB `date +"%d-%m-%Y"`"
-          title: ":card_file_box: update DB `date +"%d-%m-%Y"`"
+          commit-message: "🗃️ update DB"
+          title: "🗃️ update DB"
           body: "Scrap job for **session ${{ inputs.session }}** and **semester ${{ inputs.semester }}**"
-          branch: update/db-`date +"%d-%m-%Y"`
+          branch: update/db
           base: master
 
       - run: echo "Job completed successfully. Using **Dart ${{ steps.setup-dart-sdk.outputs.dart-version }}**"
