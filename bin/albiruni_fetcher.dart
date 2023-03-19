@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:albiruni/albiruni.dart';
 import 'package:albiruni_fetcher/kulliyyah.dart';
+import 'package:albiruni_fetcher/subject_chart_stats.dart';
 import 'package:args/args.dart';
 
 void main(List<String> arguments) async {
@@ -25,6 +26,9 @@ void main(List<String> arguments) async {
 
   print("ℹ️ Getting data for $session and semester $semester");
 
+  // entries = subject and sections for each kulliyyah
+  List<int> numberOfEntriesFetched = [];
+
   for (var kull in kulliyyahs) {
     print('');
     print("🏢 Getting ${kull.name}");
@@ -33,6 +37,7 @@ void main(List<String> arguments) async {
     List<Subject> subjects = await retrieveSubjects(albiruni, kull);
 
     print("📚 Fetched ${subjects.length} subjects");
+    numberOfEntriesFetched.add(subjects.length);
     String jsonString = prettyJson(subjects);
 
     // sanitize sesssion before creating directory
@@ -49,6 +54,14 @@ void main(List<String> arguments) async {
       print('Error while creating JSON file: $e');
     }
   }
+
+  // display link to chart summary
+  var chartLink = buildChartLink(
+      kulliyyahs.map((e) => e.code).toList(), numberOfEntriesFetched);
+
+  print('\n');
+  print('📊 Subject statisticsL');
+  print(chartLink);
 }
 
 Future<List<Subject>> retrieveSubjects(
@@ -56,7 +69,7 @@ Future<List<Subject>> retrieveSubjects(
   List<Subject> subjects = [];
 
   // use [useProxy] to allow the data fetching on GitHub runners
-  bool useProxy = true;
+  bool useProxy = Platform.environment['GITHUB_ACTION'] != null;
 
   try {
     for (int i = 1;; i++) {

@@ -46,6 +46,6 @@ jobs:
           branch: update/db
           base: master
 
-      - run: echo "Job completed successfully. Using **Dart ${{ steps.setup-dart-sdk.outputs.dart-version }}**"
+      - run: echo "Job completed successfully. Using **Dart ${{ steps.setup-dart-sdk.outputs.dart-version }}**" >> $GITHUB_STEP_SUMMARY
 
-      - run: echo "Scrap job for **session ${{ inputs.session }}** and **semester ${{ inputs.semester }}**"
+      - run: echo "Scrap job for **session ${{ inputs.session }}** and **semester ${{ inputs.semester }}**" >> $GITHUB_STEP_SUMMARY
