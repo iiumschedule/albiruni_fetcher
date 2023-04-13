@@ -1,0 +1,2112 @@
+[
+    {
+        "code": "AERO 1121",
+        "sect": 1,
+        "title": "INTRODUCTION TO AEROSPACE ENGINEERING",
+        "chr": 1.0,
+        "venue": "ENG LRM E0-1-09",
+        "lect": [
+            "DR. AMELDA DIANNE BINTI ANDAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 1322",
+        "sect": 1,
+        "title": "THERMAL SCIENCES",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-66",
+        "lect": [
+            "TS. DR. MUHAMMAD HANAFI BIN AZAMI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 2128",
+        "sect": 1,
+        "title": "AEROSPACE ENGINEERING LAB 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FARID BIN ALADDIN",
+            "DR. AMELDA DIANNE BINTI ANDAN",
+            "TS. DR. MUHAMMAD HANAFI BIN AZAMI",
+            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 2302",
+        "sect": 1,
+        "title": "DYNAMIC",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-4-16",
+        "lect": [
+            "DR. NUR AZAM BIN ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "AERO 2320",
+        "sect": 1,
+        "title": "AEROSPACE MATERIALS AND MANUFACTURING PROCESSES",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-4",
+        "lect": [
+            "PROF. DR. MEFTAH HRAIRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "AERO 2322",
+        "sect": 1,
+        "title": "AERODYNAMICS 1",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-10",
+        "lect": [
+            "DR. AMELDA DIANNE BINTI ANDAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "AERO 2326",
+        "sect": 1,
+        "title": "SPACE MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-3-1",
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 2343",
+        "sect": 1,
+        "title": "CONTROL SYSTEMS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-09",
+        "lect": [
+            "DR. DWI PEBRIANTI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 3220",
+        "sect": 1,
+        "title": "FLIGHT MECHANICS",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-1-2",
+        "lect": [
+            "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 3321",
+        "sect": 1,
+        "title": "AIRCRAFT STRUCTURE 1",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "AERO 3324",
+        "sect": 1,
+        "title": "AEROSPACE PROPULSION",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-1-2",
+        "lect": [
+            "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "AERO 3326",
+        "sect": 1,
+        "title": "AERODYNAMICS 2",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-2-4",
+        "lect": [
+            "PROF. DR. SHER AFGHAN KHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 4342",
+        "sect": 1,
+        "title": "SPACECRAFT DYMANICS AND CONTROL",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-4",
+        "lect": [
+            "DR. DWI PEBRIANTI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2182",
+        "sect": 1,
+        "title": "BIOTECHNOLOGY ENGINEERING LAB II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2210",
+        "sect": 1,
+        "title": "INTRODUCTORY MICROBIOLOGY",
+        "chr": 2.0,
+        "venue": "ENG LT2 E0-1",
+        "lect": [
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. RAHA BINTI AHMAD RAUS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2211",
+        "sect": 1,
+        "title": "ORGANIC CHEMISTRY FOR BIOLOGICAL ENGINEERING",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-3-8",
+        "lect": [
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2312",
+        "sect": 1,
+        "title": "THERMODYNAMICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2312",
+        "sect": 2,
+        "title": "THERMODYNAMICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2313",
+        "sect": 1,
+        "title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2314",
+        "sect": 1,
+        "title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "DR. YUSILAWATI BINTI AHMAD NOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 2315",
+        "sect": 1,
+        "title": "BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "PROF. DR. FARIDAH BT. YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3100",
+        "sect": 1,
+        "title": "SEMINAR",
+        "chr": 1.0,
+        "venue": "ENG LT1 E0-1",
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN",
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3183",
+        "sect": 1,
+        "title": "BIOTECHNOLOGY ENGINEERING LAB III",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3183",
+        "sect": 2,
+        "title": "BIOTECHNOLOGY ENGINEERING LAB III",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3184",
+        "sect": 1,
+        "title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "ASSOC. PROF. DR. MAIZIRWAN MEL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3184",
+        "sect": 2,
+        "title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "ASSOC. PROF. DR. MAIZIRWAN MEL"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3222",
+        "sect": 1,
+        "title": "SEPARATION PROCESSES II",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-2-1",
+        "lect": [
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3292",
+        "sect": 1,
+        "title": "PROCESS PLANT DESIGN & SAFETY",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-3-20",
+        "lect": [
+            "ASSOC. PROF. DR. AZLIN SUHAIDA BT. AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3316",
+        "sect": 1,
+        "title": "ENVIRONMENTAL ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-10",
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "ASSOC. PROF. DR. SARINA BT. SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3317",
+        "sect": 1,
+        "title": "REACTION ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-09",
+        "lect": [
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "DR. AMANATUZZAKIAH ABDUL HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3317",
+        "sect": 2,
+        "title": "REACTION ENGINEERING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "DR. AMANATUZZAKIAH ABDUL HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3318",
+        "sect": 1,
+        "title": "MOLECULAR BIOLOGY AND GENETIC ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3319",
+        "sect": 1,
+        "title": "SEPARATION PROCESSES I",
+        "chr": 3.0,
+        "venue": "ENG LT1 E0-1",
+        "lect": [
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3320",
+        "sect": 1,
+        "title": "HEAT AND MASS TRANSFER",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-4-6",
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4300",
+        "sect": 1,
+        "title": "Integrated Design Project",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "ASSOC. PROF. DR. AZLIN SUHAIDA BT. AZMI",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4321",
+        "sect": 1,
+        "title": "BIOPROCESS CONTROL & INSTRUMENTATION",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4323",
+        "sect": 1,
+        "title": "CELL AND TISSUE ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-10",
+        "lect": [
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4324",
+        "sect": 1,
+        "title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "PROF. DR. MD ZAHANGIR ALAM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4354",
+        "sect": 1,
+        "title": "WASTEWATER ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "ASSOC. PROF. DR. SARINA BT. SULAIMAN",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4360",
+        "sect": 1,
+        "title": "FOOD PROCESS ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-1-4",
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4362",
+        "sect": 1,
+        "title": "BIOPROCESS FACILITY DESIGN AND REGULATORY",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-28",
+        "lect": [
+            "ASSOC. PROF. DR. MAIZIRWAN MEL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4372",
+        "sect": 1,
+        "title": "COMPUTER SIMULATION FOR BIOLOGICAL SYSTEM",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-28",
+        "lect": [
+            "DR. FARAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4378",
+        "sect": 1,
+        "title": "BIO NANOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4398",
+        "sect": 1,
+        "title": "PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4399",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": "ENG LT1 E0-1",
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4399",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1210",
+        "sect": 1,
+        "title": "ORGANIC CHEMISTRY",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-3-8",
+        "lect": [
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1212",
+        "sect": 1,
+        "title": "THERMODYNAMICS",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1212",
+        "sect": 2,
+        "title": "THERMODYNAMICS",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1213",
+        "sect": 1,
+        "title": "PHYSICAL CHEMISTRY",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "PROF. DR. FARIDAH BT. YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1213",
+        "sect": 2,
+        "title": "PHYSICAL CHEMISTRY",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-1-10",
+        "lect": [
+            "PROF. DR. FARIDAH BT. YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1311",
+        "sect": 1,
+        "title": "MATERIAL SCIENCES FOR CHEMICAL ENGINEERS",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-2-4",
+        "lect": [
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1314",
+        "sect": 1,
+        "title": "BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-20",
+        "lect": [
+            "PROF. DR. FARIDAH BT. YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1314",
+        "sect": 2,
+        "title": "BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "PROF. DR. FARIDAH BT. YUSOF",
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 1315",
+        "sect": 1,
+        "title": "PRINCIPLE OF MASS AND ENERGY BALANCE",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2181",
+        "sect": 1,
+        "title": "CHEMICAL ENGINEERING LABORATORY 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHA BINTI AHMAD RAUS",
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2182",
+        "sect": 1,
+        "title": "CHEMICAL ENGINEERING LABORATORY 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2214",
+        "sect": 1,
+        "title": "MASS TRANSFER",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-4-7",
+        "lect": [
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2310",
+        "sect": 1,
+        "title": "CHEMICAL THERMODYNAMICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-66",
+        "lect": [
+            "PROF. DR. MD ZAHANGIR ALAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2311",
+        "sect": 1,
+        "title": "HEAT TRANSFER",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-09",
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2312",
+        "sect": 1,
+        "title": "FLUID MECHANICS FOR CHEMICAL ENGINEERS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-66",
+        "lect": [
+            "DR. FARAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2313",
+        "sect": 1,
+        "title": "LIFE SCIENCES FOR CHEMICAL ENGINEERIS",
+        "chr": 3.0,
+        "venue": "ENG LT2 E0-1",
+        "lect": [
+            "DR. RAHA BINTI AHMAD RAUS",
+            "TO BE DETERMINED",
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2315",
+        "sect": 1,
+        "title": "REACTION ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "DR. AMANATUZZAKIAH ABDUL HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2315",
+        "sect": 2,
+        "title": "REACTION ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-09",
+        "lect": [
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "DR. AMANATUZZAKIAH ABDUL HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 2316",
+        "sect": 1,
+        "title": "SEPARATION PROCESSES 1",
+        "chr": 3.0,
+        "venue": "ENG LT1 E0-1",
+        "lect": [
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 3181",
+        "sect": 1,
+        "title": "CHEMICAL ENGINEERING LABORATORY 3",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT",
+            "DR. AMANATUZZAKIAH ABDUL HALIM",
+            "ASSOC. PROF. DR. AZLIN SUHAIDA BT. AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 3210",
+        "sect": 1,
+        "title": "SEPARATION PROCESSES 2",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-2-1",
+        "lect": [
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 3311",
+        "sect": 1,
+        "title": "PROCESS DESIGN",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "ASSOC. PROF. DR. AZLIN SUHAIDA BT. AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 3312",
+        "sect": 1,
+        "title": "CHEMICAL PROCESS SAFETY",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 3313",
+        "sect": 1,
+        "title": "ENVIRONMENTAL ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-10",
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "ASSOC. PROF. DR. SARINA BT. SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2112",
+        "sect": 1,
+        "title": "ENGINEERING SURVEY PRACTICAL",
+        "chr": 1.0,
+        "venue": "ENG LRM E3-2-1",
+        "lect": [
+            "DR. AHMAD BUKHARI BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2114",
+        "sect": 1,
+        "title": "CIVIL ENGINEERING DRAWING",
+        "chr": 1.0,
+        "venue": "ENG MULTIMEDIA LAB E0-3",
+        "lect": [
+            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2116",
+        "sect": 1,
+        "title": "CIVIL ENGINEERING LAB I",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. RIJALUL FIKRI",
+            "DR. SITI NORATIKAH BINTI CHE DERAMAN",
+            "DR. SAERAHANY LEGORI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2121",
+        "sect": 1,
+        "title": "CIVIL ENGINEERING LAB II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. RIJALUL FIKRI",
+            "DR. AHMAD BUKHARI BIN RAMLI",
+            "IR. IZIHAN BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2211",
+        "sect": 1,
+        "title": "ENGINEERING SURVEY",
+        "chr": 2.0,
+        "venue": "ENG LRM E3-2-1",
+        "lect": [
+            "DR. AHMAD BUKHARI BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2223",
+        "sect": 1,
+        "title": "WATER RESOURCES AND HYDROLOGY",
+        "chr": 2.0,
+        "venue": "ENG LRM E1-3-4",
+        "lect": [
+            "PROF. IR. DR. MARLINDA BINTI ABDUL MALEK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2225",
+        "sect": 1,
+        "title": "CONSTRUCTION ENGINEERING",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "PROF. DR. MAISARAH BT ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2313",
+        "sect": 1,
+        "title": "FLUID MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-4",
+        "lect": [
+            "DR. SAERAHANY LEGORI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2315",
+        "sect": 1,
+        "title": "GEOLOGY AND SOIL MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-4-7",
+        "lect": [
+            "DR. AHMAD BUKHARI BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2317",
+        "sect": 1,
+        "title": "STRENGTH OF MATERIALS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-5-4.3",
+        "lect": [
+            "DR. SITI ASMAHANI BINTI SAAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2319",
+        "sect": 1,
+        "title": "CIVIL ENGINEERING MATERIALS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "PROF. DR. MAISARAH BT ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:20"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2321",
+        "sect": 1,
+        "title": "THEORY OF STRUCTURES",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-5-4.3",
+        "lect": [
+            "DR. SITI NORATIKAH BINTI CHE DERAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 2323",
+        "sect": 1,
+        "title": "HYDRAULICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "IR. IZIHAN BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3112",
+        "sect": 2,
+        "title": "CIVIL ENGINEERING LAB III",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. IR. DR. MARLINDA BINTI ABDUL MALEK",
+            "DR. NADIAH BINTI MD. HUSAIN",
+            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3122",
+        "sect": 1,
+        "title": "CIVIL ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR KHAIRIYAH BINTI BASRI",
+            "DR. DANI IRWAN BIN MASBAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3122",
+        "sect": 2,
+        "title": "CIVIL ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR KHAIRIYAH BINTI BASRI",
+            "DR. DANI IRWAN BIN MASBAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3124",
+        "sect": 1,
+        "title": "SEMINAR",
+        "chr": 1.0,
+        "venue": "ENG EXAM HALL 2 E1-4",
+        "lect": [
+            "DR. RIJALUL FIKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3221",
+        "sect": 1,
+        "title": "CONTRACT AND ESTIMATION",
+        "chr": 2.0,
+        "venue": "ENG LRM E2-4-7",
+        "lect": [
+            "DR. RIJALUL FIKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3311",
+        "sect": 1,
+        "title": "STRUCTURAL ANALYSIS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3313",
+        "sect": 1,
+        "title": "REINFORCED CONCRETE DESIGN I",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-28",
+        "lect": [
+            "DR. NADIAH BINTI MD. HUSAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3315",
+        "sect": 1,
+        "title": "GEOTECHNICAL ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-2-1",
+        "lect": [
+            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3321",
+        "sect": 1,
+        "title": "REINFORCED CONCRETE DESIGN II",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-1-4",
+        "lect": [
+            "TS. DR. SITI ALIYYAH BINTI MASJUKI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3321",
+        "sect": 2,
+        "title": "REINFORCED CONCRETE DESIGN II",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-3-8",
+        "lect": [
+            "TS. DR. SITI ALIYYAH BINTI MASJUKI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3323",
+        "sect": 1,
+        "title": "HIGHWAY AND TRAFFIC ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-20",
+        "lect": [
+            "DR. WAN NUR AIFA BINTI WAN AZAHAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3323",
+        "sect": 2,
+        "title": "HIGHWAY AND TRAFFIC ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-4-7",
+        "lect": [
+            "DR. NUR KHAIRIYAH BINTI BASRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3325",
+        "sect": 1,
+        "title": "ENVIRONMENTAL ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-4-16",
+        "lect": [
+            "DR. DANI IRWAN BIN MASBAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3325",
+        "sect": 2,
+        "title": "ENVIRONMENTAL ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-2-1",
+        "lect": [
+            "PROF. ABDULLAH AL-MAMUN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3327",
+        "sect": 1,
+        "title": "STEEL AND TIMBER STRUCTURE DESIGN ",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-4-16",
+        "lect": [
+            "DR. TAHARA RAMADZAN BINTI MD KASSIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 3327",
+        "sect": 2,
+        "title": "STEEL AND TIMBER STRUCTURE DESIGN ",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-2-2",
+        "lect": [
+            "DR. TAHARA RAMADZAN BINTI MD KASSIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CIVE 4116",
+        "sect": 1,
+        "title": "ELECTIVE I-CIVIL ENGINEERING DESIGN LAB",
+        "chr": 1.0,
+        "venue": "ENG CIVE ENGIN DESIGN LAB E4-2-10",
+        "lect": [
+            "IR. TS. DR. NORHIDAYU BINTI KASIM",
+            "TS. BADERUL HISHAM BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    }
+]
