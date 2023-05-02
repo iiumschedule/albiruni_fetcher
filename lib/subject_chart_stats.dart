@@ -8,7 +8,7 @@ String buildChartLink(List<String> kulliyyahCodes, List<int> numberOfEntries) {
       "labels": kulliyyahCodes,
       "datasets": [
         {
-          "label": 'Number of entries',
+          "label": 'Number of subjects',
           "data": numberOfEntries,
           "backgroundColor": 'rgba(54, 162, 235, 0.5)',
           "borderColor": 'rgb(54, 162, 235)',
