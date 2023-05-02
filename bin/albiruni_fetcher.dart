@@ -23,6 +23,7 @@ void main(List<String> arguments) async {
     print('Cannot parse arguments. Please see README');
     exit(1);
   }
+  bool isRunOnGithubAction = Platform.environment['GITHUB_ACTION'] != null;
 
   print("ℹ️ Getting data for $session and semester $semester");
 
@@ -34,7 +35,8 @@ void main(List<String> arguments) async {
     print("🏢 Getting ${kull.name}");
     Albiruni albiruni = Albiruni(semester: semester, session: session);
 
-    List<Subject> subjects = await _retrieveSubjects(albiruni, kull);
+    List<Subject> subjects = await _retrieveSubjects(albiruni, kull,
+        runOnGithub: isRunOnGithubAction);
 
     print("📚 Fetched ${subjects.length} subjects");
     numberOfEntriesFetched.add(subjects.length);
@@ -61,28 +63,32 @@ void main(List<String> arguments) async {
 
   print('\n');
   print('📊 Set statistics');
+  if (isRunOnGithubAction) {
+    _setToGithubOutput('chart_link', chartLink);
+  } else {
+    print(chartLink);
+  }
   // the key will be use in the workflow yml file
-  _setToGithubOutput('chart_link', chartLink);
 }
 
-Future<List<Subject>> _retrieveSubjects(
-    Albiruni albiruni, Kulliyyah kulliyyah) async {
+Future<List<Subject>> _retrieveSubjects(Albiruni albiruni, Kulliyyah kulliyyah,
+    {bool runOnGithub = false}) async {
   List<Subject> subjects = [];
 
   // use [useProxy] to allow the data fetching on GitHub runners
-  bool useProxy = Platform.environment['GITHUB_ACTION'] != null;
 
   try {
     for (int i = 1;; i++) {
       var res =
-          await albiruni.fetch(kulliyyah.code, page: i, useProxy: useProxy);
+          await albiruni.fetch(kulliyyah.code, page: i, useProxy: runOnGithub);
       subjects.addAll(res);
 
       // delay a few seconds to avoid 'DDOS'
       Future.delayed(Duration(seconds: 1));
     }
   } catch (e) {
-    // do nothing
+    // tell me if unexpected error occurs
+    if (e is! NoSubjectsException) print('Error: $e');
   }
 
   return subjects;

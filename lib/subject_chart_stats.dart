@@ -31,8 +31,8 @@ String buildChartLink(List<String> kulliyyahCodes, List<int> numberOfEntries) {
   };
 
   return Uri.https('quickchart.io', 'chart', {
-    'width': 900,
-    'height': 430,
+    'width': '900',
+    'height': '430',
     'v': '3',
     'c': jsonEncode(params)
   }).toString();
