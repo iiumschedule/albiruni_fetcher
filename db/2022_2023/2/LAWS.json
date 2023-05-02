@@ -4223,11 +4223,6 @@
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "11:50"
             }
         ]
     },
@@ -4857,13 +4852,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 1,
@@ -4879,11 +4874,6 @@
                 "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "14:50"
             },
             {
                 "day": 4,
