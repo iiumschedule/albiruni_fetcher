@@ -41,9 +41,9 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "🗃️ update DB (session ${{ inputs.session }}, sem ${{ inputs.semester }}))"
-          title: "🗃️ update DB"
-          body: ${{ steps.dart-scrapper.outputs.chart_link }}
+          commit-message: "🗃️ update DB from ${{ github.action }}"
+          title: "🗃️ Update DB (session ${{ inputs.session }}, sem ${{ inputs.semester }}))"
+          body: "![chart_iium_subjects](${{ steps.dart-scrapper.outputs.chart_link }})"
           branch: update/db
           base: master
 

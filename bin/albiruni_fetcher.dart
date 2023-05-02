@@ -88,7 +88,9 @@ Future<List<Subject>> _retrieveSubjects(Albiruni albiruni, Kulliyyah kulliyyah,
     }
   } catch (e) {
     // tell me if unexpected error occurs
-    if (e is! NoSubjectsException) print('Error: $e');
+    if (e is! NoSubjectsException || e is! EmptyBodyException) {
+      print('Error: $e');
+    }
   }
 
   return subjects;
