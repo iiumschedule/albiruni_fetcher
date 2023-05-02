@@ -28,21 +28,22 @@ jobs:
 
       - name: Setup Dart SDK
         id: setup-dart-sdk
-        uses: dart-lang/setup-dart@v1.4
+        uses: dart-lang/setup-dart@v1.5.0
 
       - name: Install dependencies
         run: dart pub get
 
       - name: Run scrapper
+        id: dart-scrapper
         run: dart bin/albiruni_fetcher.dart --session ${{ inputs.session }} --sem ${{ inputs.semester }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "🗃️ update DB"
+          commit-message: "🗃️ update DB (session ${{ inputs.session }}, sem ${{ inputs.semester }}))"
           title: "🗃️ update DB"
-          body: "Scrap job for **session ${{ inputs.session }}** and **semester ${{ inputs.semester }}**"
+          body: ${{ steps.dart-scrapper.outputs.chart_link }}
           branch: update/db
           base: master
 

@@ -34,11 +34,11 @@ void main(List<String> arguments) async {
     print("🏢 Getting ${kull.name}");
     Albiruni albiruni = Albiruni(semester: semester, session: session);
 
-    List<Subject> subjects = await retrieveSubjects(albiruni, kull);
+    List<Subject> subjects = await _retrieveSubjects(albiruni, kull);
 
     print("📚 Fetched ${subjects.length} subjects");
     numberOfEntriesFetched.add(subjects.length);
-    String jsonString = prettyJson(subjects);
+    String jsonString = _prettyJson(subjects);
 
     // sanitize sesssion before creating directory
     var sessionDir = session.replaceAll('/', '_');
@@ -60,11 +60,12 @@ void main(List<String> arguments) async {
       kulliyyahs.map((e) => e.code).toList(), numberOfEntriesFetched);
 
   print('\n');
-  print('📊 Subject statisticsL');
-  print(chartLink);
+  print('📊 Set statistics');
+  // the key will be use in the workflow yml file
+  _setToGithubOutput('chart_link', chartLink);
 }
 
-Future<List<Subject>> retrieveSubjects(
+Future<List<Subject>> _retrieveSubjects(
     Albiruni albiruni, Kulliyyah kulliyyah) async {
   List<Subject> subjects = [];
 
@@ -87,8 +88,17 @@ Future<List<Subject>> retrieveSubjects(
   return subjects;
 }
 
-String prettyJson(dynamic json) {
+String _prettyJson(dynamic json) {
   var spaces = ' ' * 4;
   var encoder = JsonEncoder.withIndent(spaces);
   return encoder.convert(json);
+}
+
+/// Ref: https://github.com/orgs/community/discussions/28146#discussioncomment-4110404
+/// https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+void _setToGithubOutput(String key, String value) {
+  final outputFile = Platform.environment['GITHUB_OUTPUT'];
+
+  final file = File(outputFile!);
+  file.writeAsStringSync('$key=$value', mode: FileMode.append);
 }
