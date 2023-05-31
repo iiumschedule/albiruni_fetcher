@@ -1,0 +1,198 @@
+[
+    {
+        "code": "EITR 3521",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. YUSILAWATI BINTI AHMAD NOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3531",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3551",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR KHAIRUSSHIMA BINTI MUHAMAD KHAIRUSSALEH",
+            "DR. NATASHA BINTI A. RAOF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3552",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR IDAYU BINTI AYOB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3561",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR LIYANA BINTI AZMI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MANU 3318",
+        "sect": 1,
+        "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-10",
+        "lect": [
+            "PROF. IR. DR. MD YUSOF BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4211",
+        "sect": 1,
+        "title": "TECHNOLOGY ENTREPRENEURSHIP",
+        "chr": 2.0,
+        "venue": "ENG LT1 E0-1",
+        "lect": [
+            "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MCTA 1101",
+        "sect": 1,
+        "title": "MECHATRONICS WORKSHOP",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HASMAWATI BT. ANTONG",
+            "DR. NUR LIYANA BINTI AZMI",
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. MOHD ASYRAF BIN MOHD RAZIB",
+            "DR. KHAIRUL AFFENDY BIN MD NOR",
+            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MCTE 2101",
+        "sect": 1,
+        "title": "MECHATRONICS WORKSHOP",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HASMAWATI BT. ANTONG",
+            "DR. NUR LIYANA BINTI AZMI",
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. MOHD ASYRAF BIN MOHD RAZIB",
+            "DR. KHAIRUL AFFENDY BIN MD NOR",
+            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 3309",
+        "sect": 1,
+        "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. IR. DR. MD YUSOF BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    }
+]

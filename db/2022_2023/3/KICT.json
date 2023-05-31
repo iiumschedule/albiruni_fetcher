@@ -1,0 +1,174 @@
+[
+    {
+        "code": "CSCI 2301",
+        "sect": 1,
+        "title": "COMPUTER NETWORKING",
+        "chr": 3.0,
+        "venue": "ICT CISCO LAB LEVEL 4C",
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4333",
+        "sect": 1,
+        "title": "CRYPTOGRAPHY",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. TAKUMI SASE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4341",
+        "sect": 1,
+        "title": "BIG DATA ANALYTICS",
+        "chr": 3.0,
+        "venue": "ICT LR 13 LEVEL 2D",
+        "lect": [
+            "DR. SHARYAR WANI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4901",
+        "sect": 2,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CSCI 4901",
+        "sect": 3,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "INFO 4352",
+        "sect": 1,
+        "title": "DIGITALPRENEURSHIP CUSTOMER DEVELOPMENT",
+        "chr": 3.0,
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4901",
+        "sect": 2,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINATUL SHIMA ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "INFO 4901",
+        "sect": 3,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINATUL SHIMA ABDULLAH"
+        ],
+        "dayTime": []
+    }
+]
