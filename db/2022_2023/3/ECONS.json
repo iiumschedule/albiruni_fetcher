@@ -22,6 +22,28 @@
         "dayTime": []
     },
     {
+        "code": "FINC 2302",
+        "sect": 1,
+        "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "FINC 4120",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
@@ -42,6 +64,28 @@
             "TO BE DETERMINED"
         ],
         "dayTime": []
+    },
+    {
+        "code": "MGMT 4302",
+        "sect": 1,
+        "title": "STRATEGIC MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "18:30"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "18:30"
+            }
+        ]
     },
     {
         "code": "MGMT 4315",
