@@ -118,36 +118,26 @@
         "dayTime": []
     },
     {
-        "code": "INFO 4352",
+        "code": "INFO 4303",
         "sect": 1,
-        "title": "DIGITALPRENEURSHIP CUSTOMER DEVELOPMENT",
+        "title": "TECHNOPRENEURSHIP",
         "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "venue": null,
         "lect": [
             "MADAM NOOR AZIAN BT. MOHAMAD ALI"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "09:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "12:50"
-            }
-        ]
+        "dayTime": []
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 1,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
+        ],
+        "dayTime": []
     },
     {
         "code": "INFO 4901",
