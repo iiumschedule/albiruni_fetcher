@@ -81,7 +81,7 @@ Future<List<Subject>> _retrieveSubjects(Albiruni albiruni, Kulliyyah kulliyyah,
     for (int i = 1;; i++) {
       var res =
           await albiruni.fetch(kulliyyah.code, page: i, useProxy: runOnGithub);
-      subjects.addAll(res);
+      subjects.addAll(res.$1);
 
       // delay a few seconds to avoid 'DDOS'
       Future.delayed(Duration(seconds: 1));
