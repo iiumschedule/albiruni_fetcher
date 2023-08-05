@@ -4,9 +4,9 @@
         "sect": 101,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "SARAFDEEN AMINULLAHI"
         ],
         "dayTime": [
             {
@@ -26,7 +26,7 @@
         "sect": 102,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -48,9 +48,9 @@
         "sect": 201,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "SITI NUR AYESYA BINTI MD FUZI"
         ],
         "dayTime": [
             {
@@ -70,9 +70,9 @@
         "sect": 202,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "NISREEN BT MOHF ARIF"
         ],
         "dayTime": [
             {
@@ -92,9 +92,9 @@
         "sect": 101,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUSTAPHA TOYYIB ABIODUN"
         ],
         "dayTime": [
             {
@@ -114,9 +114,9 @@
         "sect": 102,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -136,7 +136,29 @@
         "sect": 103,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
+        "lect": [
+            "MD. MIIJBA UDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 104,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -158,9 +180,9 @@
         "sect": 201,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR SYAFIIZZATY BT SRAFI"
         ],
         "dayTime": [
             {
@@ -180,9 +202,9 @@
         "sect": 202,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NORAIDAH ABU SAMAH"
         ],
         "dayTime": [
             {
@@ -202,9 +224,9 @@
         "sect": 203,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "AISYAH HANANI BINTI ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -224,7 +246,7 @@
         "sect": 204,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -242,13 +264,13 @@
         ]
     },
     {
-        "code": "CCUB 4621",
-        "sect": 101,
-        "title": "USRAH BUDI 4",
+        "code": "CCUB 3621",
+        "sect": 301,
+        "title": "USRAH BUDI 3",
         "chr": 1.0,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -265,21 +287,43 @@
     },
     {
         "code": "CCUB 4621",
-        "sect": 201,
+        "sect": 101,
         "title": "USRAH BUDI 4",
         "chr": 1.0,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IZZAT NAJMI B ANNISA"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "20:00",
                 "endTime": "22:00"
             },
             {
-                "day": 3,
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 201,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": "CLASSROOM 2 WADIBUDI",
+        "lect": [
+            "SITI NUR AYESYA BINTI MD FUZI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }

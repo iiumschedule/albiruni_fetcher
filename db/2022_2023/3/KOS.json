@@ -17,9 +17,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. PAH CHIN HEE"
+            "DR. NORFAIEQAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "SMS 3401",
@@ -28,7 +34,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HAFIZAH BINTI BAHALUDIN"
         ],
         "dayTime": []
     },
@@ -39,9 +45,42 @@
         "chr": 12.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": []
+    },
+    {
+        "code": "SMT 4115",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT (2)",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NAJATUL SU AD BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMT 4633",
+        "sect": 1,
+        "title": "NUTRITION AND FEEDING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "SPS 3212",
