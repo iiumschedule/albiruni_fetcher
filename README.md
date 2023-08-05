@@ -1,6 +1,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-> **Warning** :alembic: This project is **EXPERIMENTAL** :alembic:
+> **Warning** This project is :alembic: **EXPERIMENTAL** :alembic:
 
 # albiruni fetcher
 
@@ -20,6 +20,6 @@ The data is then saved to `db/{session}/{semester}.{kulliyyah}json`.
 
 ## Related projects
 
-- [albiruni-api](https://github.com/iqfareez/albiruni-api) - REST API that uses this fetched database **[:alembic: Experimental]**
-- [albiruni](https://github.com/iqfareez/albiruni) - Dart package to scrape IIUM's Course Schedule **[:rocket: Production Ready]**
-- [IIUM Schedule](https://github.com/iqfareez/iium_schedule) - Make IIUM schedule using this app **[:rocket: Production Ready]**
+- [IIUM Schedule](https://github.com/iqfareez/iium_schedule) - Make IIUM schedule using this app
+- [albiruni](https://github.com/iqfareez/albiruni) - Dart package to scrape IIUM's Course Schedule
+- [albiruni-api](https://github.com/iqfareez/albiruni-api) - IIUM Subjects REST API that uses this fetched database **[:alembic: Experimental]**
