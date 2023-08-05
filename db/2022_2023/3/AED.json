@@ -26,7 +26,7 @@
         "sect": 1,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 13",
         "lect": [
             "DR. ARITA HANIM BT. AWANG"
         ],
@@ -43,7 +43,7 @@
         "sect": 2,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "DR. NORAINI BINTI AHMAD"
         ],
@@ -69,6 +69,11 @@
                 "day": 1,
                 "startTime": "09:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -82,6 +87,11 @@
             "MUHAMMAD IHSAN BIN SHAHARIL"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
             {
                 "day": 4,
                 "startTime": "09:00",
@@ -158,7 +168,7 @@
         "sect": 1,
         "title": "POST- CONTRACT ADMINISTRATION FOR QUANTITY SURVEYORS 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "DR. SITI NORA HARYATI BT. ABDULLAH HABIB"
         ],
@@ -180,7 +190,7 @@
         "sect": 1,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 2",
         "lect": [
             "ASSOC. PROF. SR. DR. TAN CHIN KENG"
         ],
@@ -212,7 +222,7 @@
         "sect": 2,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "DR. SHARINA FARIHAH BT. HASAN"
         ],
@@ -244,7 +254,7 @@
         "sect": 3,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. SUFIAN BIN HAMAT"
         ],
@@ -276,7 +286,7 @@
         "sect": 4,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "ASSOC. PROF. DR. FADZIDAH BINTI ABDULLAH"
         ],
@@ -308,7 +318,7 @@
         "sect": 5,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L2) 6",
         "lect": [
             "MR. MUHAMMAD AZMEER BIN MUHAMMAD"
         ],
@@ -377,7 +387,7 @@
         "sect": 1,
         "title": "ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L4) 21",
         "lect": [
             "ASSOC. PROF. DR. IZAWATI BT. TUKIMAN"
         ],

@@ -66,6 +66,17 @@
         "dayTime": []
     },
     {
+        "code": "JPCO 1304",
+        "sect": 1,
+        "title": "INTRODUCTION TO JAPANESE CULTURE AND SOCIETY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "TMGT 4612",
         "sect": 1,
         "title": "FINAL YEAR PROJECT",
@@ -92,7 +103,7 @@
         "sect": 1,
         "title": "LEGAL ASPECT IN TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 7 B3.1.12",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -106,6 +117,50 @@
                 "day": 7,
                 "startTime": "10:00",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TPHM 3161",
+        "sect": 1,
+        "title": "TRANSPORTATION AND INFRASTRUCTURE IN TRAVEL AGENCY",
+        "chr": 3.0,
+        "venue": "KLM PBL ROOM 8 B3.1.11",
+        "lect": [
+            "DR. NUR HIDAYAH BINTI ABD RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TPHM 3260",
+        "sect": 1,
+        "title": "RESEARCH METHOD IN TOURISM AND HOSPITALITY",
+        "chr": 3.0,
+        "venue": "KLM PBL ROOM 8 B3.1.11",
+        "lect": [
+            "DR. NUR HIDAYAH BINTI ABD RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -125,7 +180,7 @@
         "sect": 1,
         "title": "FACILITIES MANAGEMENT IN TOURISM AND HOSPITALITY INDUSTRY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 7 B3.1.12",
         "lect": [
             "DR. NUR SHUHADAH BINTI MOHD"
         ],

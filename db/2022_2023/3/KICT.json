@@ -122,20 +122,73 @@
         "sect": 1,
         "title": "TECHNOPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
             "MADAM NOOR AZIAN BT. MOHAMAD ALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:50"
+            }
+        ]
     },
     {
         "code": "INFO 4304",
         "sect": 1,
         "title": "ICT AND ISLAM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
             "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4344",
+        "sect": 1,
+        "title": "PHYSICAL PROTECTIVE SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ABD. RAHMAN BIN AHLAN"
         ],
         "dayTime": []
     },
@@ -146,7 +199,7 @@
         "chr": 9.0,
         "venue": null,
         "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH"
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
         ],
         "dayTime": []
     },
@@ -157,7 +210,7 @@
         "chr": 9.0,
         "venue": null,
         "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH"
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
         ],
         "dayTime": []
     }
