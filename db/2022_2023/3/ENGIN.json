@@ -1,5 +1,16 @@
 [
     {
+        "code": "BTEN 4399",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ECIE 4345",
         "sect": 1,
         "title": "MICROELECTROMECHANICAL (MEM) SENSORS, ACTUATORS AND SYSTEMS",
@@ -30,6 +41,17 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "ECIE 4351",
+        "sect": 9,
+        "title": "OBJECT ORIENTED PROGRAMMING WITH JAVA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
+        ],
+        "dayTime": []
     },
     {
         "code": "ECIE 4399",
@@ -73,6 +95,17 @@
                 "endTime": "09:50"
             }
         ]
+    },
+    {
+        "code": "EECE 3102",
+        "sect": 1,
+        "title": "ELECTRICAL AND COMPUTER ENG. LAB III",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. OTHMAN OMRAN KHALIFA"
+        ],
+        "dayTime": []
     },
     {
         "code": "EECE 3314",
@@ -207,6 +240,17 @@
         "dayTime": []
     },
     {
+        "code": "MANU 3313",
+        "sect": 9,
+        "title": "QUALITY CONTROL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "IR. DR. YANG CHUAN CHOONG"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MANU 3318",
         "sect": 1,
         "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
@@ -261,62 +305,19 @@
         ]
     },
     {
-        "code": "MCTA 1101",
+        "code": "MATR 4399",
         "sect": 1,
-        "title": "MECHATRONICS WORKSHOP",
-        "chr": 1.0,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. HASMAWATI BT. ANTONG",
-            "DR. NUR LIYANA BINTI AZMI",
-            "DR. AIMI SHAZWANI BINTI GHAZALI",
-            "DR. MOHD ASYRAF BIN MOHD RAZIB",
-            "DR. KHAIRUL AFFENDY BIN MD NOR",
-            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
+            "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "MCTE 2101",
-        "sect": 1,
-        "title": "MECHATRONICS WORKSHOP",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "DR. HASMAWATI BT. ANTONG",
-            "DR. NUR LIYANA BINTI AZMI",
-            "DR. AIMI SHAZWANI BINTI GHAZALI",
-            "DR. MOHD ASYRAF BIN MOHD RAZIB",
-            "DR. KHAIRUL AFFENDY BIN MD NOR",
-            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "MECH 2340",
-        "sect": 9,
+        "sect": 1,
         "title": "FLUID MECHANICS",
         "chr": 3.0,
         "venue": null,

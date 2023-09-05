@@ -55,6 +55,17 @@
         "dayTime": []
     },
     {
+        "code": "NURA 1421",
+        "sect": 1,
+        "title": "HEALTH ASSESSMENT,THERAPEUTIC INTERVENTION & DRUG ADMIN. IN NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "NURA 3327",
         "sect": 1,
         "title": "BIOSTATISTICS AND EPIDEMIOLOGY",
@@ -63,7 +74,13 @@
         "lect": [
             "DR. WAN HASLIZA BINTI WAN MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURB 1213",
@@ -94,7 +111,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
         ],
         "dayTime": []
     }

@@ -66,6 +66,28 @@
         "dayTime": []
     },
     {
+        "code": "MGMT 2301",
+        "sect": 600,
+        "title": "ORGANIZATIONAL BEHAVIOUR",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 4302",
         "sect": 1,
         "title": "STRATEGIC MANAGEMENT",
@@ -84,6 +106,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 4307",
+        "sect": 600,
+        "title": "MANAGEMENT FROM AN ISLAMIC PERSPECTIVE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },

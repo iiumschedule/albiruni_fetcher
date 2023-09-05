@@ -1,5 +1,88 @@
 [
     {
+        "code": "AAD 1212",
+        "sect": 1,
+        "title": "COMMUNITY PROJECT",
+        "chr": 2.0,
+        "venue": "KAED SR (L2) 7",
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "AAD 2210",
+        "sect": 1,
+        "title": "ISLAMIC CRAFTMANSHIP",
+        "chr": 3.0,
+        "venue": "KAED SR (L2) 7",
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AAD 3230",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAD 4230",
+        "sect": 1,
+        "title": "DESIGN THESIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ALA 2293",
+        "sect": 1,
+        "title": "LANDSCAPE PLANNING TECHNIQUES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. LAR. DR. KHALILAH BT. ZAKARIYA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "ALA 4240",
         "sect": 1,
         "title": "ENTREPRENEURSHIP",
@@ -22,13 +105,24 @@
         ]
     },
     {
+        "code": "AQS 4270",
+        "sect": 1,
+        "title": "DISSERTATION",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. SR. DR. TAN CHIN KENG"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAAD 2350",
         "sect": 1,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
         "chr": 3.0,
-        "venue": "KAED STUDIO(L3) 13",
+        "venue": "KAED SR (L2) 7",
         "lect": [
-            "DR. ARITA HANIM BT. AWANG"
+            "ISMAIL BIN JASMANI"
         ],
         "dayTime": [
             {
@@ -190,8 +284,9 @@
         "sect": 1,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 2",
+        "venue": null,
         "lect": [
+            "MISS NUR ULFAH AWATIF UMAIRAH BINTI ALIAS",
             "ASSOC. PROF. SR. DR. TAN CHIN KENG"
         ],
         "dayTime": [
@@ -204,6 +299,11 @@
                 "day": 1,
                 "startTime": "09:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
             },
             {
                 "day": 4,

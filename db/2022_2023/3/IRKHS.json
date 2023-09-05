@@ -1,5 +1,137 @@
 [
     {
+        "code": "ARAB 4885",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ASEM SHEHADEH SALEH ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARAB 4885",
+        "sect": 2,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SAUPI BIN MAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARAB 4994",
+        "sect": 99,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MA'AHAD BIN MOKHTAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "COMM 4995",
+        "sect": 1,
+        "title": "PRACTICAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHAKIRA BINTI MOHD NASIR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "COMM 4995",
+        "sect": 2,
+        "title": "PRACTICAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HELMI BIN YUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4995",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ZURAHANI BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4995",
+        "sect": 2,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. TANJA JONID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4995",
+        "sect": 3,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NORA BT MOHD. NASIR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4995",
+        "sect": 4,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "MAZLAN BIN MOHD YUSOF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4995",
+        "sect": 5,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR ELENA BINTI A.RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4995",
+        "sect": 6,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. RAIHAN BINTI ROSMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4996",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TANJA JONID"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "HART 4107",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
@@ -116,7 +248,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. LEE PEI MAY"
+            "DR. MEOR ALIF BIN MEOR AZALAN"
         ],
         "dayTime": []
     },
@@ -127,7 +259,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. MEOR ALIF BIN MEOR AZALAN"
+            "DR. NORHASLINDA BT. JAMAIUDIN"
         ],
         "dayTime": []
     },
@@ -138,7 +270,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. NORHASLINDA BT. JAMAIUDIN"
+            "ASSOC. PROF. DR. ZAINAL ABIDIN BIN SANUSI"
         ],
         "dayTime": []
     },
@@ -149,7 +281,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. ZAINAL ABIDIN BIN SANUSI"
+            "DR. BENDEBKA RAMZI"
         ],
         "dayTime": []
     },
@@ -160,7 +292,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+            "DATUK DR. MARZUKI BIN MOHAMAD"
         ],
         "dayTime": []
     },
@@ -171,7 +303,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DATUK DR. MARZUKI BIN MOHAMAD"
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
         ],
         "dayTime": []
     },
@@ -182,24 +314,13 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. BENDEBKA RAMZI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "PSCI 4995",
-        "sect": 14,
-        "title": "INDUSTRIAL TRAINING",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
             "DR. LAU ZHE WEI"
         ],
         "dayTime": []
     },
     {
         "code": "PSCI 4995",
-        "sect": 15,
+        "sect": 14,
         "title": "INDUSTRIAL TRAINING",
         "chr": 6.0,
         "venue": null,
@@ -870,25 +991,14 @@
     },
     {
         "code": "SOCA 4400",
-        "sect": 1,
+        "sect": 99,
         "title": "ECONOMY AND SOCIETY",
         "chr": 3.0,
-        "venue": "HSC LR 27 LEVEL 2",
+        "venue": null,
         "lect": [
             "DR. SH FATIMAH ALZAHRAH BINTI SYED HUSSIEN"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:30"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:30"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "SOCA 4810",
@@ -933,5 +1043,71 @@
             "DR. NOR AISAH BINTI AREFF"
         ],
         "dayTime": []
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 600,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FATMIR SHEHU"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 2290",
+        "sect": 600,
+        "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL LATIF BIN ABD. RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 2380",
+        "sect": 600,
+        "title": "ETHICS AND FIQH OF CONTEMPORARY ISSUES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
     }
 ]
