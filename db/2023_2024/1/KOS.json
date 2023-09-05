@@ -727,12 +727,12 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "11:00",
                 "endTime": "13:00"
             }
@@ -749,14 +749,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:30",
-                "endTime": "16:30"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -771,14 +771,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "14:00",
-                "endTime": "16:00"
+                "endTime": "17:00"
             },
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -794,13 +794,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
             }
         ]
     },
@@ -815,14 +815,14 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 2,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "16:00"
             },
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -999,8 +999,8 @@
             },
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1094,8 +1094,8 @@
             },
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1116,8 +1116,8 @@
             },
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1132,9 +1132,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "11:30"
             }
         ]
     },
@@ -1166,9 +1166,9 @@
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2476,8 +2476,8 @@
             },
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2554,13 +2554,13 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI MARPONGA BINTI TOLOS"
+            "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "09:30"
             },
             {
                 "day": 2,
@@ -3170,8 +3170,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },

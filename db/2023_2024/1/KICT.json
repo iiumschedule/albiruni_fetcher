@@ -4,7 +4,7 @@
         "sect": 1,
         "title": "ELEMENTS OF PROGRAMMING",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 3 LEVEL 3C",
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
         "lect": [
             "DR. SITI ASMA BINTI MOHAMMED",
             "TUTOR"
@@ -12,13 +12,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:30",
-                "endTime": "21:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "20:30",
-                "endTime": "21:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
@@ -522,7 +522,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
-            "TS. DR. HAMWIRA SAKTI BIN YAACOB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -544,7 +544,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
-            "TS. DR. HAMWIRA SAKTI BIN YAACOB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1072,7 +1072,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-03 LEVEL 5E",
         "lect": [
-            "DR. SHARYAR WANI"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1094,7 +1094,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHARYAR WANI"
         ],
         "dayTime": [
             {
@@ -1121,13 +1121,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -1356,7 +1356,7 @@
         "sect": 11,
         "title": "COMPUTER NETWORKING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1512,7 +1512,7 @@
         "chr": 3.0,
         "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
-            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
+            "TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -1568,28 +1568,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 2303",
-        "sect": 7,
-        "title": "PRINCIPLES OF IT SECURITY",
-        "chr": 3.0,
-        "venue": "ICT LR 14A LEVEL 2D",
-        "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -2607,6 +2585,50 @@
         ]
     },
     {
+        "code": "ICTM 1302",
+        "sect": 4,
+        "title": "INFORMATION TECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. NUR LEYNI NILAM PUTRI BINTI JUNURHAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ICTM 1302",
+        "sect": 5,
+        "title": "INFORMATION TECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ICT LR 14A LEVEL 2D",
+        "lect": [
+            "DR. SHARIFAH NUR AMIRAH BT. SARIF ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "INFO 1302",
         "sect": 1,
         "title": "BUSINESS FUNDAMENTALS",
@@ -2743,7 +2765,7 @@
         "sect": 7,
         "title": "BUSINESS FUNDAMENTALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 13 LEVEL 2D",
         "lect": [
             "PROF. DR. ABD. RAHMAN BIN AHLAN"
         ],
@@ -2765,7 +2787,7 @@
         "sect": 8,
         "title": "BUSINESS FUNDAMENTALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2787,7 +2809,7 @@
         "sect": 9,
         "title": "BUSINESS FUNDAMENTALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3774,34 +3796,12 @@
     },
     {
         "code": "INFO 3304",
-        "sect": 3,
-        "title": "E-COMMERCE",
-        "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
-        "lect": [
-            "DR. NOOR AZIZAH BT. MOHAMADALI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 3304",
         "sect": 4,
         "title": "E-COMMERCE",
         "chr": 3.0,
         "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
-            "DR. MOHD. SYARQAWY BIN HAMZAH"
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
         ],
         "dayTime": [
             {
@@ -3823,7 +3823,7 @@
         "chr": 3.0,
         "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
-            "DR. MOHD. SYARQAWY BIN HAMZAH"
+            "DR. NOOR AZIZAH BT. MOHAMADALI"
         ],
         "dayTime": [
             {
@@ -3909,7 +3909,7 @@
         "sect": 4,
         "title": "WEB APPLICATION DEVELOPMENT",
         "chr": 3.0,
-        "venue": "ICT TL-C2-06 LEVEL 2C",
+        "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
             "DR. NAJHAN BIN MUHAMAD IBRAHIM"
         ],
@@ -4789,7 +4789,7 @@
         "sect": 1,
         "title": "INFORMATION RESOURCES AND STRATEGY MANAGEMENT",
         "chr": 3.0,
-        "venue": "ICT TL-C2-03 LEVEL 2C",
+        "venue": "ICT TL-C2-06 LEVEL 2C",
         "lect": [
             "PROF. DR. ASADULLAH SHAH"
         ],
@@ -5001,28 +5001,6 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 4352",
-        "sect": 1,
-        "title": "DIGITALPRENEURSHIP CUSTOMER DEVELOPMENT",
-        "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
-        "lect": [
-            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },

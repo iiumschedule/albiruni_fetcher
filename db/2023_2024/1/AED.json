@@ -1,5 +1,22 @@
 [
     {
+        "code": "AUP 3125",
+        "sect": 1,
+        "title": "TRANSPORTATION PLANNING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TPR. DR. SYAHRIAH BT. BACHOK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 1101",
         "sect": 1,
         "title": "APPLIED ARTS & DESIGN STUDIO 1",
@@ -51,28 +68,6 @@
         "venue": "KAED STUDIO(L3) 15",
         "lect": [
             "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "12:30"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 1101",
-        "sect": 4,
-        "title": "APPLIED ARTS & DESIGN STUDIO 1",
-        "chr": 4.0,
-        "venue": "KAED STUDIO(L3) 15",
-        "lect": [
-            "DR. NURLELAWATI BT. AB JALIL"
         ],
         "dayTime": [
             {
@@ -360,7 +355,7 @@
         "chr": 5.0,
         "venue": "KAED STUDIO(L3) 16",
         "lect": [
-            "DR. ZUMAHIRAN KAMARUDDIN"
+            "DR. NURLELAWATI BT. AB JALIL"
         ],
         "dayTime": [
             {
@@ -811,7 +806,7 @@
         "chr": 12.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAYA BT BANIYAMIN"
         ],
         "dayTime": [
             {
@@ -848,7 +843,7 @@
         "chr": 5.0,
         "venue": "KAED STUDIO(L3) 7",
         "lect": [
-            "TO BE DETERMINED"
+            "MISS NUR ULFAH AWATIF UMAIRAH BINTI ALIAS"
         ],
         "dayTime": [
             {
@@ -875,7 +870,7 @@
         "chr": 5.0,
         "venue": "KAED STUDIO(L3) 7",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAYEEM ASIF"
         ],
         "dayTime": [
             {
@@ -902,7 +897,7 @@
         "chr": 5.0,
         "venue": "KAED STUDIO(L3) 7",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -929,7 +924,7 @@
         "chr": 5.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MUHAMMAD AZMEER BIN MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -983,7 +978,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IHSAN BIN SHAHARIL"
         ],
         "dayTime": [
             {
@@ -1000,7 +995,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MUHAMMAD AZMEER BIN MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -1017,7 +1012,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUFIAN BIN HAMAT"
         ],
         "dayTime": [
             {
@@ -1034,24 +1029,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 7",
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "17:30"
-            }
-        ]
-    },
-    {
-        "code": "BAAR 1105",
-        "sect": 5,
-        "title": "ARCHITECTURAL GRAPHICS",
-        "chr": 3.0,
-        "venue": "KAED STUDIO(L3) 7",
-        "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -1177,6 +1155,11 @@
                 "day": 2,
                 "startTime": "11:30",
                 "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1191,6 +1174,11 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "13:00"
@@ -1204,7 +1192,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 6",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUFIAN BIN HAMAT"
         ],
         "dayTime": [
             {
@@ -1236,7 +1224,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 6",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AIDA KESUMA BINTI AZMIN"
         ],
         "dayTime": [
             {
@@ -1268,7 +1256,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 9",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZEENAT BEGAM BT YUSOF"
         ],
         "dayTime": [
             {
@@ -1300,7 +1288,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 9",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IHSAN BIN SHAHARIL"
         ],
         "dayTime": [
             {
@@ -1500,7 +1488,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 10",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DATO' SRI AR. DR. ASIAH BINTI ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -1532,7 +1520,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 10",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. TS. DR. NURUL HAMIRUDDIN BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -1564,7 +1552,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 11",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DATIN AR. DR. NORWINA BINTI MOHD NAWAWI"
         ],
         "dayTime": [
             {
@@ -1596,7 +1584,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 12",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. FADZIDAH BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1628,7 +1616,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 12",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ALIYAH NUR ZAFIRAH BT. SANUSI"
         ],
         "dayTime": [
             {
@@ -1660,7 +1648,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 10",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -1677,7 +1665,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 10",
         "lect": [
-            "TO BE DETERMINED"
+            "ASST. PROF. AR. DR. SRAZALI BIN ARIPIN"
         ],
         "dayTime": [
             {
@@ -1694,7 +1682,7 @@
         "chr": 3.0,
         "venue": "KAED STUDIO(L3) 10",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IHSAN BIN SHAHARIL"
         ],
         "dayTime": [
             {
@@ -1777,9 +1765,9 @@
         "sect": 1,
         "title": "RESEARCH METHOD FOR THE BUILT ENVIRONMENT",
         "chr": 3.0,
-        "venue": "KAED L3 LT3",
+        "venue": "KAED L2 LT2",
         "lect": [
-            "ASSOC. PROF. DR. SH MAZLINA BT. SYED KHUZZAN ALHABSHI"
+            "DR. JULIAN BINTI OSMAN"
         ],
         "dayTime": [
             {
@@ -1882,15 +1870,15 @@
         "sect": 1,
         "title": "ECONOMICS FOR QUANTITY SURVEYORS",
         "chr": 2.0,
-        "venue": "KAED SR (L1) 4",
+        "venue": "KAED L4 LT4",
         "lect": [
             "ASSOC. PROF. SR. DR. TAN CHIN KENG"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "14:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -1899,13 +1887,13 @@
         "sect": 1,
         "title": "ENVIRONMENTAL AND MATERIAL SCIENCES",
         "chr": 2.0,
-        "venue": "KAED L2 LT2",
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. SHARINA FARIHAH BT. HASAN"
         ],
         "dayTime": [
             {
-                "day": 5,
+                "day": 3,
                 "startTime": "09:00",
                 "endTime": "11:00"
             }
@@ -2091,7 +2079,7 @@
         "chr": 3.0,
         "venue": "KAED L4 LT4",
         "lect": [
-            "DR. NUR AFFAH BT. MOHYIN"
+            "DR. SHARINA FARIHAH BT. HASAN"
         ],
         "dayTime": [
             {
@@ -2115,6 +2103,28 @@
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAQS 3100",
+        "sect": 1,
+        "title": "PRINCIPLES OF MEASUREMENT OF ADVANCED BUILDING WORKS AND SERVICES",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "AZRIN BIN MOHD. DIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2207,6 +2217,23 @@
         ]
     },
     {
+        "code": "BAQS 3130",
+        "sect": 1,
+        "title": "CONSTRUCTION ECONOMICS 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. SR. DR. TAN CHIN KENG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "BAQS 3131",
         "sect": 1,
         "title": "CONSTRUCTION ECONOMICS 2",
@@ -2218,6 +2245,23 @@
         "dayTime": [
             {
                 "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAQS 3152",
+        "sect": 1,
+        "title": "POST- CONTRACT ADMINISTRATION FOR QUANTITY SURVEYORS 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROZIHA BINTI CHE HARON"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:00"
             }
@@ -2245,15 +2289,15 @@
         "sect": 1,
         "title": "RESEARCH METHODS FOR QUANTITY SURVEYORS",
         "chr": 3.0,
-        "venue": "KAED L3 LT3",
+        "venue": null,
         "lect": [
             "DR. SHARINA FARIHAH BT. HASAN"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
             }
         ]
     },
@@ -2392,23 +2436,6 @@
         ]
     },
     {
-        "code": "BAQS 4142",
-        "sect": 2,
-        "title": "PRINCIPLES OF ISLAM IN CONSTRUCTION PROCUREMENT",
-        "chr": 2.0,
-        "venue": "KAED L4 LT4",
-        "lect": [
-            "ASSOC. PROF. DR. SH MAZLINA BT. SYED KHUZZAN ALHABSHI"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "15:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
         "code": "BAQS 4150",
         "sect": 1,
         "title": "QUANTITY SURVEYING PRACTICE AND ADMINISTRATION",
@@ -2421,7 +2448,7 @@
             {
                 "day": 5,
                 "startTime": "15:00",
-                "endTime": "18:00"
+                "endTime": "17:00"
             }
         ]
     },
@@ -2498,7 +2525,7 @@
         "chr": 3.0,
         "venue": "KAED URBAN LAB LVL 2",
         "lect": [
-            "DR. SYAKIR AMIR BIN AB RAHMAN"
+            "DR. SYAFIEE BIN SHUID"
         ],
         "dayTime": [
             {
@@ -2530,15 +2557,15 @@
         "sect": 1,
         "title": "SUSTAINABLE SITE AND LAND USE PLANNING",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 1",
+        "venue": null,
         "lect": [
             "PROF. DR. NORZAILAWATI BT. HJ. MOHD. NOOR"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2620,8 +2647,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2800,7 +2827,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. SYAFIEE BIN SHUID"
+            "DR. IRINA SAFITRI ZEN"
         ],
         "dayTime": [
             {
