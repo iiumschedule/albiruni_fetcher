@@ -975,7 +975,7 @@
         "chr": 0.5,
         "venue": "MALE SPORT CO 0",
         "lect": [
-            "ASSOC. PROF. DR. MOHD NAZLI BIN KAMARULZAMAN"
+            "SHAHRUL AZNI BIN ZAINAL ABIDIN"
         ],
         "dayTime": [
             {
@@ -2352,7 +2352,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "ANIZAM BIN ALI"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2726,7 +2726,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "JULIANA HANIM BINTI KAMARULZAMAN"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3349,6 +3349,23 @@
         ]
     },
     {
+        "code": "CCNC 3451",
+        "sect": 801,
+        "title": "NETBALL COURSE 1 (THEORY & PRACTICAL)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
         "code": "CCNC 3452",
         "sect": 1,
         "title": "NETBALL COURSE 2 (RULES AND TOURNAMENT)",
@@ -3849,6 +3866,23 @@
         "venue": null,
         "lect": [
             "ALIZA BT MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 3611",
+        "sect": 3,
+        "title": "MALAYSIAN SIGN LANGUAGE 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -4659,23 +4693,6 @@
     },
     {
         "code": "CCUB 1061",
-        "sect": 106,
-        "title": "USRAH 1",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCUB 1061",
         "sect": 201,
         "title": "USRAH 1",
         "chr": 0.5,
@@ -4736,7 +4753,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -4745,40 +4762,6 @@
     {
         "code": "CCUB 1061",
         "sect": 205,
-        "title": "USRAH 1",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCUB 1061",
-        "sect": 206,
-        "title": "USRAH 1",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCUB 1061",
-        "sect": 207,
         "title": "USRAH 1",
         "chr": 0.5,
         "venue": null,

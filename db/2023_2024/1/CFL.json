@@ -6813,6 +6813,28 @@
     },
     {
         "code": "LQAD 1003",
+        "sect": 821,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
         "sect": 830,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
@@ -6835,6 +6857,28 @@
     },
     {
         "code": "LQAD 1003",
+        "sect": 831,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
         "sect": 840,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
@@ -6844,9 +6888,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:30"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
@@ -7533,7 +7577,7 @@
             {
                 "day": 4,
                 "startTime": "11:00",
-                "endTime": "12:00"
+                "endTime": "13:00"
             }
         ]
     },
@@ -7556,6 +7600,28 @@
     },
     {
         "code": "LQAD 2003",
+        "sect": 830,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
         "sect": 840,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
@@ -7565,9 +7631,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:30"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
@@ -7597,6 +7663,17 @@
                 "endTime": "15:30"
             }
         ]
+    },
+    {
+        "code": "LQAD 2103",
+        "sect": 840,
+        "title": "ARABIC FOR COMMUNICATION  II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "TQB 1001E",

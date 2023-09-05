@@ -37,9 +37,34 @@
                 "endTime": "11:50"
             },
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -94,13 +119,33 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SUZI FADHILAH BT ISMAIL"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
             {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -248,7 +293,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
         "dayTime": [
             {
@@ -270,7 +315,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
         "dayTime": [
             {
@@ -362,14 +407,44 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -378,9 +453,9 @@
         "sect": 1,
         "title": "LAW OF TORTS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.6 2.6",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM"
         ],
         "dayTime": [
             {
@@ -389,9 +464,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -511,9 +601,44 @@
                 "endTime": "11:50"
             },
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -546,7 +671,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MAZLENA BINTI MOHAMAD HUSSAIN"
         ],
         "dayTime": [
             {
@@ -568,7 +693,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MR. IBRAHIM B. ISMAIL"
         ],
         "dayTime": [
             {
@@ -585,7 +710,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. MUSHERA BIBI BT. AMBARAS KHAN"
         ],
         "dayTime": [
             {
@@ -690,7 +815,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. KHAIRIL AZMIN BIN MOKHTAR"
         ],
         "dayTime": [
             {
@@ -710,9 +835,9 @@
         "sect": 1,
         "title": "ENVIRONMENTAL LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
         "dayTime": [
             {
@@ -732,9 +857,9 @@
         "sect": 1,
         "title": "INTRODUCTION TO MEDICAL LAW & ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.6 2.6",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM"
         ],
         "dayTime": [
             {
@@ -751,7 +876,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHD. YAZID BIN ZUL KEPLI"
         ],
         "dayTime": [
             {
@@ -766,9 +891,9 @@
         "sect": 1,
         "title": "CONTEMPORARY ISSUES IN INTERNATIONAL LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. ABDUL GHAFUR HAMID @ KHIN MAUNG SEIN"
         ],
         "dayTime": [
             {
@@ -802,7 +927,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NASARUDIN BIN ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -817,9 +942,9 @@
         "sect": 1,
         "title": "JURISPRUDENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 4.3 4.3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. IQBAL BIN ABDUL WAHAB"
         ],
         "dayTime": [
             {
@@ -845,6 +970,21 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
@@ -865,6 +1005,21 @@
                 "day": 1,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 3,
@@ -990,7 +1145,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. NOR ASIAH MOHAMAD"
         ],
         "dayTime": [
             {
@@ -1007,7 +1162,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MAHYUDDIN BIN DAUD"
         ],
         "dayTime": [
             {
@@ -1024,7 +1179,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHSIN HINGUN"
         ],
         "dayTime": [
             {
@@ -1105,7 +1260,7 @@
         "sect": 4,
         "title": "LAND LAW I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL LT A LTA",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1116,9 +1271,59 @@
                 "endTime": "11:50"
             },
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -1129,7 +1334,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AZMI BIN HARUN"
         ],
         "dayTime": [
             {
@@ -1221,9 +1426,24 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 4,
@@ -1287,9 +1507,24 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
@@ -1409,13 +1644,24 @@
         ]
     },
     {
+        "code": "LAWS 3331",
+        "sect": 2,
+        "title": "EQUITY & TRUST II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "LAWS 3348",
         "sect": 1,
         "title": "COMMERCIAL LAW",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZATI ILHAM BINTI ABDUL MANAF"
         ],
         "dayTime": [
             {
@@ -1452,7 +1698,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO PUBLIC INT. LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1563,9 +1809,34 @@
         ],
         "dayTime": [
             {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 5,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1593,7 +1864,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MISS SITI AISHAH BINTI ASLAH"
         ],
         "dayTime": [
             {
@@ -1610,7 +1881,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MADAM SUZANNA BT. KAMARUZZAMAN"
         ],
         "dayTime": [
             {
@@ -1636,9 +1907,29 @@
                 "endTime": "12:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -1693,7 +1984,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AFRIDAH BT. ABAS"
         ],
         "dayTime": [
             {
@@ -1769,6 +2060,26 @@
             "TO BE DETERMINED"
         ],
         "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
             {
                 "day": 4,
                 "startTime": "14:00",
@@ -1817,7 +2128,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MR. IBRAHIM BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -1839,7 +2150,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZURAINI BINTI AB HAMID"
         ],
         "dayTime": [
             {
@@ -1953,14 +2264,44 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -1993,7 +2334,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. GHAZALI BIN JAAPAR"
         ],
         "dayTime": [
             {
@@ -2037,7 +2378,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD NAIM BIN OMAR"
         ],
         "dayTime": [
             {
@@ -2059,7 +2400,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHAMED IBRAHIM NEGASI"
         ],
         "dayTime": [
             {
@@ -2081,9 +2422,14 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MUHAMMAD LAEBA"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
             {
                 "day": 2,
                 "startTime": "08:00",
@@ -2103,7 +2449,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHAMAD ASMADI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2125,11 +2471,36 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MUHAMMAD LAEBA"
         ],
         "dayTime": [
             {
                 "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
@@ -2147,7 +2518,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZAINUDIN BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -2169,7 +2540,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. UZAIMAH BINTI IBRAHIM"
         ],
         "dayTime": [
             {
@@ -2213,7 +2584,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHAMAD ASMADI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2235,7 +2606,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMMED R. M. ELSHOBAKE"
         ],
         "dayTime": [
             {
@@ -2260,6 +2631,21 @@
             "TO BE DETERMINED"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
             {
                 "day": 2,
                 "startTime": "11:00",
@@ -2308,6 +2694,21 @@
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
             },
             {
                 "day": 4,
@@ -2389,7 +2790,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. AZIZAH BT MOHD"
         ],
         "dayTime": [
             {
@@ -2499,7 +2900,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD NAIM BIN OMAR"
         ],
         "dayTime": [
             {
@@ -2526,7 +2927,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMED RASHID BIN AB RAZAK"
         ],
         "dayTime": [
             {
@@ -2636,7 +3037,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. AZIZAH BT MOHD"
         ],
         "dayTime": [
             {
@@ -2658,7 +3059,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AHMAD AZAM BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -2785,7 +3186,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AHMAD AZAM BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -2943,9 +3344,34 @@
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
                 "day": 4,
                 "startTime": "16:00",
                 "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -2978,7 +3404,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. NAJIBAH BT MOHD. ZIN"
         ],
         "dayTime": [
             {

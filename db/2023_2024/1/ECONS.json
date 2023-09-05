@@ -221,28 +221,6 @@
     },
     {
         "code": "ACC 1101",
-        "sect": 11,
-        "title": "FINANCIAL ACCOUNTING & REPORTING 1",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 1101",
         "sect": 12,
         "title": "FINANCIAL ACCOUNTING & REPORTING 1",
         "chr": 3.0,
@@ -260,6 +238,28 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ACC 1101",
+        "sect": 13,
+        "title": "FINANCIAL ACCOUNTING & REPORTING 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -682,28 +682,6 @@
         ]
     },
     {
-        "code": "ACC 2203",
-        "sect": 2,
-        "title": "FINANCIAL ACCOUNTING & REPORTING 3",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "ACC 2222",
         "sect": 1,
         "title": "BUSINESS FINANCE 2",
@@ -770,28 +748,6 @@
         ]
     },
     {
-        "code": "ACC 2241",
-        "sect": 2,
-        "title": "TAXATION 1",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
         "code": "ACC 3104",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 4",
@@ -854,6 +810,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ACC 3104",
+        "sect": 4,
+        "title": "FINANCIAL ACCOUNTING & REPORTING 4",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -1052,6 +1030,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ACC 3161",
+        "sect": 4,
+        "title": "ACCOUNTING FOR ISLAMIC BANKS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -1294,28 +1294,6 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4162",
-        "sect": 1,
-        "title": "ACCOUNTING, AUDITING & GOVERNANCE OF ISLAMIC FINANCIAL INSTITUTIONS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -1558,28 +1536,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4272",
-        "sect": 2,
-        "title": "ANALYSIS AND DESIGN OF ACCOUNTING INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -3768,13 +3724,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3797,28 +3753,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "FINC 2302",
-        "sect": 3,
-        "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -4330,28 +4264,6 @@
     },
     {
         "code": "FINC 3306",
-        "sect": 2,
-        "title": "INVESTMENTS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "FINC 3306",
         "sect": 3,
         "title": "INVESTMENTS",
         "chr": 3.0,
@@ -4688,28 +4600,6 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "FINC 4305",
-        "sect": 3,
-        "title": "INTERNATIONAL FINANCE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },

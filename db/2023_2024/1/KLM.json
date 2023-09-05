@@ -4237,6 +4237,28 @@
         ]
     },
     {
+        "code": "TMGT 1322",
+        "sect": 1,
+        "title": "FUNDAMENTAL OF ECONOMICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI YULIANDI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 7,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "TMGT 1323",
         "sect": 1,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
@@ -4392,7 +4414,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "MOHD TON BIN AB HALIM"
+            "DR. SITI YULIANDI AHMAD"
         ],
         "dayTime": [
             {
@@ -4414,7 +4436,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI YULIANDI AHMAD"
+            "MOHD TON BIN AB HALIM"
         ],
         "dayTime": [
             {
@@ -4809,14 +4831,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },

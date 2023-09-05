@@ -619,8 +619,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E3-2-3",
         "lect": [
-            "DR. MARIATUL FADZILLAH BT MANSOR",
-            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI"
         ],
         "dayTime": [
             {
@@ -665,8 +664,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-2-4",
         "lect": [
-            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
-            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI"
         ],
         "dayTime": [
             {
@@ -833,6 +831,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E2-4-7",
         "lect": [
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI",
             "DR. MUNIRA BT. SHAHBUDDIN"
         ],
         "dayTime": [
@@ -853,9 +852,10 @@
         "sect": 2,
         "title": "ORGANIC CHEMISTRY",
         "chr": 2.0,
-        "venue": "ENG LRM E1-3-24",
+        "venue": "ENG LRM E1-3-4",
         "lect": [
-            "DR. WAN MOHD FAZLI BIN WAN NAWAWI"
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. MUNIRA BT. SHAHBUDDIN"
         ],
         "dayTime": [
             {
@@ -877,8 +877,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E2-1-3",
         "lect": [
-            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN",
-            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
         ],
         "dayTime": [
             {
@@ -922,6 +921,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-4-16",
         "lect": [
+            "DR. YUSILAWATI BINTI AHMAD NOR",
             "DR. WAN MOHD FAZLI BIN WAN NAWAWI"
         ],
         "dayTime": [
@@ -942,20 +942,21 @@
         "sect": 2,
         "title": "MATERIAL SCIENCES FOR CHEMICAL ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-3-8",
+        "venue": "ENG LRM E1-3-9",
         "lect": [
-            "DR. YUSILAWATI BINTI AHMAD NOR"
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "DR. WAN MOHD FAZLI BIN WAN NAWAWI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1008,20 +1009,20 @@
         "sect": 2,
         "title": "PRINCIPLE OF MASS AND ENERGY BALANCE",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-3",
+        "venue": "ENG LRM E1-3-19",
         "lect": [
-            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
+            "DR. NURUL SAKINAH BINTI ENGLIMAN"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1068,7 +1069,6 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
             "DR. WAN MOHD FAZLI BIN WAN NAWAWI",
             "DR. MUNIRA BT. SHAHBUDDIN"
         ],
@@ -1173,8 +1173,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-1-3",
         "lect": [
-            "DR. MARIATUL FADZILLAH BT MANSOR",
-            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+            "DR. MARIATUL FADZILLAH BT MANSOR"
         ],
         "dayTime": [
             {
@@ -1194,10 +1193,9 @@
         "sect": 2,
         "title": "HEAT TRANSFER",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-1",
+        "venue": "ENG LRM E0-1-16",
         "lect": [
-            "DR. MARIATUL FADZILLAH BT MANSOR",
-            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+            "DR. MARIATUL FADZILLAH BT MANSOR"
         ],
         "dayTime": [
             {
@@ -1568,7 +1566,8 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-3-60",
         "lect": [
-            "PROF. IR. DR. MOHAMMED SAEDI JAMI"
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "ASSOC. PROF. DR. SARINA BT. SULAIMAN"
         ],
         "dayTime": [
             {
@@ -1610,10 +1609,9 @@
         "sect": 1,
         "title": "PROCESS CONTROL",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-4",
+        "venue": null,
         "lect": [
-            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
-            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI"
         ],
         "dayTime": [
             {
@@ -1635,6 +1633,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-3-10",
         "lect": [
+            "DR. RICCA RAHMAN BINTI NASARUDDIN",
             "PROF. DR. MD ZAHANGIR ALAM"
         ],
         "dayTime": [

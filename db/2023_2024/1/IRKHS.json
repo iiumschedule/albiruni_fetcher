@@ -820,7 +820,7 @@
         "chr": 3.0,
         "venue": "HSC LR 9 1.42",
         "lect": [
-            "PROF. DR. ASEM SHEHADEH SALEH ALI"
+            "DR. ABDULRAHMAN ALOSMAN"
         ],
         "dayTime": [
             {
@@ -1282,7 +1282,7 @@
         "chr": 3.0,
         "venue": "HSC WRITING LAB 1.27",
         "lect": [
-            "DR. NUR SHAKIRA BINTI MOHD NASIR"
+            "DR. RIZALAWATI BINTI ISMAIL"
         ],
         "dayTime": [
             {
@@ -1430,28 +1430,6 @@
         ]
     },
     {
-        "code": "COMM 2311",
-        "sect": 2,
-        "title": "INTERCULTURAL COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC M.MEDIA LAB 1.74",
-        "lect": [
-            "ASSOC. PROF. DR. TENGKU SITI AISHA BINTI TENGKU AZZMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "COMM 2312",
         "sect": 1,
         "title": "BASICS OF WRITING",
@@ -1506,14 +1484,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1602,28 +1580,6 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "COMM 2316",
-        "sect": 2,
-        "title": "COMMUNICATION IN THE QURAN AND SUNNAH",
-        "chr": 3.0,
-        "venue": "HSC LR 16 1.50",
-        "lect": [
-            "ASSOC. PROF. DR. AINI MAZNINA BINTI A. MANAF"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -1852,20 +1808,20 @@
         "sect": 1,
         "title": "STRATEGIC HUMAN RELATIONS",
         "chr": 3.0,
-        "venue": "HSC WRITING LAB 1.27",
+        "venue": "HSC LR 16 1.50",
         "lect": [
-            "ASSOC. PROF. DR. AINI MAZNINA BINTI A. MANAF"
+            "DR. NUR SHAKIRA BINTI MOHD NASIR"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -2240,6 +2196,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 1320",
+        "sect": 4,
+        "title": "LINGUISTICS IN THE HUMANITIES",
+        "chr": 3.0,
+        "venue": "HSC TR 23 3.71",
+        "lect": [
+            "DR. SITI NURNADILLA MOHAMAD JAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3168,28 +3146,6 @@
         ]
     },
     {
-        "code": "ENGL 4002",
-        "sect": 1,
-        "title": "CRITICAL DISCOURSE ANALYSIS",
-        "chr": 3.0,
-        "venue": "HSC TR 24 3.72",
-        "lect": [
-            "DR. SITI NURNADILLA MOHAMAD JAMIL"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "ENGL 4020",
         "sect": 1,
         "title": "ISLAMIC LITERATURE IN ENGLISH",
@@ -3399,13 +3355,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -3414,20 +3370,20 @@
         "sect": 2,
         "title": "DISCOURSE ANALYSIS",
         "chr": 3.0,
-        "venue": "HSC TR 23 3.71",
+        "venue": "HSC TR 24 3.72",
         "lect": [
             "DR. SITI NURNADILLA MOHAMAD JAMIL"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4100,6 +4056,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "HIST 3312",
+        "sect": 1,
+        "title": "MODERN HISTORY OF CHINA",
+        "chr": 3.0,
+        "venue": "HSC LR 11 1.44",
+        "lect": [
+            "ASSOC. PROF. DR. FAUZIAH BT. FATHIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -6041,12 +6019,12 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:00",
+                "startTime": "08:30",
                 "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "08:00",
+                "startTime": "08:30",
                 "endTime": "09:50"
             }
         ]
@@ -6542,7 +6520,7 @@
         "chr": 3.0,
         "venue": "ADM LR 4 2.137",
         "lect": [
-            "DR. MOHAMAD SABRI B ZAKARIA"
+            "ASSOC. PROF. DR. MOHD. FUAD B. MD. SAWARI"
         ],
         "dayTime": [
             {
@@ -6982,7 +6960,7 @@
         "chr": 3.0,
         "venue": "ADM LR 4 2.137",
         "lect": [
-            "ASSOC. PROF. DR. MOHD. FUAD B. MD. SAWARI"
+            "DR. MOHAMAD SABRI B ZAKARIA"
         ],
         "dayTime": [
             {
@@ -11156,28 +11134,6 @@
         ]
     },
     {
-        "code": "SOCA 2810",
-        "sect": 1,
-        "title": "DEVIANCE AND SOCIETY",
-        "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
-        "lect": [
-            "DR. NORASIKIN BT BASIR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "SOCA 3020",
         "sect": 1,
         "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORY II",
@@ -11515,6 +11471,130 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4994",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "PROF. DR. HAZIZAN B. MD. NOON"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4994",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "ASSOC. PROF. DR. NURAZZURA BT MOHAMAD DIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4994",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "DR. SH FATIMAH ALZAHRAH BINTI SYED HUSSIEN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "23:30",
+                "endTime": "01:30"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4994",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": "HSC LR 17 1.52",
+        "lect": [
+            "DR. NORASIKIN BT BASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4995",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "13:30",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4995",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "DR. SZARIANNIE BINTI SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4995",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "DR. NORASIKIN BT BASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -13270,9 +13350,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:50"
             }
         ]
     },
@@ -13287,9 +13367,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 7,
+                "startTime": "17:45",
+                "endTime": "19:35"
             }
         ]
     },
