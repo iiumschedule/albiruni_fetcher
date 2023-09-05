@@ -1,5 +1,107 @@
 [
     {
+        "code": "CCCS 3231",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NUR DIYANAH BINTI HIDAYAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3232",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD NORHAFIFI ZOLKIAPLY"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCDS 2352",
+        "sect": 401,
+        "title": "PUBLIC SPEAKING & CONTEMPORARY ISSUES",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD ABDUL LATIF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFA 3071",
+        "sect": 401,
+        "title": "FIRST AID SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NURUL KHALIESAH BT ISHAK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFA 3072",
+        "sect": 401,
+        "title": "FIRST AID SKILLS 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NURUL KHALIESAH BT ISHAK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 401,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
         "code": "CCUB 1061",
         "sect": 101,
         "title": "USRAH 1",
@@ -72,7 +174,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "NISREEN BT MOHF ARIF"
+            "NUR SYAFIIZZATY BT SRAFI"
         ],
         "dayTime": [
             {
@@ -82,6 +184,23 @@
             },
             {
                 "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 401,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NUR SOFIA BT ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -204,7 +323,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LVL 3",
         "lect": [
-            "NORAIDAH ABU SAMAH"
+            "AISYAH HANANI BINTI ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -226,7 +345,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LVL 3",
         "lect": [
-            "AISYAH HANANI BINTI ABDUL RAHMAN"
+            "NORAIDAH ABU SAMAH"
         ],
         "dayTime": [
             {
@@ -248,7 +367,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LVL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "IMAN ADRIANA BT AHMAD RADHUAN"
         ],
         "dayTime": [
             {
@@ -258,6 +377,45 @@
             },
             {
                 "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 205,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NISREEN BT MOHF ARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 401,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "FIDA' BINTI MOHD RAMIZU"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -278,6 +436,23 @@
                 "startTime": "20:00",
                 "endTime": "22:00"
             },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 3621",
+        "sect": 401,
+        "title": "USRAH BUDI 3",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "NIK HAJAR BT NIK HISHAM"
+        ],
+        "dayTime": [
             {
                 "day": 3,
                 "startTime": "20:00",
@@ -322,6 +497,40 @@
                 "startTime": "20:00",
                 "endTime": "22:00"
             },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 401,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "NAJLA SAHIRA BINTI ABDUL LATIFE"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 801,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MOHAMAD MUSLIM BIN JOHARI"
+        ],
+        "dayTime": [
             {
                 "day": 4,
                 "startTime": "20:00",

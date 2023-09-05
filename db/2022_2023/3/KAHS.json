@@ -1,5 +1,27 @@
 [
     {
+        "code": "AAUD 2203",
+        "sect": 1,
+        "title": "Hearing Aids 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HAFIZAH BINTI SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHBS 3342",
+        "sect": 1,
+        "title": "SPECIAL TOPICS IN BIOMEDICAL SCIENCES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD SHUKRI BIN BABA"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "AHBS 3701",
         "sect": 1,
         "title": "BIOMEDICAL PRACTICUM I",
@@ -40,17 +62,6 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. MARDHIAH BINTI MOHAMMAD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "AHHA 3413",
-        "sect": 1,
-        "title": "AUDIOLOGY CLINIC 1",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NURUL SYARIDA BINTI MOHD SAKERI"
         ],
         "dayTime": []
     },
@@ -145,6 +156,149 @@
         "dayTime": []
     },
     {
+        "code": "AHMI 4621",
+        "sect": 1,
+        "title": "RESEARCH PROJECT 2",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. IQBAL BIN JAMALUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHND 3314",
+        "sect": 1,
+        "title": "RESEARCH PROJECT IN DIETETICS 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ASHRAF BIN ROSTAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHND 3324",
+        "sect": 1,
+        "title": "RESEARCH PROJECT IN DIETETICS 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD ASHRAF BIN ROSTAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHND 4421",
+        "sect": 1,
+        "title": "CLINICAL ROTATION: INPATIENT 1",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ALIZA HASLINDA BINTI HAMIRUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHND 4422",
+        "sect": 1,
+        "title": "CLINICAL ROTATION: INPATIENT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURANIZA BINTI AZAHARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3431",
+        "sect": 1,
+        "title": "INDUSTRIAL PLACEMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4321",
+        "sect": 1,
+        "title": "PRIMARY OPTOMETRY CLINIC 3",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ILYANOON BINTI ZAHARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 2239",
+        "sect": 1,
+        "title": "FUNDAMENTAL CLINICAL POSTING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "NURUL AMIRAH BINTI MUSTAPA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 3349",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN GERIATRIC",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 3449",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN PAEDIATRIC",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 3543",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN MUSCULOSKELETAL",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 4542",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN WOMEN HEALTH & SPORTS",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 4544",
+        "sect": 1,
+        "title": "CLINICAL COMPETENCIES IN PHYSIOTHERAPY",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "MUSFIRAH BINTI DINON"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "AHSC 2321",
         "sect": 1,
         "title": "MICROBIOLOGY AND IMMUNOLOGY",
@@ -156,10 +310,43 @@
         "dayTime": []
     },
     {
+        "code": "ASLP 3274",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC 4",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ASLP 3276",
         "sect": 1,
         "title": "SPEECH-LANGUAGE PATHOLOGY CLINICAL PLACEMENT",
         "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4236",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 2208",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinic 2",
+        "chr": 2.0,
         "venue": null,
         "lect": [
             "DR. MASNIRA BINTI JUSOH"
