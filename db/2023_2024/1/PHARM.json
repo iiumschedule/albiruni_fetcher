@@ -102,6 +102,23 @@
         ]
     },
     {
+        "code": "PPBM 2331",
+        "sect": 2,
+        "title": "ANTI-INFECTIVE AGENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HAMID FAUZI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "PPBM 3211",
         "sect": 1,
         "title": "ANTICANCER CHEMOTHERAPY",
@@ -329,11 +346,28 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DANIEL THAM JE WAI"
+            "DR. SITI HADIJAH BINTI SHAMSUDIN"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 2261",
+        "sect": 2,
+        "title": "COMMUNITY PHARMACY PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR ELINA BINTI ALIAS"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }
@@ -353,6 +387,23 @@
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3322",
+        "sect": 1,
+        "title": "BASIC AND CLINICAL PHARMACOKINETICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL RAHMAN FATA NAHAS"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -404,23 +455,6 @@
                 "day": 5,
                 "startTime": "10:00",
                 "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "PPPT 2262",
-        "sect": 1,
-        "title": "NUTRACEUTICAL",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. JULIANA BT.  MD. JAFFRI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:00"
             }
         ]
     },

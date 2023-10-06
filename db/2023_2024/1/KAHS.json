@@ -1,5 +1,82 @@
 [
     {
+        "code": "AAUD 1204",
+        "sect": 1,
+        "title": "Introduction to Clinical Practice",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HAFIZAH BINTI SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAUD 1305",
+        "sect": 1,
+        "title": "Human Structure and Function",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ZAITUNNATAKHIN BINTI ZAMLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAUD 2202",
+        "sect": 1,
+        "title": "Otology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL ADLI BIN JAMALUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAUD 2301",
+        "sect": 1,
+        "title": "Basic Audiometry for Audiology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SARAH BINTI RAHMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAUD 3201",
+        "sect": 1,
+        "title": "Hearing Aids 2",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL ADLI BIN JAMALUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAUD 3302",
+        "sect": 1,
+        "title": "Auditory Electrophysiology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. AHMAD AIDIL ARAFAT BIN DZULKARNAIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AAUD 3603",
+        "sect": 1,
+        "title": "Audiology Clinic 1",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL SYARIDA BINTI MOHD SAKERI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "AHBS 2313",
         "sect": 1,
         "title": "PHARMACOLOGY",
@@ -352,6 +429,61 @@
         "dayTime": []
     },
     {
+        "code": "AHHA 4211",
+        "sect": 1,
+        "title": "NOISE AND HEARING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAIDAH BINTI ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHHA 4214",
+        "sect": 1,
+        "title": "SEMINARS IN AUDIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAIDAH BINTI ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHHA 4612",
+        "sect": 1,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHHA 4613",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 3",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHHA 4623",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 4",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "AHMI 3214",
         "sect": 1,
         "title": "SECTIONAL ANATOMY",
@@ -380,8 +512,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. UMMI FARHANA BINTI HASHIM",
-            "ASSOC. PROF. DR. SAYED INAYATULLAH SHAH"
+            "DR. UMMI FARHANA BINTI HASHIM"
         ],
         "dayTime": []
     },
@@ -514,6 +645,182 @@
         "venue": null,
         "lect": [
             "DR. NORAISHAH BINTI MOHAMED NOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 2211",
+        "sect": 1,
+        "title": "OPHTHALMIC INSTRUMENTS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 2212",
+        "sect": 1,
+        "title": "OPHTHALMIC OPTICS AND DISPENSING 2",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 2213",
+        "sect": 1,
+        "title": "VISUAL PERCEPTION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORSHAM BT AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 2221",
+        "sect": 1,
+        "title": "OCULAR GENETICS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR EZAILINA BINTI BADARUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 2311",
+        "sect": 1,
+        "title": "OPTOMETRIC EXAMINATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FIRDAUS BIN YUSOF @ ALIAS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3212",
+        "sect": 1,
+        "title": "STRABISMUS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "NOOR WAFIRAH BINTI SHAFEE"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3214",
+        "sect": 1,
+        "title": "PAEDIATRIC OPTOMETRY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORSHAM BT AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3311",
+        "sect": 1,
+        "title": "POSTERIOR OCULAR PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD RADZI BIN HILMI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3312",
+        "sect": 1,
+        "title": "CONTACT LENS PRACTICE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR EZAILINA BINTI BADARUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3313",
+        "sect": 1,
+        "title": "OPTOMETRIC DECISION MAKING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HAFIDZ BIN ITHNIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3322",
+        "sect": 1,
+        "title": "INVESTIGATIVE PROJECT 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4211",
+        "sect": 1,
+        "title": "CASE MANAGEMENT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4311",
+        "sect": 1,
+        "title": "PRIMARY OPTOMETRY CLINIC 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4312",
+        "sect": 1,
+        "title": "SPECIALIZATION CLINIC A 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR WAFIRAH BINTI SHAFEE"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4313",
+        "sect": 1,
+        "title": "SPECIALIZATION CLINIC B 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ILYANOON BINTI ZAHARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4314",
+        "sect": 1,
+        "title": "INVESTIGATIVE PROJECT 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
         ],
         "dayTime": []
     },
@@ -755,9 +1062,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NIZA BINTI SAMSUDDIN",
-            "DR. NOR AZLINA A. RAHMAN",
-            "ASSOC. PROF. DR. NIZA BINTI SAMSUDDIN"
+            "DR. NOR AZLINA A. RAHMAN"
         ],
         "dayTime": []
     },
@@ -938,6 +1243,204 @@
         "dayTime": []
     },
     {
+        "code": "AHVS 1312",
+        "sect": 1,
+        "title": "OPTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHD. ZULFAEZAL BIN CHE AZEMIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHVS 1314",
+        "sect": 1,
+        "title": "Ocular Anatomy and Physiology 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "FATIN AMALINA BINTI CHE ARIF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4202",
+        "sect": 1,
+        "title": "ALTERNATIVE AND AUGMENTATIVE COMMUNICATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4223",
+        "sect": 1,
+        "title": "FEEDING & SWALLOWING DISORDERS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4246",
+        "sect": 1,
+        "title": "RESEARCH PROJECT FOR SPEECH 1",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4265",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC  5",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 1201",
+        "sect": 1,
+        "title": "Introduction to Speech-Language Pathology Clinic",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZRITA BT. MOHAMED ZAIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 1302",
+        "sect": 1,
+        "title": "Language Development",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HANISAH BINTI TUKIRAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 1303",
+        "sect": 1,
+        "title": "Basic Linguistics",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 2202",
+        "sect": 1,
+        "title": "Applied Linquistics for Speech-Language Pathology 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 2203",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinic 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZRITA BT. MOHAMED ZAIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 2205",
+        "sect": 1,
+        "title": "Basic Audiometry for Speech",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SARAH BINTI RAHMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 2304",
+        "sect": 1,
+        "title": "Paediatrics for Audiology and Speech Sciences",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLIN BT ALI HANAFIAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 2401",
+        "sect": 1,
+        "title": "Assessment and Management of Language Disorders in Children",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HANISAH BINTI TUKIRAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 3202",
+        "sect": 1,
+        "title": "Neuropsychology for Speech-Language Pathology",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TENGKU ZULAILA HASMA BINTI TENGKU ZAM ZAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 3204",
+        "sect": 1,
+        "title": "Motor Speech Disorders",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 3301",
+        "sect": 1,
+        "title": "Adult Language Disorders",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLIN BT ALI HANAFIAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 3303",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinic 3",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "HSMI 1211",
         "sect": 1,
         "title": "INTRODUCTION TO MEDICAL IMAGING",
@@ -1050,7 +1553,7 @@
     {
         "code": "HSMI 3213",
         "sect": 1,
-        "title": "Research Methodology for Medical Imaging\n",
+        "title": "Research Methodology for Medical Imaging",
         "chr": 2.0,
         "venue": null,
         "lect": [
@@ -1061,7 +1564,7 @@
     {
         "code": "HSMI 3314",
         "sect": 1,
-        "title": "Computed Tomography\n",
+        "title": "Computed Tomography",
         "chr": 3.0,
         "venue": null,
         "lect": [
