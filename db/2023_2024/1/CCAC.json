@@ -4,7 +4,7 @@
         "sect": 1,
         "title": "ARCHERY COURSE 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
             "YUSRIN MOHD YUSOF"
         ],
@@ -38,7 +38,7 @@
         "sect": 1,
         "title": "ARCHERY COURSE 2 (RULES FOR TOURNAMENT)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
             "RUDIJANTO EKO NUGROHO RACHMAT"
         ],
@@ -72,7 +72,7 @@
         "sect": 1,
         "title": "ARCHERY 1 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
             "YUSRIN MOHD YUSOF"
         ],
@@ -89,7 +89,7 @@
         "sect": 1,
         "title": "ARCHERY 2 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
             "YUSRIN MOHD YUSOF"
         ],
@@ -106,7 +106,7 @@
         "sect": 1,
         "title": "ARCHERY 3 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
             "RUDIJANTO EKO NUGROHO RACHMAT"
         ],
@@ -123,9 +123,9 @@
         "sect": 1,
         "title": "ARCHERY 4 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
-            "TO BE DETERMINED"
+            "RUDIJANTO EKO NUGROHO RACHMAT"
         ],
         "dayTime": [
             {
@@ -159,7 +159,7 @@
         "chr": 0.5,
         "venue": "FEMALE SPORTS COM FOYER 1",
         "lect": [
-            "TO BE DETERMINED"
+            "FAZLULLAH BIN MOHD. YUSOF"
         ],
         "dayTime": [
             {
@@ -210,7 +210,7 @@
         "chr": 0.5,
         "venue": "FEMALE SPORTS COM FOYER 1",
         "lect": [
-            "TO BE DETERMINED"
+            "FAZLULLAH BIN MOHD. YUSOF"
         ],
         "dayTime": [
             {
@@ -276,9 +276,9 @@
         "sect": 1,
         "title": "SILAT CEKAK I (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 4.1 4.1",
         "lect": [
-            "MUHAMMAD FIRDAUS BIN MAHMAD RAZELAN"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -293,9 +293,9 @@
         "sect": 1,
         "title": "SILAT CEKAK 2 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 4.5 4.5",
         "lect": [
-            "AHMAD ZAKI BIN MOHD ZAINAL"
+            "MUHAMMAD FIRDAUS BIN MAHMAD RAZELAN"
         ],
         "dayTime": [
             {
@@ -310,9 +310,9 @@
         "sect": 1,
         "title": "SILAT CEKAK 3 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 4.11 4.11",
         "lect": [
-            "IZUAN AFIQ BIN KHAIRUDIN"
+            "AHMAD ZAKI BIN MOHD ZAINAL"
         ],
         "dayTime": [
             {
@@ -327,9 +327,9 @@
         "sect": 1,
         "title": "SILAT CEKAK 4 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 4.10 4.10",
         "lect": [
-            "MOHD KHAIRUL FIRDAUS BIN ARIS"
+            "IZUAN AFIQ BIN KHAIRUDIN"
         ],
         "dayTime": [
             {
@@ -344,9 +344,9 @@
         "sect": 1,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "AMIRAH HAZWANI BINTI BAKRI"
+            "NOR ADILAH BINTI MOHD NOR"
         ],
         "dayTime": [
             {
@@ -361,9 +361,9 @@
         "sect": 2,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "NOR ADILAH BINTI MOHD NOR"
+            "AINA NADIA BINTI MIZAN"
         ],
         "dayTime": [
             {
@@ -378,9 +378,9 @@
         "sect": 3,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "NUR DIYANAH BINTI HIDAYAT"
+            "SAIFUL REDZA BIN MOHAMED"
         ],
         "dayTime": [
             {
@@ -395,15 +395,66 @@
         "sect": 4,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "MOHD NORHAFIFI ZOLKIAPLY"
+            "KHAIRIAH BINTI ABDUL RAZAK"
         ],
         "dayTime": [
             {
                 "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3231",
+        "sect": 5,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": "AIKOL LR 1.12 1.12",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3231",
+        "sect": 6,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": "AIKOL LR 1.12 1.12",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3231",
+        "sect": 7,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -459,13 +510,30 @@
         ]
     },
     {
-        "code": "CCCS 3232",
-        "sect": 1,
-        "title": "BASIC COUNSELING SKILLS 2",
+        "code": "CCCS 3231",
+        "sect": 803,
+        "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3232",
+        "sect": 1,
+        "title": "BASIC COUNSELING SKILLS 2",
+        "chr": 0.5,
+        "venue": "AIKOL LR 1.12 1.12",
+        "lect": [
+            "AMIRAH HAZWANI BINTI BAKRI"
         ],
         "dayTime": [
             {
@@ -482,7 +550,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "SAIFUL REDZA BIN MOHAMED"
+            "NUR DIYANAH BINTI HIDAYAT"
         ],
         "dayTime": [
             {
@@ -497,9 +565,9 @@
         "sect": 3,
         "title": "BASIC COUNSELING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.12 1.12",
         "lect": [
-            "TO BE DETERMINED"
+            "SAIFUL REDZA BIN MOHAMED"
         ],
         "dayTime": [
             {
@@ -516,7 +584,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD NORHAFIFI ZOLKIAPLY"
         ],
         "dayTime": [
             {
@@ -533,7 +601,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORA HASLINA BINTI MOHD KAMA"
         ],
         "dayTime": [
             {
@@ -599,15 +667,15 @@
         "sect": 1,
         "title": "COOKING SKILLS 1",
         "chr": 0.5,
-        "venue": "COOKING ROOM WADIBUDI",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "17:30",
-                "endTime": "19:30"
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -616,15 +684,15 @@
         "sect": 2,
         "title": "COOKING SKILLS 1",
         "chr": 0.5,
-        "venue": "COOKING ROOM WADIBUDI",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:30",
-                "endTime": "19:30"
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -640,8 +708,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "17:30",
-                "endTime": "19:30"
+                "startTime": "18:00",
+                "endTime": "20:00"
             }
         ]
     },
@@ -657,8 +725,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "17:30",
-                "endTime": "19:30"
+                "startTime": "18:00",
+                "endTime": "20:00"
             }
         ]
     },
@@ -691,6 +759,40 @@
         "dayTime": [
             {
                 "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCDS 2351",
+        "sect": 3,
+        "title": "PRESENTATION & CRITICAL THINKING",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCDS 2351",
+        "sect": 4,
+        "title": "PRESENTATION & CRITICAL THINKING",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -735,7 +837,7 @@
         "sect": 1,
         "title": "ENTREPRENEUR 1 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 2.9 2.9",
         "lect": [
             "SITI AMINAH BAIROSH KHAN"
         ],
@@ -752,7 +854,7 @@
         "sect": 1,
         "title": "ENTREPRENEUR 2 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 2.9 2.9",
         "lect": [
             "SITI AMINAH BAIROSH KHAN"
         ],
@@ -769,7 +871,7 @@
         "sect": 1,
         "title": "ENTREPRENEUR 3 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 2.9 2.9",
         "lect": [
             "NUR KHAMSIAH BT. AHMAD"
         ],
@@ -786,7 +888,7 @@
         "sect": 1,
         "title": "ENTREPRENEUR 4 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.13 3.13",
         "lect": [
             "NUR KHAMSIAH BT. AHMAD"
         ],
@@ -822,7 +924,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "SHAZMEER BIN SAMSUDIN"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -884,13 +986,30 @@
         ]
     },
     {
+        "code": "CCFA 3071",
+        "sect": 803,
+        "title": "FIRST AID SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
         "code": "CCFA 3072",
         "sect": 1,
         "title": "FIRST AID SKILLS 2",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "SHAZMEER BIN SAMSUDIN"
+            "NURUL KHALIESAH BT ISHAK"
         ],
         "dayTime": [
             {
@@ -924,30 +1043,13 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "NURUL KHALIESAH BT ISHAK"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCFA 3072",
-        "sect": 801,
-        "title": "FIRST AID SKILLS 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
             }
         ]
     },
@@ -1007,7 +1109,7 @@
         "sect": 1,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 2.2 2.2",
         "lect": [
             "FAUZI BIN MUDA"
         ],
@@ -1024,7 +1126,7 @@
         "sect": 2,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.3 1.3",
         "lect": [
             "DR. NUR FARHAH BINTI MAHADI"
         ],
@@ -1041,7 +1143,7 @@
         "sect": 3,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.10 1.10",
         "lect": [
             "ASSOC. PROF. DR. NORLIAH BT IBRAHIM"
         ],
@@ -1058,7 +1160,7 @@
         "sect": 4,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.6 1.6",
         "lect": [
             "DR. AFRIDAH BT. ABAS"
         ],
@@ -1075,7 +1177,7 @@
         "sect": 5,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.11 1.11",
         "lect": [
             "ASSOC. PROF. DR. NORAINI BT MD HASHIM"
         ],
@@ -1092,7 +1194,7 @@
         "sect": 6,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.4 1.4",
         "lect": [
             "DR. MOHAMAD ISMAIL BIN HJ MOHD YUNUS"
         ],
@@ -1109,7 +1211,7 @@
         "sect": 7,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.7 1.7",
         "lect": [
             "ASSOC. PROF. DR. ZURAIDAH BT. HJ ALI"
         ],
@@ -1126,7 +1228,7 @@
         "sect": 8,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 4.7 4.7",
         "lect": [
             "ASSOC. PROF. DR. FATMIR SHEHU"
         ],
@@ -1143,7 +1245,7 @@
         "sect": 9,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 2.7 2.7",
         "lect": [
             "ASSOC. PROF. DR. ABDULHAMID MOHAMED ALI ZAROUM"
         ],
@@ -1160,7 +1262,7 @@
         "sect": 10,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.8 1.8",
         "lect": [
             "ASSOC. PROF. DR. DURYANA BT MOHAMED"
         ],
@@ -1194,7 +1296,7 @@
         "sect": 12,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.5 1.5",
         "lect": [
             "ASSOC. PROF. DR. ROSLINA BT CHE SOH @ YUSOFF"
         ],
@@ -1230,7 +1332,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
+            "NOR ASIAH BINTI JUSOH"
         ],
         "dayTime": [
             {
@@ -1245,7 +1347,7 @@
         "sect": 15,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 2.8 2.8",
         "lect": [
             "PROF. DR. NAJIBAH BT MOHD. ZIN"
         ],
@@ -1262,7 +1364,7 @@
         "sect": 16,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 4.8 4.8",
         "lect": [
             "MOHD. FAIRUZ BIN ABDUL TALIB"
         ],
@@ -1279,7 +1381,7 @@
         "sect": 17,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.5 3.5",
         "lect": [
             "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
         ],
@@ -1298,7 +1400,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "NOR ASIAH BINTI JUSOH"
+            "DR. DOLHADI BIN ZAINUDIN"
         ],
         "dayTime": [
             {
@@ -1315,7 +1417,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. ADIBAH BT. AMIR"
+            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
         "dayTime": [
             {
@@ -1330,7 +1432,7 @@
         "sect": 20,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "DR. SHAMSHINA BT. MOHAMAD HANIFA"
         ],
@@ -1347,7 +1449,7 @@
         "sect": 21,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
@@ -1381,7 +1483,7 @@
         "sect": 23,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "DR. HARUNA BABATUNDE JAIYEOBA"
         ],
@@ -1415,9 +1517,9 @@
         "sect": 25,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.7 1.7",
         "lect": [
-            "DR. SAHEED ABDULLAHI BUSARI"
+            "HARRIZ BIN ZAINAL ABIDIN"
         ],
         "dayTime": [
             {
@@ -1432,7 +1534,7 @@
         "sect": 26,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.8 1.8",
         "lect": [
             "ASSOC. PROF. DR. RASHIDAH FUNKE OLANREWAJU"
         ],
@@ -1449,7 +1551,7 @@
         "sect": 27,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.12 1.12",
         "lect": [
             "ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
@@ -1466,9 +1568,9 @@
         "sect": 28,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 2.9 2.9",
         "lect": [
-            "TO BE DETERMINED"
+            "BILAL HUSSAIN"
         ],
         "dayTime": [
             {
@@ -1485,7 +1587,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMED INSAF MOHAMMED GHOUS"
         ],
         "dayTime": [
             {
@@ -1500,9 +1602,9 @@
         "sect": 30,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
         ],
         "dayTime": [
             {
@@ -1519,7 +1621,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD ASHRAF BIN NORIS"
         ],
         "dayTime": [
             {
@@ -1536,7 +1638,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SAHEED ABDULLAHI BUSARI"
         ],
         "dayTime": [
             {
@@ -1551,9 +1653,9 @@
         "sect": 33,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "TO BE DETERMINED"
+            "SUHAILA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1570,7 +1672,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN PUTRI ZAHRA BINTI WAN YUSOF"
         ],
         "dayTime": [
             {
@@ -1585,9 +1687,9 @@
         "sect": 35,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.1 3.1",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR AMILI BT. HJ. ABDUL GHANI"
         ],
         "dayTime": [
             {
@@ -1602,9 +1704,9 @@
         "sect": 36,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.3 1.3",
         "lect": [
-            "TO BE DETERMINED"
+            "YM DATIN DR HJH RAJA MAZUIN BINTI RAJA ABD AZIZ"
         ],
         "dayTime": [
             {
@@ -1621,7 +1723,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AIMI SYAZANA BINTI HASNUDIN"
         ],
         "dayTime": [
             {
@@ -1993,7 +2095,7 @@
         "sect": 1,
         "title": "GAMELAN COURSE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "GAMELAN ROOM 0",
         "lect": [
             "DJAMAL BAKIR"
         ],
@@ -2024,6 +2126,23 @@
     },
     {
         "code": "CCKG 3141",
+        "sect": 2,
+        "title": "PERCUSSION INSTRUMENTS COURSE 1",
+        "chr": 0.5,
+        "venue": "PERCUSSION ROOM 2, ICC",
+        "lect": [
+            "AZRUL ASWAD A.KARIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCKG 3141",
         "sect": 801,
         "title": "PERCUSSION INSTRUMENTS COURSE 1",
         "chr": 0.5,
@@ -2057,28 +2176,11 @@
         ]
     },
     {
-        "code": "CCKG 3142",
-        "sect": 801,
-        "title": "PERCUSSION INSTRUMENTS COURSE 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
         "code": "CCKN 2131",
         "sect": 1,
         "title": "KHAT 1 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "EDROS BIN MUSTAKIN"
         ],
@@ -2095,7 +2197,7 @@
         "sect": 1,
         "title": "KHAT 2 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "MUHAMMAD EKHSAN MD. HANIFF"
         ],
@@ -2112,9 +2214,9 @@
         "sect": 1,
         "title": "KHAT 3 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
-            "TO BE DETERMINED"
+            "EDROS BIN MUSTAKIN"
         ],
         "dayTime": [
             {
@@ -2129,7 +2231,7 @@
         "sect": 1,
         "title": "KHAT SKILLS COURSE 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "MOHAMMAD HELMI RAMADAN B. ABAS"
         ],
@@ -2146,7 +2248,7 @@
         "sect": 2,
         "title": "KHAT SKILLS COURSE 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "MOHAMMAD HELMI RAMADAN B. ABAS"
         ],
@@ -2180,7 +2282,7 @@
         "sect": 1,
         "title": "KHAT SKILLS COURSE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "MOHD FADIL SULAIMAN"
         ],
@@ -2197,7 +2299,7 @@
         "sect": 2,
         "title": "KHAT SKILLS COURSE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "MOHD FADIL SULAIMAN"
         ],
@@ -2248,7 +2350,7 @@
         "sect": 2,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 1.9 1.9",
         "lect": [
             "FAIZAL KAMAL BIN MOHAMED"
         ],
@@ -2265,7 +2367,7 @@
         "sect": 3,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.7 3.7",
         "lect": [
             "A. KAMAL BAHRI BIN ABU"
         ],
@@ -2282,7 +2384,7 @@
         "sect": 4,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.1 3.1",
         "lect": [
             "FAZLI BIN OMAR"
         ],
@@ -2316,7 +2418,7 @@
         "sect": 6,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 2.3 2.3",
         "lect": [
             "PUAN SITI AZIZAH BINTI MD NOR"
         ],
@@ -2352,7 +2454,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ANIZAM BIN ALI"
         ],
         "dayTime": [
             {
@@ -2522,7 +2624,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AMIRAH RAIHANA BINTI ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -2537,9 +2639,9 @@
         "sect": 19,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 2.9 2.9",
         "lect": [
-            "TO BE DETERMINED"
+            "FAZELINAH BINTI FAZELI KADER"
         ],
         "dayTime": [
             {
@@ -2554,9 +2656,9 @@
         "sect": 20,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL MM 2.5 2.5",
         "lect": [
-            "TO BE DETERMINED"
+            "KHADIJAH BINTI MOHD. RADZI"
         ],
         "dayTime": [
             {
@@ -2571,9 +2673,9 @@
         "sect": 21,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.8 3.8",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HOMAM ALTABAA"
         ],
         "dayTime": [
             {
@@ -2588,7 +2690,7 @@
         "sect": 22,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.7 3.7",
         "lect": [
             "MUZAKKIR BIN MUHAMMAD DIAH"
         ],
@@ -2605,7 +2707,7 @@
         "sect": 23,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.3 1.3",
         "lect": [
             "MOHAMAD IKA DANIAL BIN 'ABDULLAH"
         ],
@@ -2622,9 +2724,9 @@
         "sect": 24,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.1 3.1",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD KHAIRUL ANUAR BIN MOHD HASHIM"
         ],
         "dayTime": [
             {
@@ -2639,9 +2741,9 @@
         "sect": 25,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.5 3.5",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMAD HASSAN ALJABBAN"
         ],
         "dayTime": [
             {
@@ -2658,7 +2760,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HAZIQAH ZULAIKHA BINTI ARIS"
         ],
         "dayTime": [
             {
@@ -2675,7 +2777,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SEGAR A/L SUPRAMANIAM"
         ],
         "dayTime": [
             {
@@ -2692,7 +2794,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ZARIF HAIZAD BIN AZHARI"
         ],
         "dayTime": [
             {
@@ -2709,7 +2811,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SITI NURRULHUDA BINTI YA'AROP"
         ],
         "dayTime": [
             {
@@ -2726,7 +2828,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "JULIANA HANIM BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -2743,7 +2845,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NIK DAMIA BINTI NIK ZOKIPLI"
         ],
         "dayTime": [
             {
@@ -2959,57 +3061,6 @@
     },
     {
         "code": "CCLM 2020",
-        "sect": 821,
-        "title": "LEADERSHIP AND MANAGEMENT",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCLM 2020",
-        "sect": 830,
-        "title": "LEADERSHIP AND MANAGEMENT",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCLM 2020",
-        "sect": 831,
-        "title": "LEADERSHIP AND MANAGEMENT",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCLM 2020",
         "sect": 840,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
@@ -3028,23 +3079,6 @@
     {
         "code": "CCLM 2020",
         "sect": 841,
-        "title": "LEADERSHIP AND MANAGEMENT",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCLM 2020",
-        "sect": 842,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
         "venue": null,
@@ -3166,7 +3200,7 @@
         "sect": 1,
         "title": "MOSQUE MANAGEMENT 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "HALIL IBRAHIM DAGLI"
         ],
@@ -3202,7 +3236,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMED RASHID BIN AB RAZAK"
+            "DR. NIK HZIMAN B. NIK MAT"
         ],
         "dayTime": [
             {
@@ -3213,30 +3247,13 @@
         ]
     },
     {
-        "code": "CCMG 3282",
-        "sect": 801,
-        "title": "MOSQUE MANAGEMENT 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
         "code": "CCMK 3121",
         "sect": 1,
         "title": "KARATE SKILLS 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
         "venue": "FEMALE SPORTS COM FOYER 2",
         "lect": [
-            "PUVANESWARAN A/L RAMASAMY"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3338,7 +3355,7 @@
         "chr": 0.5,
         "venue": "MEETING ROOM FSC",
         "lect": [
-            "TO BE DETERMINED"
+            "NORSHARMILA BT. ZABANI"
         ],
         "dayTime": [
             {
@@ -3351,6 +3368,23 @@
     {
         "code": "CCNC 3451",
         "sect": 801,
+        "title": "NETBALL COURSE 1 (THEORY & PRACTICAL)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCNC 3451",
+        "sect": 802,
         "title": "NETBALL COURSE 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
         "venue": null,
@@ -3387,7 +3421,7 @@
         "sect": 1,
         "title": "KOR SISPA 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "AIKOL LR 3.8 3.8",
         "lect": [
             "IRWAN SHAH BIN KHAIRI YAP"
         ],
@@ -3404,7 +3438,7 @@
         "sect": 1,
         "title": "KOR SISPA 3",
         "chr": 1.0,
-        "venue": null,
+        "venue": "AIKOL LR 3.8 3.8",
         "lect": [
             "MOHD KHAIRUL  AZRI BIN AB RAZAK"
         ],
@@ -3421,7 +3455,7 @@
         "sect": 1,
         "title": "KOR SISPA 5",
         "chr": 1.0,
-        "venue": null,
+        "venue": "AIKOL LR 3.8 3.8",
         "lect": [
             "MOHD JASMI BIN SALEHUDIN"
         ],
@@ -3438,7 +3472,7 @@
         "sect": 1,
         "title": "PHOTOGRAPHY SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 2.9 2.9",
         "lect": [
             "ASHRAF BIN SAHARUDIN"
         ],
@@ -3549,23 +3583,6 @@
                 "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCPS 3102",
-        "sect": 801,
-        "title": "PHOTOGRAPHY SKILLS 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
             }
         ]
     },
@@ -3574,7 +3591,7 @@
         "sect": 1,
         "title": "RECREATION 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.1 3.1",
         "lect": [
             "MUHAMMAD ISA SHAMSUDIN"
         ],
@@ -3591,7 +3608,7 @@
         "sect": 2,
         "title": "RECREATION 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.1 3.1",
         "lect": [
             "MOHAMAD ZABIDI AHMAD"
         ],
@@ -3608,9 +3625,9 @@
         "sect": 3,
         "title": "RECREATION 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.1 3.1",
         "lect": [
-            "RUDIJANTO EKO NUGROHO RACHMAT"
+            "ATIF AB. RAHMAN"
         ],
         "dayTime": [
             {
@@ -3659,7 +3676,7 @@
         "sect": 1,
         "title": "RECREATION 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.6 3.6",
         "lect": [
             "MOHAMAD ZABIDI AHMAD"
         ],
@@ -3676,7 +3693,7 @@
         "sect": 2,
         "title": "RECREATION 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.6 3.6",
         "lect": [
             "AHMAD NAZERY SAMSUDIN"
         ],
@@ -3693,9 +3710,9 @@
         "sect": 3,
         "title": "RECREATION 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 3.6 3.6",
         "lect": [
-            "ATIF AB. RAHMAN"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3734,6 +3751,23 @@
         "dayTime": [
             {
                 "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSB 3211",
+        "sect": 3,
+        "title": "SWIMMING SKILLS 1 (BROTHER)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -3846,9 +3880,9 @@
         "sect": 1,
         "title": "MALAYSIAN SIGN LANGUAGE 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ONLINE ONLINE",
         "lect": [
-            "MUHAMMAD FAKHRURAZZI B MAT SEDIK"
+            "ALIZA BT MAMAT"
         ],
         "dayTime": [
             {
@@ -3863,9 +3897,9 @@
         "sect": 2,
         "title": "MALAYSIAN SIGN LANGUAGE 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ONLINE ONLINE",
         "lect": [
-            "ALIZA BT MAMAT"
+            "WANG CHAI XIN"
         ],
         "dayTime": [
             {
@@ -3880,9 +3914,9 @@
         "sect": 3,
         "title": "MALAYSIAN SIGN LANGUAGE 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ONLINE ONLINE",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD FAKHRURAZZI B MAT SEDIK"
         ],
         "dayTime": [
             {
@@ -3897,7 +3931,7 @@
         "sect": 1,
         "title": "MALAYSIAN SIGN LANGUAGE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ONLINE ONLINE",
         "lect": [
             "ZAINE BIN BUJAL"
         ],
@@ -3914,9 +3948,9 @@
         "sect": 2,
         "title": "MALAYSIAN SIGN LANGUAGE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ONLINE ONLINE",
         "lect": [
-            "NUR SAADAH ZULKEFLI"
+            "NUR FATIN MD SHAHSAZIZAN"
         ],
         "dayTime": [
             {
@@ -3931,9 +3965,9 @@
         "sect": 3,
         "title": "MALAYSIAN SIGN LANGUAGE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ONLINE ONLINE",
         "lect": [
-            "NUR FATIN MD SHAHSAZIZAN"
+            "NUR SAADAH ZULKEFLI"
         ],
         "dayTime": [
             {
@@ -3948,9 +3982,9 @@
         "sect": 1,
         "title": "EVENT MANAGEMENT SKILL 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "MOHAMMAD KHAIRI BIN ROSLAN"
+            "AHMAD MUFDI LUTFI BIN JAMALUDIN"
         ],
         "dayTime": [
             {
@@ -3965,7 +3999,7 @@
         "sect": 2,
         "title": "EVENT MANAGEMENT SKILL 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AIKOL LR 1.3 1.3",
         "lect": [
             "RAZALI BIN SUDIN@ALIAS"
         ],
@@ -3995,13 +4029,47 @@
         ]
     },
     {
+        "code": "CCSM 3271",
+        "sect": 802,
+        "title": "EVENT MANAGEMENT SKILL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSM 3271",
+        "sect": 803,
+        "title": "EVENT MANAGEMENT SKILL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
         "code": "CCSM 3272",
         "sect": 1,
         "title": "EVENT MANAGEMENT SKILLS 2",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD KHAIRI BIN ROSLAN"
         ],
         "dayTime": [
             {
@@ -4046,45 +4114,11 @@
         ]
     },
     {
-        "code": "CCSM 3272",
-        "sect": 801,
-        "title": "EVENT MANAGEMENT SKILLS 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCSM 3272",
-        "sect": 802,
-        "title": "EVENT MANAGEMENT SKILLS 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
         "code": "CCSP 1521",
         "sect": 1,
         "title": "SUKSIS 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "AIKOL LR 4.1 4.1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4101,7 +4135,7 @@
         "sect": 1,
         "title": "SUKSIS 3",
         "chr": 1.0,
-        "venue": null,
+        "venue": "AIKOL LR 4.1 4.1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4118,7 +4152,7 @@
         "sect": 1,
         "title": "SUKSIS 5",
         "chr": 1.0,
-        "venue": null,
+        "venue": "AIKOL LR 4.1 4.1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4460,7 +4494,7 @@
         "chr": 0.5,
         "venue": "FEMALE SPORT CO 0",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD AZHARI BIN MOHD NADZARI"
         ],
         "dayTime": [
             {
@@ -4540,6 +4574,23 @@
     },
     {
         "code": "CCTH 3321",
+        "sect": 3,
+        "title": "SPECIAL TAHFIZ CLASS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCTH 3321",
         "sect": 501,
         "title": "SPECIAL TAHFIZ CLASS 1",
         "chr": 0.5,
@@ -4574,23 +4625,6 @@
     },
     {
         "code": "CCTH 3322",
-        "sect": 2,
-        "title": "SPECIAL TAHFIZ CLASS 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCTH 3322",
         "sect": 501,
         "title": "SPECIAL TAHFIZ CLASS 2",
         "chr": 0.5,
@@ -4608,12 +4642,29 @@
     },
     {
         "code": "CCUB 1061",
-        "sect": 101,
+        "sect": 55,
         "title": "USRAH 1",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "21:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 101,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": "MOSQUE LVL 2",
+        "lect": [
+            "ALIF AFDHAL BIN AHMAD"
         ],
         "dayTime": [
             {
@@ -4628,9 +4679,9 @@
         "sect": 102,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NAQFIS BIN MOHAMMAD IBRAHIM"
         ],
         "dayTime": [
             {
@@ -4645,7 +4696,7 @@
         "sect": 103,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4662,9 +4713,9 @@
         "sect": 104,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUSTAPHA TOYYIB ABIODUN"
         ],
         "dayTime": [
             {
@@ -4679,7 +4730,7 @@
         "sect": 105,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4696,9 +4747,9 @@
         "sect": 201,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "FATIN NUR AIN BINTI YUSOF"
         ],
         "dayTime": [
             {
@@ -4713,9 +4764,9 @@
         "sect": 202,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "SITI NURNAIMI BINTI ABDUL NUR"
         ],
         "dayTime": [
             {
@@ -4730,9 +4781,9 @@
         "sect": 203,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "NISREEN BT MOHF ARIF"
         ],
         "dayTime": [
             {
@@ -4747,7 +4798,7 @@
         "sect": 204,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4764,13 +4815,30 @@
         "sect": 205,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
+        "lect": [
+            "CHE WAN SARAH NAJIHAH BINTI CHE WAN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 206,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 1,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -4885,7 +4953,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IZZAT NAJMI B ANNISA"
         ],
         "dayTime": [
             {
@@ -4902,7 +4970,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUSTAPHA TOYYIB ABIODUN"
         ],
         "dayTime": [
             {
@@ -4919,7 +4987,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NAQFIS BIN MOHAMMAD IBRAHIM"
         ],
         "dayTime": [
             {
@@ -4936,7 +5004,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD ZAKIY NAJDEE SHAHRUL"
         ],
         "dayTime": [
             {
@@ -4953,7 +5021,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMAD ALIF HAIKAL BIN SUKERI"
         ],
         "dayTime": [
             {
@@ -4970,7 +5038,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR SYAFIIZZATY BT SRAFI"
         ],
         "dayTime": [
             {
@@ -4987,7 +5055,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR SYAFIQAH BINTI SHAHARUDIN"
         ],
         "dayTime": [
             {
@@ -5004,7 +5072,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORAIDAH ABU SAMAH"
         ],
         "dayTime": [
             {
@@ -5021,7 +5089,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "IMAN ADRIANA BT AHMAD RADHUAN"
         ],
         "dayTime": [
             {
@@ -5038,7 +5106,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AINUL MARDHIAH BINTI MOHAMMED RAFIQ"
         ],
         "dayTime": [
             {
@@ -5055,7 +5123,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "TENGKU SYARAH  NABILAH BINTI TENGKU MOHAMAD ZULKIFLI"
         ],
         "dayTime": [
             {
@@ -5072,7 +5140,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "KU AMIRAH NAJIHAH BINTI KU HALIM"
         ],
         "dayTime": [
             {
@@ -5089,7 +5157,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR SOFIA BT ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -5106,11 +5174,62 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SITI NUR SALWANI BT ASMADIRA"
         ],
         "dayTime": [
             {
                 "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 210,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "FIDA' BINTI MOHD RAMIZU"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 211,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "AISYAH HANANI BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 212,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "YUKKIE ASHYIRA BINTI NAWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -5219,13 +5338,47 @@
         ]
     },
     {
+        "code": "CCUB 3621",
+        "sect": 301,
+        "title": "USRAH BUDI 3",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
         "code": "CCUB 4621",
         "sect": 101,
         "title": "USRAH BUDI 4",
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 102,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD IZZAT NAJMI B ANNISA"
         ],
         "dayTime": [
             {
@@ -5242,7 +5395,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NAJLA SAHIRA BINTI ABDUL LATIFE"
         ],
         "dayTime": [
             {
@@ -5272,6 +5425,23 @@
     {
         "code": "CCVL 3171",
         "sect": 801,
+        "title": "VOLLEYBALL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCVL 3171",
+        "sect": 802,
         "title": "VOLLEYBALL 1",
         "chr": 0.5,
         "venue": null,
