@@ -327,6 +327,28 @@
         ]
     },
     {
+        "code": "BKOS 1301",
+        "sect": 2,
+        "title": "ISLAM AND SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
         "code": "BKOS 1303",
         "sect": 1,
         "title": "PHILOSOPHY OF SCIENCE",
@@ -375,15 +397,15 @@
         "sect": 1,
         "title": "ENTREPRENEURSHIP AND INNOVATION",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-G-07",
+        "venue": "ADMIN BUILDING A-G-03",
         "lect": [
             "DR. MOHD SYAHMI BIN SALLEH"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -976,18 +998,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORMAH BINTI HARON"
+            "DR. WIDYA BINTI ABDUL WAHAB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 1,
                 "startTime": "11:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1801,7 +1823,7 @@
         "sect": 1,
         "title": "ELECTRICITY AND MAGNESTISM I",
         "chr": 2.0,
-        "venue": "ADMIN BUILDING KOS A-1-33",
+        "venue": null,
         "lect": [
             "TS. DR. HAFIZAH NOOR BINTI ISA"
         ],
@@ -1813,8 +1835,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             }
         ]
     },
@@ -1889,7 +1911,7 @@
         "sect": 1,
         "title": "PROBABILITY AND STATISTICS",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-28",
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "TS. DR. HAFIZAH NOOR BINTI ISA"
         ],
@@ -2633,9 +2655,9 @@
                 "endTime": "15:30"
             },
             {
-                "day": 5,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:30"
             }
         ]
     },
@@ -3064,7 +3086,7 @@
         "chr": 12.0,
         "venue": null,
         "lect": [
-            "DR. WAN NUR FAIRUZ ALWANI BT W ROZALI"
+            "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": []
     },
@@ -3445,8 +3467,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             },
             {
                 "day": 1,
@@ -3631,7 +3653,7 @@
         "sect": 1,
         "title": "ELECTRICITY AND MAGNETISM I",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-37",
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "TS. DR. HAFIZAH NOOR BINTI ISA"
         ],
@@ -3643,8 +3665,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             }
         ]
     },
@@ -3687,8 +3709,8 @@
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -3780,7 +3802,7 @@
         "sect": 1,
         "title": "PROBABILITY AND DATA ANALYSIS",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-33",
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "TS. DR. HAFIZAH NOOR BINTI ISA"
         ],
@@ -4138,7 +4160,7 @@
         "sect": 1,
         "title": "BIOPHYSICS II",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-36",
+        "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
             "DR. MOHD HAZIMIN BIN MOHD SALLEH"
         ],
@@ -4146,12 +4168,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "15:30"
-            },
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "10:30"
+                "endTime": "17:00"
             }
         ]
     },

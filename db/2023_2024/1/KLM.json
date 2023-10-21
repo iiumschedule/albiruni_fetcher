@@ -6,13 +6,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ANIS AZRINA BINTI ANUAR"
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
                 "day": 7,
                 "startTime": "10:00",
-                "endTime": "12:50"
+                "endTime": "11:20"
             }
         ]
     },
@@ -23,13 +28,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ANIS AZRINA BINTI ANUAR"
         ],
         "dayTime": [
             {
                 "day": 1,
                 "startTime": "08:30",
-                "endTime": "11:20"
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -214,9 +224,9 @@
         "sect": 1,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 5 B3.1.37",
         "lect": [
-            "TO BE DETERMINED"
+            "ABDALLAH I.A. SADEQ HANAN"
         ],
         "dayTime": [
             {
@@ -341,9 +351,9 @@
         "sect": 3,
         "title": "SOCIOLINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 1 B3.1.16",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMMAD KHALIL MOHAMMAD ALRAMADEEN"
         ],
         "dayTime": [
             {
@@ -409,7 +419,7 @@
         "chr": 3.0,
         "venue": "KLM CLASSROOM 4 B4.1.10",
         "lect": [
-            "DR. KHALID CHTAIBI"
+            "ALA OMAR MOHAMMED BA WAZIR"
         ],
         "dayTime": [
             {
@@ -431,7 +441,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "BELAL S. M. ALAKHRAS"
         ],
         "dayTime": [
             {
@@ -448,7 +458,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "BELAL S. M. ALAKHRAS"
         ],
         "dayTime": [
             {
@@ -465,7 +475,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "BELAL S. M. ALAKHRAS"
         ],
         "dayTime": [
             {
@@ -480,9 +490,9 @@
         "sect": 1,
         "title": "MORPHOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MICRO TEACHING LAB B3.2.16",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMED ABDELRAHMAN IBRAHIM YOUSSEF"
         ],
         "dayTime": [
             {
@@ -612,9 +622,9 @@
         "sect": 1,
         "title": "PUBLIC RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 4 B4.2.01",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD NAEL AMOOR"
         ],
         "dayTime": [
             {
@@ -629,9 +639,9 @@
         "sect": 2,
         "title": "PUBLIC RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 4 B3.1.19",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD NAEL AMOOR"
         ],
         "dayTime": [
             {
@@ -690,14 +700,19 @@
         "sect": 1,
         "title": "COMMUNICATION LAW AND ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MICRO TEACHING LAB B3.2.16",
         "lect": [
-            "TO BE DETERMINED"
+            "ALA OMAR MOHAMMED BA WAZIR"
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
                 "day": 7,
-                "startTime": "14:00",
+                "startTime": "15:30",
                 "endTime": "16:50"
             }
         ]
@@ -707,9 +722,9 @@
         "sect": 1,
         "title": "DIGITAL MEDIA AND COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 5 B3.2.06",
         "lect": [
-            "TO BE DETERMINED"
+            "BILAL YOUSFI"
         ],
         "dayTime": [
             {
@@ -747,24 +762,13 @@
         ]
     },
     {
-        "code": "ARCO 3109",
-        "sect": 1,
-        "title": "INTERNSHIP",
-        "chr": 5.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
         "code": "ARCO 4101",
         "sect": 1,
         "title": "DATA ANALYSIS AND INTERPRETATION",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ABDALLAH I.A. SADEQ HANAN"
         ],
         "dayTime": [
             {
@@ -781,7 +785,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ABDALLAH I.A. SADEQ HANAN"
         ],
         "dayTime": [
             {
@@ -862,9 +866,9 @@
         "sect": 1,
         "title": "CORPORATE COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 1 B3.1.16",
         "lect": [
-            "TO BE DETERMINED"
+            "ALA OMAR MOHAMMED BA WAZIR"
         ],
         "dayTime": [
             {
@@ -884,9 +888,9 @@
         "sect": 2,
         "title": "CORPORATE COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 3 B4.1.13",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD NAEL AMOOR"
         ],
         "dayTime": [
             {
@@ -901,9 +905,9 @@
         "sect": 1,
         "title": "COMPUTER MEDIATED COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 5 B3.2.06",
         "lect": [
-            "TO BE DETERMINED"
+            "BILAL YOUSFI"
         ],
         "dayTime": [
             {
@@ -918,9 +922,9 @@
         "sect": 2,
         "title": "COMPUTER MEDIATED COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 5 B3.2.06",
         "lect": [
-            "TO BE DETERMINED"
+            "BILAL YOUSFI"
         ],
         "dayTime": [
             {
@@ -953,13 +957,112 @@
         ]
     },
     {
+        "code": "ARCO 4106",
+        "sect": 2,
+        "title": "TRANSLATION STUDIES",
+        "chr": 3.0,
+        "venue": "KLM SEMINAR ROOM 2 B3.1.04",
+        "lect": [
+            "DR. KHALID CHTAIBI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "ARCO 4999",
         "sect": 1,
         "title": "FINAL YEAR PROJECT",
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHD AZRUL AZLEN BIN ABD. HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NONGLAKSANA KAMA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL KADIR BIN SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDULHALIM SAMAE"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HANILAH BT. MOHD. ISMATH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. KHALID CHTAIBI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMAD KHALIL MOHAMMAD ALRAMADEEN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARCO 4999",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMED ABDELRAHMAN IBRAHIM YOUSSEF"
         ],
         "dayTime": []
     },
@@ -1124,7 +1227,7 @@
         "chr": 3.0,
         "venue": "KLM SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "ISMAIL BIN JAAFAR"
+            "DR. NORA'AZIAN BINTI NAHAR"
         ],
         "dayTime": [
             {
@@ -1136,28 +1239,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1105",
-        "sect": 1,
-        "title": "KOMUNIKASI KHALAYAK DAN PENGUCAPAN AWAM",
-        "chr": 3.0,
-        "venue": "KLM PBL ROOM 2 B3.1.17",
-        "lect": [
-            "DR. NORA'AZIAN BINTI NAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 7,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -1229,28 +1310,6 @@
     },
     {
         "code": "BMCO 1106",
-        "sect": 2,
-        "title": "KOMUNIKASI PENULISAN 1",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NORA'AZIAN BINTI NAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1106",
         "sect": 3,
         "title": "KOMUNIKASI PENULISAN 1",
         "chr": 3.0,
@@ -1278,30 +1337,13 @@
         "chr": 3.0,
         "venue": "KLM PBL ROOM 3 B3.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. SENU BIN AWANG"
         ],
         "dayTime": [
             {
                 "day": 7,
                 "startTime": "08:30",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1107",
-        "sect": 2,
-        "title": "PENGENALAN KEPADA KEUSAHAWANAN",
-        "chr": 3.0,
-        "venue": "KLM PBL ROOM 3 B3.1.18",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "16:50"
             }
         ]
     },
@@ -1332,7 +1374,7 @@
         "sect": 2,
         "title": "KOMUNIKASI ANTARA BUDAYA",
         "chr": 3.0,
-        "venue": "KLM CLASSROOM 6 B3.1.35",
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "DR. ARINA BINTI JOHARI"
         ],
@@ -1376,7 +1418,7 @@
         "sect": 2,
         "title": "SOSIOLINGUISTIK",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 4 B3.1.19",
         "lect": [
             "ASSOC. PROF. DR. FARIDAH BINTI NAZIR"
         ],
@@ -1390,6 +1432,28 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 2102",
+        "sect": 3,
+        "title": "SOSIOLINGUISTIK",
+        "chr": 3.0,
+        "venue": "KLM PBL ROOM 3 B4.1.13",
+        "lect": [
+            "ASSOC. PROF. DR. FARIDAH BINTI NAZIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:40",
+                "endTime": "14:00"
+            },
+            {
+                "day": 3,
+                "startTime": "12:40",
+                "endTime": "14:00"
             }
         ]
     },
@@ -1398,7 +1462,7 @@
         "sect": 1,
         "title": "ANALISIS KEKHILAFAN BAHASA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 4 B3.1.19",
         "lect": [
             "DR. JULAINA BINTI NOPIAH"
         ],
@@ -1483,32 +1547,10 @@
     },
     {
         "code": "BMCO 2105",
-        "sect": 1,
-        "title": "MORFOLOGI DAN SINTAKSIS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NURUL JAMILAH BT. ROSLY"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 7,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2105",
         "sect": 2,
         "title": "MORFOLOGI DAN SINTAKSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MICRO TEACHING LAB B3.2.16",
         "lect": [
             "DR. NORA'AZIAN BINTI NAHAR"
         ],
@@ -1527,32 +1569,10 @@
     },
     {
         "code": "BMCO 2106",
-        "sect": 1,
-        "title": "FONETIK DAN FONOLOGI BAHASA MELAYU",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. FARIDAH BINTI NAZIR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2106",
         "sect": 2,
         "title": "FONETIK DAN FONOLOGI BAHASA MELAYU",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 1 B4.1.29",
         "lect": [
             "DR. AMINNUDIN BIN SAIMON"
         ],
@@ -1571,32 +1591,10 @@
     },
     {
         "code": "BMCO 2107",
-        "sect": 1,
-        "title": "PRAGMATIK DAN WACANA",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. ARINA BINTI JOHARI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2107",
         "sect": 2,
         "title": "PRAGMATIK DAN WACANA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MICRO TEACHING LAB B3.2.16",
         "lect": [
             "DR. ARINA BINTI JOHARI"
         ],
@@ -1618,7 +1616,7 @@
         "sect": 1,
         "title": "KAEDAH PENYELIDIKAN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 1 B3.2.12",
         "lect": [
             "ASSOC. PROF. DR. FARIDAH BINTI NAZIR"
         ],
@@ -1640,7 +1638,7 @@
         "sect": 2,
         "title": "KAEDAH PENYELIDIKAN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 4 B3.2.07",
         "lect": [
             "DR. AMINNUDIN BIN SAIMON"
         ],
@@ -1662,7 +1660,7 @@
         "sect": 1,
         "title": "SEMANTIK DAN LEKSIKOLOGI",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 1 B4.1.39",
         "lect": [
             "DR. NURUL JAMILAH BT. ROSLY"
         ],
@@ -1684,7 +1682,7 @@
         "sect": 2,
         "title": "SEMANTIK DAN LEKSIKOLOGI",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM LT 2 B4.1.16",
         "lect": [
             "DR. NURUL JAMILAH BT. ROSLY"
         ],
@@ -1706,7 +1704,7 @@
         "sect": 1,
         "title": "KESANTUNAN BERBAHASA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 4 B4.2.01",
         "lect": [
             "DR. ARINA BINTI JOHARI"
         ],
@@ -1728,7 +1726,7 @@
         "sect": 2,
         "title": "KESANTUNAN BERBAHASA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM LT 2 B4.1.16",
         "lect": [
             "DR. ARINA BINTI JOHARI"
         ],
@@ -1750,7 +1748,7 @@
         "sect": 1,
         "title": "KOMUNIKASI PENULISAN 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM LT 2 B4.1.16",
         "lect": [
             "DR. AMINNUDIN BIN SAIMON"
         ],
@@ -1772,7 +1770,7 @@
         "sect": 2,
         "title": "KOMUNIKASI PENULISAN 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM LT 2 B4.1.16",
         "lect": [
             "DR. NURUL JAMILAH BT. ROSLY"
         ],
@@ -1790,35 +1788,13 @@
         ]
     },
     {
-        "code": "BMCO 3103",
-        "sect": 3,
-        "title": "KOMUNIKASI PENULISAN 2",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "BMCO 3104",
         "sect": 1,
         "title": "BAHASA DAN SASTERA DALAM MEDIA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MICRO TEACHING LAB B3.2.16",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. AHMAD ZAHIRUDDIN BIN MOHD ZABIDI"
         ],
         "dayTime": [
             {
@@ -1838,9 +1814,9 @@
         "sect": 2,
         "title": "BAHASA DAN SASTERA DALAM MEDIA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 4 B4.1.10",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. AHMAD ZAHIRUDDIN BIN MOHD ZABIDI"
         ],
         "dayTime": [
             {
@@ -1860,9 +1836,9 @@
         "sect": 1,
         "title": "MEDIA DIGITAL DAN KOMUNIKASI",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 1 B3.2.12",
         "lect": [
-            "TO BE DETERMINED"
+            "NURUL FARDINI BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -1882,9 +1858,9 @@
         "sect": 2,
         "title": "MEDIA DIGITAL DAN KOMUNIKASI",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 4 B3.2.07",
         "lect": [
-            "TO BE DETERMINED"
+            "NURUL FARDINI BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -1904,7 +1880,7 @@
         "sect": 1,
         "title": "KRITIKAN DALAM SASTERA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 1 B4.1.39",
         "lect": [
             "ISMAIL BIN JAAFAR"
         ],
@@ -1926,9 +1902,9 @@
         "sect": 2,
         "title": "KRITIKAN DALAM SASTERA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MULTIPURPOSE ROOM B1.2.05",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. AHMAD ZAHIRUDDIN BIN MOHD ZABIDI"
         ],
         "dayTime": [
             {
@@ -1950,7 +1926,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AZEAN IDRUWANI BINTI IDRUS"
         ],
         "dayTime": []
     },
@@ -1959,7 +1935,7 @@
         "sect": 1,
         "title": "ANALISIS DATA DAN INTERPRETASI",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 1 B3.2.12",
         "lect": [
             "DR. SITI YULIANDI AHMAD"
         ],
@@ -1981,7 +1957,7 @@
         "sect": 2,
         "title": "ANALISIS DATA DAN INTERPRETASI",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
         "lect": [
             "DR. SITI YULIANDI AHMAD"
         ],
@@ -1999,189 +1975,189 @@
         ]
     },
     {
-        "code": "BMCO 4102",
-        "sect": 1,
-        "title": "BAHASA DAN MASYARAKAT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. JULAINA BINTI NOPIAH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 7,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4102",
-        "sect": 2,
-        "title": "BAHASA DAN MASYARAKAT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. JULAINA BINTI NOPIAH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 7,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4103",
-        "sect": 1,
-        "title": "ETIKA SOSIAL, PROTOKOL DAN KOMUNIKASI",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4103",
-        "sect": 2,
-        "title": "ETIKA SOSIAL, PROTOKOL DAN KOMUNIKASI",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4104",
-        "sect": 1,
-        "title": "KOMUNIKASI KORPORAT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4104",
-        "sect": 2,
-        "title": "KOMUNIKASI KORPORAT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4105",
-        "sect": 1,
-        "title": "KOMUNIKASI PENGANTARAAN KOMPUTER",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AZEAN IDRUWANI BINTI IDRUS"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4105",
-        "sect": 2,
-        "title": "KOMUNIKASI PENGANTARAAN KOMPUTER",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 4105",
+        "code": "BMCO 4101",
         "sect": 3,
+        "title": "ANALISIS DATA DAN INTERPRETASI",
+        "chr": 3.0,
+        "venue": "KLM COMPUTER LAB 5 B3.2.06",
+        "lect": [
+            "NURUL FARDINI BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4102",
+        "sect": 1,
+        "title": "BAHASA DAN MASYARAKAT",
+        "chr": 3.0,
+        "venue": "KLM MULTIPURPOSE ROOM B1.2.05",
+        "lect": [
+            "DR. JULAINA BINTI NOPIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 7,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4102",
+        "sect": 2,
+        "title": "BAHASA DAN MASYARAKAT",
+        "chr": 3.0,
+        "venue": "KLM MULTIPURPOSE ROOM B1.2.05",
+        "lect": [
+            "DR. JULAINA BINTI NOPIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4103",
+        "sect": 1,
+        "title": "ETIKA SOSIAL, PROTOKOL DAN KOMUNIKASI",
+        "chr": 3.0,
+        "venue": "KLM PBL ROOM 6 B4.2.07",
+        "lect": [
+            "HALIMAH BINTI PONDO"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4103",
+        "sect": 2,
+        "title": "ETIKA SOSIAL, PROTOKOL DAN KOMUNIKASI",
+        "chr": 3.0,
+        "venue": "KLM PBL ROOM 6 B4.2.07",
+        "lect": [
+            "HALIMAH BINTI PONDO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4104",
+        "sect": 1,
+        "title": "KOMUNIKASI KORPORAT",
+        "chr": 3.0,
+        "venue": "KLM CLASSROOM 1 B3.1.30",
+        "lect": [
+            "DR. RAHMAN BIN HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4104",
+        "sect": 2,
+        "title": "KOMUNIKASI KORPORAT",
+        "chr": 3.0,
+        "venue": "KLM MULTIPURPOSE ROOM B1.2.05",
+        "lect": [
+            "DR. RAHMAN BIN HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4105",
+        "sect": 1,
         "title": "KOMUNIKASI PENGANTARAAN KOMPUTER",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 1 B3.2.12",
         "lect": [
             "DR. AZEAN IDRUWANI BINTI IDRUS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4105",
+        "sect": 2,
+        "title": "KOMUNIKASI PENGANTARAAN KOMPUTER",
+        "chr": 3.0,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
+        "lect": [
+            "HALIMAH BINTI PONDO"
         ],
         "dayTime": [
             {
@@ -2201,7 +2177,7 @@
         "sect": 1,
         "title": "TERJEMAHAN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "ISMAIL BIN JAAFAR"
         ],
@@ -2223,7 +2199,7 @@
         "sect": 2,
         "title": "TERJEMAHAN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MULTIPURPOSE ROOM B1.2.05",
         "lect": [
             "ISMAIL BIN JAAFAR"
         ],
@@ -2247,7 +2223,95 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL JAMILAH BT. ROSLY"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FARIDAH BINTI NAZIR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. JULAINA BINTI NOPIAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ARINA BINTI JOHARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD SUHAIZI BIN SUHAIMI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. AZEAN IDRUWANI BINTI IDRUS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. AMINNUDIN BIN SAIMON"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NORA'AZIAN BINTI NAHAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMCO 4999",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ISMAIL BIN JAAFAR"
         ],
         "dayTime": []
     },
@@ -2258,7 +2322,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SAIFUL ADLI BIN SHAMSUL TAJRI"
         ],
         "dayTime": [
             {
@@ -2275,7 +2339,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SAIFUL ADLI BIN SHAMSUL TAJRI"
         ],
         "dayTime": [
             {
@@ -2292,7 +2356,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SAIFUL ADLI BIN SHAMSUL TAJRI"
         ],
         "dayTime": [
             {
@@ -2309,7 +2373,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SAIFUL ADLI BIN SHAMSUL TAJRI"
         ],
         "dayTime": [
             {
@@ -2324,7 +2388,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO WORLD LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 2 B3.1.04",
         "lect": [
             "DR. KHAIRIL AZWAR BIN RAZALI"
         ],
@@ -2346,7 +2410,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO WORLD LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 2 B3.1.04",
         "lect": [
             "NURHANIS BINTI SAHIDDAN"
         ],
@@ -2368,7 +2432,7 @@
         "sect": 3,
         "title": "INTRODUCTION TO WORLD LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 4 B3.2.04",
         "lect": [
             "NURHANIS BINTI SAHIDDAN"
         ],
@@ -2390,7 +2454,7 @@
         "sect": 4,
         "title": "INTRODUCTION TO WORLD LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 4 B3.2.04",
         "lect": [
             "NURHANIS BINTI SAHIDDAN"
         ],
@@ -2412,7 +2476,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
             "NURHANIS BINTI SAHIDDAN"
         ],
@@ -2434,7 +2498,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 3 B3.1.29",
         "lect": [
             "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
@@ -2456,7 +2520,7 @@
         "sect": 3,
         "title": "INTRODUCTION TO LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 3 B3.1.29",
         "lect": [
             "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
@@ -2478,7 +2542,7 @@
         "sect": 4,
         "title": "INTRODUCTION TO LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 5 B3.2.03",
         "lect": [
             "NURHANIS BINTI SAHIDDAN"
         ],
@@ -2502,7 +2566,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NIK RAHILA BINTI WAN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -2519,7 +2583,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NIK RAHILA BINTI WAN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -2536,17 +2600,12 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOLI MAISHARA BINTI NORDIN"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
+                "day": 7,
+                "startTime": "10:00",
                 "endTime": "12:50"
             }
         ]
@@ -2558,18 +2617,13 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOLI MAISHARA BINTI NORDIN"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
                 "day": 7,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "16:50"
             }
         ]
     },
@@ -2578,20 +2632,20 @@
         "sect": 1,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 3 B3.1.18",
         "lect": [
             "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -2600,7 +2654,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 5 B3.1.21",
         "lect": [
             "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
         ],
@@ -2622,7 +2676,7 @@
         "sect": 1,
         "title": "PERSUASIVE SPEECH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 5 B3.1.21",
         "lect": [
             "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
@@ -2644,7 +2698,7 @@
         "sect": 2,
         "title": "PERSUASIVE SPEECH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 5 B3.1.21",
         "lect": [
             "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
@@ -2666,9 +2720,9 @@
         "sect": 1,
         "title": "INTERPERSONAL COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 3 B3.1.29",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR NABILAH BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2690,7 +2744,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. AFIZA BINTI MOHAMAD ALI"
+            "NOF AZZURA BINTI AZIZUL AZMAN"
         ],
         "dayTime": [
             {
@@ -2712,7 +2766,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOF AZZURA BINTI AZIZUL AZMAN"
         ],
         "dayTime": [
             {
@@ -2734,7 +2788,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOF AZZURA BINTI AZIZUL AZMAN"
         ],
         "dayTime": [
             {
@@ -2754,26 +2808,9 @@
         "sect": 1,
         "title": "INTERNATIONAL RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "ENCO 2104",
-        "sect": 2,
-        "title": "INTERNATIONAL RELATIONS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
+            "AHMAD FAROUK BIN ZULKIFLI"
         ],
         "dayTime": [
             {
@@ -2790,7 +2827,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AHMAD FAROUK BIN ZULKIFLI"
         ],
         "dayTime": [
             {
@@ -2805,9 +2842,9 @@
         "sect": 4,
         "title": "INTERNATIONAL RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 2 B3.1.04",
         "lect": [
-            "TO BE DETERMINED"
+            "YUSRI BIN ADAM"
         ],
         "dayTime": [
             {
@@ -2822,7 +2859,7 @@
         "sect": 1,
         "title": "MORPHOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "DR. FARRAH DIEBAA BT RASHID ALI"
         ],
@@ -2836,28 +2873,6 @@
                 "day": 7,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ENCO 2105",
-        "sect": 2,
-        "title": "MORPHOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. FARRAH DIEBAA BT RASHID ALI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -2868,18 +2883,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAWDHAH BINTI PAIZ"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "20:30",
+                "endTime": "21:50"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "18:30",
+                "endTime": "19:50"
             }
         ]
     },
@@ -2890,11 +2905,11 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NAEM FARVEEZ AZIM BIN AZMI"
         ],
         "dayTime": [
             {
-                "day": 7,
+                "day": 1,
                 "startTime": "17:00",
                 "endTime": "19:50"
             }
@@ -2905,7 +2920,7 @@
         "sect": 1,
         "title": "LANGUAGE FOR INTERCULTURAL COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
             "DR. RAFIDAH BT. SAHAR"
         ],
@@ -2927,7 +2942,7 @@
         "sect": 2,
         "title": "LANGUAGE FOR INTERCULTURAL COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
             "DR. RAFIDAH BT. SAHAR"
         ],
@@ -2949,9 +2964,9 @@
         "sect": 3,
         "title": "LANGUAGE FOR INTERCULTURAL COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 2 B3.1.17",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RAFIDAH BT. SAHAR"
         ],
         "dayTime": [
             {
@@ -2973,7 +2988,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. KULWANT KAUR A/P KARTAR SINGH"
         ],
         "dayTime": [
             {
@@ -2993,7 +3008,7 @@
         "sect": 1,
         "title": "LANGUAGE AND SOCIETY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
             "DR. RAFIDAH BT. SAHAR"
         ],
@@ -3007,28 +3022,6 @@
                 "day": 7,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "ENCO 2312",
-        "sect": 2,
-        "title": "LANGUAGE AND SOCIETY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 7,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -3039,18 +3032,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAWDHAH BINTI PAIZ"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 7,
+                "startTime": "20:30",
+                "endTime": "21:50"
             },
             {
                 "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "18:30",
+                "endTime": "19:50"
             }
         ]
     },
@@ -3061,18 +3054,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. RAFIDAH BT. SAHAR"
+            "RAWDHAH BINTI PAIZ"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "21:50"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 2,
+                "startTime": "18:30",
+                "endTime": "19:50"
             }
         ]
     },
@@ -3081,7 +3074,7 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
         "lect": [
             "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
@@ -3105,7 +3098,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NAEM FARVEEZ AZIM BIN AZMI"
         ],
         "dayTime": [
             {
@@ -3122,7 +3115,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NAEM FARVEEZ AZIM BIN AZMI"
         ],
         "dayTime": [
             {
@@ -3139,7 +3132,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NAEM FARVEEZ AZIM BIN AZMI"
         ],
         "dayTime": [
             {
@@ -3154,9 +3147,9 @@
         "sect": 1,
         "title": "PUBLIC RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 2 B3.1.04",
         "lect": [
-            "TO BE DETERMINED"
+            "YUSRI BIN ADAM"
         ],
         "dayTime": [
             {
@@ -3168,27 +3161,10 @@
     },
     {
         "code": "ENCO 3102",
-        "sect": 2,
-        "title": "PUBLIC RELATIONS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ENCO 3102",
         "sect": 3,
         "title": "PUBLIC RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
             "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
         ],
@@ -3210,7 +3186,7 @@
         "sect": 1,
         "title": "APPLIED LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
             "ASSOC. PROF. DR. AFIZA BINTI MOHAMAD ALI"
         ],
@@ -3232,7 +3208,7 @@
         "sect": 2,
         "title": "APPLIED LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 5 B3.2.03",
         "lect": [
             "ASSOC. PROF. DR. AFIZA BINTI MOHAMAD ALI"
         ],
@@ -3254,7 +3230,7 @@
         "sect": 3,
         "title": "APPLIED LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 5 B3.2.03",
         "lect": [
             "ASSOC. PROF. DR. AFIZA BINTI MOHAMAD ALI"
         ],
@@ -3276,15 +3252,20 @@
         "sect": 1,
         "title": "COMMUNICATION LAW AND ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 5 B3.2.03",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MADIHAH BINTI RAJA ALIAS"
         ],
         "dayTime": [
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "16:50"
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -3293,14 +3274,19 @@
         "sect": 2,
         "title": "COMMUNICATION LAW AND ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 6 B3.2.01",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MADIHAH BINTI RAJA ALIAS"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
                 "endTime": "12:50"
             }
         ]
@@ -3310,14 +3296,19 @@
         "sect": 3,
         "title": "COMMUNICATION LAW AND ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MADIHAH BINTI RAJA ALIAS"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 7,
+                "startTime": "15:30",
                 "endTime": "16:50"
             }
         ]
@@ -3327,7 +3318,7 @@
         "sect": 1,
         "title": "DIGITAL MEDIA AND COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 1 B3.2.12",
         "lect": [
             "DR. ASMA BINTI MD ALI"
         ],
@@ -3349,7 +3340,7 @@
         "sect": 2,
         "title": "DIGITAL MEDIA AND COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
         "lect": [
             "DR. ASMA BINTI MD ALI"
         ],
@@ -3373,7 +3364,29 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AFIZA BINTI MOHAMAD ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 3109",
+        "sect": 2,
+        "title": "INTERNSHIP",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMA BINTI MD ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 3109",
+        "sect": 3,
+        "title": "INTERNSHIP",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "NURHANIS BINTI SAHIDDAN"
         ],
         "dayTime": []
     },
@@ -3382,7 +3395,7 @@
         "sect": 1,
         "title": "PROFESSIONAL COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 5 B3.2.03",
         "lect": [
             "DR. NUR NABILAH BINTI ABDULLAH"
         ],
@@ -3404,7 +3417,7 @@
         "sect": 2,
         "title": "PROFESSIONAL COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
             "DR. NUR NABILAH BINTI ABDULLAH"
         ],
@@ -3426,20 +3439,20 @@
         "sect": 1,
         "title": "DATA ANALYSIS AND INTERPRETATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
         "lect": [
             "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:20"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 7,
+                "startTime": "17:00",
+                "endTime": "18:20"
             }
         ]
     },
@@ -3448,7 +3461,7 @@
         "sect": 2,
         "title": "DATA ANALYSIS AND INTERPRETATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
         "lect": [
             "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
         ],
@@ -3470,7 +3483,7 @@
         "sect": 1,
         "title": "MUSLIMS AND THE NEW MEDIA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 2 B3.1.04",
         "lect": [
             "DR. KHAIRIL AZWAR BIN RAZALI"
         ],
@@ -3492,7 +3505,7 @@
         "sect": 2,
         "title": "MUSLIMS AND THE NEW MEDIA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 1 B3.1.30",
         "lect": [
             "DR. KHAIRIL AZWAR BIN RAZALI"
         ],
@@ -3514,7 +3527,7 @@
         "sect": 1,
         "title": "DISCOURSE ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "DR. FARRAH DIEBAA BT RASHID ALI"
         ],
@@ -3536,7 +3549,7 @@
         "sect": 2,
         "title": "DISCOURSE ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "DR. FARRAH DIEBAA BT RASHID ALI"
         ],
@@ -3560,7 +3573,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMAD SHAMSUL BIN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -3577,7 +3590,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMAD SHAMSUL BIN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -3592,20 +3605,20 @@
         "sect": 1,
         "title": "COMPUTER MEDIATED COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 4 B3.2.07",
         "lect": [
             "DR. ASMA BINTI MD ALI"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -3614,7 +3627,7 @@
         "sect": 2,
         "title": "COMPUTER MEDIATED COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 4 B3.2.07",
         "lect": [
             "DR. ASMA BINTI MD ALI"
         ],
@@ -3636,7 +3649,7 @@
         "sect": 1,
         "title": "TRANSLATION STUDIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "DR. SHAHRUL NIZAM BIN MOHD BASARI"
         ],
@@ -3658,7 +3671,7 @@
         "sect": 2,
         "title": "TRANSLATION STUDIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 3 B3.1.02",
         "lect": [
             "DR. SHAHRUL NIZAM BIN MOHD BASARI"
         ],
@@ -3682,7 +3695,106 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. FARRAH DIEBAA BT RASHID ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AFIZA BINTI MOHAMAD ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHRUL NIZAM BIN MOHD BASARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR NABILAH BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. RAFIDAH BT. SAHAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMA BINTI MD ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRIL AZWAR BIN RAZALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENCO 4999",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "NURHANIS BINTI SAHIDDAN"
         ],
         "dayTime": []
     },
@@ -3691,7 +3803,7 @@
         "sect": 1,
         "title": "FRENCH LANGUAGE LEVEL 1",
         "chr": 3.0,
-        "venue": "KLM CLASSROOM 1 B4.1.29",
+        "venue": "KLM FRENCH ROOM B4.1.32",
         "lect": [
             "MISS SAIRA RIAZ"
         ],
@@ -3713,7 +3825,7 @@
         "sect": 2,
         "title": "FRENCH LANGUAGE LEVEL 1",
         "chr": 3.0,
-        "venue": "KLM CLASSROOM 1 B4.1.29",
+        "venue": "KLM SEMINAR ROOM 3 B3.1.29",
         "lect": [
             "MISS SAIRA RIAZ"
         ],
@@ -3823,7 +3935,7 @@
         "sect": 1,
         "title": "BASIC JAPANESE 2",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
             "MR. NUR ARIFF BIN MALEK"
         ],
@@ -3867,7 +3979,7 @@
         "sect": 1,
         "title": "BASIC JAPANESE 3",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2B B4.2.19",
         "lect": [
             "MR. NUR ARIFF BIN MALEK"
         ],
@@ -3911,7 +4023,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO JAPANESE CULTURE AND SOCIETY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 3 B4.1.13",
         "lect": [
             "MISS NUR ARINA BINTI BAHTIAR"
         ],
@@ -3933,7 +4045,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO JAPANESE CULTURE AND SOCIETY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 3 B4.1.13",
         "lect": [
             "MISS NUR ARINA BINTI BAHTIAR"
         ],
@@ -3957,7 +4069,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD KHAIRI BIN MOHAMED NOR"
         ],
         "dayTime": [
             {
@@ -4016,7 +4128,7 @@
         "sect": 1,
         "title": "JAPANESE FOR THE WORKPLACE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 1 B3.1.16",
         "lect": [
             "MISS NUR ARINA BINTI BAHTIAR"
         ],
@@ -4062,7 +4174,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD FADLY BIN ABD RAZAK"
         ],
         "dayTime": [
             {
@@ -4084,7 +4196,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD FADLY BIN ABD RAZAK"
         ],
         "dayTime": [
             {
@@ -4236,7 +4348,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO CHINESE CULTURE AND SOCIETY",
         "chr": 3.0,
-        "venue": "KLM CLASSROOM 2 B4.1.12",
+        "venue": "KLM SEMINAR ROOM 3 B3.1.29",
         "lect": [
             "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
         ],
@@ -4280,20 +4392,20 @@
         "sect": 1,
         "title": "MANDARIN FOR WORKPLACE",
         "chr": 3.0,
-        "venue": "KLM CLASSROOM 2 B4.1.12",
+        "venue": "KLM PBL ROOM 7 B3.1.12",
         "lect": [
             "MUHAMMAD NAZIRUL BIN MOHD NOOR"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4302,7 +4414,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 1 B4.1.29",
         "lect": [
             "ASSOC. PROF. DR. MAZNI BINTI SAAD"
         ],
@@ -4324,9 +4436,9 @@
         "sect": 2,
         "title": "INTRODUCTION TO TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 1 B4.1.29",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR HISYAM BIN SELIMAN"
         ],
         "dayTime": [
             {
@@ -4341,7 +4453,7 @@
         "sect": 3,
         "title": "INTRODUCTION TO TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 1 B4.1.29",
         "lect": [
             "ASSOC. PROF. DR. MAZNI BINTI SAAD"
         ],
@@ -4363,7 +4475,7 @@
         "sect": 4,
         "title": "INTRODUCTION TO TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 2 B3.1.17",
         "lect": [
             "DR. SAMSHUL AMRY BIN ABDUL LATIF"
         ],
@@ -4385,7 +4497,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO TOURISM PLANNING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 1 B4.1.29",
         "lect": [
             "DR. NUR SHUHADAH BINTI MOHD"
         ],
@@ -4407,7 +4519,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO TOURISM PLANNING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
             "DR. NUR HIDAYAH BINTI ABD RAHMAN"
         ],
@@ -4429,7 +4541,7 @@
         "sect": 1,
         "title": "ISLAMIC PERSPECTIVE IN TOURISM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -4451,7 +4563,7 @@
         "sect": 2,
         "title": "ISLAMIC PERSPECTIVE IN TOURISM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 8 B3.1.11",
         "lect": [
             "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM"
         ],
@@ -4468,7 +4580,7 @@
         "sect": 1,
         "title": "CULTURAL AND HERITAGE TOURISM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 1 B3.1.16",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -4490,7 +4602,7 @@
         "sect": 1,
         "title": "FUNDAMENTAL OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 1 B3.2.12",
         "lect": [
             "DR. SITI YULIANDI AHMAD"
         ],
@@ -4512,7 +4624,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 5 B3.2.06",
         "lect": [
             "DR. SITI YULIANDI AHMAD"
         ],
@@ -4534,15 +4646,15 @@
         "sect": 1,
         "title": "IT IN TOURISM PLANNING AND DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER ROOM B4.2.03",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IKHWAN BIN JAMALUDIN"
         ],
         "dayTime": [
             {
                 "day": 7,
-                "startTime": "11:30",
-                "endTime": "13:20"
+                "startTime": "11:00",
+                "endTime": "13:50"
             }
         ]
     },
@@ -4551,15 +4663,15 @@
         "sect": 2,
         "title": "IT IN TOURISM PLANNING AND DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER ROOM B4.2.03",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IKHWAN BIN JAMALUDIN"
         ],
         "dayTime": [
             {
                 "day": 7,
-                "startTime": "08:30",
-                "endTime": "11:20"
+                "startTime": "08:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -4568,7 +4680,7 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY IN TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 3 B3.2.08",
         "lect": [
             "DR. SITI YULIANDI AHMAD"
         ],
@@ -4590,9 +4702,9 @@
         "sect": 2,
         "title": "RESEARCH METHODOLOGY IN TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
-            "TO BE DETERMINED"
+            "NURZAFIRAH BINTI DAN"
         ],
         "dayTime": [
             {
@@ -4612,7 +4724,7 @@
         "sect": 1,
         "title": "HUMAN RESOURCE MANAGEMENT IN SERVICE ORGANISATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM MICRO TEACHING LAB B3.2.16",
         "lect": [
             "DR. SAMSHUL AMRY BIN ABDUL LATIF"
         ],
@@ -4634,7 +4746,7 @@
         "sect": 2,
         "title": "HUMAN RESOURCE MANAGEMENT IN SERVICE ORGANISATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
             "ASSOC. PROF. DR. MAZNI BINTI SAAD"
         ],
@@ -4656,7 +4768,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
             "MOHD TON BIN AB HALIM"
         ],
@@ -4678,7 +4790,7 @@
         "sect": 2,
         "title": "FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 6 B3.1.35",
         "lect": [
             "MOHD TON BIN AB HALIM"
         ],
@@ -4700,20 +4812,20 @@
         "sect": 1,
         "title": "INTRODUCTION TO WEB TECHNOLOGY AND DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER LAB 4 B3.2.07",
         "lect": [
-            "DR. ASMA BINTI MD ALI"
+            "NURUL FARDINI BINTI ZAKARIA"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -4722,9 +4834,9 @@
         "sect": 2,
         "title": "INTRODUCTION TO WEB TECHNOLOGY AND DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM COMPUTER ROOM B4.2.03",
         "lect": [
-            "DR. ASMA BINTI MD ALI"
+            "NURUL FARDINI BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -4744,7 +4856,7 @@
         "sect": 1,
         "title": "SERVICE MARKETING IN TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 2 B3.1.17",
         "lect": [
             "DR. SAMSHUL AMRY BIN ABDUL LATIF"
         ],
@@ -4766,7 +4878,7 @@
         "sect": 2,
         "title": "SERVICE MARKETING IN TOURISM AND HOSPITALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 1 B3.1.16",
         "lect": [
             "MOHD TON BIN AB HALIM"
         ],
@@ -4788,9 +4900,9 @@
         "sect": 1,
         "title": "TRAVEL AGENCY PLANNING AND DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2A B4.2.18",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR SHUHAILA BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -4810,7 +4922,7 @@
         "sect": 1,
         "title": "SAFETY AND RISK MANAGEMENT IN TOURISM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 2 B4.1.12",
         "lect": [
             "ASSOC. PROF. DR. MAZNI BINTI SAAD"
         ],
@@ -4832,7 +4944,7 @@
         "sect": 1,
         "title": "TOURISM PRODUCT PLANNING AND DEVELOPMENT (WORKSHOP 1)",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KLM STUDIO 1 B4.1.39",
         "lect": [
             "DR. NUR SHUHADAH BINTI MOHD"
         ],
@@ -4854,9 +4966,9 @@
         "sect": 1,
         "title": "THE LAW OF TOURISM AND HOSPITALITY INDUSTRY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MADIHAH BINTI RAJA ALIAS"
         ],
         "dayTime": [
             {
@@ -4876,9 +4988,9 @@
         "sect": 2,
         "title": "THE LAW OF TOURISM AND HOSPITALITY INDUSTRY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MADIHAH BINTI RAJA ALIAS"
         ],
         "dayTime": [
             {
@@ -4898,9 +5010,9 @@
         "sect": 1,
         "title": "TOUR OPERATION PLANNING AND DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR SHUHAILA BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -4920,9 +5032,9 @@
         "sect": 2,
         "title": "TOUR OPERATION PLANNING AND DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
-            "TO BE DETERMINED"
+            "NURZAFIRAH BINTI DAN"
         ],
         "dayTime": [
             {
@@ -4942,7 +5054,7 @@
         "sect": 3,
         "title": "TOUR OPERATION PLANNING AND DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2B B4.2.19",
         "lect": [
             "DR. NUR HIDAYAH BINTI ABD RAHMAN"
         ],
@@ -4964,7 +5076,7 @@
         "sect": 1,
         "title": "PROFESSIONAL BUSINESS ETIQUETTE AND CUSTOMER SERVICE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
             "ASSOC. PROF. DR. MAZNI BINTI SAAD"
         ],
@@ -4986,7 +5098,7 @@
         "sect": 2,
         "title": "PROFESSIONAL BUSINESS ETIQUETTE AND CUSTOMER SERVICE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
             "MOHD TON BIN AB HALIM"
         ],
@@ -5008,7 +5120,7 @@
         "sect": 1,
         "title": "EVENT PLANNING AND MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM CLASSROOM 6 B3.1.35",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -5030,7 +5142,7 @@
         "sect": 1,
         "title": "TOURISM DESTINATION ACTION PLAN (WORKSHOP 2)",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
             "DR. NUR HIDAYAH BINTI ABD RAHMAN"
         ],
@@ -5052,7 +5164,7 @@
         "sect": 2,
         "title": "TOURISM DESTINATION ACTION PLAN (WORKSHOP 2)",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KLM STUDIO 4 B4.2.01",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -5074,9 +5186,9 @@
         "sect": 1,
         "title": "PROFESSIONAL GROOMING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 4 B4.2.01",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR HISYAM BIN SELIMAN"
         ],
         "dayTime": [
             {
@@ -5091,9 +5203,9 @@
         "sect": 2,
         "title": "PROFESSIONAL GROOMING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2B B4.2.19",
         "lect": [
-            "ASSOC. PROF. DR. MAZNI BINTI SAAD"
+            "NOOR SHUHAILA BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -5113,7 +5225,7 @@
         "sect": 1,
         "title": "SUSTAINABLE TOURISM DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2B B4.2.19",
         "lect": [
             "DR. NUR HIDAYAH BINTI ABD RAHMAN"
         ],
@@ -5135,7 +5247,7 @@
         "sect": 2,
         "title": "SUSTAINABLE TOURISM DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM STUDIO 2B B4.2.19",
         "lect": [
             "DR. NUR SHUHADAH BINTI MOHD"
         ],
@@ -5159,7 +5271,73 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SHUHADAH BINTI MOHD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4612",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MAZNI BINTI SAAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4612",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SAMSHUL AMRY BIN ABDUL LATIF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4612",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI YULIANDI AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4612",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HIDAYAH BINTI ABD RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4612",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD ALI A. RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4612",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "MOHD TON BIN AB HALIM"
         ],
         "dayTime": []
     },
@@ -5170,18 +5348,73 @@
         "chr": 9.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SHUHADAH BINTI MOHD"
         ],
         "dayTime": []
     },
     {
-        "code": "TPHM 3363",
-        "sect": 1,
-        "title": "INTERNSHIP 1",
-        "chr": 3.0,
+        "code": "TMGT 4921",
+        "sect": 2,
+        "title": "TOURISM INTERNSHIP",
+        "chr": 9.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MAZNI BINTI SAAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4921",
+        "sect": 3,
+        "title": "TOURISM INTERNSHIP",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. SAMSHUL AMRY BIN ABDUL LATIF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4921",
+        "sect": 4,
+        "title": "TOURISM INTERNSHIP",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI YULIANDI AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4921",
+        "sect": 5,
+        "title": "TOURISM INTERNSHIP",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWA BTE MD SAWARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4921",
+        "sect": 6,
+        "title": "TOURISM INTERNSHIP",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "MOHD TON BIN AB HALIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TMGT 4921",
+        "sect": 7,
+        "title": "TOURISM INTERNSHIP",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD ALI A. RAHMAN"
         ],
         "dayTime": []
     },
@@ -5192,7 +5425,29 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR HIDAYAH BINTI ABD RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TPHM 4170",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHUHADAH BINTI MOHD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "TPHM 4170",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWA BTE MD SAWARI"
         ],
         "dayTime": []
     },
@@ -5203,7 +5458,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR HIDAYAH BINTI ABD RAHMAN"
         ],
         "dayTime": []
     }

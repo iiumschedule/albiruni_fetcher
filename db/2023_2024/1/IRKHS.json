@@ -48,7 +48,7 @@
         "sect": 1,
         "title": "TARIKH AL-ADAB AL-ARABI (HISTORY OF ARABIC LITERATURE)",
         "chr": 3.0,
-        "venue": "HSC LR 27 LEVEL 2",
+        "venue": "HSC LR 3 1.36",
         "lect": [
             "ASSOC. PROF. DR. ADLI BIN YAACOB"
         ],
@@ -198,6 +198,50 @@
         ]
     },
     {
+        "code": "ARAB 1370",
+        "sect": 7,
+        "title": "AL-ARABIYYAH LI AL-DIRASAT AL-ISLAMIYYAH (ARABIC FOR ISLAMIC STUDIES)",
+        "chr": 3.0,
+        "venue": "HSC LR 27 LEVEL 2",
+        "lect": [
+            "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ARAB 1370",
+        "sect": 8,
+        "title": "AL-ARABIYYAH LI AL-DIRASAT AL-ISLAMIYYAH (ARABIC FOR ISLAMIC STUDIES)",
+        "chr": 3.0,
+        "venue": "ADM LR 9 3.100",
+        "lect": [
+            "PROF. DR. RAHMAH BINTI AHMAD H. OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ARAB 1372",
         "sect": 1,
         "title": "TATBIQAT HASUBIYYAH FI AL-LUGHAH WA AL-ADAB (COMPUTER APPLICATIONS IN LANGUAGE AND LITERATURE)",
@@ -264,13 +308,35 @@
         ]
     },
     {
+        "code": "ARAB 1372",
+        "sect": 4,
+        "title": "TATBIQAT HASUBIYYAH FI AL-LUGHAH WA AL-ADAB (COMPUTER APPLICATIONS IN LANGUAGE AND LITERATURE)",
+        "chr": 3.0,
+        "venue": "HSC ARABIC LAB 3",
+        "lect": [
+            "DR. RADHWA BINTI ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "ARAB 2212",
         "sect": 1,
         "title": "SCIENCE OF AL-BAYAN",
         "chr": 3.0,
         "venue": "ADM LR 9 3.100",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MA'AHAD BIN MOKHTAR"
         ],
         "dayTime": [
             {
@@ -282,28 +348,6 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "ARAB 2212",
-        "sect": 2,
-        "title": "SCIENCE OF AL-BAYAN",
-        "chr": 3.0,
-        "venue": "HSC LR 27 LEVEL 2",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -436,28 +480,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ARAB 2323",
-        "sect": 1,
-        "title": "AL-MADKHAL ILA AL-TARJAMAH (INTRODUCTION TO TRANSLATION)",
-        "chr": 3.0,
-        "venue": "ADM LR 9 3.100",
-        "lect": [
-            "PROF. DR. RAHMAH BINTI AHMAD H. OSMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -818,7 +840,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO ISLAMIC LITERATURE",
         "chr": 3.0,
-        "venue": "HSC ARABIC LAB 3",
+        "venue": "HSC M.MEDIA LAB 1.74",
         "lect": [
             "ASSOC. PROF. DR. ADLI BIN YAACOB"
         ],
@@ -1617,55 +1639,11 @@
         ]
     },
     {
-        "code": "COMM 1310",
-        "sect": 6,
-        "title": "INTRODUCTION TO COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC LR 21 2.48",
-        "lect": [
-            "DR. HARMI TAAZIM BIN MOHAMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "COMM 1310",
-        "sect": 7,
-        "title": "INTRODUCTION TO COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC WRITING LAB 1.27",
-        "lect": [
-            "DR. HARMI TAAZIM BIN MOHAMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "COMM 1311",
         "sect": 1,
         "title": "INTERPERSONAL COMMUNICATION",
         "chr": 3.0,
-        "venue": "HSC WRITING LAB 1.27",
+        "venue": "HSC SPEECH LAB 1.23",
         "lect": [
             "DR. RIZALAWATI BINTI ISMAIL"
         ],
@@ -1687,7 +1665,7 @@
         "sect": 2,
         "title": "INTERPERSONAL COMMUNICATION",
         "chr": 3.0,
-        "venue": "HSC WRITING LAB 1.27",
+        "venue": "HSC M.MEDIA LAB 1.74",
         "lect": [
             "DR. RIZALAWATI BINTI ISMAIL"
         ],
@@ -1793,6 +1771,28 @@
         ]
     },
     {
+        "code": "COMM 1313",
+        "sect": 3,
+        "title": "MEDIA AND MUSLIM SOCIETIES",
+        "chr": 3.0,
+        "venue": "HSC M.MEDIA LAB 1.74",
+        "lect": [
+            "MAZNI BINTI BUYONG"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "COMM 2311",
         "sect": 1,
         "title": "INTERCULTURAL COMMUNICATION",
@@ -1833,28 +1833,6 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "COMM 2312",
-        "sect": 2,
-        "title": "BASICS OF WRITING",
-        "chr": 3.0,
-        "venue": "HSC LR 16 1.50",
-        "lect": [
-            "ASSOC. PROF. DR. AIDA BINTI MOKHTAR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -2013,28 +1991,6 @@
         ]
     },
     {
-        "code": "COMM 3200",
-        "sect": 2,
-        "title": "MEDIA AND COMMUNICATION THEORY",
-        "chr": 3.0,
-        "venue": "HSC LR 16 1.50",
-        "lect": [
-            "PROF. DATO' SRI DR. SYED ARABI BIN SYED ABDULLAH IDID"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
         "code": "COMM 3250",
         "sect": 1,
         "title": "COMMUNICATION LAW AND ETHICS",
@@ -2097,28 +2053,6 @@
                 "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "COMM 3311",
-        "sect": 2,
-        "title": "PRINCIPLES OF PUBLIC RELATIONS",
-        "chr": 3.0,
-        "venue": "HSC SPEECH LAB 1.23",
-        "lect": [
-            "ASSOC. PROF. DR. ZETI AZREEN BINTI AHMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -2233,6 +2167,28 @@
         ]
     },
     {
+        "code": "COMM 3560",
+        "sect": 2,
+        "title": "INTEGRATED MARKETING COMMUNICATION",
+        "chr": 3.0,
+        "venue": "HSC LR 16 1.50",
+        "lect": [
+            "ASSOC. PROF. DR. AIDA BINTI MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "COMM 3620",
         "sect": 1,
         "title": "MEDIA PRODUCTION",
@@ -2277,28 +2233,6 @@
         ]
     },
     {
-        "code": "COMM 4451",
-        "sect": 2,
-        "title": "PUBLIC OPINION",
-        "chr": 3.0,
-        "venue": "HSC M.MEDIA LAB 1.74",
-        "lect": [
-            "MAZNI BINTI BUYONG"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "COMM 4460",
         "sect": 1,
         "title": "THINKING TECHNIQUES FOR COMMUNICATORS",
@@ -2325,7 +2259,7 @@
         "sect": 2,
         "title": "THINKING TECHNIQUES FOR COMMUNICATORS",
         "chr": 3.0,
-        "venue": "HSC M.MEDIA LAB 1.74",
+        "venue": "HSC WRITING LAB 1.27",
         "lect": [
             "DR. NUR SHAKIRA BINTI MOHD NASIR"
         ],
@@ -2761,6 +2695,17 @@
         "dayTime": []
     },
     {
+        "code": "ENGL 1210",
+        "sect": 99,
+        "title": "LITERARY GENRES II: THE NOVEL & THE SHORT STORY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MAZLAN BIN MOHD YUSOF"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ENGL 1310",
         "sect": 1,
         "title": "LITERATURE, LINGUISTICS AND ISLAM",
@@ -2823,6 +2768,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 1310",
+        "sect": 4,
+        "title": "LITERATURE, LINGUISTICS AND ISLAM",
+        "chr": 3.0,
+        "venue": "HSC TR 24 3.72",
+        "lect": [
+            "DR. MAIMUNAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -2897,7 +2864,7 @@
         "sect": 4,
         "title": "LINGUISTICS IN THE HUMANITIES",
         "chr": 3.0,
-        "venue": "HSC TR 23 3.71",
+        "venue": "ADM LT 1 2.9",
         "lect": [
             "DR. SITI NURNADILLA MOHAMAD JAMIL"
         ],
@@ -2987,7 +2954,7 @@
         "chr": 3.0,
         "venue": "HSC TR 24 3.72",
         "lect": [
-            "DR. NOR ELENA BINTI A.RAHIM"
+            "DR. SITI AFIFAH BINTI HASHIM"
         ],
         "dayTime": [
             {
@@ -3031,7 +2998,7 @@
         "chr": 3.0,
         "venue": "ADM LT 2 2.111",
         "lect": [
-            "DR. WAN NUR MADIHA BINTI RAMLAN"
+            "NURUL AKMAL BINTI CHE NOOR AZEMAN"
         ],
         "dayTime": [
             {
@@ -3267,6 +3234,17 @@
         ]
     },
     {
+        "code": "ENGL 2050",
+        "sect": 99,
+        "title": "GRAMMATICAL ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI AFIFAH BINTI HASHIM"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ENGL 2075",
         "sect": 1,
         "title": "SOCIAL AND CULTURAL DISCOURSE",
@@ -3381,7 +3359,7 @@
         "sect": 1,
         "title": "SPEECH AND ARTICULATORY SYSTEM",
         "chr": 3.0,
-        "venue": "HSC ENGLISH LAB 3",
+        "venue": "HSC SOCA LAB 2",
         "lect": [
             "DR. ZURAHANI BINTI ABDUL RAHIM"
         ],
@@ -3554,28 +3532,6 @@
     },
     {
         "code": "ENGL 2351",
-        "sect": 2,
-        "title": "SHAKESPEARE IN HIS AGE AND IN THE CONTEMPORARY CONTEXT",
-        "chr": 3.0,
-        "venue": "ADM LT 2 2.111",
-        "lect": [
-            "NURUL AKMAL BINTI CHE NOOR AZEMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "ENGL 2351",
         "sect": 3,
         "title": "SHAKESPEARE IN HIS AGE AND IN THE CONTEMPORARY CONTEXT",
         "chr": 3.0,
@@ -3598,28 +3554,6 @@
     },
     {
         "code": "ENGL 2999",
-        "sect": 1,
-        "title": "RESEARCH METHODOLOGY",
-        "chr": 3.0,
-        "venue": "HSC LR 5 1.33",
-        "lect": [
-            "DR. AINUL AZMIN BINTI MD. ZAMIN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "ENGL 2999",
         "sect": 2,
         "title": "RESEARCH METHODOLOGY",
         "chr": 3.0,
@@ -3703,28 +3637,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "ENGL 3160",
-        "sect": 2,
-        "title": "SEMIOTICS",
-        "chr": 3.0,
-        "venue": "HSC TR 23 3.71",
-        "lect": [
-            "DR. SITI AFIFAH BINTI HASHIM"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -3949,28 +3861,6 @@
         ]
     },
     {
-        "code": "ENGL 4056",
-        "sect": 2,
-        "title": "FILM AND MEDIA DISCOURSE",
-        "chr": 3.0,
-        "venue": "HSC TR 24 3.72",
-        "lect": [
-            "DR. NORA BT MOHD. NASIR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "ENGL 4516",
         "sect": 1,
         "title": "MALAYSIAN AND SINGAPOREAN LITERATURE IN ENGLISH",
@@ -4055,28 +3945,6 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "ENGL 4635",
-        "sect": 2,
-        "title": "DISCOURSE ANALYSIS",
-        "chr": 3.0,
-        "venue": "HSC TR 24 3.72",
-        "lect": [
-            "DR. SITI NURNADILLA MOHAMAD JAMIL"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -4272,11 +4140,17 @@
         "sect": 13,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "HSC TR 24 3.72",
         "lect": [
             "DR. SITI NURAISHAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
     },
     {
         "code": "ENGL 4994",
@@ -4466,6 +4340,17 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "HART 2101",
+        "sect": 99,
+        "title": "ETHICS AND TOYYIBAN CONCEPT IN HALAL PRODUCTS AND SERVICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. FUAD B. MD. SAWARI"
+        ],
+        "dayTime": []
     },
     {
         "code": "HART 2103",
@@ -4808,6 +4693,28 @@
         ]
     },
     {
+        "code": "HIST 1301",
+        "sect": 2,
+        "title": "HISTORY OF MALAYSIA, 1400-1957",
+        "chr": 3.0,
+        "venue": "HSC LR 16 1.50",
+        "lect": [
+            "MUHAMMAD ASHRAF BIN NORIS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "HIST 1302",
         "sect": 1,
         "title": "ISLAMIC HISTORY, 610-750",
@@ -4824,6 +4731,28 @@
             },
             {
                 "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "HIST 1302",
+        "sect": 2,
+        "title": "ISLAMIC HISTORY, 610-750",
+        "chr": 3.0,
+        "venue": "HSC TR 13 1.47",
+        "lect": [
+            "SITI HADIJA BINTI MOHD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
             }
@@ -4848,6 +4777,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "HIST 1303",
+        "sect": 2,
+        "title": "ISLAM IN THE MALAY WORLD",
+        "chr": 3.0,
+        "venue": "HSC LR 3 1.36",
+        "lect": [
+            "DR. MOHAMAD HAZIZIE BIN SULKAFLE"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -5046,28 +4997,6 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "HIST 3312",
-        "sect": 1,
-        "title": "MODERN HISTORY OF CHINA",
-        "chr": 3.0,
-        "venue": "HSC LR 11 1.44",
-        "lect": [
-            "ASSOC. PROF. DR. FAUZIAH BT. FATHIL"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -5391,6 +5320,17 @@
         "dayTime": []
     },
     {
+        "code": "HIST 4996",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FAUZIAH BT. FATHIL"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MPU 3112",
         "sect": 1,
         "title": "HUBUNGAN ETNIK",
@@ -5453,7 +5393,7 @@
         "chr": 3.0,
         "venue": "HSC LR 26 3.31",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR ADILLAH BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -6003,7 +5943,7 @@
         "chr": 3.0,
         "venue": "HSC LR 3 1.36",
         "lect": [
-            "TO BE DETERMINED"
+            "MAHMOOD HOSSAIN"
         ],
         "dayTime": [
             {
@@ -6135,7 +6075,7 @@
         "chr": 3.0,
         "venue": "HSC LR 17 1.52",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IZZUDDIN BIN JAAFAR"
         ],
         "dayTime": [
             {
@@ -7524,6 +7464,105 @@
                 "endTime": "18:20"
             }
         ]
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SURIATI BINTI SIDEK"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MAISARAH BINTI MOHD. TAIB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HAIKAL B. AHMAD PUA'AD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL MIZA BINTI MOHD RASHID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI INARAH BINTI HASIM @ HASHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOR DIANA BINTI MOHD. MAHUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHUKRAN BIN ABD RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. INTAN AIDURA BINTI ALIAS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "SYED AHMAD MUHAJIR ALHADDAD BIN SYED ESA"
+        ],
+        "dayTime": []
     },
     {
         "code": "RKFQ 1310",
@@ -9314,7 +9353,7 @@
         "chr": 3.0,
         "venue": "IRK LR 7 2.43",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD MASRI BIN MOHD RAMLI"
         ],
         "dayTime": [
             {
@@ -9356,7 +9395,7 @@
         "sect": 4,
         "title": "FIQH AL-SIRAH (REFLECTIONS ON THE PROPHETIC HISTORY)",
         "chr": 3.0,
-        "venue": "IRK LR 1 1.25",
+        "venue": "HSC LR 17 1.52",
         "lect": [
             "DR. NURUL JANNAH BT. ZAINAN NAZRI"
         ],
@@ -9732,7 +9771,7 @@
         "chr": 3.0,
         "venue": "IRK AL GHAZALI 1.1",
         "lect": [
-            "NURHAFIZAH BINTI JAUHARI"
+            "TAREK TAHA MAKRAMALLAH"
         ],
         "dayTime": [
             {
@@ -9754,7 +9793,7 @@
         "chr": 3.0,
         "venue": "IRK LR 5 2.41",
         "lect": [
-            "TAREK TAHA MAKRAMALLAH"
+            "NURHAFIZAH BINTI JAUHARI"
         ],
         "dayTime": [
             {
@@ -9776,7 +9815,7 @@
         "chr": 3.0,
         "venue": "IRK LR 4 1.29",
         "lect": [
-            "TO BE DETERMINED"
+            "NURHAFIZAH BINTI JAUHARI"
         ],
         "dayTime": [
             {
@@ -10060,7 +10099,7 @@
         "sect": 1,
         "title": "DIRASAT LI SUWAR MUKHTARAH (STUDY OF SELECTED SURAHS)",
         "chr": 3.0,
-        "venue": "IRK LR 3 1.24",
+        "venue": "ADM LR 1B 2.133",
         "lect": [
             "ASSOC. PROF. DR. NOOR MOHAMMAD OSMANI"
         ],
@@ -10496,6 +10535,17 @@
         "dayTime": []
     },
     {
+        "code": "RKQS 4995",
+        "sect": 15,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHAMMED ABULLAIS SHAMSUDDIN MOHAMMED YAQUB"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "RKQS2999A",
         "sect": 1,
         "title": "MANAHIJ AL-BAHTH: RESEARCH METHODOLOGY",
@@ -10742,7 +10792,7 @@
         "sect": 2,
         "title": "ITTIJAHAT FI DIRASAT AL-SUNNAH",
         "chr": 3.0,
-        "venue": "IRK LR 2 2.43",
+        "venue": "HSC TR 13 1.47",
         "lect": [
             "DR. AMAR FETTANE"
         ],
@@ -10866,28 +10916,6 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "RKUD 1310",
-        "sect": 3,
-        "title": "ISLAMIC 'AQIDAH",
-        "chr": 3.0,
-        "venue": "IRK AL GHAZALI 1.1",
-        "lect": [
-            "DR. MAZIAH BTE. MUSTAPHA"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -11162,7 +11190,7 @@
         "chr": 3.0,
         "venue": "IRK SEMINAR ROO 1.15",
         "lect": [
-            "DR. MASITOH BINTI AHMAD"
+            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
         ],
         "dayTime": [
             {
@@ -11251,28 +11279,6 @@
         "venue": "IRK AL GHAZALI 1.1",
         "lect": [
             "DR. NUR SURIYA BINTI MOHD NOR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "RKUD 2030",
-        "sect": 3,
-        "title": "ISLAMIC DA'WAH",
-        "chr": 3.0,
-        "venue": "IRK LR 9 3.68",
-        "lect": [
-            "ASSOC. PROF. DR. MOHD. NOH BIN ABDUL JALIL"
         ],
         "dayTime": [
             {
@@ -11442,6 +11448,28 @@
         ]
     },
     {
+        "code": "RKUD 2318",
+        "sect": 3,
+        "title": "WORLD RLIGIONS I",
+        "chr": 3.0,
+        "venue": "IRK LR 9 3.68",
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. NOH BIN ABDUL JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "RKUD 2321",
         "sect": 1,
         "title": "WORLD RELIGIONS II",
@@ -11449,28 +11477,6 @@
         "venue": "IRK LR 4 1.29",
         "lect": [
             "DR. NUR SURIYA BINTI MOHD NOR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "RKUD 2321",
-        "sect": 2,
-        "title": "WORLD RELIGIONS II",
-        "chr": 3.0,
-        "venue": "IRK AL GHAZALI 1.1",
-        "lect": [
-            "DR. MASITOH BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -12036,28 +12042,6 @@
         ]
     },
     {
-        "code": "RKUD 4320",
-        "sect": 1,
-        "title": "PHILOSOPHY OF RELIGION",
-        "chr": 3.0,
-        "venue": "IRK LR 9 3.68",
-        "lect": [
-            "DR. UNGARAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            },
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            }
-        ]
-    },
-    {
         "code": "RKUD 4324",
         "sect": 1,
         "title": "MORAL CODES IN WORLD RELIGIONS",
@@ -12124,6 +12108,314 @@
         ]
     },
     {
+        "code": "RKUD 4993",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. NOH BIN ABDUL JALIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FATMIR SHEHU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHD MUMTAZ ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MEGAWATI BT MORIS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAZIAH BTE. MUSTAPHA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ABDUL SALAM @ ZULKIFLI B.MUHAMAD SHUKRI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD ARIF BIN ZULKEFLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AYMAN AL-AKITI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. THAMEEM USHAMA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 12,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MASITOH BINTI AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 13,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 14,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. CHE AMNAH BT. BAHARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 15,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. WAN MOHD AZAM BIN MOHD AMIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 16,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SURIYA BINTI MOHD NOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 17,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AMALI BIN MOHD. DAUD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 18,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. UNGARAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZILAH BTE DIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. NOH BIN ABDUL JALIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AMALI BIN MOHD. DAUD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SURIYA BINTI MOHD NOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHD MUMTAZ ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FATMIR SHEHU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HASLINA BINTI IBRAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "RKUD2020A",
         "sect": 2,
         "title": "ISLAMIC ETHICS (ARABIC)",
@@ -12152,7 +12444,7 @@
         "chr": 3.0,
         "venue": "ADM LR 1 2.134",
         "lect": [
-            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+            "DR. MASITOH BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -12262,7 +12554,7 @@
         "chr": 3.0,
         "venue": "HSC LT 1 1.62",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. IYAD M. Y. EID"
         ],
         "dayTime": [
             {
@@ -12414,7 +12706,7 @@
         "sect": 2,
         "title": "MAN AND SOCIETIES IN MUSLIM SCRIPTURES",
         "chr": 3.0,
-        "venue": "HSC TR 10 1.43",
+        "venue": "HSC TR 13 1.47",
         "lect": [
             "DR. NORASIKIN BT BASIR"
         ],
@@ -12455,32 +12747,10 @@
     },
     {
         "code": "SOCA 1380",
-        "sect": 2,
-        "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES I",
-        "chr": 3.0,
-        "venue": "HSC TR 20 1.55",
-        "lect": [
-            "DR. IYAD M. Y. EID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 1380",
         "sect": 3,
         "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES I",
         "chr": 3.0,
-        "venue": "HSC TR 20 1.55",
+        "venue": "HSC TR 13 1.47",
         "lect": [
             "DR. IYAD M. Y. EID"
         ],
@@ -12546,7 +12816,7 @@
         "sect": 3,
         "title": "SOCIOLOGY OF MARRIAGE AND FAMILY",
         "chr": 3.0,
-        "venue": "HSC TR 10 1.43",
+        "venue": "HSC TR 15 1.49",
         "lect": [
             "DR. SH FATIMAH ALZAHRAH BINTI SYED HUSSIEN"
         ],
@@ -12652,6 +12922,28 @@
         ]
     },
     {
+        "code": "SOCA 2380",
+        "sect": 1,
+        "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES II",
+        "chr": 3.0,
+        "venue": "HSC LT 1 1.62",
+        "lect": [
+            "DR. SOHELA MUSTARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "SOCA 2399",
         "sect": 1,
         "title": "SOCIAL RESEARCH METHODS I",
@@ -12692,28 +12984,6 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 3020",
-        "sect": 1,
-        "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORY II",
-        "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
-        "lect": [
-            "DR. SOHELA MUSTARI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -13114,20 +13384,15 @@
         "sect": 4,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
+        "venue": "HSC TR 13 1.47",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "11:00"
             }
         ]
     },
@@ -13629,7 +13894,7 @@
         "chr": 3.0,
         "venue": "ADM LT 5 4.2",
         "lect": [
-            "DR. MAULANA AKBAR SHAH @ U TUN AUNG"
+            "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
         ],
         "dayTime": [
             {
@@ -13673,7 +13938,7 @@
         "chr": 3.0,
         "venue": "ADM LT 5 4.2",
         "lect": [
-            "DR. MAULANA AKBAR SHAH @ U TUN AUNG"
+            "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
         ],
         "dayTime": [
             {
@@ -13888,6 +14153,28 @@
     },
     {
         "code": "UNGS 1301",
+        "sect": 33,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": "ADM LT 1 2.9",
+        "lect": [
+            "DATO' HAMIDON BIN ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
         "sect": 501,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
@@ -14025,7 +14312,7 @@
         "chr": 3.0,
         "venue": "KLM LT 2 B4.1.16",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14042,27 +14329,32 @@
     },
     {
         "code": "UNGS 1301",
-        "sect": 801,
+        "sect": 508,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": "EXAM HALL 1, KOP L1",
+        "venue": "KLM SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "11:30"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
     {
         "code": "UNGS 1301",
-        "sect": 802,
+        "sect": 801,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": "LECTURE HALL 1 KOP GF",
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -14127,6 +14419,23 @@
     },
     {
         "code": "UNGS 1301",
+        "sect": 813,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HASBULLAH BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
         "sect": 820,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
@@ -14145,6 +14454,23 @@
     {
         "code": "UNGS 1301",
         "sect": 821,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HASBULLAH BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 822,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
         "venue": null,
@@ -14245,40 +14571,6 @@
         ]
     },
     {
-        "code": "UNGS 1301",
-        "sect": 841,
-        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "17:30"
-            }
-        ]
-    },
-    {
-        "code": "UNGS 1301",
-        "sect": 842,
-        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "17:30"
-            }
-        ]
-    },
-    {
         "code": "UNGS 2011",
         "sect": 1,
         "title": "CREATIVE THINKING AND PROBLEM SOLVING",
@@ -14347,6 +14639,17 @@
         ]
     },
     {
+        "code": "UNGS 2080",
+        "sect": 99,
+        "title": "ETHICS AND FIQH OF CONTEMPORARY ISSUES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "UNGS 2090",
         "sect": 1,
         "title": "THE ISLAMIC WORLDVIEW, KNOWLEDGE AND CIVILIZATION",
@@ -14364,13 +14667,24 @@
         ]
     },
     {
+        "code": "UNGS 2090",
+        "sect": 99,
+        "title": "THE ISLAMIC WORLDVIEW, KNOWLEDGE AND CIVILIZATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "UNGS 2290",
         "sect": 1,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
         "venue": "IRK LR 13 RK LVL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR'ASYIKIN BINTI HAMZAH"
         ],
         "dayTime": [
             {
@@ -14402,7 +14716,7 @@
         "sect": 3,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
-        "venue": "IRK LR 13 RK LVL 1",
+        "venue": "IRK LR 14 RK LVL 1",
         "lect": [
             "ASSOC. PROF. DR. WAN MAZWATI BINTI WAN YUSOFF"
         ],
@@ -14489,7 +14803,7 @@
         "chr": 2.0,
         "venue": "IRK LR 13 RK LVL 1",
         "lect": [
-            "DR. MACHOUCHE SALAH"
+            "ALIZA BINTI YUNUS"
         ],
         "dayTime": [
             {
@@ -14606,7 +14920,7 @@
         "sect": 15,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
-        "venue": "IRK LR 13 RK LVL 1",
+        "venue": "IRK LR 14 RK LVL 1",
         "lect": [
             "ASSOC. PROF. DR. WAN MAZWATI BINTI WAN YUSOFF"
         ],
@@ -14625,7 +14939,7 @@
         "chr": 2.0,
         "venue": "IRK LR 13 RK LVL 1",
         "lect": [
-            "DR. MACHOUCHE SALAH"
+            "ALIZA BINTI YUNUS"
         ],
         "dayTime": [
             {
@@ -14778,7 +15092,7 @@
         "chr": 2.0,
         "venue": "IRK LR 14 RK LVL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR'ASYIKIN BINTI HAMZAH"
         ],
         "dayTime": [
             {
@@ -14895,7 +15209,7 @@
         "sect": 501,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
-        "venue": "KLM LT 1 B4.1.18",
+        "venue": "KLM PBL ROOM 3 B3.1.18",
         "lect": [
             "MADAM NAZATUL AZREEN BT ABDUL HAYI"
         ],
@@ -14912,15 +15226,15 @@
         "sect": 502,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
-        "venue": "KLM LT 1 B4.1.18",
+        "venue": "KLM SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
-                "day": 7,
-                "startTime": "17:45",
-                "endTime": "19:35"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -14944,6 +15258,23 @@
     {
         "code": "UNGS 2290",
         "sect": 811,
+        "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. TIJANI AHMAD ASHIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 2290",
+        "sect": 812,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
         "venue": null,
@@ -15304,7 +15635,7 @@
         "chr": 3.0,
         "venue": "IRK LR 11 3.70",
         "lect": [
-            "DR. MAULANA AKBAR SHAH @ U TUN AUNG"
+            "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
         ],
         "dayTime": [
             {
@@ -15414,7 +15745,7 @@
         "chr": 3.0,
         "venue": "IRK LR 11 3.70",
         "lect": [
-            "TO BE DETERMINED"
+            "ARIYANTI BINTI MUSTAFA"
         ],
         "dayTime": [
             {
@@ -15546,7 +15877,7 @@
         "chr": 3.0,
         "venue": "IRK LR 12 3.71",
         "lect": [
-            "DR. MAULANA AKBAR SHAH @ U TUN AUNG"
+            "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
         ],
         "dayTime": [
             {
@@ -15590,7 +15921,7 @@
         "chr": 3.0,
         "venue": "IRK LR 12 3.71",
         "lect": [
-            "DR. MAULANA AKBAR SHAH @ U TUN AUNG"
+            "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
         ],
         "dayTime": [
             {
@@ -15810,7 +16141,7 @@
         "chr": 3.0,
         "venue": "KLM LT 1 B4.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {

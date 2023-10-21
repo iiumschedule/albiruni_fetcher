@@ -21,15 +21,32 @@
         "sect": 501,
         "title": "ARCHERY COURSE 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ARCHERY FIELD KLM",
         "lect": [
-            "TO BE DETERMINED"
+            "YUSRIN MOHD YUSOF"
         ],
         "dayTime": [
             {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "CCAC 3441",
+        "sect": 502,
+        "title": "ARCHERY COURSE 1 (THEORY & PRACTICAL)",
+        "chr": 0.5,
+        "venue": "ARCHERY FIELD KLM",
+        "lect": [
+            "YUSRIN MOHD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -55,9 +72,9 @@
         "sect": 501,
         "title": "ARCHERY COURSE 2 (RULES FOR TOURNAMENT)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ARCHERY FIELD KLM",
         "lect": [
-            "TO BE DETERMINED"
+            "YUSRIN MOHD YUSOF"
         ],
         "dayTime": [
             {
@@ -106,7 +123,7 @@
         "sect": 1,
         "title": "ARCHERY 3 (NICHE AREA)",
         "chr": 0.5,
-        "venue": "AIKOL LR 3.13 3.13",
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "RUDIJANTO EKO NUGROHO RACHMAT"
         ],
@@ -123,7 +140,7 @@
         "sect": 1,
         "title": "ARCHERY 4 (NICHE AREA)",
         "chr": 0.5,
-        "venue": "AIKOL LR 3.13 3.13",
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "RUDIJANTO EKO NUGROHO RACHMAT"
         ],
@@ -174,13 +191,30 @@
         "sect": 501,
         "title": "BADMINTON COURSE 1 ( THEORY AND PRACTICAL )",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KLM LT 2 B4.1.16",
         "lect": [
-            "TO BE DETERMINED"
+            "MD. MAHDZER B. RAHMAT @ HJ ABD. RAHMAN"
         ],
         "dayTime": [
             {
                 "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCBN 3431",
+        "sect": 502,
+        "title": "BADMINTON COURSE 1 ( THEORY AND PRACTICAL )",
+        "chr": 0.5,
+        "venue": "KLM PBL ROOM 3 B4.1.13",
+        "lect": [
+            "MD. MAHDZER B. RAHMAT @ HJ ABD. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -193,7 +227,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ABDUL FATTAH BIN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -242,9 +276,9 @@
         "sect": 501,
         "title": "BADMINTON COURSE 2 (RULES FOR TOURNAMENT)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KLM LT 2 B4.1.16",
         "lect": [
-            "TO BE DETERMINED"
+            "MD. MAHDZER B. RAHMAT @ HJ ABD. RAHMAN"
         ],
         "dayTime": [
             {
@@ -261,7 +295,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD NOOR OTHMAN"
         ],
         "dayTime": [
             {
@@ -278,7 +312,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 4.1 4.1",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD HASBI SHIDDIQ BIN SUPARMAN"
         ],
         "dayTime": [
             {
@@ -414,7 +448,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.12 1.12",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ADILAH BINTI MOHD NOR"
         ],
         "dayTime": [
             {
@@ -431,7 +465,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.12 1.12",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD NORHAFIFI ZOLKIAPLY"
         ],
         "dayTime": [
             {
@@ -446,9 +480,9 @@
         "sect": 7,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.1 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR DIYANAH BINTI HIDAYAT"
         ],
         "dayTime": [
             {
@@ -465,11 +499,28 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR MASTURAH BINTI MOHAMAD ARIF"
         ],
         "dayTime": [
             {
                 "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3231",
+        "sect": 502,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NUR MASTURAH BINTI MOHAMAD ARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -482,7 +533,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MRS. RINA SURYANI BINTI ARIFF"
         ],
         "dayTime": [
             {
@@ -499,7 +550,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ANITH SAFURA BINTI DAUD"
         ],
         "dayTime": [
             {
@@ -516,7 +567,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AZUWAN BIN MUSA"
         ],
         "dayTime": [
             {
@@ -548,7 +599,7 @@
         "sect": 2,
         "title": "BASIC COUNSELING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.1 LEVEL 3",
         "lect": [
             "NUR DIYANAH BINTI HIDAYAT"
         ],
@@ -582,7 +633,7 @@
         "sect": 4,
         "title": "BASIC COUNSELING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.1 LEVEL 3",
         "lect": [
             "MOHD NORHAFIFI ZOLKIAPLY"
         ],
@@ -599,7 +650,7 @@
         "sect": 5,
         "title": "BASIC COUNSELING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.2 LEVEL 3",
         "lect": [
             "NORA HASLINA BINTI MOHD KAMA"
         ],
@@ -618,7 +669,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR MASTURAH BINTI MOHAMAD ARIF"
         ],
         "dayTime": [
             {
@@ -635,24 +686,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCCS 3232",
-        "sect": 802,
-        "title": "BASIC COUNSELING SKILLS 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
+            "ASNIZA BT. MAMAT"
         ],
         "dayTime": [
             {
@@ -669,7 +703,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SAHA SHAARI"
         ],
         "dayTime": [
             {
@@ -686,7 +720,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORMI AMALIA BINTI MISWADI"
         ],
         "dayTime": [
             {
@@ -735,7 +769,7 @@
         "sect": 1,
         "title": "PRESENTATION & CRITICAL THINKING",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.1 LEVEL 3",
         "lect": [
             "SARAH KHALID CHINOY"
         ],
@@ -752,7 +786,7 @@
         "sect": 2,
         "title": "PRESENTATION & CRITICAL THINKING",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.2 LEVEL 3",
         "lect": [
             "DR. RIASAT AMIN IMON"
         ],
@@ -765,45 +799,11 @@
         ]
     },
     {
-        "code": "CCDS 2351",
-        "sect": 3,
-        "title": "PRESENTATION & CRITICAL THINKING",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCDS 2351",
-        "sect": 4,
-        "title": "PRESENTATION & CRITICAL THINKING",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
         "code": "CCDS 2352",
         "sect": 1,
         "title": "PUBLIC SPEAKING & CONTEMPORARY ISSUES",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.2 LEVEL 3",
         "lect": [
             "MUHAMMAD ABDUL LATIF"
         ],
@@ -820,7 +820,7 @@
         "sect": 2,
         "title": "PUBLIC SPEAKING & CONTEMPORARY ISSUES",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.3 LEVEL 3",
         "lect": [
             "DR. RIASAT AMIN IMON"
         ],
@@ -837,7 +837,7 @@
         "sect": 1,
         "title": "ENTREPRENEUR 1 (NICHE AREA)",
         "chr": 0.5,
-        "venue": "AIKOL LR 2.9 2.9",
+        "venue": "ECONS SR 3.5 LEVEL 3",
         "lect": [
             "SITI AMINAH BAIROSH KHAN"
         ],
@@ -905,7 +905,7 @@
         "sect": 1,
         "title": "FIRST AID SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.3 LEVEL 3",
         "lect": [
             "NURUL KHALIESAH BT ISHAK"
         ],
@@ -922,9 +922,9 @@
         "sect": 2,
         "title": "FIRST AID SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.2 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NURRAIN SYAHIRAH BINTI ISMAIL"
         ],
         "dayTime": [
             {
@@ -939,7 +939,7 @@
         "sect": 3,
         "title": "FIRST AID SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.3 LEVEL 3",
         "lect": [
             "SUHAINA YAAKUB"
         ],
@@ -958,7 +958,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RUSILA BINTI RUSLAN"
         ],
         "dayTime": [
             {
@@ -975,7 +975,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HARLINNA BINTI ABU"
         ],
         "dayTime": [
             {
@@ -992,7 +992,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "INTAN FAZIRAH MUSTAPHA"
         ],
         "dayTime": [
             {
@@ -1007,7 +1007,7 @@
         "sect": 1,
         "title": "FIRST AID SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.4 LEVEL 3",
         "lect": [
             "NURUL KHALIESAH BT ISHAK"
         ],
@@ -1024,7 +1024,7 @@
         "sect": 2,
         "title": "FIRST AID SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.4 LEVEL 3",
         "lect": [
             "SUHAINA YAAKUB"
         ],
@@ -1041,7 +1041,7 @@
         "sect": 3,
         "title": "FIRST AID SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.5 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1065,6 +1065,23 @@
         "dayTime": [
             {
                 "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFC 3411",
+        "sect": 501,
+        "title": "FOOTBALL COURSE 1 (THEORY & PRACTICAL)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -1279,7 +1296,7 @@
         "sect": 11,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.5 LEVEL 3",
         "lect": [
             "MD. YOUSUF ALI"
         ],
@@ -1313,7 +1330,7 @@
         "sect": 13,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.6 LEVEL 3",
         "lect": [
             "PROF. DR. NURUL FADZLIN BT HASBULLAH"
         ],
@@ -1330,7 +1347,7 @@
         "sect": 14,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MGMT CENTER SR F",
         "lect": [
             "NOR ASIAH BINTI JUSOH"
         ],
@@ -1398,7 +1415,7 @@
         "sect": 18,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.7 LEVEL 3",
         "lect": [
             "DR. DOLHADI BIN ZAINUDIN"
         ],
@@ -1415,7 +1432,7 @@
         "sect": 19,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.8 LEVEL 3",
         "lect": [
             "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
@@ -1466,7 +1483,7 @@
         "sect": 22,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 2.2 LEVEL 2",
         "lect": [
             "MOHAMED IBRAHIM RAHEEM"
         ],
@@ -1500,7 +1517,7 @@
         "sect": 24,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 2.3 LEVEL 2",
         "lect": [
             "DR. SAOUDI OUAHIBA"
         ],
@@ -1585,7 +1602,7 @@
         "sect": 29,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MGMT CENTER SR D",
         "lect": [
             "MOHAMMED INSAF MOHAMMED GHOUS"
         ],
@@ -1619,7 +1636,7 @@
         "sect": 31,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 2.2 LEVEL 2",
         "lect": [
             "MUHAMMAD ASHRAF BIN NORIS"
         ],
@@ -1636,7 +1653,7 @@
         "sect": 32,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 2.3 LEVEL 2",
         "lect": [
             "DR. SAHEED ABDULLAHI BUSARI"
         ],
@@ -1670,7 +1687,7 @@
         "sect": 34,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MGMT CENTER SR D",
         "lect": [
             "WAN PUTRI ZAHRA BINTI WAN YUSOF"
         ],
@@ -1706,7 +1723,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.3 1.3",
         "lect": [
-            "YM DATIN DR HJH RAJA MAZUIN BINTI RAJA ABD AZIZ"
+            "NUR SAIDAH BT OMAR"
         ],
         "dayTime": [
             {
@@ -1721,7 +1738,7 @@
         "sect": 37,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MGMT CENTER SR E",
         "lect": [
             "AIMI SYAZANA BINTI HASNUDIN"
         ],
@@ -1740,7 +1757,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RAFIDAH BT. SAHAR"
         ],
         "dayTime": [
             {
@@ -1757,7 +1774,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SHUHADAH BINTI MOHD"
         ],
         "dayTime": [
             {
@@ -1774,7 +1791,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AMINNUDIN BIN SAIMON"
         ],
         "dayTime": [
             {
@@ -1791,7 +1808,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHAHRUL NIZAM BIN MOHD BASARI"
         ],
         "dayTime": [
             {
@@ -1808,7 +1825,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
         "dayTime": [
             {
@@ -1825,7 +1842,24 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMAD KHAIDIR BIN SAHID"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 507,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
         ],
         "dayTime": [
             {
@@ -1842,7 +1876,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHD ARIFIN BIN KADERI"
         ],
         "dayTime": [
             {
@@ -1859,7 +1893,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI MARIAM BINTI MUDA"
         ],
         "dayTime": [
             {
@@ -1876,7 +1910,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -1893,7 +1927,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZULMARYAN BINTI EMBONG"
         ],
         "dayTime": [
             {
@@ -1910,7 +1944,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HADIJAH BINTI SHAMSUDIN"
         ],
         "dayTime": [
             {
@@ -1927,7 +1961,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD KHAIRUL ZUL HASYMI BIN FIRDAUS"
         ],
         "dayTime": [
             {
@@ -1944,7 +1978,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
         ],
         "dayTime": [
             {
@@ -1961,7 +1995,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
         ],
         "dayTime": [
             {
@@ -1978,7 +2012,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORMAH BINTI HARON"
         ],
         "dayTime": [
             {
@@ -1995,7 +2029,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
         "dayTime": [
             {
@@ -2148,7 +2182,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOORAZMAN BIN NORAWI"
         ],
         "dayTime": [
             {
@@ -2267,7 +2301,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MASNADI BIN AHMAD"
         ],
         "dayTime": [
             {
@@ -2333,7 +2367,7 @@
         "sect": 1,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "MOHD. SALMEE BIN MOHD. SARI"
         ],
@@ -2401,7 +2435,7 @@
         "sect": 5,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.9 LEVEL 3",
         "lect": [
             "DR. JASMIN OMERCIC"
         ],
@@ -2435,7 +2469,7 @@
         "sect": 7,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.10 LEVEL 3",
         "lect": [
             "AHMAD 'IZZUDDIN BIN YUNUS"
         ],
@@ -2452,7 +2486,7 @@
         "sect": 8,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.11 LEVEL 3",
         "lect": [
             "ANIZAM BIN ALI"
         ],
@@ -2469,7 +2503,7 @@
         "sect": 9,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.12 LEVEL 3",
         "lect": [
             "MUHAMMAD AZZUBAIR AWWAM BIN MUSTAFA"
         ],
@@ -2486,7 +2520,7 @@
         "sect": 10,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS LR 4.7 LEVEL 4",
         "lect": [
             "MOHAMED IBREN HASSAN"
         ],
@@ -2503,7 +2537,7 @@
         "sect": 11,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS LR 4.13 LEVEL 4",
         "lect": [
             "MOHAMMAD SHEKAIB ALAM"
         ],
@@ -2520,9 +2554,9 @@
         "sect": 12,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS LR 4.14 LEVEL 4",
         "lect": [
-            "ABDULHAMEED KAMOLUDEEN OLASUNKANMI"
+            "FARHANA BINTI ABDUL KARIM"
         ],
         "dayTime": [
             {
@@ -2537,7 +2571,7 @@
         "sect": 13,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS MH 4.1 LEVEL 4",
         "lect": [
             "MUHAMMAD SYUKRI BIN ABD HAMID"
         ],
@@ -2554,7 +2588,7 @@
         "sect": 14,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS MH 4.2 LEVEL 4",
         "lect": [
             "RODIAH  BINTI MOHAMAD HELMI"
         ],
@@ -2571,7 +2605,7 @@
         "sect": 15,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS MH 4.3 LEVEL 4",
         "lect": [
             "ISSAH ABEEBLLAHI OBALOWU"
         ],
@@ -2588,7 +2622,7 @@
         "sect": 16,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS MH 4.4 LEVEL 4",
         "lect": [
             "AZIZUDDIN HUSAIRI"
         ],
@@ -2605,7 +2639,7 @@
         "sect": 17,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS PLD LEVEL 4",
         "lect": [
             "SARAFDEEN AMINULLAHI"
         ],
@@ -2622,7 +2656,7 @@
         "sect": 18,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 4.1 LEVEL 4",
         "lect": [
             "AMIRAH RAIHANA BINTI ABDUL RAHMAN"
         ],
@@ -2758,7 +2792,7 @@
         "sect": 26,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MGMT CENTER SR E",
         "lect": [
             "DR. HAZIQAH ZULAIKHA BINTI ARIS"
         ],
@@ -2775,7 +2809,7 @@
         "sect": 27,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MGMT CENTER SR F",
         "lect": [
             "SEGAR A/L SUPRAMANIAM"
         ],
@@ -2792,7 +2826,7 @@
         "sect": 28,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 1.4 LEVEL 1",
         "lect": [
             "ZARIF HAIZAD BIN AZHARI"
         ],
@@ -2809,7 +2843,7 @@
         "sect": 29,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 1.5 LEVEL 1",
         "lect": [
             "SITI NURRULHUDA BINTI YA'AROP"
         ],
@@ -2826,7 +2860,7 @@
         "sect": 30,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS PLB LEVEL 1",
         "lect": [
             "JULIANA HANIM BINTI KAMARULZAMAN"
         ],
@@ -2843,7 +2877,7 @@
         "sect": 31,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.4 LEVEL 3",
         "lect": [
             "NIK DAMIA BINTI NIK ZOKIPLI"
         ],
@@ -2852,6 +2886,40 @@
                 "day": 6,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 32,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 33,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -2879,7 +2947,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. KHAIRIL AZWAR BIN RAZALI"
         ],
         "dayTime": [
             {
@@ -2896,7 +2964,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR NABILAH BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2913,7 +2981,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
         ],
         "dayTime": [
             {
@@ -2930,7 +2998,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SAMSHUL AMRY BIN ABDUL LATIF"
         ],
         "dayTime": [
             {
@@ -2947,7 +3015,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RAJA NOOR ASHIKIN BT. RAJA ALIAS"
         ],
         "dayTime": [
             {
@@ -2964,7 +3032,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "CHE NURUL HASIMA BINTI CHE DAUD"
         ],
         "dayTime": [
             {
@@ -2981,7 +3049,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ROSITI MASHANI BINTI MOHD. SANI"
         ],
         "dayTime": [
             {
@@ -2998,7 +3066,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. MOHD. SAID BIN NURUMAL"
         ],
         "dayTime": [
             {
@@ -3015,7 +3083,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MRS. ASMAWATI BINTI CHE ISMAIL"
         ],
         "dayTime": [
             {
@@ -3032,7 +3100,41 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHD MURSYIDI BIN AB ALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 812,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 813,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NABILAH DIYANA BINTI ABDUL AZIZ"
         ],
         "dayTime": [
             {
@@ -3049,11 +3151,79 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MASLINA BINTI MOHD MASRI"
         ],
         "dayTime": [
             {
                 "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 821,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 822,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MRS. NOOR AZLINA BINTI HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 823,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 824,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MR. SUHAIMI BIN LONG"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -3066,7 +3236,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI NUR ILLIANI BINTI JAAFAR"
         ],
         "dayTime": [
             {
@@ -3083,7 +3253,24 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. YUSOF BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 842,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NOORZIHAN BINTI ABD KARIM"
         ],
         "dayTime": [
             {
@@ -3100,7 +3287,24 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORSYAHIDA BINTI ZAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 844,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MISS NURUL HIDAYAH BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -3117,7 +3321,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD RAZIK BIN MIDIN"
         ],
         "dayTime": [
             {
@@ -3134,7 +3338,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "FAIZILAH BINTI AB. HALIM @ AWANG"
         ],
         "dayTime": [
             {
@@ -3151,7 +3355,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AHMAD SYAHIR BIN AZHAR"
         ],
         "dayTime": [
             {
@@ -3168,7 +3372,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. AZRI BIN ABD. JALIL"
         ],
         "dayTime": [
             {
@@ -3185,7 +3389,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NURUL AFIQAH AKMAL BINTI W.M. AFFANDI"
         ],
         "dayTime": [
             {
@@ -3219,7 +3423,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SYARIFAH HAFILAH BT. SAID MAAMOR"
         ],
         "dayTime": [
             {
@@ -3234,7 +3438,7 @@
         "sect": 1,
         "title": "MOSQUE MANAGEMENT 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS PLC LEVEL 3",
         "lect": [
             "DR. NIK HZIMAN B. NIK MAT"
         ],
@@ -3253,7 +3457,7 @@
         "chr": 0.5,
         "venue": "FEMALE SPORTS COM FOYER 2",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR FARAHIN BINTI AZHAR"
         ],
         "dayTime": [
             {
@@ -3321,7 +3525,7 @@
         "chr": 0.5,
         "venue": "FEMALE SPORTS COM FOYER 2",
         "lect": [
-            "TO BE DETERMINED"
+            "WAJDI BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -3372,7 +3576,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HANIZA HASSAN"
         ],
         "dayTime": [
             {
@@ -3389,7 +3593,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SYARIFAH IZZATUL AIDA SYED MAHMUD"
         ],
         "dayTime": [
             {
@@ -3472,11 +3676,17 @@
         "sect": 1,
         "title": "PHOTOGRAPHY SKILLS 1",
         "chr": 0.5,
-        "venue": "AIKOL LR 2.9 2.9",
+        "venue": null,
         "lect": [
+            "TO BE DETERMINED",
             "ASHRAF BIN SAHARUDIN"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
             {
                 "day": 1,
                 "startTime": "17:00",
@@ -3489,7 +3699,7 @@
         "sect": 2,
         "title": "PHOTOGRAPHY SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.3 LEVEL 3",
         "lect": [
             "DHALHERI MOHAMMAD SYARIF"
         ],
@@ -3506,7 +3716,7 @@
         "sect": 3,
         "title": "PHOTOGRAPHY SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.4 LEVEL 3",
         "lect": [
             "WAN ISMAIL BIN WAN MAJID"
         ],
@@ -3520,12 +3730,29 @@
     },
     {
         "code": "CCPS 3101",
+        "sect": 4,
+        "title": "PHOTOGRAPHY SKILLS 1",
+        "chr": 0.5,
+        "venue": "ECONS SR 3.5 LEVEL 3",
+        "lect": [
+            "WAN ISMAIL BIN WAN MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCPS 3101",
         "sect": 801,
         "title": "PHOTOGRAPHY SKILLS 1",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SALEHUDDIN BIN LOKMAN"
         ],
         "dayTime": [
             {
@@ -3540,7 +3767,7 @@
         "sect": 1,
         "title": "PHOTOGRAPHY SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.4 LEVEL 3",
         "lect": [
             "ASHRAF BIN SAHARUDIN"
         ],
@@ -3557,7 +3784,7 @@
         "sect": 2,
         "title": "PHOTOGRAPHY SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 4.4 LEVEL 4",
         "lect": [
             "DHALHERI MOHAMMAD SYARIF"
         ],
@@ -3574,7 +3801,7 @@
         "sect": 3,
         "title": "PHOTOGRAPHY SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 4.8 LEVEL 4",
         "lect": [
             "WAN ISMAIL BIN WAN MAJID"
         ],
@@ -3608,7 +3835,7 @@
         "sect": 2,
         "title": "RECREATION 1",
         "chr": 0.5,
-        "venue": "AIKOL LR 3.1 3.1",
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "MOHAMAD ZABIDI AHMAD"
         ],
@@ -3644,7 +3871,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ROSLAM BIN EMBONG"
         ],
         "dayTime": [
             {
@@ -3661,7 +3888,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ROSLAM BIN EMBONG"
         ],
         "dayTime": [
             {
@@ -3693,7 +3920,7 @@
         "sect": 2,
         "title": "RECREATION 2",
         "chr": 0.5,
-        "venue": "AIKOL LR 3.6 3.6",
+        "venue": "CLASSROOM 2 WADIBUDI",
         "lect": [
             "AHMAD NAZERY SAMSUDIN"
         ],
@@ -3746,7 +3973,7 @@
         "chr": 0.5,
         "venue": "SWIM. POOL, BR 0",
         "lect": [
-            "MOHAMMAD IKRAM IZZUDDIN B SALEHUDDIN"
+            "YUSUF ABDI ABUBAKAR HASSAN"
         ],
         "dayTime": [
             {
@@ -3778,7 +4005,7 @@
         "sect": 501,
         "title": "SWIMMING SKILLS 1 (BROTHER)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SWIMMING CENTRE SF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3797,7 +4024,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "FAIZAL BIN MOHAMAD AMIN"
         ],
         "dayTime": [
             {
@@ -3846,7 +4073,7 @@
         "sect": 501,
         "title": "SWIMMING SKILLS 2 (BROTHER)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SWIMMING CENTRE SF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3865,7 +4092,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD NASRI BIN A. MANAN"
         ],
         "dayTime": [
             {
@@ -3927,6 +4154,23 @@
         ]
     },
     {
+        "code": "CCSL 3611",
+        "sect": 501,
+        "title": "MALAYSIAN SIGN LANGUAGE 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
         "code": "CCSL 3612",
         "sect": 1,
         "title": "MALAYSIAN SIGN LANGUAGE 2",
@@ -3982,7 +4226,7 @@
         "sect": 1,
         "title": "EVENT MANAGEMENT SKILL 1",
         "chr": 0.5,
-        "venue": "AIKOL LR 1.2 1.2",
+        "venue": "ECONS SR 3.6 LEVEL 3",
         "lect": [
             "AHMAD MUFDI LUTFI BIN JAMALUDIN"
         ],
@@ -3999,7 +4243,7 @@
         "sect": 2,
         "title": "EVENT MANAGEMENT SKILL 1",
         "chr": 0.5,
-        "venue": "AIKOL LR 1.3 1.3",
+        "venue": "ECONS SR 3.7 LEVEL 3",
         "lect": [
             "RAZALI BIN SUDIN@ALIAS"
         ],
@@ -4018,7 +4262,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ADAM BIN ALI"
         ],
         "dayTime": [
             {
@@ -4035,7 +4279,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. DANIAL BIN JAMALUDIN"
         ],
         "dayTime": [
             {
@@ -4052,7 +4296,24 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HARYATI BT. SAHAT"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSM 3271",
+        "sect": 804,
+        "title": "EVENT MANAGEMENT SKILL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "AHMAD KHUZAIRI IRFAN BIN ALIAS"
         ],
         "dayTime": [
             {
@@ -4067,7 +4328,7 @@
         "sect": 1,
         "title": "EVENT MANAGEMENT SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 4.16 LEVEL 4",
         "lect": [
             "MOHAMMAD KHAIRI BIN ROSLAN"
         ],
@@ -4084,9 +4345,9 @@
         "sect": 2,
         "title": "EVENT MANAGEMENT SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 2.3 LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "SUBKI BIN AHMAD"
         ],
         "dayTime": [
             {
@@ -4103,7 +4364,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD ALI A. RAHMAN"
         ],
         "dayTime": [
             {
@@ -4203,9 +4464,9 @@
         "sect": 501,
         "title": "SWIMMING SKILLS 1 (SISTER)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SWIMMING CENTRE SF",
         "lect": [
-            "TO BE DETERMINED"
+            "NORAZIAN BT JAAFAR"
         ],
         "dayTime": [
             {
@@ -4222,7 +4483,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SARIPAH ROKIAH BT. SAID HAMID"
         ],
         "dayTime": [
             {
@@ -4288,9 +4549,9 @@
         "sect": 501,
         "title": "SWIMMING SKILLS 2 (SISTER)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SWIMMING CENTRE SF",
         "lect": [
-            "TO BE DETERMINED"
+            "NORAZIAN BT JAAFAR"
         ],
         "dayTime": [
             {
@@ -4307,7 +4568,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "FARHANA HAMIZAH BINTI RUSLI"
         ],
         "dayTime": [
             {
@@ -4543,7 +4804,7 @@
         "sect": 1,
         "title": "SPECIAL TAHFIZ CLASS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 1.4 LEVEL 1",
         "lect": [
             "HALIL IBRAHIM DAGLI"
         ],
@@ -4560,9 +4821,9 @@
         "sect": 2,
         "title": "SPECIAL TAHFIZ CLASS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 1.5 LEVEL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "FATIN NAASIHAH BINTI JAMAL ABD NASIR"
         ],
         "dayTime": [
             {
@@ -4577,15 +4838,15 @@
         "sect": 3,
         "title": "SPECIAL TAHFIZ CLASS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
+                "startTime": "17:30",
+                "endTime": "19:30"
             }
         ]
     },
@@ -4611,7 +4872,7 @@
         "sect": 1,
         "title": "SPECIAL TAHFIZ CLASS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS PLA LEVEL 1",
         "lect": [
             "KHAIRUNNISA BINTI ABU BAKAR"
         ],
@@ -4664,7 +4925,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LVL 2",
         "lect": [
-            "ALIF AFDHAL BIN AHMAD"
+            "AIDID DANISH BIN MOHAMAD SUHAILY YUSRI"
         ],
         "dayTime": [
             {
@@ -4698,7 +4959,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD HAFIZ BUKHARI BIN MOHD KHADARI"
         ],
         "dayTime": [
             {
@@ -4732,7 +4993,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LVL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD ZAKIY NAJDEE SHAHRUL"
         ],
         "dayTime": [
             {
@@ -4800,7 +5061,7 @@
         "chr": 0.5,
         "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "INTAN SHARIZATUL AINA BINTI SABARUDIN"
         ],
         "dayTime": [
             {
@@ -4834,11 +5095,62 @@
         "chr": 0.5,
         "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN AISYAH UMAIMAH BINTI WAN SUBKI"
         ],
         "dayTime": [
             {
                 "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 207,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": "MOSQUE LEVEL 2",
+        "lect": [
+            "NOR FATIHAH BINTI MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 208,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": "MOSQUE LEVEL 2",
+        "lect": [
+            "NURFARIHA AKMAL FAWWAZAH BINTI ABDULLAH FAUZI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 209,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": "MOSQUE LEVEL 2",
+        "lect": [
+            "NUR NAZIHAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -4897,12 +5209,29 @@
     },
     {
         "code": "CCUB 1061",
-        "sect": 801,
+        "sect": 504,
         "title": "USRAH 1",
         "chr": 0.5,
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 801,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHAMAD MUSLIM BIN JOHARI"
         ],
         "dayTime": [
             {
@@ -4919,7 +5248,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR NASYRAH BINTI RAZALI"
         ],
         "dayTime": [
             {
@@ -4936,7 +5265,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NURYN LELA ADENIN BT LELA MURAD"
         ],
         "dayTime": [
             {
@@ -4951,7 +5280,7 @@
         "sect": 101,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "MUHAMMAD IZZAT NAJMI B ANNISA"
         ],
@@ -4968,7 +5297,7 @@
         "sect": 102,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "MUSTAPHA TOYYIB ABIODUN"
         ],
@@ -4985,7 +5314,7 @@
         "sect": 103,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "MUHAMMAD NAQFIS BIN MOHAMMAD IBRAHIM"
         ],
@@ -5002,9 +5331,9 @@
         "sect": 104,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
-            "MUHAMMAD ZAKIY NAJDEE SHAHRUL"
+            "ALIF AFDHAL BIN AHMAD"
         ],
         "dayTime": [
             {
@@ -5019,7 +5348,7 @@
         "sect": 105,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "MUHAMAD ALIF HAIKAL BIN SUKERI"
         ],
@@ -5036,7 +5365,7 @@
         "sect": 201,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "NUR SYAFIIZZATY BT SRAFI"
         ],
@@ -5053,7 +5382,7 @@
         "sect": 202,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "NUR SYAFIQAH BINTI SHAHARUDIN"
         ],
@@ -5070,7 +5399,7 @@
         "sect": 203,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "NORAIDAH ABU SAMAH"
         ],
@@ -5087,7 +5416,7 @@
         "sect": 204,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "IMAN ADRIANA BT AHMAD RADHUAN"
         ],
@@ -5104,7 +5433,7 @@
         "sect": 205,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "AINUL MARDHIAH BINTI MOHAMMED RAFIQ"
         ],
@@ -5121,7 +5450,7 @@
         "sect": 206,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "TENGKU SYARAH  NABILAH BINTI TENGKU MOHAMAD ZULKIFLI"
         ],
@@ -5138,7 +5467,7 @@
         "sect": 207,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "KU AMIRAH NAJIHAH BINTI KU HALIM"
         ],
@@ -5155,7 +5484,7 @@
         "sect": 208,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "NUR SOFIA BT ABU BAKAR"
         ],
@@ -5189,7 +5518,7 @@
         "sect": 210,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "FIDA' BINTI MOHD RAMIZU"
         ],
@@ -5206,7 +5535,7 @@
         "sect": 211,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "AISYAH HANANI BINTI ABDUL RAHMAN"
         ],
@@ -5223,7 +5552,7 @@
         "sect": 212,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "YUKKIE ASHYIRA BINTI NAWANG"
         ],
@@ -5293,7 +5622,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMAD MUSLIM BIN JOHARI"
         ],
         "dayTime": [
             {
@@ -5310,7 +5639,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NURUL JANNAH BINTI MOHAMED FAUZI"
         ],
         "dayTime": [
             {
@@ -5327,7 +5656,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NURAIN BATRISYA BINTI EDIAMIN"
         ],
         "dayTime": [
             {
@@ -5342,7 +5671,7 @@
         "sect": 301,
         "title": "USRAH BUDI 3",
         "chr": 1.0,
-        "venue": null,
+        "venue": "CLASSROOM 2 WADIBUDI",
         "lect": [
             "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
@@ -5359,7 +5688,7 @@
         "sect": 101,
         "title": "USRAH BUDI 4",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ECONS SR 3.6 LEVEL 3",
         "lect": [
             "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
@@ -5376,7 +5705,7 @@
         "sect": 102,
         "title": "USRAH BUDI 4",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ECONS SR 3.7 LEVEL 3",
         "lect": [
             "MUHAMMAD IZZAT NAJMI B ANNISA"
         ],
@@ -5393,7 +5722,7 @@
         "sect": 201,
         "title": "USRAH BUDI 4",
         "chr": 1.0,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "NAJLA SAHIRA BINTI ABDUL LATIFE"
         ],
@@ -5429,7 +5758,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SGT PB ABDUL MALEK BIN SHAARI"
         ],
         "dayTime": [
             {
@@ -5446,7 +5775,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AHMAD AFANDI BIN MUDA"
         ],
         "dayTime": [
             {

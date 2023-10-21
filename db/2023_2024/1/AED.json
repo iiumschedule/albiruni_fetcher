@@ -1,5 +1,22 @@
 [
     {
+        "code": "AAD 2110",
+        "sect": 1,
+        "title": "ISLAMIC CALLIGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "ALA 2181",
         "sect": 1,
         "title": "LANDSCAPE MATERIAL AND CONSTRUCTION 2",
@@ -104,7 +121,7 @@
         "sect": 1,
         "title": "HISTORY OF ART AND ARCHITECTURE",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 5",
+        "venue": "KAED L2 LT2",
         "lect": [
             "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
@@ -517,6 +534,102 @@
         ]
     },
     {
+        "code": "BAAD 3100",
+        "sect": 1,
+        "title": "APPLIED ARTS AND DESIGN (AAD) STUDIO 5",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3100",
+        "sect": 2,
+        "title": "APPLIED ARTS AND DESIGN (AAD) STUDIO 5",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3100",
+        "sect": 3,
+        "title": "APPLIED ARTS AND DESIGN (AAD) STUDIO 5",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJABI BINTI ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 3101",
         "sect": 1,
         "title": "APPLIED ARTS & DESIGN STUDIO 5",
@@ -613,6 +726,40 @@
         ]
     },
     {
+        "code": "BAAD 3110",
+        "sect": 1,
+        "title": "PACKAGING DESIGN",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3111",
+        "sect": 1,
+        "title": "INTRODUCTION TO MATERIALS AND TECHNIQUES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 3120",
         "sect": 1,
         "title": "STRUCTURAL DESIGN",
@@ -634,7 +781,7 @@
         "sect": 1,
         "title": "MODEL MAKING",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "DR. FADZLI IRWAN BIN BAHRUDIN"
         ],
@@ -643,6 +790,23 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3130",
+        "sect": 1,
+        "title": "INTRODUCTION TO CONSERVATION ARCHAEOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -681,6 +845,40 @@
         ]
     },
     {
+        "code": "BAAD 3134",
+        "sect": 1,
+        "title": "INTERIOR DESIGN MATERIALS & TECHNOLOGY 2",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ISMAIL BIN JASMANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3136",
+        "sect": 1,
+        "title": "MATERIAL & PROCESSES 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 3141",
         "sect": 1,
         "title": "COLLECTIONS MANAGEMENT",
@@ -709,6 +907,40 @@
         "dayTime": [
             {
                 "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3180",
+        "sect": 1,
+        "title": "INDUSTRIAL DRAWING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JULAILA BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3190",
+        "sect": 1,
+        "title": "HERITAGE & CONTEMPORARY STUDIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ISMAIL BIN JASMANI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "13:00"
             }
@@ -826,6 +1058,11 @@
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "16:30"
             }
         ]
     },
@@ -848,6 +1085,11 @@
                 "day": 1,
                 "startTime": "09:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "16:30"
             },
             {
                 "day": 5,
@@ -878,6 +1120,11 @@
             },
             {
                 "day": 5,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            },
+            {
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:30"
             }
@@ -905,6 +1152,11 @@
             },
             {
                 "day": 5,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            },
+            {
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:30"
             }
@@ -928,6 +1180,11 @@
             {
                 "day": 1,
                 "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
                 "endTime": "16:30"
             },
             {
@@ -1437,7 +1694,7 @@
         "chr": 3.0,
         "venue": "KAED L2 LT2",
         "lect": [
-            "PROF. DATO' SRI AR. DR. ASIAH BINTI ABDUL RAHIM"
+            "ASSOC. PROF. TS. DR. NURUL HAMIRUDDIN BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -1682,7 +1939,7 @@
         "chr": 3.0,
         "venue": "KAED L1 LT1",
         "lect": [
-            "DR. NAYEEM ASIF"
+            "DR. AIDA KESUMA BINTI AZMIN"
         ],
         "dayTime": [
             {
@@ -1721,6 +1978,23 @@
         "dayTime": [
             {
                 "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAR 3204",
+        "sect": 1,
+        "title": "HERITAGE STUDIES 2",
+        "chr": 3.0,
+        "venue": "KAED STUDIO(L3) 10",
+        "lect": [
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -1853,7 +2127,7 @@
         "sect": 1,
         "title": "ENVIRONMENTAL AND MATERIAL SCIENCES",
         "chr": 2.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED L4 LT4",
         "lect": [
             "DR. SHARINA FARIHAH BT. HASAN"
         ],
@@ -2009,7 +2283,7 @@
         "sect": 1,
         "title": "LEGAL STUDIES FOR QUANTITY SURVEYORS 2",
         "chr": 2.0,
-        "venue": "KAED L2 LT2",
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "DR. MOHAMAD SAIFULNIZAM BIN MOHAMAD SUHAIMI"
         ],
@@ -2199,7 +2473,7 @@
         "sect": 1,
         "title": "POST- CONTRACT ADMINISTRATION FOR QUANTITY SURVEYORS 2",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 3",
+        "venue": "KAED L4 LT4",
         "lect": [
             "DR. ROZIHA BINTI CHE HARON"
         ],
@@ -2216,7 +2490,7 @@
         "sect": 1,
         "title": "POST-CONTRACT ADMINISTRATION FOR QUANTITY SURVEYORS 1",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 3",
+        "venue": "KAED L4 LT4",
         "lect": [
             "DR. ROZIHA BINTI CHE HARON"
         ],
@@ -2350,7 +2624,7 @@
         "sect": 1,
         "title": "INTERNATIONAL CONSTRUCTION PROCUREMENT",
         "chr": 2.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "DR. MOHAMAD SAIFULNIZAM BIN MOHAMAD SUHAIMI"
         ],
@@ -2418,7 +2692,7 @@
         "sect": 1,
         "title": "CIVIL ENGINEERING CONSTRUCTION 2",
         "chr": 3.0,
-        "venue": "KAED L4 LT4",
+        "venue": "KAED SR (L2) 6",
         "lect": [
             "ASSOC. PROF. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
@@ -2567,7 +2841,7 @@
         "sect": 1,
         "title": "URBAN DESIGN AND PLACE MAKING",
         "chr": 2.0,
-        "venue": "KAED SR (L1) 3",
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "ASSOC. PROF. TPR. DR. LUKMAN HAKIM BIN MAHAMOD"
         ],
@@ -2601,7 +2875,7 @@
         "sect": 1,
         "title": "PLANNING OF SOCIAL AND COMMUNITY",
         "chr": 2.0,
-        "venue": "KAED SR (L1) 1",
+        "venue": "KAED URBAN LAB LVL 2",
         "lect": [
             "PROF. DR. MARIANA BT. MOHAMED OSMAN"
         ],
@@ -2742,8 +3016,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2758,9 +3032,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2809,9 +3083,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "17:30"
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2878,6 +3152,23 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "BLAR 1161",
+        "sect": 1,
+        "title": "PLANT MATERIAL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. RASHIDI BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -3135,7 +3426,7 @@
         "sect": 1,
         "title": "LANDSCAPE SEMINAR",
         "chr": 2.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. ANIZA BINTI ABU BAKAR"
         ],
@@ -3154,7 +3445,7 @@
         "chr": 3.0,
         "venue": "KAED SR (L1) 2",
         "lect": [
-            "DR. MAHERAN BINTI MOHD. YAMAN"
+            "ASSOC. PROF. DR. PUTRI HARYATI BINTI IBRAHIM"
         ],
         "dayTime": [
             {
