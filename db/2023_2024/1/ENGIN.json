@@ -43,7 +43,7 @@
         "sect": 1,
         "title": "AEROSPACE ENGINEERING LAB 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG LRM E1-3-19",
         "lect": [
             "IR. DR. MOHD FARID BIN ALADDIN",
             "TS. DR. MUHAMMAD HANAFI BIN AZAMI",
@@ -359,6 +359,28 @@
         ]
     },
     {
+        "code": "BTEN 2313",
+        "sect": 2,
+        "title": "PRINCIPLES OF MASS AND ENERGY BALANCE",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-19",
+        "lect": [
+            "DR. NURUL SAKINAH BINTI ENGLIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "BTEN 2314",
         "sect": 1,
         "title": "BIOCHEMICAL ENGINEERING FUNDAMENTALS",
@@ -414,7 +436,7 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "14:00",
+                "startTime": "15:00",
                 "endTime": "16:50"
             }
         ]
@@ -474,6 +496,29 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 3222",
+        "sect": 2,
+        "title": "SEPARATION PROCESSES II",
+        "chr": 2.0,
+        "venue": "ENG LRM E1-3-9",
+        "lect": [
+            "PROF. DR. MAIZIRWAN MEL",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -572,7 +617,7 @@
         "sect": 1,
         "title": "SEPARATION PROCESSES I",
         "chr": 3.0,
-        "venue": "ENG LRM E0-1-16",
+        "venue": "ENG EXAM HALL 2 E1-4",
         "lect": [
             "DR. NURUL SAKINAH BINTI ENGLIMAN",
             "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
@@ -662,7 +707,7 @@
         "sect": 1,
         "title": "CELL AND TISSUE ENGINEERING",
         "chr": 3.0,
-        "venue": "ENG LRM E0-1-16",
+        "venue": "ENG EXAM HALL 2 E1-4",
         "lect": [
             "DR. YUSILAWATI BINTI AHMAD NOR",
             "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
@@ -725,6 +770,28 @@
         ]
     },
     {
+        "code": "BTEN 4360",
+        "sect": 1,
+        "title": "FOOD PROCESS ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "BTEN 4361",
         "sect": 1,
         "title": "BIO PHARMACEUTICAL MANUFACTURING",
@@ -771,6 +838,23 @@
     {
         "code": "BTEN 4398",
         "sect": 1,
+        "title": "PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4398",
+        "sect": 2,
         "title": "PROJECT I",
         "chr": 3.0,
         "venue": null,
@@ -1282,7 +1366,7 @@
         "sect": 1,
         "title": "SEPARATION PROCESSES 1",
         "chr": 3.0,
-        "venue": "ENG LRM E0-1-16",
+        "venue": "ENG EXAM HALL 2 E1-4",
         "lect": [
             "DR. NURUL SAKINAH BINTI ENGLIMAN",
             "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
@@ -1611,7 +1695,6 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-3-10",
         "lect": [
-            "DR. RICCA RAHMAN BINTI NASARUDDIN",
             "PROF. DR. MD ZAHANGIR ALAM"
         ],
         "dayTime": [
@@ -1646,6 +1729,28 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CHEN 4361",
+        "sect": 1,
+        "title": "FOOD PROCESS ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -1990,116 +2095,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 3313",
-        "sect": 2,
-        "title": "REINFORCED CONCRETE DESIGN I",
-        "chr": 3.0,
-        "venue": "ENG LRM E3-2-3",
-        "lect": [
-            "DR. SITI NORATIKAH BINTI CHE DERAMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 3315",
-        "sect": 1,
-        "title": "GEOTECHNICAL ENGINEERING",
-        "chr": 3.0,
-        "venue": "ENG LRM E3-2-1",
-        "lect": [
-            "DR. AHMAD BUKHARI BIN RAMLI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 3321",
-        "sect": 1,
-        "title": "REINFORCED CONCRETE DESIGN II",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-21",
-        "lect": [
-            "DR. SITI ASMAHANI BINTI SAAD"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 3323",
-        "sect": 1,
-        "title": "HIGHWAY AND TRAFFIC ENGINEERING",
-        "chr": 3.0,
-        "venue": "ENG LRM E0-3-60",
-        "lect": [
-            "DR. NUR KHAIRIYAH BINTI BASRI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 3325",
-        "sect": 1,
-        "title": "ENVIRONMENTAL ENGINEERING",
-        "chr": 3.0,
-        "venue": "ENG LRM E3-3-1",
-        "lect": [
-            "DR. DANI IRWAN BIN MASBAH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     }

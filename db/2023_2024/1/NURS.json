@@ -6,7 +6,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI AZUNA BINTI ABU BAKAR"
         ],
         "dayTime": []
     },
@@ -17,7 +17,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. W SOLIHATUL HAFIDZAH BT WAN MOHD ANNUAR"
         ],
         "dayTime": []
     },
@@ -28,7 +28,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HARLINNA BINTI ABU"
         ],
         "dayTime": []
     },
@@ -39,7 +39,18 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 1224",
+        "sect": 5,
+        "title": "FUNDAMENTAL NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ROHAIDA BINTI ABD WAHAB"
         ],
         "dayTime": []
     },
@@ -50,9 +61,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORFADZILAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURA 1311",
@@ -61,9 +78,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ASHIKIN BINTI ATAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "NURA 1311",
@@ -72,9 +95,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR AIN BINTI MAHAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 1311",
@@ -83,9 +112,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 1412",
@@ -94,9 +129,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AIRUL AZIZAN BIN ZAINUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURA 1412",
@@ -105,9 +146,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURA 1412",
@@ -116,9 +163,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUZILAWATI BINTI MOHAMED ARIFFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURA 1412",
@@ -127,9 +180,20 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURA 1421",
@@ -138,9 +202,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "KHIN THANDAR AUNG"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -149,9 +219,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -160,9 +236,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR AIN BINTI MAHAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -171,9 +253,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURA 4213",
@@ -182,7 +270,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAMLAH BINTI MAMAT"
         ],
         "dayTime": []
     },
@@ -193,7 +281,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
         ],
         "dayTime": []
     },
@@ -204,7 +292,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR'AIN BINTI ABDUL RASHID"
         ],
         "dayTime": []
     },
@@ -215,7 +303,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ROHAIDA BINTI ABD WAHAB"
         ],
         "dayTime": []
     },
@@ -226,7 +314,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
         ],
         "dayTime": []
     },
@@ -237,7 +325,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUZILAWATI BINTI MOHAMED ARIFFIN"
         ],
         "dayTime": []
     },
@@ -248,7 +336,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
         "dayTime": []
     },
@@ -259,7 +347,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. W SOLIHATUL HAFIDZAH BT WAN MOHD ANNUAR"
         ],
         "dayTime": []
     },
@@ -270,7 +358,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
         "dayTime": []
     },
@@ -281,7 +369,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUZILAWATI BINTI MOHAMED ARIFFIN"
         ],
         "dayTime": []
     },
@@ -292,7 +380,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
         "dayTime": []
     },
@@ -303,7 +391,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI AZUNA BINTI ABU BAKAR"
         ],
         "dayTime": []
     },
@@ -314,7 +402,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
         ],
         "dayTime": []
     },
@@ -325,7 +413,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
         ],
         "dayTime": []
     },
@@ -336,7 +424,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AMIRAH FATIN BINTI IBRAHIM"
         ],
         "dayTime": []
     },
@@ -347,7 +435,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ANIAWANIS BINTI MAKHTAR"
         ],
         "dayTime": []
     },
@@ -358,9 +446,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ASHIKIN BINTI ATAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "NURA 4311",
@@ -369,9 +463,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:30"
+            }
+        ]
     },
     {
         "code": "NURA 4311",
@@ -380,9 +480,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HARLINNA BINTI ABU"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:30"
+            }
+        ]
     },
     {
         "code": "NURA 4311",
@@ -391,9 +497,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL 'INAYATI BINTI ABDUL RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -402,9 +514,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI FATIMAH BINTI SA'AT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:30"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -413,9 +531,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORFADZILAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -424,9 +548,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -435,9 +565,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LEE SIEW PIEN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "NURA 4412",
@@ -446,9 +582,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURA 4413",
@@ -457,9 +599,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI FATIMAH BINTI SA'AT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURB 1213",
@@ -468,9 +616,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORLINDA BINTI ABD. RASHID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURB 1213",
@@ -479,9 +633,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORLINDA BINTI ABD. RASHID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 1213",
@@ -490,9 +650,32 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AZMIR BIN AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1213",
+        "sect": 4,
+        "title": "ANATOMY AND PHYSIOLOGY 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "23:00"
+            }
+        ]
     },
     {
         "code": "NURB 1214",
@@ -501,9 +684,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORATIKAH BT. OTHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURB 1214",
@@ -512,9 +701,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURB 1214",
@@ -523,9 +718,32 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1214",
+        "sect": 4,
+        "title": "BIOCHEMISTRY FOR NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AZMIR BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 1223",
@@ -534,9 +752,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. AZRI BIN ABD. JALIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "22:30"
+            }
+        ]
     },
     {
         "code": "NURB 1224",
@@ -545,9 +769,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 1315",
@@ -556,9 +786,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD HANIF BIN JAINLABDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:45",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 1315",
@@ -567,9 +803,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORATIKAH BT. OTHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "NURB 1315",
@@ -578,9 +820,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURB 1315",
@@ -589,9 +837,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. AZRI BIN ABD. JALIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURB 1322",
@@ -600,9 +854,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURB 2215",
@@ -611,9 +871,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHIDQIYYAH BINTI ABD HAMID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURB 2215",
@@ -622,9 +888,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 2215",
@@ -633,9 +905,32 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. AZRI BIN ABD. JALIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 2215",
+        "sect": 4,
+        "title": "SYSTEMIC PHARMACOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HANIF BIN JAINLABDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 4412",
@@ -644,9 +939,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2411",
@@ -655,9 +956,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI ZUHAIDAH BINTI SHAHADAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURC 2411",
@@ -666,9 +973,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AZLINA BT. DAUD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2411",
@@ -677,9 +990,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. CHE AZUNIE BINTI CHE ABDULLAH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2411",
@@ -688,9 +1007,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. JUNAINAH BINTI AZMI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURC 2412",
@@ -699,9 +1024,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD KHAIRUL ZUL HASYMI BIN FIRDAUS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURC 2412",
@@ -710,9 +1041,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MASMUNAA BINTI HASSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURC 2412",
@@ -721,9 +1058,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MUHAMMAD KAMIL BIN CHE HASAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURC 2412",
@@ -732,9 +1075,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURC 2413",
@@ -743,9 +1092,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2413",
@@ -754,9 +1109,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2413",
@@ -765,9 +1126,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURC 2413",
@@ -776,9 +1143,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2414",
@@ -787,9 +1160,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AYUNI ASMA' BINTI BAHARUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURC 2414",
@@ -798,9 +1177,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. JUNAINAH BINTI AZMI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2414",
@@ -809,9 +1194,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. PATIMAH BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURC 2414",
@@ -820,9 +1211,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. PATIMAH BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURC 4412",
@@ -831,9 +1228,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 4413",
@@ -842,9 +1245,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 4414",
@@ -853,9 +1262,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. PATIMAH BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURD 3325",
@@ -875,9 +1290,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL 'INAYATI BINTI ABDUL RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURD 3415",
@@ -886,9 +1307,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RUSILA BINTI RUSLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURD 3415",
@@ -897,9 +1324,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUZILAWATI BINTI MOHAMED ARIFFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURD 4412",
@@ -908,9 +1341,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURD 4413",
@@ -919,9 +1358,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOOR AZIZAH BINTI MOHD ALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURE 3212",
@@ -930,9 +1375,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LEE SIEW PIEN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "NURE 3212",
@@ -941,9 +1392,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AMIRAH FATIN BINTI IBRAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURE 3212",
@@ -952,9 +1409,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURE 3214",
@@ -963,9 +1426,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURASIKIN BINTI MOHAMAD SHARIFF"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:30",
+                "endTime": "22:30"
+            }
+        ]
     },
     {
         "code": "NURE 3214",
@@ -974,9 +1443,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAMLAH BINTI MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURE 3214",
@@ -985,9 +1460,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURASIKIN BINTI MOHAMAD SHARIFF"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURE 3311",
@@ -996,9 +1477,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI MARIAM BINTI MUDA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURE 3311",
@@ -1007,9 +1494,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAMLAH BINTI MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "NURE 3311",
@@ -1018,9 +1511,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI ROSHAIDAI BINTI MOHD ARIFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURE 3413",
@@ -1029,9 +1528,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ANIAWANIS BINTI MAKHTAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURE 3413",
@@ -1040,9 +1545,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURE 3413",
@@ -1051,9 +1562,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HALIZA HASAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURE 4412",
@@ -1062,9 +1579,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI MARIAM BINTI MUDA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURE 4413",
@@ -1073,9 +1596,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AMIRAH FATIN BINTI IBRAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURE 4414",
@@ -1084,9 +1613,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI ROSHAIDAI BINTI MOHD ARIFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURE 4415",
@@ -1095,35 +1630,30 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURF 4324",
+        "sect": 1,
+        "title": "ENTREPRENEURSHIP IN NURSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
         ],
         "dayTime": []
     },
     {
         "code": "NURF 4415",
         "sect": 1,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. RUSILA BINTI RUSLAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 2,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NOR'AIN BINTI ABDUL RASHID"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 3,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
@@ -1134,370 +1664,7 @@
     },
     {
         "code": "NURF 4415",
-        "sect": 4,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. MUHAMMAD KAMIL BIN CHE HASAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 5,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NORATIKAH BT. OTHMAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 6,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 7,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 8,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. ABDUL ALIF BIN ABDUL HAMID"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 9,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. SHIDQIYYAH BINTI ABD HAMID"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 10,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "KHIN THANDAR AUNG"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 11,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. AYUNI ASMA' BINTI BAHARUDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 12,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 13,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NURASIKIN BINTI MOHAMAD SHARIFF"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 14,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. HALIZA HASAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 15,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 16,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD. AZRI BIN ABD. JALIL"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 17,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 18,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. LEE SIEW PIEN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 19,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD HANIF BIN JAINLABDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 20,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 21,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 22,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. HARLINNA BINTI ABU"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 23,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NOOR AZIZAH BINTI MOHD ALI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 24,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. AMIRAH FATIN BINTI IBRAHIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 25,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 26,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NORLINDA BINTI ABD. RASHID"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 27,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 28,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD KHAIRUL ZUL HASYMI BIN FIRDAUS"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 29,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. PATIMAH BINTI ABDUL WAHAB"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 30,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. ANIAWANIS BINTI MAKHTAR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 31,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "SUZILAWATI BINTI MOHAMED ARIFFIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 32,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. W SOLIHATUL HAFIDZAH BT WAN MOHD ANNUAR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 33,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. SITI FATIMAH BINTI SA'AT"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 34,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. NUR AIN BINTI MAHAT"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 35,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 36,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. SITI ZUHAIDAH BINTI SHAHADAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 37,
+        "sect": 2,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
@@ -1508,128 +1675,40 @@
     },
     {
         "code": "NURF 4415",
-        "sect": 38,
+        "sect": 3,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. WAN HASLIZA BINTI WAN MAMAT"
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
         ],
         "dayTime": []
     },
     {
         "code": "NURF 4415",
-        "sect": 39,
+        "sect": 4,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. CHE AZUNIE BINTI CHE ABDULLAH"
+            "DR. NUR AIN BINTI MAHAT"
         ],
         "dayTime": []
     },
     {
         "code": "NURF 4415",
-        "sect": 40,
+        "sect": 5,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SALIZAR BT. MOHAMED LUDIN"
+            "DR. SITI FATIMAH BINTI SA'AT"
         ],
         "dayTime": []
     },
     {
         "code": "NURF 4415",
-        "sect": 41,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. MOHD. SAID BIN NURUMAL"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 42,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. AZLINA BT. DAUD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 43,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 44,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. AZMIR BIN AHMAD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 45,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. SYAMSUL BIN AHMAD ARIFIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 46,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 47,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "DR. SITI AZUNA BINTI ABU BAKAR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 48,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. SITI ROSHAIDAI BINTI MOHD ARIFIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 49,
+        "sect": 6,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
@@ -1640,12 +1719,507 @@
     },
     {
         "code": "NURF 4415",
-        "sect": 50,
+        "sect": 7,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 8,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 9,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 10,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AZMIR BIN AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 11,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. AZRI BIN ABD. JALIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 12,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HANIF BIN JAINLABDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 13,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NORATIKAH BT. OTHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 14,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NORLINDA BINTI ABD. RASHID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 15,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 16,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SHIDQIYYAH BINTI ABD HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 17,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD KAMIL BIN CHE HASAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 18,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AZLINA BT. DAUD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 19,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUNI ASMA' BINTI BAHARUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 20,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. CHE AZUNIE BINTI CHE ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 21,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 22,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. JUNAINAH BINTI AZMI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 23,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD KHAIRUL ZUL HASYMI BIN FIRDAUS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 24,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 25,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. PATIMAH BINTI ABDUL WAHAB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 26,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 27,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI ZUHAIDAH BINTI SHAHADAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 28,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 29,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHD. SAID BIN NURUMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 30,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SALIZAR BT. MOHAMED LUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 31,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. W SOLIHATUL HAFIDZAH BT WAN MOHD ANNUAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 32,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR'AIN BINTI ABDUL RASHID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 33,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. RUSILA BINTI RUSLAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 34,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL ALIF BIN ABDUL HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 35,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HARLINNA BINTI ABU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 36,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "KHIN THANDAR AUNG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 37,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZIZAH BINTI MOHD ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 38,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL 'INAYATI BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 39,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 40,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI AZUNA BINTI ABU BAKAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 41,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SUZILAWATI BINTI MOHAMED ARIFFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 42,
         "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. SITI MARIAM BINTI MUDA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 43,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI ROSHAIDAI BINTI MOHD ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 44,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 45,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIRAH FATIN BINTI IBRAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 46,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ANIAWANIS BINTI MAKHTAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 47,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIZA HASAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 48,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. LEE SIEW PIEN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 49,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURASIKIN BINTI MOHAMAD SHARIFF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 50,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4421",
+        "sect": 1,
+        "title": "INTEGRATED NURSING SCIENCES (FINAL PROFESSIONAL EXAMINATION)",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. RUSILA BINTI RUSLAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4422",
+        "sect": 1,
+        "title": "INTEGRATED NURSING PRACTICE (FINAL PROFESSIONAL EXAMINATION)",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HARLINNA BINTI ABU"
         ],
         "dayTime": []
     },
@@ -1656,7 +2230,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SANISAH BINTI SAIDI"
         ],
         "dayTime": []
     },
@@ -1667,7 +2241,18 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURF 4423",
+        "sect": 3,
+        "title": "FINAL YEAR RESEARCH PROJECT II",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL ALIF BIN ABDUL HAMID"
         ],
         "dayTime": []
     }

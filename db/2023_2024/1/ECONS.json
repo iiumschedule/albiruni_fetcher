@@ -1100,6 +1100,17 @@
         ]
     },
     {
+        "code": "ACC 3515",
+        "sect": 99,
+        "title": "MANAGEMENT ACCOUNTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ACC 4105",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 5",
@@ -1478,7 +1489,7 @@
         "sect": 1,
         "title": "ZAKAT ACCOUNTING",
         "chr": 3.0,
-        "venue": "ECONS SR 3.9 LEVEL 3",
+        "venue": "MGMT CENTER SR D",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1500,7 +1511,7 @@
         "sect": 2,
         "title": "ZAKAT ACCOUNTING",
         "chr": 3.0,
-        "venue": "ECONS SR 3.9 LEVEL 3",
+        "venue": "MGMT CENTER SR D",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1580,6 +1591,23 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ACCT 1329",
+        "sect": 600,
+        "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.4 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1892,6 +1920,23 @@
         ]
     },
     {
+        "code": "ECON 1140",
+        "sect": 600,
+        "title": "STATISTICAL METHODS",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.4 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "ECON 1150",
         "sect": 1,
         "title": "BUSINESS MATHEMATICS",
@@ -2640,6 +2685,28 @@
         ]
     },
     {
+        "code": "ECON 1311",
+        "sect": 8,
+        "title": "PRINCIPLES OF MICROECONOMICS",
+        "chr": 3.0,
+        "venue": "ECONS PLA LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ECON 1312",
         "sect": 1,
         "title": "PRINCIPLES OF MACROECONOMICS",
@@ -3260,7 +3327,7 @@
         "sect": 3,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": "ECONS SR 1.4 LEVEL 1",
+        "venue": "ECONS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3282,7 +3349,7 @@
         "sect": 4,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": "ECONS SR 1.4 LEVEL 1",
+        "venue": "ECONS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3384,6 +3451,23 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ECON 1710",
+        "sect": 600,
+        "title": "FOUNDATION OF ISLAMIC ECONOMICS",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.5 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
             }
         ]
     },
@@ -4136,6 +4220,23 @@
         ]
     },
     {
+        "code": "ECON 4810",
+        "sect": 600,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "ENTR 2304",
         "sect": 1,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
@@ -4263,6 +4364,17 @@
         ]
     },
     {
+        "code": "FIN 4140",
+        "sect": 99,
+        "title": "ISLAMIC MONEY & PAYMENT SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "FINC 1301",
         "sect": 1,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
@@ -4311,7 +4423,7 @@
         "sect": 3,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": "ECONS MH 4.3 LEVEL 4",
+        "venue": "ECONS SR 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4333,7 +4445,7 @@
         "sect": 4,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": "ECONS MH 4.3 LEVEL 4",
+        "venue": "ECONS SR 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4483,6 +4595,23 @@
         ]
     },
     {
+        "code": "FINC 1301",
+        "sect": 600,
+        "title": "FOUNDATION OF ISLAMIC FINANCE",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.5 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "FINC 1302",
         "sect": 1,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
@@ -4637,6 +4766,28 @@
         ]
     },
     {
+        "code": "FINC 1302",
+        "sect": 8,
+        "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": "ECONS MH 4.1 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "FINC 2302",
         "sect": 1,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
@@ -4743,6 +4894,23 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2302",
+        "sect": 600,
+        "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.2 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
             }
         ]
     },
@@ -4993,7 +5161,7 @@
         "sect": 1,
         "title": "ISLAMIC WEALTH MANAGEMENT",
         "chr": 3.0,
-        "venue": "MGMT CENTER SR D",
+        "venue": "MGMT CENTER SR C",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5097,6 +5265,17 @@
                 "endTime": "15:20"
             }
         ]
+    },
+    {
+        "code": "FINC 3303",
+        "sect": 99,
+        "title": "RISK MANAGEMENT OF ISLAMIC FINANCIAL INSTITUTIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "FINC 3305",
@@ -5584,6 +5763,50 @@
     },
     {
         "code": "MGMT 1301",
+        "sect": 1,
+        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
+        "chr": 3.0,
+        "venue": "ECONS LT1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 1301",
+        "sect": 2,
+        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
+        "chr": 3.0,
+        "venue": "ECONS LT1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 1301",
         "sect": 3,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
@@ -5763,7 +5986,7 @@
         "sect": 501,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KLM PBL ROOM 4 B3.1.19",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6001,6 +6224,23 @@
         ]
     },
     {
+        "code": "MGMT 2302",
+        "sect": 600,
+        "title": "BUSINESS ETHICS",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.2 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 2303",
         "sect": 1,
         "title": "BUSINESS COMMUNICATION",
@@ -6071,7 +6311,7 @@
         "sect": 4,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": "ECONS MH 4.1 LEVEL 4",
+        "venue": "ECONS SR 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6177,6 +6417,23 @@
         ]
     },
     {
+        "code": "MGMT 2303",
+        "sect": 600,
+        "title": "BUSINESS COMMUNICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 2305",
         "sect": 1,
         "title": "DECISION SCIENCE",
@@ -6283,6 +6540,23 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 2305",
+        "sect": 600,
+        "title": "DECISION SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -6507,6 +6781,23 @@
         ]
     },
     {
+        "code": "MGMT 4301",
+        "sect": 600,
+        "title": "INTERNATIONAL BUSINESS",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 4302",
         "sect": 1,
         "title": "STRATEGIC MANAGEMENT",
@@ -6683,6 +6974,23 @@
         ]
     },
     {
+        "code": "MGMT 4305",
+        "sect": 600,
+        "title": "INDUSTRIAL RELATIONS",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 4306",
         "sect": 1,
         "title": "QUALITY MANAGEMENT",
@@ -6793,6 +7101,17 @@
         ]
     },
     {
+        "code": "MGMT 4312",
+        "sect": 99,
+        "title": "CROSS-CULTURAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MGMT 4315",
         "sect": 1,
         "title": "PRACTICAL TRAINING (BBA)",
@@ -6802,6 +7121,28 @@
             "TO BE DETERMINED"
         ],
         "dayTime": []
+    },
+    {
+        "code": "MKTG 2301",
+        "sect": 1,
+        "title": "MARKETING PRINCIPLES",
+        "chr": 3.0,
+        "venue": "ECONS SR 2.1 LEVEL 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
     },
     {
         "code": "MKTG 2301",
@@ -6852,7 +7193,7 @@
         "sect": 4,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": "ECONS SR 4.4 LEVEL 4",
+        "venue": "ECONS MH 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6918,7 +7259,7 @@
         "sect": 1,
         "title": "INTEGRATED MARKETING COMMUNICATION",
         "chr": 3.0,
-        "venue": "ECONS SR 4.8 LEVEL 4",
+        "venue": "ECONS MH 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -7006,7 +7347,7 @@
         "sect": 1,
         "title": "SERVICES MARKETING",
         "chr": 3.0,
-        "venue": "MGMT CENTER SR D",
+        "venue": "ECONS SR 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -7064,6 +7405,23 @@
                 "day": 4,
                 "startTime": "17:00",
                 "endTime": "18:20"
+            }
+        ]
+    },
+    {
+        "code": "MKTG 4309",
+        "sect": 600,
+        "title": "DIGITAL MARKETING",
+        "chr": 3.0,
+        "venue": "ECONS SR 1.1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     }

@@ -62,7 +62,7 @@
         "chr": 3.0,
         "venue": "EDU LR 21 3.68",
         "lect": [
-            "TO BE DETERMINED"
+            "MUSLIMA KARAWANI SALEH"
         ],
         "dayTime": [
             {
@@ -203,7 +203,7 @@
         "sect": 2,
         "title": "EDUCATIONAL PSYCHOLOGY",
         "chr": 3.0,
-        "venue": "EDU LR 25 3.85",
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "DR. NOORLILA BINTI AHMAD"
         ],
@@ -225,7 +225,7 @@
         "sect": 3,
         "title": "EDUCATIONAL PSYCHOLOGY",
         "chr": 3.0,
-        "venue": "EDU LR 25 3.85",
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "DR. NOORLILA BINTI AHMAD"
         ],
@@ -250,6 +250,28 @@
         "venue": "EDU LR 25 3.85",
         "lect": [
             "DR. NOORLILA BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "EDEP 1103",
+        "sect": 5,
+        "title": "EDUCATIONAL PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": "EDU LR 19 3.66",
+        "lect": [
+            "ASSOC. PROF. DR. MASTURA BTE BADZIS"
         ],
         "dayTime": [
             {
@@ -371,18 +393,18 @@
         "sect": 1,
         "title": "MORAL DEVELOPMENT FROM THE PSYCHOLOGICAL PERSPECTIVE",
         "chr": 3.0,
-        "venue": "EDU LR 25 3.85",
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 3,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "15:20"
             }
@@ -415,7 +437,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO MORAL PHILOSOPHY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
@@ -459,7 +481,7 @@
         "sect": 1,
         "title": "CURRICULUM OF MORAL EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
         ],
@@ -476,20 +498,32 @@
         "sect": 1,
         "title": "METHODS OF TEACHING MORAL EDUCATION I",
         "chr": 3.0,
-        "venue": "EDU LR 26 3.86",
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "16:00",
+                "endTime": "18:50"
+            }
+        ]
+    },
+    {
+        "code": "EDFM 4365",
+        "sect": 2,
+        "title": "METHODS OF TEACHING MORAL EDUCATION I",
+        "chr": 3.0,
+        "venue": "EDU LR 18 2.6",
+        "lect": [
+            "ASSOC. PROF. DR. SUHAILAH BINTI HUSSIEN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -498,7 +532,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING MORAL EDUCATION II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
@@ -598,7 +632,7 @@
         "sect": 4,
         "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
         "chr": 3.0,
-        "venue": "EDU LT 4 3.4",
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
@@ -620,7 +654,7 @@
         "sect": 1,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
             "ASSOC. PROF. DR. ISMAIL HUSSEIN AMZAT"
         ],
@@ -637,7 +671,7 @@
         "sect": 2,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
@@ -654,7 +688,7 @@
         "sect": 3,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
             "ASSOC. PROF. DR. ISMAIL HUSSEIN AMZAT"
         ],
@@ -671,9 +705,9 @@
         "sect": 4,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
-            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
+            "ASSOC. PROF. DR. ISMAIL HUSSEIN AMZAT"
         ],
         "dayTime": [
             {
@@ -688,7 +722,7 @@
         "sect": 1,
         "title": "TOOLS FOR THINKING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 26 3.86",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
@@ -705,7 +739,7 @@
         "sect": 2,
         "title": "TOOLS FOR THINKING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
             "DR. JAFAR PARAMBOOR"
         ],
@@ -722,7 +756,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO SCHOOL COUNSELING",
         "chr": 3.0,
-        "venue": "EDU LR 22 3.69",
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "DR. SITI KHOLIJAH BINTI KASSIM"
         ],
@@ -766,7 +800,7 @@
         "sect": 1,
         "title": "LEGAL AND ETHICAL ISSUES IN COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
@@ -810,7 +844,7 @@
         "sect": 1,
         "title": "GUIDANCE AND COUNSELING PROGRAMME PLANNING AND EVALUATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "DR. PUTERI AZLIAN MEGAT RAMLI"
         ],
@@ -832,7 +866,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO STATISTICS",
         "chr": 3.0,
-        "venue": "EDU LR 30 3.79",
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "ASSOC. PROF. DR. MOHD BURHAN BIN IBRAHIM"
         ],
@@ -840,12 +874,7 @@
             {
                 "day": 2,
                 "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "endTime": "12:50"
             }
         ]
     },
@@ -854,7 +883,7 @@
         "sect": 1,
         "title": "COUNSELING LAB I",
         "chr": 3.0,
-        "venue": "EDU LR 19 3.66",
+        "venue": "EDU COUNSELING LAB LAB",
         "lect": [
             "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
@@ -871,7 +900,7 @@
         "sect": 1,
         "title": "COUNSELING SKILLS FOR TEACHERS",
         "chr": 2.0,
-        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "AINA' MARDHIYYAH BINTI MOHAMAD NOOR"
         ],
@@ -888,7 +917,7 @@
         "sect": 2,
         "title": "COUNSELING SKILLS FOR TEACHERS",
         "chr": 2.0,
-        "venue": "EDU LR 18 2.6",
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "MOHD FHADIL BIN AB RASHID"
         ],
@@ -905,58 +934,19 @@
         "sect": 1,
         "title": "INTRODUCTION TO GROUP COUNSELING",
         "chr": 3.0,
-        "venue": "EDU LR 22 3.69",
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "DR. NURSYAHIDAH BINTI KHALID"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "EDGC 2004",
-        "sect": 1,
-        "title": "CAREER DEVELOPMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
                 "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
                 "day": 4,
                 "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "EDGC 2902",
-        "sect": 1,
-        "title": "COUNSELING LAB II",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. SITI KHOLIJAH BINTI KASSIM"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "10:00",
                 "endTime": "12:50"
             }
         ]
