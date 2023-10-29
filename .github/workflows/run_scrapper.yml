@@ -5,7 +5,7 @@ name: Run scrapper script
     inputs:
       session:
         description: "Academic session"
-        default: "2022/2023"
+        default: "2023/2024"
         required: true
         type: string
       semester:
