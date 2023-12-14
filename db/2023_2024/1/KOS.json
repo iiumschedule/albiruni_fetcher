@@ -349,6 +349,23 @@
         ]
     },
     {
+        "code": "BKOS 1302",
+        "sect": 1,
+        "title": "COMPUTER IN SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "BKOS 1303",
         "sect": 1,
         "title": "PHILOSOPHY OF SCIENCE",
@@ -925,17 +942,6 @@
         ]
     },
     {
-        "code": "BSBT 4122",
-        "sect": 1,
-        "title": "INTERNSHIP",
-        "chr": 12.0,
-        "venue": null,
-        "lect": [
-            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
-        ],
-        "dayTime": []
-    },
-    {
         "code": "BSBT 4311",
         "sect": 1,
         "title": "BIONANOTECHNOLOGY",
@@ -1065,28 +1071,6 @@
         ]
     },
     {
-        "code": "BSBT 4347",
-        "sect": 1,
-        "title": "ENVIRONMENTAL TOXICOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. MARDIANA MOHD. ASHAARI"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
         "code": "BSBT 4348",
         "sect": 1,
         "title": "BIOREMEDIATION",
@@ -1137,23 +1121,6 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "BSBT 4357",
-        "sect": 1,
-        "title": "MOLECULAR EPIDEMIOLOGY",
-        "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-G-06",
-        "lect": [
-            "DR. HANUM BINTI YA'AKUB"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
                 "startTime": "09:00",
                 "endTime": "12:00"
             }

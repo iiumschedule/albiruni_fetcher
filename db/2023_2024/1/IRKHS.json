@@ -138,7 +138,7 @@
         "chr": 3.0,
         "venue": "HSC LR 27 LEVEL 2",
         "lect": [
-            "DR. MOHD IKHWAN BIN ABDULLAH"
+            "ASSOC. PROF. DR. NADWAH BT. HAJI DAUD"
         ],
         "dayTime": [
             {
@@ -752,7 +752,7 @@
         "sect": 2,
         "title": "ADVANCED ARABIC SYNTAX",
         "chr": 3.0,
-        "venue": "HSC ARABIC LAB 3",
+        "venue": "HSC TR 13 1.47",
         "lect": [
             "ASSOC. PROF. DR. NIK HANAN BT. MUSTAPHA"
         ],
@@ -796,9 +796,9 @@
         "sect": 1,
         "title": "ADVANCED ARABIC MORPHOLOGY",
         "chr": 3.0,
-        "venue": "ADM LR 5 3.111",
+        "venue": "HSC LR 4 1.34",
         "lect": [
-            "DR. ABDULRAHMAN ALOSMAN"
+            "ASSOC. PROF. DR. YASIR BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -1082,7 +1082,7 @@
         "sect": 1,
         "title": "PRACTICAL TRANSLATION",
         "chr": 3.0,
-        "venue": "ADM LR 1B 2.133",
+        "venue": null,
         "lect": [
             "PROF. DR. RAHMAH BINTI AHMAD H. OSMAN"
         ],
@@ -2597,17 +2597,6 @@
     },
     {
         "code": "COMM 4996",
-        "sect": 6,
-        "title": "FINAL YEAR PROJECT II",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. AIDA BINTI MOKHTAR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "COMM 4996",
         "sect": 7,
         "title": "FINAL YEAR PROJECT II",
         "chr": 3.0,
@@ -3315,7 +3304,7 @@
         "sect": 2,
         "title": "THE PSYCHOLOGY OF SPEECH",
         "chr": 3.0,
-        "venue": "HSC LR 5 1.33",
+        "venue": "HSC TR 15 1.49",
         "lect": [
             "DR. RABIAH TUL ADAWIYAH BT MOHAMED SALLEH"
         ],
@@ -4219,6 +4208,17 @@
         "dayTime": []
     },
     {
+        "code": "ENGL 4995",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ZURAHANI BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ENGL 4998",
         "sect": 1,
         "title": "FINAL YEAR PROJECT II",
@@ -4348,7 +4348,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MOHD. FUAD B. MD. SAWARI"
+            "DR. NURHIDAYU AL-SAARI"
         ],
         "dayTime": []
     },
@@ -4420,6 +4420,17 @@
                 "endTime": "15:20"
             }
         ]
+    },
+    {
+        "code": "HART 3106",
+        "sect": 99,
+        "title": "HALAL CONSUMERISM AND CULTURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. YUMI ZUHANIS HAS-YUN BT. HASHIM"
+        ],
+        "dayTime": []
     },
     {
         "code": "HART 3107",
@@ -6587,28 +6598,6 @@
     },
     {
         "code": "PSYC 1311",
-        "sect": 4,
-        "title": "INTRODUCTION TO PSYCHOLOGY",
-        "chr": 3.0,
-        "venue": "HSC LR 30 (HS COMP LAB A) 3",
-        "lect": [
-            "NURUL IZZATI ASYIKIN BINTI ZULKIFLY"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "PSYC 1311",
         "sect": 5,
         "title": "INTRODUCTION TO PSYCHOLOGY",
         "chr": 3.0,
@@ -7565,6 +7554,28 @@
         "dayTime": []
     },
     {
+        "code": "PSYC 4994",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. JUSMAWATI BINTI FAUZAMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4994",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "NURUL IZZATI ASYIKIN BINTI ZULKIFLY"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "RKFQ 1310",
         "sect": 1,
         "title": "INTRODUCTION TO ISLAMIC JURISPRUDENCE",
@@ -8335,6 +8346,28 @@
         ]
     },
     {
+        "code": "RKFQ 2313",
+        "sect": 3,
+        "title": "FIQH AL-USRAH (JURISTIC STUDY OF FAMILY INSTITUTION)",
+        "chr": 3.0,
+        "venue": "ADM LR 1B 2.133",
+        "lect": [
+            "DR. SAHEED ABDULLAHI BUSARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "RKFQ 2314",
         "sect": 1,
         "title": "FIQH AL-JINAYAT WA AL-UQUBAT (JURISTIC STUDY OF CRIMES AND PUNISHMENT)",
@@ -8595,28 +8628,6 @@
         "venue": null,
         "lect": [
             "DR. BELAL B.S. SALHAB"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKFQ 4993",
-        "sect": 19,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. IRWANDI JASWIR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKFQ 4993",
-        "sect": 20,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NURHUSNA BINTI SAMSUDIN"
         ],
         "dayTime": []
     },
@@ -11406,7 +11417,7 @@
     {
         "code": "RKUD 2318",
         "sect": 1,
-        "title": "WORLD RLIGIONS I",
+        "title": "WORLD RELIGIONS I",
         "chr": 3.0,
         "venue": "IRK SR 2 1.12",
         "lect": [
@@ -11428,7 +11439,7 @@
     {
         "code": "RKUD 2318",
         "sect": 2,
-        "title": "WORLD RLIGIONS I",
+        "title": "WORLD RELIGIONS I",
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
@@ -11450,7 +11461,7 @@
     {
         "code": "RKUD 2318",
         "sect": 3,
-        "title": "WORLD RLIGIONS I",
+        "title": "WORLD RELIGIONS I",
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
@@ -12598,7 +12609,7 @@
         "chr": 3.0,
         "venue": "HSC LR 19 1.54",
         "lect": [
-            "TO BE DETERMINED"
+            "ZURAIDA BINTI ABD RAHIM"
         ],
         "dayTime": [
             {
@@ -13826,7 +13837,7 @@
         "sect": 18,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": "IRK LR 5 2.41",
+        "venue": "IRK LR 9 3.68",
         "lect": [
             "DR. NORBANI BINTI ISMAIL"
         ],
@@ -14332,7 +14343,7 @@
         "sect": 508,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": "KLM SEMINAR ROOM 1 B3.1.05",
+        "venue": "KLM STUDIO 3 B4.2.26",
         "lect": [
             "HAMIM AZAD"
         ],
@@ -15226,7 +15237,7 @@
         "sect": 502,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
-        "venue": "KLM SEMINAR ROOM 1 B3.1.05",
+        "venue": "KLM LT 1 B4.1.18",
         "lect": [
             "HAMIM AZAD"
         ],
