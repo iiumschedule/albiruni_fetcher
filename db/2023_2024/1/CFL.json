@@ -322,9 +322,9 @@
         "sect": 2,
         "title": "ENGLISH LANGUAGE II",
         "chr": 0.0,
-        "venue": "KAED LR (L1) 2",
+        "venue": "ICT LR 2 LEVEL 1D",
         "lect": [
-            "HARTINI BINTI HJ. JAMIL"
+            "DR. ZURAIDAH BINTI ISMAIL"
         ],
         "dayTime": [
             {
@@ -399,6 +399,43 @@
         "venue": "KAED LR (L1) 4",
         "lect": [
             "CATHRINE BERNADETTE BOUDVILLE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 0003",
+        "sect": 4,
+        "title": "ENGLISH LANGUAGE III",
+        "chr": 0.0,
+        "venue": "ICT TL-C1-04 LEVEL 1C",
+        "lect": [
+            "NORHANA IMELDA BT. ISMAIL"
         ],
         "dayTime": [
             {
@@ -536,6 +573,43 @@
                 "day": 5,
                 "startTime": "08:30",
                 "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 0004",
+        "sect": 4,
+        "title": "ENGLISH LANGUAGE IV",
+        "chr": 0.0,
+        "venue": "KAED LR (L1) 2",
+        "lect": [
+            "HARTINI BINTI HJ. JAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:30"
             }
         ]
     },
@@ -988,7 +1062,7 @@
         "sect": 13,
         "title": "ENGLISH LANGUAGE V",
         "chr": 0.0,
-        "venue": "ICT TL-C1-01 LEVEL 1C",
+        "venue": "ICT LR 3 LEVEL 1C",
         "lect": [
             "WAN NARMI AZIANA BINTI WAN ABDULLAH"
         ],
@@ -1212,7 +1286,7 @@
         "chr": 0.0,
         "venue": "ICT LR 1 LEVEL 1C",
         "lect": [
-            "DR. ZURAIDAH BINTI ISMAIL"
+            "NORZILAWATI BINTI ISHAK"
         ],
         "dayTime": [
             {
@@ -2225,7 +2299,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "DR. ZURAIDAH BINTI ISMAIL"
+            "NORZILAWATI BINTI ISHAK"
         ],
         "dayTime": [
             {
@@ -3463,6 +3537,28 @@
         ]
     },
     {
+        "code": "LMBD 1132",
+        "sect": 840,
+        "title": "BAHASA MELAYU II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "NIK ZULAIHA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:30",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:30",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "LMBD 2201",
         "sect": 1,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
@@ -3577,7 +3673,7 @@
         "sect": 7,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": "EDU TR 3 (LEVEL 3) 3.018",
+        "venue": "HSC TR 8 1.41",
         "lect": [
             "NURUL HUSNI BINTI ZAWAWIL ANWAR"
         ],
@@ -5026,28 +5122,6 @@
     },
     {
         "code": "LMBD 2204",
-        "sect": 821,
-        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
-        "chr": 2.0,
-        "venue": "LECTURE ROOM 5/6, KON GF",
-        "lect": [
-            "NIK ZULAIHA BINTI ZAKARIA"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "LMBD 2204",
         "sect": 830,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
@@ -5179,34 +5253,24 @@
         ]
     },
     {
-        "code": "LQ 0108",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE I",
+        "code": "LQ 0208",
+        "sect": 40,
+        "title": "QURANIC LANGUAGE II",
         "chr": 0.0,
         "venue": null,
         "lect": [
-            "MOHD. FAIRUZ BIN ABDUL TALIB"
+            "MOHD. ALI BIN ABDULLAH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "16:00",
+                "endTime": "17:30"
             },
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "16:00",
+                "endTime": "17:30"
             }
         ]
     },
@@ -5375,38 +5439,6 @@
         ]
     },
     {
-        "code": "LQAD 0001",
-        "sect": 2,
-        "title": "QURANIC LANGUAGE I",
-        "chr": 0.0,
-        "venue": "ENG TR E1-5-4.9",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
         "code": "LQAD 0002",
         "sect": 1,
         "title": "QURANIC LANGUAGE II",
@@ -5539,9 +5571,9 @@
         "sect": 5,
         "title": "QURANIC LANGUAGE II",
         "chr": 0.0,
-        "venue": null,
+        "venue": "HSC TR 10 1.43",
         "lect": [
-            "MOHD. FAIRUZ BIN ABDUL TALIB"
+            "WAN NORDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -5571,7 +5603,7 @@
         "sect": 6,
         "title": "QURANIC LANGUAGE II",
         "chr": 0.0,
-        "venue": null,
+        "venue": "ENG TR E1-5-4.9",
         "lect": [
             "ROKIAH BINTI ABU TALIB"
         ],
@@ -5815,7 +5847,7 @@
         "chr": 0.0,
         "venue": "ENG TR E1-5-1.3",
         "lect": [
-            "WAN NORDIN BIN WAN ABDULLAH"
+            "MOHD. FAIRUZ BIN ABDUL TALIB"
         ],
         "dayTime": [
             {
@@ -6103,38 +6135,6 @@
         ]
     },
     {
-        "code": "LQAD 0005",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE REMEDIAL COURSE",
-        "chr": 0.0,
-        "venue": "ECONS LR 4.7 LEVEL 4",
-        "lect": [
-            "MOHD. FAIRUZ BIN ABDUL TALIB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:50"
-            }
-        ]
-    },
-    {
         "code": "LQAD 1003",
         "sect": 1,
         "title": "ARABIC FOR IBADAH I",
@@ -6315,9 +6315,9 @@
         "sect": 9,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": "AIKOL LR 1.3 1.3",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "MUHAMMAD AFIFI B. ABDULLAH"
+            "DR. JAMSURI BIN MOHD. SHAMSUDIN"
         ],
         "dayTime": [
             {
@@ -6466,34 +6466,12 @@
     },
     {
         "code": "LQAD 1003",
-        "sect": 16,
-        "title": "ARABIC FOR IBADAH I",
-        "chr": 0.5,
-        "venue": "AIKOL LR 3.6 3.6",
-        "lect": [
-            "DR. NAJMIAH BINTI HASHIM"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 1003",
         "sect": 17,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
         "venue": "KAED LR (L1) 3",
         "lect": [
-            "DR. JAMSURI BIN MOHD. SHAMSUDIN"
+            "DR. NAJMIAH BINTI HASHIM"
         ],
         "dayTime": [
             {
@@ -6557,7 +6535,7 @@
         "sect": 20,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": "ENG TR E1-5-4.9",
+        "venue": "AIKOL LR 4.5 4.5",
         "lect": [
             "DATIN SABARIAH BINTI BAKRI"
         ],
@@ -6667,9 +6645,9 @@
         "sect": 25,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": "HSC TR 12 1.46",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "WAN MOHD ZAHARI BIN WAN ABU BAKAR"
+            "DR. JAMSURI BIN MOHD. SHAMSUDIN"
         ],
         "dayTime": [
             {
@@ -6911,7 +6889,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.3 1.3",
         "lect": [
-            "ROKIAH BINTI ABU TALIB"
+            "WAN MOHD ZAHARI BIN WAN ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -7043,7 +7021,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "NOR AZLINA BINTI JAAFAR"
+            "RABIATUL ADAWIAH BINTI SAADON"
         ],
         "dayTime": [
             {
@@ -7109,7 +7087,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "RAJA MUNIRAH BINTI RAJA SULAIMAN"
+            "RABIATUL ADAWIAH BINTI SAADON"
         ],
         "dayTime": [
             {
@@ -7153,7 +7131,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 1.2 1.2",
         "lect": [
-            "AZAHARI BIN MUHAMED ALI"
+            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
         ],
         "dayTime": [
             {
@@ -7175,7 +7153,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 3.1 3.1",
         "lect": [
-            "MARZIDAH BTE. HASHIM"
+            "RABIATUL ADAWIAH BINTI SAADON"
         ],
         "dayTime": [
             {
@@ -7263,7 +7241,7 @@
         "chr": 0.5,
         "venue": "AIKOL LR 3.1 3.1",
         "lect": [
-            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
+            "WAN MOHD ZAHARI BIN WAN ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -7439,7 +7417,7 @@
         "chr": 0.5,
         "venue": "HSC TR 20 1.55",
         "lect": [
-            "ROKIAH BINTI ABU TALIB"
+            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
         ],
         "dayTime": [
             {
@@ -7544,6 +7522,28 @@
     },
     {
         "code": "LQAD 2003",
+        "sect": 821,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. ALI BIN ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
         "sect": 830,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
@@ -7588,146 +7588,14 @@
     },
     {
         "code": "LQAD 2103",
-        "sect": 1,
-        "title": "ARABIC FOR COMMUNICATION  II",
-        "chr": 1.0,
-        "venue": "ECONS LR 4.7 LEVEL 4",
-        "lect": [
-            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:30"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2103",
         "sect": 840,
         "title": "ARABIC FOR COMMUNICATION  II",
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. ALI BIN ABDULLAH"
         ],
         "dayTime": []
-    },
-    {
-        "code": "LQAD 3003",
-        "sect": 1,
-        "title": "ADVANCED ARABIC WRITING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "IBRAHIM AHMED FARES MOHAMED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 3003",
-        "sect": 2,
-        "title": "ADVANCED ARABIC WRITING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "IBRAHIM AHMED FARES MOHAMED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 3003",
-        "sect": 3,
-        "title": "ADVANCED ARABIC WRITING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "IBRAHIM AHMED FARES MOHAMED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 3003",
-        "sect": 4,
-        "title": "ADVANCED ARABIC WRITING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "IBRAHIM AHMED FARES MOHAMED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 3003",
-        "sect": 5,
-        "title": "ADVANCED ARABIC WRITING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
     },
     {
         "code": "LQAD 3003",
@@ -7773,7 +7641,7 @@
         "sect": 2,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
         ],
@@ -7807,7 +7675,7 @@
         "sect": 2,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 2",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
         ],
@@ -7943,15 +7811,15 @@
         "sect": 4,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "ADM TR 17 4.10",
+        "venue": "MOSQUE LEVEL 3",
         "lect": [
-            "MUJAHID BIN AHMAD LUTFI"
+            "ABDUL KHAIR BIN JALIL"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -7969,6 +7837,23 @@
                 "day": 7,
                 "startTime": "17:00",
                 "endTime": "17:50"
+            }
+        ]
+    },
+    {
+        "code": "TQB 2011E",
+        "sect": 1,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 1.0,
+        "venue": "ADM TR 17 4.10",
+        "lect": [
+            "MUJAHID BIN AHMAD LUTFI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },

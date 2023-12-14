@@ -1423,7 +1423,7 @@
         "sect": 1,
         "title": "ADVANCED TAXATION",
         "chr": 3.0,
-        "venue": "ECONS SR 3.1 LEVEL 3",
+        "venue": "ECONS SR 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3474,6 +3474,28 @@
     {
         "code": "ECON 2110",
         "sect": 1,
+        "title": "INTERMEDIATE MICROECONOMICS I",
+        "chr": 3.0,
+        "venue": "ECONS MH 4.2 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ECON 2110",
+        "sect": 2,
         "title": "INTERMEDIATE MICROECONOMICS I",
         "chr": 3.0,
         "venue": "ECONS MH 4.2 LEVEL 4",
@@ -7123,11 +7145,28 @@
         "dayTime": []
     },
     {
+        "code": "MGMT 4318",
+        "sect": 600,
+        "title": "BUSINESS RESEARCH METHOD",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "MKTG 2301",
         "sect": 1,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": "ECONS SR 2.1 LEVEL 2",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
