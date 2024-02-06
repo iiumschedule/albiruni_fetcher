@@ -94,7 +94,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+            "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
         ],
         "dayTime": [
             {
@@ -2624,7 +2624,7 @@
         "sect": 801,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2641,7 +2641,7 @@
         "sect": 802,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EXAM HALL 1, KOP L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2658,7 +2658,7 @@
         "sect": 803,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EXAM HALL 2, KOP L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2675,7 +2675,7 @@
         "sect": 804,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 1 KOP GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2692,7 +2692,7 @@
         "sect": 810,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM 13 DPRS KAHS L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2709,7 +2709,7 @@
         "sect": 811,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM 14 DPRS KAHS L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2726,7 +2726,7 @@
         "sect": 812,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2743,7 +2743,7 @@
         "sect": 813,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1 (DNS) L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2896,7 +2896,7 @@
         "sect": 840,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1, KOM GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2913,7 +2913,7 @@
         "sect": 841,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 4A KOM L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2930,7 +2930,7 @@
         "sect": 842,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 4B KOM L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2947,7 +2947,7 @@
         "sect": 843,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 5, KOM L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3118,7 +3118,7 @@
         "sect": 820,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (NURSING)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE ROOM 3/4, KON GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3135,7 +3135,7 @@
         "sect": 821,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (NURSING)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE ROOM 5/6, KON GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3152,7 +3152,7 @@
         "sect": 822,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (NURSING)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE ROOM 3/4, KON GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3169,7 +3169,7 @@
         "sect": 823,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (NURSING)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE ROOM 5/6, KON GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3272,6 +3272,17 @@
     {
         "code": "LMBD 1131",
         "sect": 830,
+        "title": "BAHASA MELAYU I",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "LMBD 1131",
+        "sect": 860,
         "title": "BAHASA MELAYU I",
         "chr": 1.0,
         "venue": null,
@@ -5023,7 +5034,7 @@
         "sect": 810,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5045,7 +5056,7 @@
         "sect": 811,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM 12 (DOVS) L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5067,7 +5078,7 @@
         "sect": 820,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1 KON L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5089,7 +5100,7 @@
         "sect": 821,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "LECTURER HALL 2 KON L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6567,15 +6578,15 @@
         "sect": 810,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 10 DDIR KAHS L2",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:00",
-                "endTime": "16:00"
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
@@ -7260,15 +7271,15 @@
         "sect": 810,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 9 DDIR L2",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:00",
-                "endTime": "16:00"
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
@@ -7282,11 +7293,17 @@
         "sect": 820,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 3/4, KON GF",
         "lect": [
             "TO BE DETERMINED"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "LQAD 2003",
@@ -7326,7 +7343,7 @@
         "sect": 840,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 4, KOM L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -7340,6 +7357,23 @@
                 "day": 2,
                 "startTime": "17:00",
                 "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 860,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "CLASSROOM Y2, KOD GF",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "22:00",
+                "endTime": "01:00"
             }
         ]
     },
@@ -8378,6 +8412,57 @@
     },
     {
         "code": "TQTD 1002",
+        "sect": 111,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 112,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 113,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
         "sect": 501,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
@@ -8466,7 +8551,7 @@
         "sect": 801,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -8483,7 +8568,7 @@
         "sect": 802,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "EXAM HALL 1, KOP L1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -8500,7 +8585,7 @@
         "sect": 803,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "EXAM HALL 2, KOP L2",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -8517,7 +8602,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2 (DASLP) L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -8534,7 +8619,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 3 (DASLP) L1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -8670,26 +8755,9 @@
         "sect": 840,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 9, KOM L4",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:30"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
-        "sect": 841,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
         "dayTime": [
             {
@@ -8704,7 +8772,7 @@
         "sect": 860,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "DISCUSSION ROOM 1, KOD GF",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9155,6 +9223,108 @@
                 "day": 4,
                 "startTime": "16:00",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 27,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 28,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 29,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 30,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 31,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 32,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -10472,7 +10642,7 @@
         "sect": 801,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -10489,7 +10659,7 @@
         "sect": 802,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "EXAM HALL 1, KOP L1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10506,7 +10676,7 @@
         "sect": 803,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "EXAM HALL 2, KOP L2",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -10523,7 +10693,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2 (DASLP) L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -10540,7 +10710,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 3 (DASLP) L1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10557,7 +10727,7 @@
         "sect": 812,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1 (DNS) L1",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -10574,7 +10744,7 @@
         "sect": 813,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2 (DASLP) L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -10591,7 +10761,7 @@
         "sect": 814,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 3 (DASLP) L1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10608,7 +10778,7 @@
         "sect": 815,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 6 (DPRS) L3",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -10846,7 +11016,7 @@
         "sect": 840,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 9, KOM L4",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -10863,7 +11033,7 @@
         "sect": 841,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 11, KOM L4",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10880,7 +11050,7 @@
         "sect": 842,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 12, KOM L4",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -10894,10 +11064,27 @@
     },
     {
         "code": "TQTD 2002",
+        "sect": 843,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "SEMINAR ROOM 11, KOM L4",
+        "lect": [
+            "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
         "sect": 860,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM Y1, KOD GF",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10914,7 +11101,7 @@
         "sect": 861,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "DISCUSSION ROOM 2, KOD GF",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],

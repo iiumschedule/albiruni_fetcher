@@ -444,42 +444,42 @@
         "sect": 7,
         "title": "INTRODUCTION TO COMPUTER ORGANIZATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 3 LEVEL 1C",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORZALIZA BINTI MD NOR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
     },
     {
         "code": "CSCI 1302",
         "sect": 8,
         "title": "INTRODUCTION TO COMPUTER ORGANIZATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 3 LEVEL 1C",
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 1,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 11 LEVEL 2C",
-        "lect": [
-            "DR. TAKUMI SASE"
+            "DR. NORZALIZA BINTI MD NOR"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -644,7 +644,7 @@
         "chr": 3.0,
         "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
-            "DR. NORZALIZA BINTI MD NOR"
+            "DR. AKEEM OLOWOLAYEMO"
         ],
         "dayTime": [
             {
@@ -666,7 +666,7 @@
         "chr": 3.0,
         "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
-            "DR. NORZALIZA BINTI MD NOR"
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
         ],
         "dayTime": [
             {
@@ -688,7 +688,7 @@
         "chr": 3.0,
         "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
-            "DR. NORZALIZA BINTI MD NOR"
+            "DR. NOR SAADAH BINTI MD NOR"
         ],
         "dayTime": [
             {
@@ -708,9 +708,9 @@
         "sect": 8,
         "title": "PROBABILITY AND STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHARYAR WANI"
         ],
         "dayTime": [
             {
@@ -950,18 +950,18 @@
         "sect": 3,
         "title": "DATA STRUCTURES AND ALGORITHMS I",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 3 LEVEL 3C",
+        "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
             "DR. SHARYAR WANI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
             }
@@ -972,18 +972,18 @@
         "sect": 4,
         "title": "DATA STRUCTURES AND ALGORITHMS I",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 3 LEVEL 3C",
+        "venue": "ICT LR 13 LEVEL 2D",
         "lect": [
             "DR. SHARYAR WANI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "15:20"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
             }
@@ -994,18 +994,18 @@
         "sect": 5,
         "title": "DATA STRUCTURES AND ALGORITHMS I",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 3 LEVEL 3C",
+        "venue": "ICT LR 14A LEVEL 2D",
         "lect": [
             "DR. SHARYAR WANI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "15:30",
                 "endTime": "16:50"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
             }
@@ -1106,7 +1106,7 @@
         "chr": 3.0,
         "venue": "ICT CISCO LAB LEVEL 4C",
         "lect": [
-            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+            "DR. ATIKAH BALQIS BINTI BASRI"
         ],
         "dayTime": [
             {
@@ -1584,28 +1584,6 @@
         ]
     },
     {
-        "code": "CSCI 2305",
-        "sect": 3,
-        "title": "MATHEMATICS FOR COMPUTING II",
-        "chr": 3.0,
-        "venue": "ICT LR 12 LEVEL 2C",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "CSCI 3300",
         "sect": 1,
         "title": "OPERATING SYSTEMS",
@@ -1700,7 +1678,7 @@
         "chr": 3.0,
         "venue": "ICT LR 19 LEVEL 4C",
         "lect": [
-            "DR. NORLIA MD YUSOF"
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
         ],
         "dayTime": [
             {
@@ -1734,6 +1712,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 3300",
+        "sect": 7,
+        "title": "OPERATING SYSTEMS",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
+        "lect": [
+            "DR. NORLIA MD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -2118,7 +2118,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+            "DR. TAKUMI SASE"
         ],
         "dayTime": [
             {
@@ -2128,6 +2128,28 @@
             },
             {
                 "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4334",
+        "sect": 1,
+        "title": "NETWORK AND SYSTEMS ADMINISTRATION",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
             }
@@ -2182,18 +2204,18 @@
         "sect": 1,
         "title": "BIG DATA ANALYTICS",
         "chr": 3.0,
-        "venue": "ICT TL-D4-04 LEVEL 4D",
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
         "lect": [
             "DR. SHARYAR WANI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "08:30",
                 "endTime": "09:50"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
             }
@@ -2250,7 +2272,7 @@
         "chr": 3.0,
         "venue": "ICT TL-D4-04 LEVEL 4D",
         "lect": [
-            "DR. NORZALIZA BINTI MD NOR"
+            "TS. DR. HAMWIRA SAKTI BIN YAACOB"
         ],
         "dayTime": [
             {
@@ -2406,6 +2428,50 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ICTM 1302",
+        "sect": 5,
+        "title": "INFORMATION TECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 5 LEVEL 3C",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "ICTM 1302",
+        "sect": 6,
+        "title": "INFORMATION TECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ICT LR 13 LEVEL 2D",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -2900,7 +2966,7 @@
         "chr": 3.0,
         "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
-            "TS. DR. ZAHIDAH BINTI ZULKIFLI"
+            "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
         ],
         "dayTime": [
             {
@@ -2922,7 +2988,7 @@
         "chr": 3.0,
         "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
-            "TS. DR. ZAHIDAH BINTI ZULKIFLI"
+            "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
         ],
         "dayTime": [
             {
@@ -3313,28 +3379,6 @@
     },
     {
         "code": "INFO 3304",
-        "sect": 3,
-        "title": "E-COMMERCE",
-        "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
-        "lect": [
-            "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 3304",
         "sect": 4,
         "title": "E-COMMERCE",
         "chr": 3.0,
@@ -3598,6 +3642,28 @@
         ]
     },
     {
+        "code": "INFO 3307",
+        "sect": 8,
+        "title": "HUMAN COMPUTER INTERACTION",
+        "chr": 3.0,
+        "venue": "ICT ACM-ICPC LAB TL-C4-02",
+        "lect": [
+            "DR. ELIN ELIANA BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "INFO 3308",
         "sect": 1,
         "title": "PROJECT  MANAGEMENT IN IT",
@@ -3770,6 +3836,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 5,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "lect": [
+            "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },

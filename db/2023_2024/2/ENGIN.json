@@ -23,7 +23,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TS. DR. MUHAMMAD HANAFI BIN AZAMI"
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
         ],
         "dayTime": [
             {
@@ -46,7 +46,7 @@
         "venue": null,
         "lect": [
             "IR. DR. MOHD FARID BIN ALADDIN",
-            "TS. DR. MUHAMMAD HANAFI BIN AZAMI",
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI",
             "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
         ],
         "dayTime": [
@@ -687,7 +687,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. FARAH BINTI AHMAD"
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -766,13 +766,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -1075,7 +1075,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. FARAH BINTI AHMAD"
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -1223,7 +1223,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. FARAH BINTI AHMAD",
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD",
             "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
         ],
         "dayTime": [
@@ -1241,7 +1241,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. FARAH BINTI AHMAD",
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD",
             "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
         ],
         "dayTime": [
@@ -2980,7 +2980,7 @@
             "PROF. DR. ANIS NURASHIKIN BT. NORDIN",
             "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK",
             "IR. DR. YASSER ASRUL BIN AHMAD",
-            "DR. NORAZLINA BTE SAIDIN",
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN",
             "DR. NUR SHAHIDA BINTI MIDI",
             "DR. FARAH DIYANA BT. ABDUL RAHMAN"
         ],
@@ -3595,7 +3595,7 @@
             "PROF. DR. ANIS NURASHIKIN BT. NORDIN",
             "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK",
             "IR. DR. YASSER ASRUL BIN AHMAD",
-            "DR. NORAZLINA BTE SAIDIN",
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN",
             "DR. NUR SHAHIDA BINTI MIDI",
             "DR. FARAH DIYANA BT. ABDUL RAHMAN"
         ],
@@ -3727,7 +3727,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
         ],
         "dayTime": [
             {
@@ -3936,7 +3936,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
         ],
         "dayTime": []
     },
@@ -4229,7 +4229,7 @@
         "chr": 1.0,
         "venue": "ENG ECE ELEC&ELETNC LAB B E3-4",
         "lect": [
-            "DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
         ],
         "dayTime": [
             {
@@ -5321,7 +5321,7 @@
             "DR. FARAH DIYANA BT. ABDUL RAHMAN",
             "IR. DR. YASSER ASRUL BIN AHMAD",
             "DR. NUR SHAHIDA BINTI MIDI",
-            "DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
         ],
         "dayTime": [
             {
@@ -5736,7 +5736,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
         ],
         "dayTime": [
             {
@@ -6071,6 +6071,23 @@
         ]
     },
     {
+        "code": "MANU 1201",
+        "sect": 1,
+        "title": "ENGINEERING DRAWING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AFIFAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "MANU 1202",
         "sect": 1,
         "title": "WORKSHOP TECHNOLOGY",
@@ -6103,28 +6120,6 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "MANU 2311",
-        "sect": 1,
-        "title": "MANUFACTURING PROCESSES I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -6162,13 +6157,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -6197,8 +6192,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "IR. DR. YANG CHUAN CHOONG",
-            "DR. SITI HARYANI BINTI TOMADI"
+            "IR. DR. YANG CHUAN CHOONG"
         ],
         "dayTime": [
             {
@@ -6707,7 +6701,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "MOHAMMAD AMNAN BIN AWANG ALI",
+            "DR. SYAZWANI BINTI MOHD ZAKI",
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
         ],
         "dayTime": [
@@ -6871,9 +6865,9 @@
         ]
     },
     {
-        "code": "MANU 4347",
+        "code": "MANU 4346",
         "sect": 1,
-        "title": "NON METALLIC MATERIALS PROCESSING",
+        "title": "NONTRADITIONAL MACHINING",
         "chr": 3.0,
         "venue": null,
         "lect": [
@@ -6881,14 +6875,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -6921,8 +6915,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "IR. DR. YANG CHUAN CHOONG",
-            "DR. ADIBAH BT. AMIR"
+            "DR. SITI HARYANI BINTI TOMADI"
         ],
         "dayTime": [
             {
@@ -6941,6 +6934,261 @@
         "lect": [
             "IR. DR. YANG CHUAN CHOONG",
             "DR. ADIBAH BT. AMIR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAFIE BIN KAMARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABD. MALEK BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR KHAIRUSSHIMA BINTI MUHAMAD KHAIRUSSALEH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AISHAH NAJIAH BT. DAHNEL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMED BIN ABD. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILY BINTI MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. IR. DR. MD YUSOF BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SHARIFAH IMIHEZRI BT. SYED SHAHARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 12,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR FARAH HUDA BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 13,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AFIFAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 14,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 15,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. 'ATIAH BT. ABDULLAH SIDEK"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 4399",
+        "sect": 16,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "IR. TS. DR. (CMILT M.I.E.M.) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
         ],
         "dayTime": [
             {
@@ -8053,7 +8301,7 @@
         "venue": null,
         "lect": [
             "DR. ASSAYIDATUL LAILA BINTI NOR HAIRIN",
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
@@ -8743,7 +8991,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": []
     },
@@ -9059,7 +9307,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
             {
@@ -9151,7 +9399,7 @@
         "lect": [
             "DR. MARMEEZEE BIN MOHD YUSOFF",
             "DR. NUR LIYANA BINTI AZMI",
-            "IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
             {
@@ -9206,7 +9454,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
+            "ASSOC. PROF. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
         ],
         "dayTime": [
             {
@@ -9528,7 +9776,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOOR HAZRIN HANY BT MOHAMAD HANIF",
+            "ASSOC. PROF. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF",
             "DR. SYAMSUL BAHRIN BIN ABDUL HAMID"
         ],
         "dayTime": [
@@ -9574,7 +9822,7 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. AZHAR BIN MOHD IBRAHIM",
-            "IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
             {
@@ -9776,7 +10024,7 @@
         "lect": [
             "DR. MARMEEZEE BIN MOHD YUSOFF",
             "DR. NUR LIYANA BINTI AZMI",
-            "IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
             {
@@ -9854,7 +10102,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
+            "ASSOC. PROF. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
         ],
         "dayTime": [
             {
@@ -10785,7 +11033,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TS. DR. MUHAMMAD HANAFI BIN AZAMI"
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
         ],
         "dayTime": [
             {
@@ -10939,8 +11187,8 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TS. DR. MUHAMMAD HANAFI BIN AZAMI",
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI",
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
@@ -10962,8 +11210,8 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TS. DR. MUHAMMAD HANAFI BIN AZAMI",
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI",
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
@@ -11990,7 +12238,7 @@
             "MR. AMIRUDDIN BIN AMKAROMI",
             "DR. SANISAH BT. SAHARIN",
             "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID",
-            "TS. DR. MUHAMMAD HANAFI BIN AZAMI",
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI",
             "DR. NUR AZAM BIN ABDULLAH",
             "PROF. DR. MEFTAH HRAIRI"
         ],
@@ -12482,8 +12730,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "IR. DR. YANG CHUAN CHOONG",
-            "DR. SITI HARYANI BINTI TOMADI"
+            "IR. DR. YANG CHUAN CHOONG"
         ],
         "dayTime": [
             {
@@ -13036,6 +13283,28 @@
         ]
     },
     {
+        "code": "MFGA 4359",
+        "sect": 1,
+        "title": "NON-TRADITIONAL MACHINING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MTRE 1101",
         "sect": 1,
         "title": "MATERIALS ENGINEERING LAB 1",
@@ -13137,7 +13406,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI",
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI",
             "DR. HAFIZAH HANIM BINTI MOHD ZAKI",
             "ASSOC. PROF. DR. NORSHAHIDA BINTI SARIFUDDIN",
             "ASSOC. PROF. DR. NOORASIKIN BT. SAMAT"
@@ -13199,7 +13468,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
@@ -13268,7 +13537,7 @@
         "venue": null,
         "lect": [
             "DR. ASSAYIDATUL LAILA BINTI NOR HAIRIN",
-            "SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
