@@ -1144,50 +1144,6 @@
         ]
     },
     {
-        "code": "BMCO 1105",
-        "sect": 2,
-        "title": "KOMUNIKASI KHALAYAK DAN PENGUCAPAN AWAM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AZEAN IDRUWANI BINTI IDRUS"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 7,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1105",
-        "sect": 3,
-        "title": "KOMUNIKASI KHALAYAK DAN PENGUCAPAN AWAM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHAMAD SUHAIZI BIN SUHAIMI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 7,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
         "code": "BMCO 1106",
         "sect": 1,
         "title": "KOMUNIKASI PENULISAN 1",
@@ -1250,40 +1206,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1107",
-        "sect": 1,
-        "title": "PENGENALAN KEPADA KEUSAHAWANAN",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1107",
-        "sect": 2,
-        "title": "PENGENALAN KEPADA KEUSAHAWANAN",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "16:50"
             }
         ]
     },
@@ -1520,12 +1442,12 @@
             {
                 "day": 1,
                 "startTime": "10:00",
-                "endTime": "11:30"
+                "endTime": "11:20"
             },
             {
                 "day": 3,
                 "startTime": "10:00",
-                "endTime": "11:30"
+                "endTime": "11:20"
             }
         ]
     },
@@ -2588,6 +2510,28 @@
         ]
     },
     {
+        "code": "ENCO 2105",
+        "sect": 2,
+        "title": "MORPHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FARRAH DIEBAA BT RASHID ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "ENCO 2106",
         "sect": 1,
         "title": "PHONETICS AND PHONOLOGY",
@@ -2622,8 +2566,96 @@
         ]
     },
     {
+        "code": "ENCO 2106",
+        "sect": 3,
+        "title": "PHONETICS AND PHONOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ENCO 2106",
+        "sect": 4,
+        "title": "PHONETICS AND PHONOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ENCO 2107",
         "sect": 1,
+        "title": "SYNTAX",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ENCO 2107",
+        "sect": 2,
+        "title": "SYNTAX",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ENCO 2107",
+        "sect": 3,
         "title": "SYNTAX",
         "chr": 3.0,
         "venue": null,
@@ -2632,14 +2664,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -2678,12 +2710,12 @@
             {
                 "day": 2,
                 "startTime": "10:00",
-                "endTime": "11:30"
+                "endTime": "11:20"
             },
             {
                 "day": 7,
                 "startTime": "10:00",
-                "endTime": "11:30"
+                "endTime": "11:20"
             }
         ]
     },
@@ -2772,6 +2804,45 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ENCO 2999",
+        "sect": 3,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR ZAINIYAH NORITA BINTI MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ENCO 2999",
+        "sect": 4,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "15:30",
+                "endTime": "18:20"
             }
         ]
     },
@@ -4532,12 +4603,12 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:20",
+                "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
                 "day": 7,
-                "startTime": "11:20",
+                "startTime": "11:30",
                 "endTime": "12:50"
             }
         ]
