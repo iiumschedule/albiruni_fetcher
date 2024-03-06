@@ -163,7 +163,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "16:00"
             }
@@ -197,9 +197,145 @@
         ],
         "dayTime": [
             {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3328",
+        "sect": 1,
+        "title": "GENERAL MEDICINE & GENERAL SURGERY",
+        "chr": 13.0,
+        "venue": null,
+        "lect": [
+            "DR. FADHILAH BINTI ZAINAL ABIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3413",
+        "sect": 1,
+        "title": "CONSERVATIVE DENTISTRY YEAR 3",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. DARA KHORSYIAH BT YAKOB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3414",
+        "sect": 1,
+        "title": "PROSTHODONTICS YEAR 3",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN NOR HAYATI BINTI WAN ABD. MANAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3423",
+        "sect": 1,
+        "title": "PAEDIATRIC DENTISTRY YEAR 3",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SUSI SUKMASARI"
+        ],
+        "dayTime": [
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3424",
+        "sect": 1,
+        "title": "ORTHODONTICS YEAR 3",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. KUMERAN MOHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3426",
+        "sect": 1,
+        "title": "PERIODONTICS YEAR 3",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILA BINTI HJ MUHAMMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3427",
+        "sect": 1,
+        "title": "ORAL & MAXILLOFACIAL SURGERY YEAR 3",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NAZIYAH SHABAN MUSTAFA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 3431",
+        "sect": 1,
+        "title": "ORAL MEDICINE & ORAL PATHOLOGY YEAR 3",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL RUZIANTEE BINTI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -215,6 +351,164 @@
         "dayTime": [
             {
                 "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4413",
+        "sect": 1,
+        "title": "CONSERVATIVE DENTISTRY YEAR 4",
+        "chr": 11.0,
+        "venue": null,
+        "lect": [
+            "DR. SYUWARI AZHAR B AZMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4414",
+        "sect": 1,
+        "title": "PROSTHODONTICS YEAR 4",
+        "chr": 16.0,
+        "venue": null,
+        "lect": [
+            "DR. NORFAEZAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4423",
+        "sect": 1,
+        "title": "PAEDIATRIC DENTISTRY YEAR 4",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. YUNITA DEWI ARDINI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4424",
+        "sect": 1,
+        "title": "ORTHODONTICS YEAR 4",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HAJJAR BINTI NASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4426",
+        "sect": 1,
+        "title": "PERIODONTICS YEAR 4",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR ZETY BINTI MOHD NOH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4427",
+        "sect": 1,
+        "title": "ORAL MAXILLOFACIAL SURGERY YEAR 4",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. HASZELINI BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4431",
+        "sect": 1,
+        "title": "ORAL MEDICINE & ORAL PATHOLOGY YEAR 4",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR ASZLITAH BINTI BURHANUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4432",
+        "sect": 1,
+        "title": "DENTAL PUBLIC HEALTH YEAR 4",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ZURAINIE BINTI ABLLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 4438",
+        "sect": 1,
+        "title": "RESEARCH YEAR 4",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
                 "startTime": "08:00",
                 "endTime": "10:00"
             }

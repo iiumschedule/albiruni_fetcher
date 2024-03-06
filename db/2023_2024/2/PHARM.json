@@ -8,7 +8,13 @@
         "lect": [
             "DR. MUHAMAD RUSDI BIN AHMAD RUSMILI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "PPBM 1222",
@@ -19,7 +25,13 @@
         "lect": [
             "DR. ENGKU NURAISHAH HUDA BINTI E. ZAINUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "PPHK 2312",
@@ -30,7 +42,13 @@
         "lect": [
             "DR. MUHAMMAD EID AKKAWI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPHK 2322",
@@ -41,7 +59,13 @@
         "lect": [
             "ASSOC. PROF. DR. HAMID FAUZI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "PPHK 3352",
@@ -52,7 +76,13 @@
         "lect": [
             "DR. HUSSAM ABDELJABAR AHMAD MIZHER"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPC 1242",
@@ -63,7 +93,13 @@
         "lect": [
             "DR. MOHAMED SUFIAN BIN MOHD. NAWI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPC 1332",
@@ -74,7 +110,13 @@
         "lect": [
             "DR. IRNA ELINA BINTI RIDZWAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "PPPC 2282",
@@ -85,7 +127,13 @@
         "lect": [
             "DR. ZALIKHA BINTI IBRAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
     },
     {
         "code": "PPPC 3262",
@@ -96,7 +144,13 @@
         "lect": [
             "PROF. DR. A.B.M. HELAL UDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPP 2232",
@@ -107,7 +161,13 @@
         "lect": [
             "PROF. DR. CHE SURAYA BT. HJ. MOHD. ZIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "PPPP 3212",
@@ -118,7 +178,13 @@
         "lect": [
             "DR. SITI HADIJAH BINTI SHAMSUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "PPPP 3232",
@@ -129,7 +195,13 @@
         "lect": [
             "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPP 3272",
@@ -140,7 +212,13 @@
         "lect": [
             "PROF. DR. MOHAMAD HANIKI BIN NIK MOHAMED"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPP 3322",
@@ -151,7 +229,13 @@
         "lect": [
             "DR. ABDUL RAHMAN FATA NAHAS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "PPPP 3342",
@@ -162,7 +246,13 @@
         "lect": [
             "DR. NOR ELINA BINTI ALIAS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "PPPP 4422",
@@ -173,7 +263,13 @@
         "lect": [
             "DR. NOR ILYANI BINTI MOHAMED NAZAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPP 4422",
@@ -182,9 +278,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. AHMED MOHAMED YEHIA NAGUIB AHMED OSMAN"
+            "DR. ZOHRA BHATTI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPP 4422",
@@ -193,9 +295,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. ZOHRA BHATTI"
+            "DR. AHMED MOHAMED YEHIA NAGUIB AHMED OSMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPP 4432",
@@ -206,7 +314,13 @@
         "lect": [
             "ASSOC. PROF. DR. NORNY SYAFINAZ BINTI AB RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPP 4432",
@@ -217,7 +331,13 @@
         "lect": [
             "DR. SYAHRIR BIN ZAINI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPP 4432",
@@ -228,7 +348,13 @@
         "lect": [
             "NURUL SYAFIQAH BINTI OTHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPT 1352",
@@ -239,7 +365,13 @@
         "lect": [
             "ASSOC. PROF. DR. MOHD. RUSHDI BIN HJ. ABU BAKAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPT 2252",
@@ -250,7 +382,13 @@
         "lect": [
             "DR. IZZAT FAHIMUDDIN BIN MOHAMED SUFFIAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "PPPT 2262",
@@ -261,7 +399,13 @@
         "lect": [
             "ASSOC. PROF. DR. JULIANA BT.  MD. JAFFRI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "PPPT 2342",
@@ -272,7 +416,13 @@
         "lect": [
             "ASSOC. PROF. TS. DR. MUHAMMAD SALAHUDDIN BIN HARIS @ HARITH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPT 3271",
@@ -283,7 +433,13 @@
         "lect": [
             "PROF. DR. M. TAHER BIN BAKHTIAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "PPPT 3282",
@@ -294,7 +450,13 @@
         "lect": [
             "ASSOC. PROF. DR. MOHD. RUSHDI BIN HJ. ABU BAKAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "PPPT 4512",
@@ -305,6 +467,12 @@
         "lect": [
             "ASSOC. PROF. DR. FARAHIDAH BINTI MOHAMED"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     }
 ]
