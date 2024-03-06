@@ -1,6 +1,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-> **Warning** This project is :alembic: **EXPERIMENTAL** :alembic:
+> [!WARNING]
+> This project is :alembic: **EXPERIMENTAL** :alembic:
 
 # albiruni fetcher
 
@@ -14,7 +15,7 @@ Fetches subject information from [IIUM'S Course Schedule](https://albiruni.iium.
 dart bin\albiruni_fetcher.dart --session <session> --sem <semester>
 ```
 
-Where `<session>` is the academic session (eg: `2022/2023`) and `<semester>` is the semester number (eg: `1` or `2` or `3`).
+Where `<session>` is the academic session (eg: `2023/2024`) and `<semester>` is the semester number (eg: `1` or `2` or `3`).
 
 The data is then saved to `db/{session}/{semester}.{kulliyyah}json`.
 
