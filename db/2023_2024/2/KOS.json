@@ -4,7 +4,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF MICROBIOLOGY",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-20",
         "lect": [
             "DR. MD HOIRUL AZRI BIN PONARI"
         ],
@@ -21,7 +21,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF CELL BIOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-20",
         "lect": [
             "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
         ],
@@ -170,7 +170,7 @@
         "sect": 1,
         "title": "PLANT BIODIVERSITY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-21",
         "lect": [
             "DR. NOR AZAHANA BINTI ABDULLAH"
         ],
@@ -187,7 +187,7 @@
         "sect": 1,
         "title": "EXPERIMENTAL STATISTICS IN PLANT SCIENCE",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-20",
         "lect": [
             "DR. NURUL HUDA BINTI ABDUL"
         ],
@@ -209,7 +209,7 @@
         "sect": 1,
         "title": "PLANTS AND ENVIRONMENT",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-03",
         "lect": [
             "DR. ABDUL LATIF BIN NOH"
         ],
@@ -226,7 +226,7 @@
         "sect": 1,
         "title": "BIOINFORMATICS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
             "DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
         ],
@@ -243,7 +243,7 @@
         "sect": 1,
         "title": "POSTHARVEST TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-06",
         "lect": [
             "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
         ],
@@ -260,7 +260,7 @@
         "sect": 1,
         "title": "PLANT NUTRITION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-03",
         "lect": [
             "DR. MD HOIRUL AZRI BIN PONARI"
         ],
@@ -299,7 +299,7 @@
         "sect": 1,
         "title": "PLANT NURSERY MANAGEMENT AND BUSINESS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-21",
         "lect": [
             "ASSOC. PROF. DR. ROZILAWATI SHAHARI"
         ],
@@ -316,7 +316,7 @@
         "sect": 1,
         "title": "ORGANIC AGRICULTURE AND FARMING SYSTEM",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-20",
         "lect": [
             "DR. MOHD SYAHMI BIN SALLEH"
         ],
@@ -333,7 +333,7 @@
         "sect": 1,
         "title": "BIOLOGICAL CONTROL FOR SUSTAINABLE AGRICULTURE",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-21",
         "lect": [
             "DR. NUR SABRINA BINTI AHMAD AZMI"
         ],
@@ -460,7 +460,7 @@
         "sect": 1,
         "title": "ISLAM AND SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -482,7 +482,7 @@
         "sect": 2,
         "title": "ISLAM AND SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -504,15 +504,15 @@
         "sect": 1,
         "title": "COMPUTER IN SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "BIOLOGICAL BUILDING L MAWAR",
         "lect": [
             "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -521,7 +521,7 @@
         "sect": 1,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -543,7 +543,7 @@
         "sect": 2,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -565,7 +565,7 @@
         "sect": 3,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -587,7 +587,7 @@
         "sect": 4,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -601,6 +601,62 @@
                 "day": 4,
                 "startTime": "17:00",
                 "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "BKOS 1305",
+        "sect": 1,
+        "title": "OVERVIEW OF COMPUTATIONAL TOOLS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1311",
+        "sect": 1,
+        "title": "INTRODUCTION TO MARINE SCIENCE AND TECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS A-1-34",
+        "lect": [
+            "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1312",
+        "sect": 1,
+        "title": "CALCULUS OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS A-1-34",
+        "lect": [
+            "DR. NORFAIEQAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:30"
             }
         ]
     },
@@ -633,7 +689,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. ASNOR AZRIN BIN SABUTI"
+            "DR. MOHD FUAD BIN MISKON"
         ],
         "dayTime": [
             {
@@ -699,18 +755,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
+            "DR. NAJATUL SU AD BINTI ABDULLAH"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 4,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -741,15 +797,15 @@
         "sect": 1,
         "title": "ATMOSPHERE-OCEAN INTERACTION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-36",
         "lect": [
             "DR. ASNOR AZRIN BIN SABUTI"
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -758,7 +814,7 @@
         "sect": 1,
         "title": "BIOSTATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-33",
         "lect": [
             "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
         ],
@@ -797,7 +853,7 @@
         "sect": 1,
         "title": "MARINE RESOURCES AND ADVANCE APPLICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-17",
         "lect": [
             "DR. RASHIDAH BINTI ABDUL RAZAK"
         ],
@@ -808,7 +864,7 @@
                 "endTime": "10:00"
             },
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -819,7 +875,7 @@
         "sect": 1,
         "title": "OCEAN LAW AND POLICY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-37",
         "lect": [
             "DR. JULIANA BT MOHAMED"
         ],
@@ -880,7 +936,7 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
             "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
         ],
@@ -903,7 +959,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
@@ -1095,7 +1151,7 @@
         "sect": 1,
         "title": "REGULATION AND ETHICS IN BIOTECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 2",
         "lect": [
             "PROF. DR. ABDUREZAK ABDULAHI HASHI"
         ],
@@ -1129,7 +1185,7 @@
         "sect": 1,
         "title": "BIOENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
         ],
@@ -1339,7 +1395,7 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-18",
         "lect": [
             "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
         ],
@@ -1373,7 +1429,7 @@
         "sect": 1,
         "title": "CONCEPT OF HALAL AND HARAM IN FOOD AND BIOTECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-23",
         "lect": [
             "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
         ],
@@ -1561,7 +1617,7 @@
         "sect": 1,
         "title": "IMMUNOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-18",
         "lect": [
             "DR. MOHD HAMZAH BIN MOHD NASIR"
         ],
@@ -1578,7 +1634,7 @@
         "sect": 1,
         "title": "FOOD BIOTECHNOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
         ],
@@ -1683,7 +1739,7 @@
         "sect": 1,
         "title": "ENVIRONMENTAL HEALTH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-23",
         "lect": [
             "ASSOC. PROF. DR. MOHD. FAEZ BIN SHARIF"
         ],
@@ -1734,8 +1790,8 @@
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1766,7 +1822,7 @@
         "sect": 1,
         "title": "MEDICAL PATHOLOGY FOR BIOTECHNOLOGIST",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-17",
         "lect": [
             "DR. NUR FIRDAUS BINTI ISA"
         ],
@@ -1860,7 +1916,7 @@
         "sect": 1,
         "title": "Inorganic Chemistry 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
         ],
@@ -1899,7 +1955,7 @@
         "sect": 1,
         "title": "Introduction to Biochemistry",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
         ],
@@ -1911,8 +1967,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "09:00",
+                "endTime": "10:30"
             }
         ]
     },
@@ -1921,7 +1977,7 @@
         "sect": 1,
         "title": "Organometallic and Bioinorganic Chemistry",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "ASSOC. PROF. DR. NURZIANA BINTI NGAH"
         ],
@@ -1938,7 +1994,7 @@
         "sect": 1,
         "title": "Organic Reaction Mechanisms",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "PROF. DR. SHAFIDA BINTI ABD HAMID"
         ],
@@ -1955,15 +2011,15 @@
         "sect": 1,
         "title": "Colloid Chemistry",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-38",
         "lect": [
             "DR. AZAIMA BINTI RAZALI"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -1972,7 +2028,7 @@
         "sect": 1,
         "title": "Catalysis",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-38",
         "lect": [
             "DR. WAN ZURINA SAMAD"
         ],
@@ -1989,7 +2045,7 @@
         "sect": 1,
         "title": "Cosmetic Science & Technology",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
         ],
@@ -2017,9 +2073,9 @@
                 "endTime": "17:00"
             },
             {
-                "day": 3,
-                "startTime": "10:30",
-                "endTime": "12:30"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2050,7 +2106,7 @@
         "sect": 1,
         "title": "Generic Skills for Chemistry Students",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
         ],
@@ -2078,7 +2134,7 @@
         "sect": 1,
         "title": "Ethics in Science",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "DR. ROSLIZA BINTI MOHD. SALIM"
         ],
@@ -2095,7 +2151,7 @@
         "sect": 1,
         "title": "Special Topics in Applied Chemistry",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
         ],
@@ -2112,7 +2168,7 @@
         "sect": 1,
         "title": "Advanced Materials",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-38",
         "lect": [
             "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
         ],
@@ -2129,7 +2185,7 @@
         "sect": 1,
         "title": "Halal Food Processing & Regulations",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-38",
         "lect": [
             "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
         ],
@@ -2140,9 +2196,9 @@
                 "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2173,7 +2229,7 @@
         "sect": 1,
         "title": "Drug Delivery and Application",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-39",
         "lect": [
             "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
         ],
@@ -2184,9 +2240,9 @@
                 "endTime": "10:30"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2239,7 +2295,7 @@
         "sect": 1,
         "title": "Environmental and Industrial Toxicology",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "TS. DR. MARYAM BINTI ZAHABA"
         ],
@@ -2250,11 +2306,22 @@
                 "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
+    },
+    {
+        "code": "BSCH 4122",
+        "sect": 1,
+        "title": "Industrial Training",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": []
     },
     {
         "code": "BSCH 4411",
@@ -2272,15 +2339,15 @@
         "sect": 1,
         "title": "ESSENTIAL MATHEMATICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-01",
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "DR. SITI FATIMAH BINTI ZAKARIA"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 3,
@@ -2294,7 +2361,7 @@
         "sect": 1,
         "title": "ANALYTIC GEOMETRY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-01",
         "lect": [
             "DR. SITI FATIMAH BINTI ZAKARIA"
         ],
@@ -2316,9 +2383,9 @@
         "sect": 1,
         "title": "CALCULUS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-2-01",
         "lect": [
-            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
+            "DR. NORFAIEQAH BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -2338,14 +2405,14 @@
         "sect": 1,
         "title": "NUMBER THEORY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "15:30",
+                "startTime": "15:00",
                 "endTime": "17:00"
             },
             {
@@ -2360,7 +2427,7 @@
         "sect": 2,
         "title": "NUMBER THEORY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
         ],
@@ -2382,7 +2449,7 @@
         "sect": 1,
         "title": "CALCULUS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
@@ -2390,12 +2457,12 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "16:00"
+                "endTime": "15:30"
             },
             {
                 "day": 3,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2404,7 +2471,7 @@
         "sect": 2,
         "title": "CALCULUS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-2-01",
         "lect": [
             "DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
@@ -2426,7 +2493,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
             "DR. ZULMARYAN BINTI EMBONG"
         ],
@@ -2438,8 +2505,8 @@
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2448,7 +2515,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
             "DR. ZULMARYAN BINTI EMBONG"
         ],
@@ -2460,8 +2527,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2470,15 +2537,15 @@
         "sect": 1,
         "title": "INTRODUCTION TO DATA ANALYTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. HAFIZAH BINTI BAHALUDIN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "14:00",
+                "endTime": "15:30"
             },
             {
                 "day": 5,
@@ -2492,7 +2559,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO DATA ANALYTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. HAFIZAH BINTI BAHALUDIN"
         ],
@@ -2514,7 +2581,7 @@
         "sect": 1,
         "title": "ELECTRICITY AND MAGNESTISM I",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
             "DR. KAVINTHERAN A/L THAMBIRATNAM"
         ],
@@ -2536,7 +2603,7 @@
         "sect": 1,
         "title": "VIBRATIONS AND WAVES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
             "DR. KAVINTHERAN A/L THAMBIRATNAM"
         ],
@@ -2558,7 +2625,7 @@
         "sect": 1,
         "title": "LINEAR ALGEBRA",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
             "DR. NOR AZWA BINTI ZAKARIA"
         ],
@@ -2580,15 +2647,15 @@
         "sect": 1,
         "title": "CLASSICAL MECHANICS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-26",
         "lect": [
             "TS. DR. HAFIZAH NOOR BINTI ISA"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "03:30",
+                "endTime": "05:00"
             },
             {
                 "day": 4,
@@ -2619,15 +2686,15 @@
         "sect": 1,
         "title": "CALCULUS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
             "ASSOC. PROF. DR. AHMAD FAKHRURRAZI BIN AHMAD NOORDEN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "02:30",
+                "endTime": "04:00"
             },
             {
                 "day": 4,
@@ -2648,8 +2715,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:30",
-                "endTime": "16:00"
+                "startTime": "09:30",
+                "endTime": "11:00"
             },
             {
                 "day": 4,
@@ -2663,7 +2730,7 @@
         "sect": 1,
         "title": "MODERN PHYSICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "DR. MOHD. ADLI BIN MD. ALI"
         ],
@@ -2685,15 +2752,15 @@
         "sect": 1,
         "title": "ADVANCED CALCULUS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-26",
         "lect": [
             "DR. AZNI BINTI ABDUL AZIZ"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "startTime": "11:00",
+                "endTime": "12:30"
             },
             {
                 "day": 4,
@@ -2707,7 +2774,7 @@
         "sect": 1,
         "title": "MATHEMATICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-26",
         "lect": [
             "DR. SUHAILI BT KAMARUDDIN"
         ],
@@ -2729,7 +2796,7 @@
         "sect": 1,
         "title": "PLANT AND CROP MODELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "BIOLOGICAL BUILDING L MAWAR",
         "lect": [
             "DR. HAFIZAH BINTI BAHALUDIN"
         ],
@@ -2917,7 +2984,7 @@
         "sect": 1,
         "title": "BIOFERTILIZERS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-03",
         "lect": [
             "DR. MD HOIRUL AZRI BIN PONARI"
         ],
@@ -2984,7 +3051,7 @@
         "sect": 1,
         "title": "ORGANOMETALLIC & BIOINORGANIC CHEMISTRY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "ASSOC. PROF. DR. NURZIANA BINTI NGAH"
         ],
@@ -3001,7 +3068,7 @@
         "sect": 1,
         "title": "PHYSICAL ORGANIC CHEMISTRY & REACTION MECHANISM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 3",
         "lect": [
             "PROF. DR. SHAFIDA BINTI ABD HAMID"
         ],
@@ -3014,11 +3081,55 @@
         ]
     },
     {
+        "code": "SMS 1303",
+        "sect": 1,
+        "title": "NUMBER THEORY",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS C-1-04",
+        "lect": [
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 1303",
+        "sect": 2,
+        "title": "NUMBER THEORY",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS C-1-04",
+        "lect": [
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
         "code": "SMS 1305",
         "sect": 1,
         "title": "LINEAR ALGEBRA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-01",
         "lect": [
             "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
         ],
@@ -3040,7 +3151,7 @@
         "sect": 1,
         "title": "ALGEBRA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. SUPIAN BIN MAT SALLEH"
         ],
@@ -3062,7 +3173,7 @@
         "sect": 2,
         "title": "ALGEBRA",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. SUPIAN BIN MAT SALLEH"
         ],
@@ -3084,9 +3195,9 @@
         "sect": 1,
         "title": "ADVANCED CALCULUS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
-            "ASSOC. PROF. DR. PAH CHIN HEE"
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
         ],
         "dayTime": [
             {
@@ -3102,11 +3213,55 @@
         ]
     },
     {
+        "code": "SMS 2309",
+        "sect": 1,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2309",
+        "sect": 2,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
         "code": "SMS 2310",
         "sect": 1,
         "title": "MATHEMATICAL ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
             "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
         ],
@@ -3128,7 +3283,7 @@
         "sect": 1,
         "title": "ADVANCED MATHEMATICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
             "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
         ],
@@ -3140,8 +3295,8 @@
             },
             {
                 "day": 4,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -3150,11 +3305,16 @@
         "sect": 1,
         "title": "THEORY OF PROBABILITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
-            "ASSOC. PROF. DR. PAH CHIN HEE"
+            "DR. SITI MARPONGA BINTI TOLOS"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
             {
                 "day": 3,
                 "startTime": "15:30",
@@ -3167,9 +3327,9 @@
         "sect": 2,
         "title": "THEORY OF PROBABILITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
-            "ASSOC. PROF. DR. PAH CHIN HEE"
+            "DR. SITI MARPONGA BINTI TOLOS"
         ],
         "dayTime": [
             {
@@ -3185,33 +3345,11 @@
         ]
     },
     {
-        "code": "SMS 2380",
-        "sect": 1,
-        "title": "DISCRETE MATHEMATICS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. PAH CHIN HEE"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "10:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
-            }
-        ]
-    },
-    {
         "code": "SMS 3310",
         "sect": 1,
         "title": "NUMERICAL ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L CEMPKA",
         "lect": [
             "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
         ],
@@ -3233,7 +3371,7 @@
         "sect": 1,
         "title": "ADVANCED NUMERICAL ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L CEMPKA",
         "lect": [
             "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
         ],
@@ -3255,9 +3393,9 @@
         "sect": 1,
         "title": "COMPUTATIONAL MATHEMATICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
-            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
         ],
         "dayTime": [
             {
@@ -3266,9 +3404,9 @@
                 "endTime": "01:00"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3277,7 +3415,7 @@
         "sect": 1,
         "title": "SCIENTIFIC COMPUTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
             "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
         ],
@@ -3299,7 +3437,7 @@
         "sect": 2,
         "title": "SCIENTIFIC COMPUTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
             "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
         ],
@@ -3321,9 +3459,9 @@
         "sect": 1,
         "title": "ERGODIC THEORY I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-01",
         "lect": [
-            "DR. SITI FATIMAH BINTI ZAKARIA"
+            "DR. WAN NUR FAIRUZ ALWANI BT W ROZALI"
         ],
         "dayTime": [
             {
@@ -3332,7 +3470,7 @@
                 "endTime": "10:00"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "08:30",
                 "endTime": "10:00"
             }
@@ -3343,15 +3481,15 @@
         "sect": 1,
         "title": "ERGODIC THEORY II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
             "DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:00"
             },
             {
                 "day": 4,
@@ -3365,7 +3503,7 @@
         "sect": 1,
         "title": "FINANCIAL MATHEMATICS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-G-02",
         "lect": [
             "DR. HAFIZAH BINTI BAHALUDIN"
         ],
@@ -3387,7 +3525,7 @@
         "sect": 1,
         "title": "FINANCIAL MATHEMATICS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-G-02",
         "lect": [
             "ASSOC. PROF. DR. MIMI HAFIZAH BT. ABDULLAH"
         ],
@@ -3409,20 +3547,20 @@
         "sect": 1,
         "title": "OPTIMISATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-04",
         "lect": [
             "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:30"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:30"
             }
         ]
     },
@@ -3443,8 +3581,8 @@
             },
             {
                 "day": 2,
-                "startTime": "16:00",
-                "endTime": "17:30"
+                "startTime": "17:00",
+                "endTime": "18:30"
             }
         ]
     },
@@ -3453,7 +3591,7 @@
         "sect": 1,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-2-01",
         "lect": [
             "DR. SITI MARPONGA BINTI TOLOS"
         ],
@@ -3475,7 +3613,7 @@
         "sect": 1,
         "title": "STATISTICAL MODELLING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-2-01",
         "lect": [
             "DR. SITI MARPONGA BINTI TOLOS"
         ],
@@ -3497,18 +3635,18 @@
         "sect": 1,
         "title": "COMPLEX VARIABLE FUNCTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
             "DR. SUPIAN BIN MAT SALLEH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:30"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:30"
             }
@@ -3519,15 +3657,15 @@
         "sect": 1,
         "title": "INTRODUCTION TO FINANCIAL MATHEMATICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-G-02",
         "lect": [
             "ASSOC. PROF. DR. MIMI HAFIZAH BT. ABDULLAH"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "15:30"
             },
             {
                 "day": 4,
@@ -3541,9 +3679,9 @@
         "sect": 1,
         "title": "BASIC INFERENTIAL STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
-            "DR. SITI MARPONGA BINTI TOLOS"
+            "DR. ZULMARYAN BINTI EMBONG"
         ],
         "dayTime": [
             {
@@ -3563,15 +3701,15 @@
         "sect": 1,
         "title": "OPERATIONAL RESEARCH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-2-01",
         "lect": [
-            "DR. NORFAIEQAH BINTI AHMAD"
+            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "17:00",
+                "endTime": "18:30"
             },
             {
                 "day": 5,
@@ -3585,7 +3723,7 @@
         "sect": 1,
         "title": "PARALLEL COMPUTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L CEMPKA",
         "lect": [
             "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
         ],
@@ -3607,7 +3745,7 @@
         "sect": 1,
         "title": "ERGODIC THEORY III",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-01",
         "lect": [
             "DR. SITI FATIMAH BINTI ZAKARIA"
         ],
@@ -3629,20 +3767,20 @@
         "sect": 1,
         "title": "FINANCIAL MATHEMATICS III",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-G-02",
         "lect": [
             "ASSOC. PROF. DR. MIMI HAFIZAH BT. ABDULLAH"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "15:30",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "startTime": "15:30",
+                "endTime": "17:00"
             }
         ]
     },
@@ -3651,7 +3789,7 @@
         "sect": 1,
         "title": "DYNAMIC PROGRAMMING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
             "DR. NORFAIEQAH BINTI AHMAD"
         ],
@@ -3685,8 +3823,8 @@
             },
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3695,7 +3833,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT (1)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
             "DR. NAJATUL SU AD BINTI ABDULLAH"
         ],
@@ -3735,63 +3873,63 @@
         ]
     },
     {
-        "code": "SMT 4523",
-        "sect": 1,
-        "title": "REMOTE SENSING FOR MARINE APPLICATION",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
         "code": "SMT 4533",
         "sect": 1,
         "title": "CLIMATE CHANGE ADAPTATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-02",
         "lect": [
             "DR. AIMIMULIANI BINTI ADAM"
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4553",
+        "sect": 1,
+        "title": "COASTAL NUMERICAL MODELLING",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS L TRATAI",
+        "lect": [
+            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 1,
                 "startTime": "10:00",
                 "endTime": "13:00"
             }
         ]
     },
     {
-        "code": "SMT 4543",
+        "code": "SMT 4583",
         "sect": 1,
-        "title": "GIS FOR COASTAL ZONE MANAGEMENT",
+        "title": "ISLAND ECOSYSTEM AND MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-34",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD FAIZ BIN MOHD. HANAPIAH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3834,8 +3972,8 @@
             },
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "10:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -3884,69 +4022,13 @@
         ]
     },
     {
-        "code": "SMT 4713",
+        "code": "SMT 4673",
         "sect": 1,
-        "title": "Fisheries Oceanography",
+        "title": "SEED PRODUCTION AND CULTURE TECHNIQUE",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD FUAD BIN MISKON"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "SMT 4723",
-        "sect": 1,
-        "title": "Fisheries Technology",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. RASHIDAH BINTI ABDUL RAZAK"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "SMT 4733",
-        "sect": 1,
-        "title": "Fishery Economics And Marketing",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD FIRDAUS BIN NAWI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "SMT 4743",
-        "sect": 1,
-        "title": "Fish Population Dynamics",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+            "DR. MUHAMMAD FITRI BIN YUSOF"
         ],
         "dayTime": [
             {
@@ -3956,8 +4038,8 @@
             },
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "10:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -3983,7 +4065,7 @@
         "sect": 1,
         "title": "MODERN PHYSICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "DR. MOHD. ADLI BIN MD. ALI"
         ],
@@ -4005,7 +4087,7 @@
         "sect": 1,
         "title": "ELECTRONICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-23",
         "lect": [
             "DR. SITI FATIMAH BINTI NORIZAN"
         ],
@@ -4029,11 +4111,11 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+            "DR. MOHD ZAMANI BIN ZULKIFLI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -4044,7 +4126,7 @@
         "sect": 1,
         "title": "QUANTUM MECHANICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-36",
         "lect": [
             "DR. NOR AZWA BINTI ZAKARIA"
         ],
@@ -4066,7 +4148,7 @@
         "sect": 1,
         "title": "NUCLEAR PHYSICS AND RADIATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
             "DR. AZNI BINTI ABDUL AZIZ"
         ],
@@ -4088,7 +4170,7 @@
         "sect": 1,
         "title": "ADVANCED MATHEMATICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
             "DR. SUHAILI BT KAMARUDDIN"
         ],
@@ -4110,7 +4192,7 @@
         "sect": 1,
         "title": "MATHEMATICAL ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
             "DR. ISKANDAR BIN BAHARI"
         ],
@@ -4132,7 +4214,7 @@
         "sect": 1,
         "title": "STATISTICAL PHYSICS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
             "DR. MOHD HAZIMIN BIN MOHD SALLEH"
         ],
@@ -4161,8 +4243,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             },
             {
                 "day": 4,
@@ -4176,18 +4258,18 @@
         "sect": 1,
         "title": "ELECTRICITY AND MAGNETISM II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
             "DR. SAMSUN BAHARIN BIN MOHAMAD"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "09:30",
                 "endTime": "11:00"
             }
@@ -4198,20 +4280,20 @@
         "sect": 1,
         "title": "QUANTUM MECHANICS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
             "PROF. DR. JESNI BIN SHAMSUL SHAARI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:30",
-                "endTime": "16:00"
+                "startTime": "10:00",
+                "endTime": "11:30"
             },
             {
-                "day": 3,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:30"
             }
         ]
     },
@@ -4231,7 +4313,7 @@
         "sect": 1,
         "title": "VECTOR ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
             "DR. ISKANDAR BIN BAHARI"
         ],
@@ -4243,8 +4325,8 @@
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "10:30",
+                "endTime": "12:00"
             }
         ]
     },
@@ -4303,7 +4385,7 @@
         "sect": 1,
         "title": "BIOMOLECULAR ELECTRONICS AND INSTRUMENTATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "DR. MOHD HAZIMIN BIN MOHD SALLEH"
         ],
@@ -4315,8 +4397,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "02:30",
+                "endTime": "04:00"
             }
         ]
     },
@@ -4325,15 +4407,15 @@
         "sect": 1,
         "title": "RADIATION BIOPHYSICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "DR. MOHD HAZIMIN BIN MOHD SALLEH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "10:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             },
             {
                 "day": 2,
@@ -4347,7 +4429,7 @@
         "sect": 1,
         "title": "APPLIED SPECTROSCOPY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-27",
         "lect": [
             "DR. SITI FATIMAH BINTI NORIZAN"
         ],
@@ -4359,8 +4441,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "02:30",
+                "endTime": "04:00"
             }
         ]
     },
@@ -4369,7 +4451,7 @@
         "sect": 1,
         "title": "NON-DESTRUCTIVE TESTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-27",
         "lect": [
             "DR. SITI FATIMAH BINTI NORIZAN"
         ],
