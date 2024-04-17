@@ -24,11 +24,11 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Dart SDK
         id: setup-dart-sdk
-        uses: dart-lang/setup-dart@v1.5.0
+        uses: dart-lang/setup-dart@v1.6.4
 
       - name: Install dependencies
         run: dart pub get
@@ -38,7 +38,7 @@ jobs:
         run: dart bin/albiruni_fetcher.dart --session ${{ inputs.session }} --sem ${{ inputs.semester }}
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6.0.4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "🗃️ update DB from ${{ github.run_id }}"
