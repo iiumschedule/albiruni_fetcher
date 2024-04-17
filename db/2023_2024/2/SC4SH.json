@@ -21,7 +21,7 @@
         "sect": 2,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
             "HARRIZ BIN ZAINAL ABIDIN"
         ],
@@ -55,7 +55,7 @@
         "sect": 4,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -72,7 +72,7 @@
         "sect": 6,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "IRK LR 16 1",
         "lect": [
             "ASSOC. PROF. DR. MEHMET OZAY"
         ],
@@ -89,7 +89,7 @@
         "sect": 8,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
             "PROF. DR. KHALIQ AHMAD BIN MOHD ISRAIL"
         ],
@@ -106,7 +106,7 @@
         "sect": 9,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. IRINA SAFITRI ZEN"
         ],
@@ -123,7 +123,7 @@
         "sect": 10,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E1-3-9",
         "lect": [
             "DR. RICCA RAHMAN BINTI NASARUDDIN"
         ],
@@ -174,7 +174,7 @@
         "sect": 13,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. IRINA SAFITRI ZEN"
         ],
@@ -242,7 +242,7 @@
         "sect": 17,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-6",
         "lect": [
             "ASSOC. PROF. DR. MOHD. HANAFI BIN ANI"
         ],
@@ -259,7 +259,7 @@
         "sect": 18,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "HARRIZ BIN ZAINAL ABIDIN"
         ],
@@ -276,7 +276,7 @@
         "sect": 19,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "HARRIZ BIN ZAINAL ABIDIN"
         ],
@@ -293,7 +293,7 @@
         "sect": 20,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "IRK LR 16 1",
         "lect": [
             "NUR KHAMSIAH BT. AHMAD"
         ],
@@ -302,6 +302,24 @@
                 "day": 4,
                 "startTime": "17:30",
                 "endTime": "19:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 21,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": "ADM LR 4 2.137",
+        "lect": [
+            "MOHAMMED GHOUS MOHAMMED INSAF",
+            "JALALDEEN JAMEELA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -324,114 +342,46 @@
     },
     {
         "code": "SCSH 1201",
+        "sect": 502,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": "KLM LT 2 B4.1.16",
+        "lect": [
+            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 503,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": "KLM PBL ROOM 8 B3.1.11",
+        "lect": [
+            "MADAM NAZATUL AZREEN BT ABDUL HAYI"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
         "sect": 801,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
         "venue": "ADMIN BUILDING KOS ALT 1",
         "lect": [
             "PROF. DR. MUHAMMAD LOKMAN BIN MD. ISA"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "16:30",
-                "endTime": "18:30"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 1201",
-        "sect": 802,
-        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. SUHANA BT. MAMAT"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "16:30",
-                "endTime": "18:30"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 1201",
-        "sect": 803,
-        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "16:30",
-                "endTime": "18:30"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 1201",
-        "sect": 804,
-        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. KAVINTHERAN A/L THAMBIRATNAM"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "16:30",
-                "endTime": "18:30"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 1201",
-        "sect": 805,
-        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. ZALEHA BINTI KASSIM"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "16:30",
-                "endTime": "18:30"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 1201",
-        "sect": 806,
-        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. BISHA FATHAMAH BINTI UZIR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "16:30",
-                "endTime": "18:30"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 1201",
-        "sect": 807,
-        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
-        "chr": 2.0,
-        "venue": "LECTURE HALL 6, KOM L2",
-        "lect": [
-            "DR. HALIZA HASAN"
         ],
         "dayTime": [
             {
@@ -460,32 +410,10 @@
     },
     {
         "code": "SCSH 2163",
-        "sect": 1,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
-        "sect": 3,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
         "sect": 11,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KAED TR (L2) 15",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -502,7 +430,7 @@
         "sect": 12,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KAED TR (L2) 15",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -583,8 +511,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "NUR SYAHIRA SYAFIKA BINTI AZAMAN",
-            "DR. MOHAMED MALIKI BIN MOHAMED RAPIEE"
+            "NUR SYAHIRA SYAFIKA BINTI AZAMAN"
         ],
         "dayTime": []
     },
@@ -595,8 +522,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "NUR SYAHIRA SYAFIKA BINTI AZAMAN",
-            "DR. MOHAMED MALIKI BIN MOHAMED RAPIEE"
+            "NUR SYAHIRA SYAFIKA BINTI AZAMAN"
         ],
         "dayTime": []
     },
@@ -607,8 +533,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "NUR SYAHIRA SYAFIKA BINTI AZAMAN",
-            "DR. MOHAMED MALIKI BIN MOHAMED RAPIEE"
+            "NUR SYAHIRA SYAFIKA BINTI AZAMAN"
         ],
         "dayTime": []
     },
@@ -723,7 +648,7 @@
         "sect": 27,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ADM LR 1B 2.133",
         "lect": [
             "IDAYU MUMTAZ BINTI ISKANDAR"
         ],
@@ -804,5 +729,66 @@
                 "endTime": "21:30"
             }
         ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 32,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ABDUL ROZAK RICARDO"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 33,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "SITI RAHAYU BINTI BAHARIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 34,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "SITI RAHAYU BINTI BAHARIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 35,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. SHARYAR WANI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 36,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. SHARYAR WANI"
+        ],
+        "dayTime": []
     }
 ]

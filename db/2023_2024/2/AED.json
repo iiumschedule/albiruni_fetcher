@@ -1,5 +1,22 @@
 [
     {
+        "code": "AAD 1212",
+        "sect": 1,
+        "title": "COMMUNITY PROJECT",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAYA BT BANIYAMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "AAD 2200",
         "sect": 1,
         "title": "AAD STUDIO 4 (MAJORING)",
@@ -49,19 +66,19 @@
         ]
     },
     {
-        "code": "AAD 3232",
+        "code": "BAAD 1111",
         "sect": 1,
-        "title": "BUILDING PATHOLOGY",
-        "chr": 3.0,
-        "venue": null,
+        "title": "GRAPHICS COMMUNICATION & PRESENTATION",
+        "chr": 2.0,
+        "venue": "KAED TR(L3) 18",
         "lect": [
-            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
+            "ISMAIL BIN JASMANI"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -158,7 +175,7 @@
         "sect": 1,
         "title": "INDUSTRIAL DESIGN DRAWING",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED SR (L2) 7",
         "lect": [
             "DR. JULAILA BINTI ABDUL RAHMAN"
         ],
@@ -439,7 +456,7 @@
         "sect": 1,
         "title": "BUILDING PATHOLOGY PRACTICE",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 3",
+        "venue": "KAED MULTIMEDIA LAB 3",
         "lect": [
             "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
@@ -526,7 +543,7 @@
         "chr": 3.0,
         "venue": "KAED (L1) CAD LAB2",
         "lect": [
-            "TO BE DETERMINED"
+            "ZIAD BAYDOUN"
         ],
         "dayTime": [
             {
@@ -575,7 +592,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 13",
         "lect": [
-            "TO BE DETERMINED"
+            "MASNUL AZHHIDA BIN DAUT @ MOHMUD"
         ],
         "dayTime": [
             {
@@ -607,7 +624,7 @@
         "chr": 6.0,
         "venue": "KAED CRIT ROOM (L3) L3",
         "lect": [
-            "TO BE DETERMINED"
+            "MIOR RAZALI BIN ABDULLAH SANI"
         ],
         "dayTime": [
             {
@@ -686,7 +703,7 @@
         "sect": 1,
         "title": "CONSERVATION AND RESTORATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
         ],
@@ -703,7 +720,7 @@
         "sect": 1,
         "title": "MATERIALS & PROCESS",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED SR (L2) 7",
         "lect": [
             "DR. JULAILA BINTI ABDUL RAHMAN"
         ],
@@ -726,9 +743,26 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3232",
+        "sect": 1,
+        "title": "BUILDING PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -790,7 +824,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. NURLELAWATI BT. AB JALIL"
+            "DR. ARITA HANIM BT. AWANG"
         ],
         "dayTime": [
             {
@@ -939,7 +973,7 @@
         "sect": 1,
         "title": "INTERIOR DESIGN PROFESSIONAL PRACTICE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "DR. NORAINI BINTI AHMAD"
         ],
@@ -1205,7 +1239,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD SYUKRAN BIN MUHAIYUDDIN"
         ],
         "dayTime": [
             {
@@ -1545,7 +1579,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 9",
         "lect": [
-            "TO BE DETERMINED"
+            "KHAIRUL MUNAUWIR BIN ABDUL WAHAB"
         ],
         "dayTime": [
             {
@@ -1819,7 +1853,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 12",
         "lect": [
-            "ASSOC. PROF. DATIN AR. DR. NORWINA BINTI MOHD NAWAWI"
+            "DATIN DR. NORWINA BINTI MOHD NAWAWI"
         ],
         "dayTime": [
             {
@@ -1966,7 +2000,7 @@
         "chr": 3.0,
         "venue": "KAED L3 LT3",
         "lect": [
-            "ASSOC. PROF. DATIN AR. DR. NORWINA BINTI MOHD NAWAWI"
+            "DATIN DR. NORWINA BINTI MOHD NAWAWI"
         ],
         "dayTime": [
             {
@@ -1983,7 +2017,7 @@
         "chr": 3.0,
         "venue": "KAED L3 LT3",
         "lect": [
-            "ASSOC. PROF. DATIN AR. DR. NORWINA BINTI MOHD NAWAWI"
+            "DATIN DR. NORWINA BINTI MOHD NAWAWI"
         ],
         "dayTime": [
             {
@@ -2027,6 +2061,11 @@
         "dayTime": [
             {
                 "day": 1,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 1,
                 "startTime": "09:00",
                 "endTime": "13:00"
             }
@@ -2056,7 +2095,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. SR. DR. TAN CHIN KENG"
+            "ASSOC. PROF. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
         "dayTime": [
             {
@@ -2307,7 +2346,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF MEASUREMENT OF CIVIL ENGINEERING WORKS",
         "chr": 4.0,
-        "venue": "KAED STUDIO(L2) 4",
+        "venue": "KAED STUDIO(L2) 3",
         "lect": [
             "DR. MOHAMAD SAIFULNIZAM BIN MOHAMAD SUHAIMI"
         ],
@@ -2419,7 +2458,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF MEASUREMENT FOR ADVANCED CIVIL ENGINEERING WORKS",
         "chr": 4.0,
-        "venue": "KAED STUDIO(L3) 4",
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
             "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM"
         ],
@@ -2441,7 +2480,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF MEASUREMENT FOR ADVANCED CIVIL ENGINEERING WORKS",
         "chr": 4.0,
-        "venue": "KAED STUDIO(L3) 4",
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
             "DR. MOHAMAD SAIFULNIZAM BIN MOHAMAD SUHAIMI"
         ],
@@ -2521,7 +2560,7 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
+                "startTime": "15:00",
                 "endTime": "17:00"
             }
         ]
@@ -2750,7 +2789,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L4) 17",
         "lect": [
-            "ASSOC. PROF. TPR. DR. SYAHRIAH BT. BACHOK"
+            "DR. SYAFIEE BIN SHUID"
         ],
         "dayTime": [
             {
@@ -2901,7 +2940,7 @@
         "chr": 2.0,
         "venue": "KAED URBAN LAB LVL 2",
         "lect": [
-            "DR. SYAKIR AMIR BIN AB RAHMAN"
+            "ASSOC. PROF. DR. SYAKIR AMIR BIN AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -3133,7 +3172,7 @@
         "sect": 1,
         "title": "PARKS AND RECREATIONAL PLANNING",
         "chr": 2.0,
-        "venue": "KAED SR (L1) 4",
+        "venue": "KAED SR (L1) 5",
         "lect": [
             "DR. NORHANIS DIYANA BINTI NIZARUDIN"
         ],
@@ -3167,7 +3206,7 @@
         "sect": 1,
         "title": "LANDSCAPE PLANNING TECHNIQUES",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 4",
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "ASSOC. PROF. LAR. DR. KHALILAH BT. ZAKARIYA"
         ],

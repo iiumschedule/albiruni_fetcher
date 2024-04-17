@@ -500,23 +500,6 @@
         ]
     },
     {
-        "code": "BKOS 1302",
-        "sect": 1,
-        "title": "COMPUTER IN SCIENCE",
-        "chr": 3.0,
-        "venue": "BIOLOGICAL BUILDING L MAWAR",
-        "lect": [
-            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
         "code": "BKOS 1303",
         "sect": 1,
         "title": "PHILOSOPHY OF SCIENCE",
@@ -609,7 +592,7 @@
         "sect": 1,
         "title": "OVERVIEW OF COMPUTATIONAL TOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "BIOLOGICAL BUILDING L MAWAR",
         "lect": [
             "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
@@ -777,7 +760,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI WAZNAH BINTI ABDURAHMAN"
+            "DR. AHMAD AZFAR BIN MOHAMED"
         ],
         "dayTime": [
             {
@@ -916,7 +899,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI WAZNAH BINTI ABDURAHMAN"
+            "DR. AIMIMULIANI BINTI ADAM"
         ],
         "dayTime": [
             {
@@ -1114,7 +1097,7 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
+                "startTime": "09:00",
                 "endTime": "11:00"
             },
             {
@@ -1136,7 +1119,7 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
+                "startTime": "09:00",
                 "endTime": "11:00"
             },
             {
@@ -3825,6 +3808,23 @@
                 "day": 2,
                 "startTime": "11:30",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2243",
+        "sect": 1,
+        "title": "BIOSTATISTIC",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },

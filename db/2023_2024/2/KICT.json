@@ -660,14 +660,14 @@
                 "endTime": "09:50"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:50"
             },
             {
                 "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -744,14 +744,14 @@
                 "endTime": "15:20"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:50"
             },
             {
                 "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -2168,7 +2168,7 @@
         "sect": 1,
         "title": "NETWORK AND SYSTEMS ADMINISTRATION",
         "chr": 3.0,
-        "venue": "ICT CISCO LAB LEVEL 4C",
+        "venue": "ICT TL-D5-03 LEVEL 5D",
         "lect": [
             "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
         ],
@@ -2300,7 +2300,7 @@
         "sect": 1,
         "title": "BRAIN COMPUTATIONAL ANALYTICS",
         "chr": 3.0,
-        "venue": "ICT TL-D4-04 LEVEL 4D",
+        "venue": "ICT TEACH LAB 3 LEVEL 3C",
         "lect": [
             "TS. DR. HAMWIRA SAKTI BIN YAACOB"
         ],
@@ -2370,6 +2370,50 @@
         "venue": null,
         "lect": [
             "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ICTL 1000",
+        "sect": 1,
+        "title": "LIBRARY SKILLS FOR ICT",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ICTL 1000",
+        "sect": 2,
+        "title": "LIBRARY SKILLS FOR ICT",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ICTL 1000",
+        "sect": 3,
+        "title": "LIBRARY SKILLS FOR ICT",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ICTL 1000",
+        "sect": 4,
+        "title": "LIBRARY SKILLS FOR ICT",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
         ],
         "dayTime": []
     },
@@ -2901,20 +2945,20 @@
         "sect": 6,
         "title": "WEB TECHNOLOGIES",
         "chr": 3.0,
-        "venue": "ICT TL-D5-04 LEVEL 5D",
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
             "DR. NAJHAN BIN MUHAMAD IBRAHIM"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:30",
-                "endTime": "21:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "20:30",
-                "endTime": "21:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3117,6 +3161,50 @@
         ]
     },
     {
+        "code": "INFO 2304",
+        "sect": 5,
+        "title": "SYSTEM ANALYSIS AND DESIGN",
+        "chr": 3.0,
+        "venue": "ICT LR 11 LEVEL 2C",
+        "lect": [
+            "DR. AHMAD FATZILAH BIN MISMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 2304",
+        "sect": 6,
+        "title": "SYSTEM ANALYSIS AND DESIGN",
+        "chr": 3.0,
+        "venue": "ICT LR 12 LEVEL 2C",
+        "lect": [
+            "DR. AHMAD FATZILAH BIN MISMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "INFO 2305",
         "sect": 1,
         "title": "MULTIMEDIA TECHNOLOGY",
@@ -3233,7 +3321,7 @@
         "chr": 3.0,
         "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
-            "DR. AHMAD FATZILAH BIN MISMAN"
+            "DR. SHUHAILI BT. TALIB"
         ],
         "dayTime": [
             {
@@ -3245,28 +3333,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 2306",
-        "sect": 2,
-        "title": "MANAGEMENT INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
-        "lect": [
-            "DR. AHMAD FATZILAH BIN MISMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -3275,7 +3341,7 @@
         "sect": 3,
         "title": "MANAGEMENT INFORMATION SYSTEMS",
         "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. HAZWANI BT MOHD MOHADIS"
         ],
@@ -3297,7 +3363,7 @@
         "sect": 4,
         "title": "MANAGEMENT INFORMATION SYSTEMS",
         "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. HAZWANI BT MOHD MOHADIS"
         ],
@@ -3355,28 +3421,6 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 2306",
-        "sect": 7,
-        "title": "MANAGEMENT INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT LR 10 LEVEL 2C",
-        "lect": [
-            "DR. SHUHAILI BT. TALIB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -4309,7 +4353,7 @@
         "sect": 1,
         "title": "DIGITAL CONTENT DESIGN",
         "chr": 3.0,
-        "venue": "ICT CITA STUDIO LEVEL 1B",
+        "venue": "ICT PBL LAB 2 LEVEL 3D",
         "lect": [
             "DR. SUHAILA BINTI SAMSURI"
         ],

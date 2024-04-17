@@ -10,7 +10,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 6,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }
@@ -44,8 +44,8 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
+                "day": 5,
+                "startTime": "15:00",
                 "endTime": "16:00"
             }
         ]
@@ -61,7 +61,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }
@@ -113,7 +113,7 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "08:00",
+                "startTime": "09:00",
                 "endTime": "10:00"
             }
         ]
@@ -165,7 +165,7 @@
             {
                 "day": 5,
                 "startTime": "08:00",
-                "endTime": "10:00"
+                "endTime": "09:00"
             }
         ]
     },
@@ -200,23 +200,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "16:00"
-            }
-        ]
-    },
-    {
-        "code": "PPPP 3272",
-        "sect": 1,
-        "title": "DRUG ABUSE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. MOHAMAD HANIKI BIN NIK MOHAMED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "12:00"
             }
         ]
     },
@@ -261,7 +244,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. NOR ILYANI BINTI MOHAMED NAZAR"
+            "ASSOC. PROF. DR. NOR ILYANI BINTI MOHAMED NAZAR"
         ],
         "dayTime": [
             {
@@ -465,7 +448,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. FARAHIDAH BINTI MOHAMED"
+            "PROF. DR. FARAHIDAH BINTI MOHAMED"
         ],
         "dayTime": [
             {
