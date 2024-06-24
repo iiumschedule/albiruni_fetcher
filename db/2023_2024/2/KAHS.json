@@ -613,7 +613,13 @@
         "lect": [
             "DR. AZANTEE YAZMIE BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHBS 4212",
