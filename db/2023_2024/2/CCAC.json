@@ -310,7 +310,7 @@
         "sect": 1,
         "title": "BAKING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "BAKING ROOM WADIBUDI",
         "lect": [
             "NORMI AMALIA BINTI MISWADI"
         ],
@@ -327,7 +327,7 @@
         "sect": 2,
         "title": "BAKING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "BAKING ROOM WADIBUDI",
         "lect": [
             "NORMI AMALIA BINTI MISWADI"
         ],
@@ -1891,7 +1891,7 @@
         "sect": 41,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": "CLASSROOM 1 WADIBUDI",
+        "venue": "ECONS SR 3.9 LEVEL 3",
         "lect": [
             "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
@@ -3557,15 +3557,15 @@
         "sect": 1,
         "title": "Master of Ceremony 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "ALLY ISKANDAR BIN MOHD MARDZI"
         ],
         "dayTime": [
             {
                 "day": 6,
-                "startTime": "10:00",
-                "endTime": "12:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -3574,15 +3574,15 @@
         "sect": 2,
         "title": "Master of Ceremony 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "ALLY ISKANDAR BIN MOHD MARDZI"
         ],
         "dayTime": [
             {
                 "day": 6,
-                "startTime": "14:00",
-                "endTime": "16:00"
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3929,9 +3929,9 @@
     {
         "code": "CCPH 1090",
         "sect": 1,
-        "title": "Prophetic Healing 1",
+        "title": "PROPHETIC HEALING 1 (AL RUQA AL SHARIYYAH 1)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.10 LEVEL 3",
         "lect": [
             "DR. SHAMSUDIN B. MOHD NOOR"
         ],
@@ -4431,6 +4431,23 @@
         "dayTime": [
             {
                 "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 3611",
+        "sect": 5,
+        "title": "MALAYSIAN SIGN LANGUAGE 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD FAKHRURAZZI B MAT SEDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -5242,7 +5259,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -5410,7 +5427,7 @@
         "sect": 201,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": "ECONS SR 3.2 LEVEL 3",
+        "venue": null,
         "lect": [
             "CHE WAN SARAH NAJIHAH BINTI CHE WAN AHMAD"
         ],
@@ -5852,7 +5869,7 @@
         "sect": 202,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": "ECONS SR 3.11 LEVEL 3",
+        "venue": null,
         "lect": [
             "IMAN ADRIANA BT AHMAD RADHUAN"
         ],
@@ -5903,7 +5920,7 @@
         "sect": 205,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 1",
         "lect": [
             "NUR SOFIA BT ABU BAKAR"
         ],
@@ -5937,7 +5954,7 @@
         "sect": 207,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.11 LEVEL 3",
         "lect": [
             "NOR FATIHAH BINTI MOHAMAD"
         ],
@@ -5954,7 +5971,7 @@
         "sect": 208,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ECONS SR 3.12 LEVEL 3",
         "lect": [
             "NURFARIHA AKMAL FAWWAZAH BINTI ABDULLAH FAUZI"
         ],
@@ -5971,7 +5988,7 @@
         "sect": 209,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": "ECONS SR 3.5 LEVEL 3",
+        "venue": "MOSQUE LEVEL 1",
         "lect": [
             "AINUL MARDHIAH BINTI MOHAMMED RAFIQ"
         ],
@@ -5988,7 +6005,7 @@
         "sect": 210,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LEVEL 1",
         "lect": [
             "INTAN SHARIZATUL AINA BINTI SABARUDIN"
         ],
