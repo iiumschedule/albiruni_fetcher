@@ -1,0 +1,228 @@
+[
+    {
+        "code": "SAP 4196",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2308",
+        "sect": 1,
+        "title": "MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3401",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 1",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMS 4121",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. PAH CHIN HEE"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SPS 1103",
+        "sect": 1,
+        "title": "CLASSICAL MECHANICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNI BINTI ABDUL AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1205",
+        "sect": 1,
+        "title": "LINEAR ALGEBRA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZWA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 1278",
+        "sect": 1,
+        "title": "CALCULUS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AHMAD FAKHRURRAZI BIN AHMAD NOORDEN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3212",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SPS 4103",
+        "sect": 1,
+        "title": "SOLID STATE PHYSICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SHAFIQAH BINTI AHMAD SHAHARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4113",
+        "sect": 1,
+        "title": "STATISTICAL PHYSICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. JESNI BIN SHAMSUL SHAARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4120",
+        "sect": 1,
+        "title": "BIOPHYSICS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAZIMIN BIN MOHD SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4121",
+        "sect": 1,
+        "title": "BIOPHYSICS III",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAZIMIN BIN MOHD SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            }
+        ]
+    }
+]
