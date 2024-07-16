@@ -77,6 +77,50 @@
         "dayTime": []
     },
     {
+        "code": "MCTE 2333",
+        "sect": 1,
+        "title": "INSTRUMENTATION AND MEASUREMENTS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MCTE 3313",
+        "sect": 1,
+        "title": "CONTROL SYSTEMS II",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "MCTE 4399",
         "sect": 1,
         "title": "PROJECT II",
@@ -109,6 +153,17 @@
                 "endTime": "16:50"
             }
         ]
+    },
+    {
+        "code": "MECH 4129",
+        "sect": 9,
+        "title": "AEROSPACE ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. DWI PEBRIANTI"
+        ],
+        "dayTime": []
     },
     {
         "code": "MECH 4399",
