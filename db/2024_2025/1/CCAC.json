@@ -1653,7 +1653,7 @@
         "sect": 1,
         "title": "KHAT 1 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1721,7 +1721,7 @@
         "sect": 1,
         "title": "KHAT SKILLS COURSE 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1738,7 +1738,7 @@
         "sect": 1,
         "title": "KHAT SKILLS COURSE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1755,7 +1755,7 @@
         "sect": 2,
         "title": "KHAT SKILLS COURSE 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2696,6 +2696,28 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCPH 2090",
+        "sect": 1,
+        "title": "PROPHETIC HEALING 2 (AL RUQA AL SHARIYYAH 2)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
                 "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
@@ -3387,7 +3409,7 @@
         "sect": 1,
         "title": "SEWING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3404,7 +3426,7 @@
         "sect": 2,
         "title": "SEWING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3421,7 +3443,7 @@
         "sect": 3,
         "title": "SEWING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3438,7 +3460,7 @@
         "sect": 4,
         "title": "SEWING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3472,7 +3494,7 @@
         "sect": 1,
         "title": "SEWING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3489,7 +3511,7 @@
         "sect": 2,
         "title": "SEWING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3506,7 +3528,7 @@
         "sect": 3,
         "title": "SEWING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3523,7 +3545,7 @@
         "sect": 4,
         "title": "SEWING SKILLS 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "TO BE DETERMINED"
         ],

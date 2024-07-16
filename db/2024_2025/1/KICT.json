@@ -367,7 +367,7 @@
         "sect": 4,
         "title": "OBJECT ORIENTED PROGRAMMING",
         "chr": 3.0,
-        "venue": "ICT TL-E5-02 LEVEL 5E",
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
             "DR. NURAZLIN BINTI ZAINAL AZMI"
         ],
@@ -807,7 +807,7 @@
         "sect": 1,
         "title": "DATA STRUCTURES AND ALGORITHMS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
             "DR. SHARYAR WANI"
         ],
@@ -1819,7 +1819,7 @@
         "sect": 1,
         "title": "MATHEMATICS FOR COMPUTING III",
         "chr": 3.0,
-        "venue": "ICT LR 10 LEVEL 2C",
+        "venue": "ICT LR 14A LEVEL 2D",
         "lect": [
             "DR. AKEEM OLOWOLAYEMO"
         ],
@@ -2167,6 +2167,28 @@
         ]
     },
     {
+        "code": "CSCI 4330",
+        "sect": 2,
+        "title": "NETWORKING CONCEPTS AND PRACTICES",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "CSCI 4331",
         "sect": 1,
         "title": "ENTERPRISE NETWORK",
@@ -2189,13 +2211,35 @@
         ]
     },
     {
+        "code": "CSCI 4331",
+        "sect": 2,
+        "title": "ENTERPRISE NETWORK",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "CSCI 4332",
         "sect": 1,
         "title": "DIGITAL EVIDENCE FORENSICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TL-D4-04 LEVEL 4D",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
         ],
         "dayTime": [
             {
@@ -2515,7 +2559,7 @@
         "chr": 3.0,
         "venue": "ICT CITA TRAINING ROOM LEVEL 1B",
         "lect": [
-            "DR. AIDRINA BINTI MOHAMED SOFIADIN"
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
         ],
         "dayTime": [
             {
@@ -2537,7 +2581,7 @@
         "chr": 3.0,
         "venue": "ICT CITA TRAINING ROOM LEVEL 1B",
         "lect": [
-            "DR. AIDRINA BINTI MOHAMED SOFIADIN"
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
         ],
         "dayTime": [
             {
