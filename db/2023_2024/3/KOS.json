@@ -1,5 +1,22 @@
 [
     {
+        "code": "BSBT 4311",
+        "sect": 1,
+        "title": "BIONANOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR FAEZAH BINTI ANSARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "SAP 4196",
         "sect": 1,
         "title": "INTERNSHIP",
@@ -59,6 +76,50 @@
             "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": []
+    },
+    {
+        "code": "SMT 1243",
+        "sect": 1,
+        "title": "OCEAN LAW AND POLICY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JULIANA BT MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMT 3153",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "SPS 1103",

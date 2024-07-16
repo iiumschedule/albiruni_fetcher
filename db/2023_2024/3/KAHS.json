@@ -1,5 +1,148 @@
 [
     {
+        "code": "AAUD 3508",
+        "sect": 1,
+        "title": "Clinical Placement",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL SYARIDA BINTI MOHD SAKERI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHHA 3631",
+        "sect": 1,
+        "title": "CLINICAL PLACEMENT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL SYARIDA BINTI MOHD SAKERI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 2213",
+        "sect": 1,
+        "title": "VISUAL PERCEPTION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORSHAM BT AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 3431",
+        "sect": 1,
+        "title": "INDUSTRIAL PLACEMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHOV 4321",
+        "sect": 1,
+        "title": "PRIMARY OPTOMETRY CLINIC 3",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 2239",
+        "sect": 1,
+        "title": "FUNDAMENTAL CLINICAL POSTING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "NURUL AMIRAH BINTI MUSTAPA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 3349",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN GERIATRIC",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWANA BINTI KAMSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 3449",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE IN PAEDIATRIC",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ELIN ELISA BINTI KHAIRUL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AHPT 4544",
+        "sect": 1,
+        "title": "CLINICAL COMPETENCIES IN PHYSIOTHERAPY",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 3276",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINICAL PLACEMENT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HANISAH BINTI TUKIRAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4223",
+        "sect": 1,
+        "title": "FEEDING & SWALLOWING DISORDERS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAHAYU MUSTAFFA KAMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASLP 4236",
+        "sect": 1,
+        "title": "SPEECH-LANGUAGE PATHOLOGY CLINIC 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ASPA 3410",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinical Placement",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HANISAH BINTI TUKIRAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "HSMI 1431",
         "sect": 1,
         "title": "Clinical Practice 1",
@@ -8,7 +151,13 @@
         "lect": [
             "DR. MUHAMAD ABDUH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "HSMI 2431",
@@ -19,6 +168,12 @@
         "lect": [
             "DR. LIYANA BINTI MUSA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     }
 ]
