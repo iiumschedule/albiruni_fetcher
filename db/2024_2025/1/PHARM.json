@@ -1,5 +1,124 @@
 [
     {
+        "code": "PPBM 1211",
+        "sect": 1,
+        "title": "BASIC ANATOMY & HISTOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ASYIQIN BINTI YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 1321",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF PHYSIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSAZRA BINTI ROSLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 1331",
+        "sect": 1,
+        "title": "MEDICAL BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAY KHIN SOE"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 2211",
+        "sect": 1,
+        "title": "PHARMACOLOGY OF PERIPHERAL NERVOUS SYSTEM",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD RUSDI BIN AHMAD RUSMILI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 2221",
+        "sect": 1,
+        "title": "GENERAL PATHOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SANDA AUNG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 2331",
+        "sect": 1,
+        "title": "ANTI-INFECTIVE AGENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HUSSAM ABDELJABAR AHMAD MIZHER"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 3211",
+        "sect": 1,
+        "title": "ANTICANCER CHEMOTHERAPY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. BISHA FATHAMAH BINTI UZIR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "PPHK 3321",
         "sect": 1,
         "title": "BODY SYSTEM & THERAPEUTICS III: MSK & SENSORY ORGANS",
@@ -51,6 +170,40 @@
         ]
     },
     {
+        "code": "PPPC 1351",
+        "sect": 1,
+        "title": "PHARMACEUTICAL ORGANIC CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. QAMAR UDDIN AHMED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 2251",
+        "sect": 1,
+        "title": "PHARMACEUTICAL INSTRUMENTAL ANALYSIS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. CHM. DR. AWIS SUKARNI BIN MOHMAD SABERE"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "PPPC 2271",
         "sect": 1,
         "title": "NUCLEAR PHARMACY",
@@ -64,6 +217,57 @@
                 "day": 3,
                 "startTime": "08:00",
                 "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 2272",
+        "sect": 1,
+        "title": "HALAL PHARMACEUTICAL",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. A.B.M. HELAL UDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 3251",
+        "sect": 1,
+        "title": "PHARMACOGNOSY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ALFI KHATIB"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 4251",
+        "sect": 1,
+        "title": "HERBAL SCIENCE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORAZIAN BINTI MOHD. HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
