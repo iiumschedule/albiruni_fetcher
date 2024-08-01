@@ -11242,42 +11242,20 @@
         "sect": 4,
         "title": "INTRODUCTION TO SOCIOLOGY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 1310",
-        "sect": 5,
-        "title": "INTRODUCTION TO SOCIOLOGY",
-        "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -11308,7 +11286,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO ANTHROPOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
@@ -11352,7 +11330,7 @@
         "sect": 2,
         "title": "MAN AND SOCIETIES IN MUSLIM SCRIPTURES",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 17 1.52",
         "lect": [
             "DR. NORASIKIN BT BASIR"
         ],
@@ -11498,28 +11476,6 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 2341",
-        "sect": 1,
-        "title": "EDUCATION AND SOCIETY",
-        "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
-        "lect": [
-            "ASSOC. PROF. DR. NURAZZURA BT MOHAMAD DIAH"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -11766,6 +11722,28 @@
         ]
     },
     {
+        "code": "SOCA 3370",
+        "sect": 2,
+        "title": "ISLAMIC PERSPECTIVE OF SOCIOLOGY AND ANTHROPOLOGY",
+        "chr": 3.0,
+        "venue": "HSC LT 1 1.62",
+        "lect": [
+            "PROF. DR. HAZIZAN B. MD. NOON"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "SOCA 3382",
         "sect": 1,
         "title": "SOCIAL ANTHROPOLOGY",
@@ -11826,6 +11804,28 @@
             },
             {
                 "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 3392",
+        "sect": 1,
+        "title": "SOCIAL PROBLEMS",
+        "chr": 3.0,
+        "venue": "HSC LR 17 1.52",
+        "lect": [
+            "DR. NORASIKIN BT BASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
             }
@@ -12058,20 +12058,20 @@
         "sect": 5,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -13832,7 +13832,7 @@
         "chr": 3.0,
         "venue": "IRK LR 10 3.69",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORBANI BINTI ISMAIL"
         ],
         "dayTime": [
             {
@@ -14118,7 +14118,7 @@
         "chr": 3.0,
         "venue": "IRK LR 11 3.70",
         "lect": [
-            "DR. NORBANI BINTI ISMAIL"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {

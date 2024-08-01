@@ -322,15 +322,35 @@
         "sect": 1,
         "title": "LAW OF TORTS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.6 2.6",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -377,9 +397,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -410,7 +450,7 @@
         "sect": 5,
         "title": "LAW OF TORTS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.6 2.6",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -421,7 +461,22 @@
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
             }
@@ -443,9 +498,29 @@
                 "endTime": "10:50"
             },
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -725,7 +800,7 @@
         "sect": 1,
         "title": "CONSUMER LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.7 2.7",
         "lect": [
             "PROF. DR. MUSHERA BIBI BT. AMBARAS KHAN"
         ],
@@ -734,6 +809,11 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
