@@ -6,7 +6,7 @@
         "chr": 3.0,
         "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
         ],
         "dayTime": [
             {
@@ -23,7 +23,7 @@
         "chr": 3.0,
         "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "ISMAIL BIN JASMANI"
         ],
         "dayTime": [
             {
@@ -38,9 +38,9 @@
         "sect": 1,
         "title": "QUR'AN, SUNNAH & BUILT ENVIRONMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. AZILA BT. AHMAD SARKAWI"
         ],
         "dayTime": [
             {
@@ -60,9 +60,9 @@
         "sect": 2,
         "title": "QUR'AN, SUNNAH & BUILT ENVIRONMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. AZILA BT. AHMAD SARKAWI"
         ],
         "dayTime": [
             {
@@ -84,7 +84,7 @@
         "chr": 3.0,
         "venue": "KAED (L1) CAD LAB1",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -106,7 +106,7 @@
         "chr": 3.0,
         "venue": "KAED (L1) CAD LAB2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IHSAN BIN SHAHARIL"
         ],
         "dayTime": [
             {
@@ -128,7 +128,7 @@
         "chr": 3.0,
         "venue": "KAED (L1) CAD LAB1",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. ADLI HADI BIN ABDUL HADI"
         ],
         "dayTime": [
             {
@@ -160,7 +160,7 @@
         "chr": 3.0,
         "venue": "KAED (L1) CAD LAB2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAYEEM ASIF"
         ],
         "dayTime": [
             {
@@ -190,9 +190,9 @@
         "sect": 1,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 3",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
         "dayTime": [
             {
@@ -222,9 +222,9 @@
         "sect": 2,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
-            "TO BE DETERMINED"
+            "AZRIN BIN MOHD. DIN"
         ],
         "dayTime": [
             {
@@ -254,9 +254,9 @@
         "sect": 3,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L2) 5",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ROZIHA BINTI CHE HARON"
         ],
         "dayTime": [
             {
@@ -286,9 +286,9 @@
         "sect": 4,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED SR (L2) 6",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR AFFAH BT. MOHYIN"
         ],
         "dayTime": [
             {
@@ -314,13 +314,67 @@
         ]
     },
     {
+        "code": "BAQS 2300",
+        "sect": 5,
+        "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
+        "chr": 3.0,
+        "venue": "KAED SR (L2) 7",
+        "lect": [
+            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAQS 4152",
+        "sect": 1,
+        "title": "ADVANCED POST- CONTRACT ADMINISTRATION FOR QUANTITY SURVEYORS",
+        "chr": 3.0,
+        "venue": "KAED SR (L1) 1",
+        "lect": [
+            "DR. SITI NORA HARYATI BT. ABDULLAH HABIB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "BAUP 3364",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOOR SUZILAWATI BINTI RABE"
         ],
         "dayTime": [
             {
@@ -355,9 +409,9 @@
         "sect": 1,
         "title": "ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L4) 21",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. IZAWATI BT. TUKIMAN"
         ],
         "dayTime": [
             {
@@ -379,7 +433,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN"
         ],
         "dayTime": [
             {

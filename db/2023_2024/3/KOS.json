@@ -78,6 +78,28 @@
         "dayTime": []
     },
     {
+        "code": "SMT 1223",
+        "sect": 1,
+        "title": "CHEMICAL OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FUAD BIN MISKON"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "SMT 1243",
         "sect": 1,
         "title": "OCEAN LAW AND POLICY",
@@ -89,13 +111,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:30"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -112,14 +129,25 @@
             {
                 "day": 1,
                 "startTime": "09:00",
-                "endTime": "10:30"
+                "endTime": "12:00"
             },
             {
                 "day": 3,
                 "startTime": "09:00",
-                "endTime": "10:30"
+                "endTime": "12:00"
             }
         ]
+    },
+    {
+        "code": "SMT 4900",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD AZFAR BIN MOHAMED"
+        ],
+        "dayTime": []
     },
     {
         "code": "SPS 1103",
