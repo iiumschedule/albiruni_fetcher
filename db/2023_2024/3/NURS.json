@@ -1,5 +1,16 @@
 [
     {
+        "code": "NURA 3327",
+        "sect": 1,
+        "title": "BIOSTATISTICS AND EPIDEMIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "NURB 1213",
         "sect": 1,
         "title": "ANATOMY AND PHYSIOLOGY 1",
@@ -33,13 +44,35 @@
         "dayTime": []
     },
     {
+        "code": "NURB 1224",
+        "sect": 1,
+        "title": "GENERAL PATHOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "NURB 1315",
         "sect": 1,
         "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD HANIF BIN JAINLABDIN"
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURB 1322",
+        "sect": 1,
+        "title": "ANATOMY AND PHYSIOLOGY 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
         ],
         "dayTime": []
     },
@@ -50,9 +83,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. SITI NUR ILLIANI BINTI JAAFAR"
+            "DR. SUHANA BINTI MUHAMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2222",
@@ -63,7 +102,13 @@
         "lect": [
             "DR. PATIMAH BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2222",
@@ -74,7 +119,13 @@
         "lect": [
             "DR. SITI ZUHAIDAH BINTI SHAHADAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2222",
@@ -85,7 +136,13 @@
         "lect": [
             "DR. HANIDA HANI BINTI MOHD MOKHTAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2222",
@@ -96,7 +153,13 @@
         "lect": [
             "DR. SITI ZUHAIDAH BINTI SHAHADAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2223",
@@ -107,7 +170,13 @@
         "lect": [
             "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2223",
@@ -116,9 +185,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SANISAH BINTI SAIDI"
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2223",
@@ -127,9 +202,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. AYUNI ASMA' BINTI BAHARUDIN"
+            "DR. MOHD KHAIRUL ZUL HASYMI BIN FIRDAUS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2223",
@@ -140,7 +221,13 @@
         "lect": [
             "DR. SUHANA BINTI MUHAMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURC 2223",
@@ -150,6 +237,23 @@
         "venue": null,
         "lect": [
             "DR. SUHANA BINTI MUHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURF 4415",
+        "sect": 1,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
         ],
         "dayTime": []
     }

@@ -1,5 +1,22 @@
 [
     {
+        "code": "PPBM 2221",
+        "sect": 1,
+        "title": "GENERAL PATHOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
         "code": "PPBM 2331",
         "sect": 1,
         "title": "ANTI-INFECTIVE AGENTS",
@@ -10,9 +27,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "20:00",
-                "endTime": "05:00"
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
