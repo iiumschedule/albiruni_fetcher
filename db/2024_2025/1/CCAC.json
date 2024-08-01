@@ -2662,9 +2662,9 @@
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -2679,9 +2679,9 @@
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -2697,11 +2697,6 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
-            {
-                "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }

@@ -462,8 +462,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -4248,6 +4248,84 @@
         "dayTime": []
     },
     {
+        "code": "SMT 1233",
+        "sect": 1,
+        "title": "BIOLOGICAL OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2123",
+        "sect": 1,
+        "title": "ENVIRONMENTAL IMPACTS ASSESSMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JULIANA BT MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "22:00",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2143",
+        "sect": 1,
+        "title": "GIS AND REMOTE SENSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD FAIZ BIN MOHD. HANAPIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 2243",
+        "sect": 1,
+        "title": "BIOSTATISTIC",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "SMT 3171",
         "sect": 1,
         "title": "PROJECT SEMINAR",
@@ -4430,8 +4508,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
