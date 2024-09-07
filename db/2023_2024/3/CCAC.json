@@ -1,5 +1,16 @@
 [
     {
+        "code": "CCCS 3231",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZHAN BIN WAZIRI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CCFM 2061",
         "sect": 1,
         "title": "FAMILY MANAGEMENT",
@@ -110,6 +121,28 @@
         ]
     },
     {
+        "code": "CCFM 2061",
+        "sect": 401,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUSLIMA KARAWANI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 402,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. DOLHADI BIN ZAINUDIN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CCLM 2020",
         "sect": 1,
         "title": "LEADERSHIP AND MANAGEMENT",
@@ -158,7 +191,7 @@
         "sect": 3,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "FAIZAL KAMAL BIN MOHAMED"
         ],
@@ -265,12 +298,34 @@
     },
     {
         "code": "CCUB 1061",
+        "sect": 103,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "SIDI IMRAN BIN MOHD NAJIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
         "sect": 201,
         "title": "USRAH 1",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "FATIN NAASIHAH BINTI JAMAL ABD NASIR"
+            "KU AMIRAH NAJIHAH BINTI KU HALIM"
         ],
         "dayTime": [
             {
@@ -302,6 +357,23 @@
             },
             {
                 "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 600,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -414,6 +486,61 @@
                 "day": 4,
                 "startTime": "20:00",
                 "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 204,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "IMAN ADRIANA BT AHMAD RADHUAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 3621",
+        "sect": 401,
+        "title": "USRAH BUDI 3",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MAZBAHUR RAHMAN KHAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 301,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     }

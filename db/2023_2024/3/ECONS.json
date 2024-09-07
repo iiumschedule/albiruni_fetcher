@@ -11,6 +11,17 @@
         "dayTime": []
     },
     {
+        "code": "ECON 1302",
+        "sect": 1,
+        "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ECON 3998",
         "sect": 1,
         "title": "PRACTICAL TRAINING(BECS)",
@@ -22,6 +33,45 @@
         "dayTime": []
     },
     {
+        "code": "FINC 2302",
+        "sect": 1,
+        "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": "KENMS 2.4 LEVEL 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2307",
+        "sect": 600,
+        "title": "PERSONAL FINANCIAL PLANNING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "21:00",
+                "endTime": "06:00"
+            }
+        ]
+    },
+    {
         "code": "FINC 4120",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
@@ -31,6 +81,23 @@
             "TO BE DETERMINED"
         ],
         "dayTime": []
+    },
+    {
+        "code": "MGMT 3302",
+        "sect": 600,
+        "title": "HUMAN RESOURCE MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "MGMT 4302",
@@ -55,6 +122,23 @@
         ]
     },
     {
+        "code": "MGMT 4305",
+        "sect": 600,
+        "title": "INDUSTRIAL RELATIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "21:00",
+                "endTime": "06:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 4315",
         "sect": 1,
         "title": "PRACTICAL TRAINING (BBA)",
@@ -64,5 +148,22 @@
             "TO BE DETERMINED"
         ],
         "dayTime": []
+    },
+    {
+        "code": "MGMT 4318",
+        "sect": 600,
+        "title": "BUSINESS RESEARCH METHOD",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "21:00",
+                "endTime": "06:00"
+            }
+        ]
     }
 ]

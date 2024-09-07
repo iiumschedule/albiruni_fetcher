@@ -1,5 +1,49 @@
 [
     {
+        "code": "BAAD 1131",
+        "sect": 1,
+        "title": "APPRECIATION OF ASIAN ARTS AND DESIGN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BAAD 2112",
+        "sect": 1,
+        "title": "ISLAMIC GEOMETRIC PATTERN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BAAD 2190",
+        "sect": 1,
+        "title": "COMPUTER GRAPHICS DESIGN 2",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BAAD 2210",
+        "sect": 1,
+        "title": "ISLAMIC CRAFTSMANSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAAD 2350",
         "sect": 1,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
@@ -34,6 +78,17 @@
         ]
     },
     {
+        "code": "BAAD 4230",
+        "sect": 1,
+        "title": "DESIGN THESIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAAR 1230",
         "sect": 1,
         "title": "QUR'AN, SUNNAH & BUILT ENVIRONMENT",
@@ -74,6 +129,28 @@
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAR 1396",
+        "sect": 1,
+        "title": "COMPUTER AIDED DESIGN 1 ",
+        "chr": 2.0,
+        "venue": "KAED (L1) CAD LAB1",
+        "lect": [
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -120,6 +197,17 @@
                 "endTime": "13:00"
             }
         ]
+    },
+    {
+        "code": "BAAR 2203",
+        "sect": 1,
+        "title": "WORKING DRAWING AND SPECIFICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
+        ],
+        "dayTime": []
     },
     {
         "code": "BAAR 2396",
@@ -190,7 +278,7 @@
         "sect": 1,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": "KAED STUDIO(L2) 3",
+        "venue": "KAED STUDIO(L3) 7",
         "lect": [
             "ASSOC. PROF. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
@@ -222,7 +310,7 @@
         "sect": 2,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": "KAED STUDIO(L2) 4",
+        "venue": "KAED STUDIO(L3) 8",
         "lect": [
             "AZRIN BIN MOHD. DIN"
         ],
@@ -254,7 +342,7 @@
         "sect": 3,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 5",
+        "venue": "KAED STUDIO(L2) 3",
         "lect": [
             "DR. ROZIHA BINTI CHE HARON"
         ],
@@ -286,41 +374,9 @@
         "sect": 4,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
             "DR. NUR AFFAH BT. MOHYIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "BAQS 2300",
-        "sect": 5,
-        "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
-        "chr": 3.0,
-        "venue": "KAED SR (L2) 7",
-        "lect": [
-            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
         ],
         "dayTime": [
             {

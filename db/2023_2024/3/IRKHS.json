@@ -6,7 +6,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SAUPI BIN MAN"
+            "ASSOC. PROF. DR. YASIR BIN ISMAIL"
         ],
         "dayTime": []
     },
@@ -72,7 +72,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. TANJA JONID"
         ],
         "dayTime": []
     },
@@ -83,7 +83,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI AFIFAH BINTI HASHIM"
         ],
         "dayTime": []
     },
@@ -94,7 +94,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HAMOUD YAHYA AHMED MOHSEN"
         ],
         "dayTime": []
     },
@@ -110,10 +110,10 @@
         "dayTime": []
     },
     {
-        "code": "HART 4102",
+        "code": "HART 4107",
         "sect": 1,
-        "title": "HALAL AUDIT AND CERTIFICATION",
-        "chr": 3.0,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
         "venue": null,
         "lect": [
             "DR. WAN SYIBRAH HANISAH BINTI WAN SULAIMAN"
@@ -121,10 +121,10 @@
         "dayTime": []
     },
     {
-        "code": "HART 4102",
+        "code": "HART 4107",
         "sect": 2,
-        "title": "HALAL AUDIT AND CERTIFICATION",
-        "chr": 3.0,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
         "venue": null,
         "lect": [
             "DR. ANIS NAJIHA BT. AHMAD"
@@ -132,10 +132,10 @@
         "dayTime": []
     },
     {
-        "code": "HART 4102",
+        "code": "HART 4107",
         "sect": 3,
-        "title": "HALAL AUDIT AND CERTIFICATION",
-        "chr": 3.0,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 6.0,
         "venue": null,
         "lect": [
             "DR. NURHIDAYU AL-SAARI"
@@ -403,6 +403,28 @@
         "venue": null,
         "lect": [
             "DR. MOHAMED FOUZ MOHAMED ZACKY"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 3018",
+        "sect": 99,
+        "title": "PSYCHOLOGICAL ASSESSMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JUSMAWATI BINTI FAUZAMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 4300",
+        "sect": 99,
+        "title": "COUNSELLING PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIANA BINTI MOHAMAD"
         ],
         "dayTime": []
     },
@@ -1043,5 +1065,22 @@
             "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
         ],
         "dayTime": []
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 600,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL LATIF BIN ABD. RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "21:00",
+                "endTime": "06:00"
+            }
+        ]
     }
 ]

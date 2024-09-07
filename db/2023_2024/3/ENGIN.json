@@ -1,5 +1,38 @@
 [
     {
+        "code": "AERO 2322",
+        "sect": 1,
+        "title": "AERODYNAMICS 1",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "DR. AMELDA DIANNE BINTI ANDAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BTEN 4399",
         "sect": 1,
         "title": "FINAL YEAR PROJECT II",
@@ -22,6 +55,72 @@
         "dayTime": []
     },
     {
+        "code": "CIVE 4322",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI ASMAHANI BINTI SAAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CVLE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI NORATIKAH BINTI CHE DERAMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ECIE 4398",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD SHAHRIN BIN ABU HANIFAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3511",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3512",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "EITR 3521",
         "sect": 1,
         "title": "ENGINEERING INDUSTRIAL TRAINING",
@@ -33,6 +132,61 @@
         "dayTime": []
     },
     {
+        "code": "EITR 3531",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI NORATIKAH BINTI CHE DERAMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3541",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NADIRAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3542",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NADIRAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3551",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HARYANI BINTI TOMADI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3552",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAZWANI BINTI MOHD ZAKI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "EITR 3561",
         "sect": 1,
         "title": "ENGINEERING INDUSTRIAL TRAINING",
@@ -40,6 +194,17 @@
         "venue": null,
         "lect": [
             "DR. AZNI NABELA BINTI WAHID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MANU 3318",
+        "sect": 9,
+        "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. IR. DR. MD YUSOF BIN ISMAIL"
         ],
         "dayTime": []
     },
@@ -64,6 +229,51 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MATH 2340",
+        "sect": 1,
+        "title": "COMPLEX ANALYSIS AND NUMERICAL METHODS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "DR. KARTINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MATR 4358",
+        "sect": 9,
+        "title": "FAILURE ANALYSIS OF MATERIALS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORHUDA HIDAYAH BINTI NORDIN",
+            "DR. HAFIZAH HANIM BINTI MOHD ZAKI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MATR 4399",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR"
+        ],
+        "dayTime": []
     },
     {
         "code": "MCTA 3500",
@@ -100,12 +310,35 @@
     },
     {
         "code": "MCTE 3313",
-        "sect": 1,
+        "sect": 9,
         "title": "CONTROL SYSTEMS II",
         "chr": 3.0,
-        "venue": "ENG LRM E1-2-17",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MCTE 4399",
+        "sect": 1,
+        "title": "PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 2340",
+        "sect": 1,
+        "title": "FLUID MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-66",
+        "lect": [
+            "DR. SYED NOH BIN SYED ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -121,24 +354,13 @@
         ]
     },
     {
-        "code": "MCTE 4399",
-        "sect": 1,
-        "title": "PROJECT II",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AIMI SHAZWANI BINTI GHAZALI",
-            "DR. HASMAWATI BT. ANTONG"
-        ],
-        "dayTime": []
-    },
-    {
         "code": "MECH 3241",
         "sect": 1,
         "title": "INTRODUCTION TO IOT AND APPLICATIONS",
         "chr": 2.0,
         "venue": "ENG MEC COMPUTER LAB E4-2",
         "lect": [
+            "DR. MUHAMMAD BIN ABDULLAH",
             "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
         ],
         "dayTime": [
@@ -155,6 +377,61 @@
         ]
     },
     {
+        "code": "MECH 3322",
+        "sect": 1,
+        "title": "AERODYNAMICS I",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "DR. AMELDA DIANNE BINTI ANDAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 4119",
+        "sect": 1,
+        "title": "AUTOMOTIVE ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ADIB HAMDANI BIN ROSLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MECH 4129",
         "sect": 9,
         "title": "AEROSPACE ENGINEERING LAB IV",
@@ -166,6 +443,28 @@
         "dayTime": []
     },
     {
+        "code": "MECH 4322",
+        "sect": 9,
+        "title": "FLIGHT DYNAMICS AND CONTROL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 4326",
+        "sect": 9,
+        "title": "AEROSPACE VEHICLE DESIGN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MECH 4399",
         "sect": 1,
         "title": "PROJECT II",
@@ -173,6 +472,28 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MFGA 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HARYANI BINTI TOMADI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MTRE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAZWANI BINTI MOHD ZAKI"
         ],
         "dayTime": []
     }
