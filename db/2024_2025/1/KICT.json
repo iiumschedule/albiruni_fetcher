@@ -1,240 +1,625 @@
 [
     {
+        "code": "BICS 1301",
+        "sect": 1,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
+        "lect": [
+            "DR. SURIANI BT. SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1301",
+        "sect": 2,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
+        "lect": [
+            "DR. SURIANI BT. SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1301",
+        "sect": 3,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
+        "lect": [
+            "DR. MOHD. SYARQAWY BIN HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1301",
+        "sect": 4,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
+        "lect": [
+            "DR. MOHD. SYARQAWY BIN HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1301",
+        "sect": 5,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1301",
+        "sect": 6,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1301",
+        "sect": 7,
+        "title": "Elements of Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 1,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. TAKUMI SASE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 2,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. TAKUMI SASE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 3,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 4,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 5,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 13 LEVEL 2D",
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 6,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1302",
+        "sect": 7,
+        "title": "Introduction to Computer Organisation",
+        "chr": 3.0,
+        "venue": "ICT LR 14A LEVEL 2D",
+        "lect": [
+            "DR. NORZALIZA BINTI MD NOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 1,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 6 LEVEL 3C",
+        "lect": [
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 2,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "lect": [
+            "DR. NURHAFIZAH BINTI MAHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 3,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "lect": [
+            "DR. NURHAFIZAH BINTI MAHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 4,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "lect": [
+            "DR. ZAINATUL SHIMA ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 5,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "lect": [
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 6,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 5 LEVEL 3C",
+        "lect": [
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 1,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": "ICT LR 13 LEVEL 2D",
+        "lect": [
+            "PROF. DR. ABD. RAHMAN BIN AHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 2,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": "ICT LR 13 LEVEL 2D",
+        "lect": [
+            "PROF. DR. ABD. RAHMAN BIN AHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 3,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": "ICT LR 10 LEVEL 2C",
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 4,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": "ICT LR 10 LEVEL 2C",
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 1,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": "ICT CITA LAB LEVEL 1B",
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 2,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": "ICT CITA LAB LEVEL 1B",
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 3,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": "ICT LR 14A LEVEL 2D",
+        "lect": [
+            "PROF. DR. AKRAM M Z M KHEDHER"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 4,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": "ICT LR 14A LEVEL 2D",
+        "lect": [
+            "PROF. DR. AKRAM M Z M KHEDHER"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "CSCI 1300",
         "sect": 1,
         "title": "ELEMENTS OF PROGRAMMING",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 7 TL-D4-01",
-        "lect": [
-            "DR. SURIANI BT. SULAIMAN",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 2,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 7 TL-D4-01",
-        "lect": [
-            "DR. SURIANI BT. SULAIMAN",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 3,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 7 TL-D4-01",
-        "lect": [
-            "DR. MOHD. SYARQAWY BIN HAMZAH",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 4,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 7 TL-D4-01",
-        "lect": [
-            "DR. MOHD. SYARQAWY BIN HAMZAH",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 5,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 4 LEVEL 3C",
-        "lect": [
-            "DR. SITI ASMA BINTI MOHAMMED",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 6,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 4 LEVEL 3C",
-        "lect": [
-            "DR. SITI ASMA BINTI MOHAMMED",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 7,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-02",
-        "lect": [
-            "DR. SITI ASMA BINTI MOHAMMED",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 8,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
         "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. NORZALIZA BINTI MD NOR",
@@ -247,7 +632,7 @@
                 "endTime": "09:50"
             },
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "17:00",
                 "endTime": "18:50"
             },
@@ -257,40 +642,7 @@
                 "endTime": "09:50"
             },
             {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1300",
-        "sect": 9,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": "ICT LR 14A LEVEL 2D",
-        "lect": [
-            "DR. NORZALIZA BINTI MD NOR",
-            "TUTOR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
+                "day": 4,
                 "startTime": "17:00",
                 "endTime": "18:50"
             }
@@ -474,10 +826,10 @@
     },
     {
         "code": "CSCI 1303",
-        "sect": 2,
+        "sect": 1,
         "title": "MATHEMATICS FOR COMPUTING I",
         "chr": 3.0,
-        "venue": "ICT LR 14A LEVEL 2D",
+        "venue": null,
         "lect": [
             "DR. TAKUMI SASE"
         ],
@@ -491,138 +843,6 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 3,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 14 LEVEL 2D",
-        "lect": [
-            "DR. TAKUMI SASE"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 4,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 14 LEVEL 2D",
-        "lect": [
-            "DR. TAKUMI SASE"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 5,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 14 LEVEL 2D",
-        "lect": [
-            "DR. NUR-ADIB MASPO"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 6,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 14 LEVEL 2D",
-        "lect": [
-            "DR. NUR-ADIB MASPO"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 7,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 13 LEVEL 2D",
-        "lect": [
-            "DR. ASMARANI BINTI AHMAD PUZI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "CSCI 1303",
-        "sect": 8,
-        "title": "MATHEMATICS FOR COMPUTING I",
-        "chr": 3.0,
-        "venue": "ICT LR 14 LEVEL 2D",
-        "lect": [
-            "DR. ASMARANI BINTI AHMAD PUZI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -2171,20 +2391,20 @@
         "sect": 2,
         "title": "NETWORKING CONCEPTS AND PRACTICES",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 7 TL-D4-01",
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
             "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -2221,14 +2441,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -2513,174 +2733,20 @@
         "sect": 1,
         "title": "BUSINESS FUNDAMENTALS",
         "chr": 3.0,
-        "venue": "ICT CITA LAB LEVEL 1B",
-        "lect": [
-            "PROF. DR. ABD. RAHMAN BIN AHLAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 2,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": "ICT CITA LAB LEVEL 1B",
-        "lect": [
-            "PROF. DR. ABD. RAHMAN BIN AHLAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 3,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
         "venue": "ICT CITA TRAINING ROOM LEVEL 1B",
-        "lect": [
-            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 4,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": "ICT CITA TRAINING ROOM LEVEL 1B",
-        "lect": [
-            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 5,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
             "MADAM NOOR AZIAN BT. MOHAMAD ALI"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 6,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
-        "lect": [
-            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 7,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": "ICT CITA LAB LEVEL 1B",
-        "lect": [
-            "PROF. DR. AKRAM M Z M KHEDHER"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1302",
-        "sect": 8,
-        "title": "BUSINESS FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": "ICT CITA LAB LEVEL 1B",
-        "lect": [
-            "PROF. DR. AKRAM M Z M KHEDHER"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -2703,160 +2769,6 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 2,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 6 LEVEL 3C",
-        "lect": [
-            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 3,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-02",
-        "lect": [
-            "DR. NURHAFIZAH BINTI MAHRI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 4,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-02",
-        "lect": [
-            "DR. NURHAFIZAH BINTI MAHRI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 5,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 5 LEVEL 3C",
-        "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 6,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 6 LEVEL 3C",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 7,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 5 LEVEL 3C",
-        "lect": [
-            "DR. MIMI LIZA BINTI ABDUL MAJID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "INFO 1303",
-        "sect": 8,
-        "title": "DATABASE SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 5 LEVEL 3C",
-        "lect": [
-            "DR. MIMI LIZA BINTI ABDUL MAJID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -2977,7 +2889,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -2999,7 +2911,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -3021,7 +2933,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -3478,28 +3390,6 @@
     },
     {
         "code": "INFO 2306",
-        "sect": 1,
-        "title": "MANAGEMENT INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
-        "lect": [
-            "DR. SHUHAILI BT. TALIB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 2306",
         "sect": 2,
         "title": "MANAGEMENT INFORMATION SYSTEMS",
         "chr": 3.0,
@@ -3587,28 +3477,6 @@
         ]
     },
     {
-        "code": "INFO 2306",
-        "sect": 6,
-        "title": "MANAGEMENT INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": "ICT LR 10 LEVEL 2C",
-        "lect": [
-            "DR. SHUHAILI BT. TALIB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "INFO 3304",
         "sect": 1,
         "title": "E-COMMERCE",
@@ -3681,7 +3549,7 @@
         "chr": 3.0,
         "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
-            "MR. JAMALUDIN BIN IBRAHIM"
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
         ],
         "dayTime": [
             {
@@ -3693,6 +3561,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3304",
+        "sect": 5,
+        "title": "E-COMMERCE",
+        "chr": 3.0,
+        "venue": "ICT TL-E5-02 LEVEL 5E",
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -3767,20 +3657,20 @@
         "sect": 4,
         "title": "WEB APPLICATION DEVELOPMENT",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 3 LEVEL 3C",
+        "venue": null,
         "lect": [
-            "DR. MARINI BINTI OTHMAN"
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -4122,6 +4012,28 @@
         "venue": "ICT CITA EXEC LR LEVEL 1B",
         "lect": [
             "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 6,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": "ICT LR 11 LEVEL 2C",
+        "lect": [
+            "MR. JAMALUDIN BIN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -4671,7 +4583,7 @@
         "chr": 3.0,
         "venue": "ICT CITA EXEC LR LEVEL 1B",
         "lect": [
-            "DR. NURUL NUHA BINTI ABDUL MOLOK"
+            "DR. MARINI BINTI OTHMAN"
         ],
         "dayTime": [
             {
@@ -4693,7 +4605,7 @@
         "chr": 3.0,
         "venue": "ICT TL-C2-06 LEVEL 2C",
         "lect": [
-            "DR. NURUL NUHA BINTI ABDUL MOLOK"
+            "DR. MARINI BINTI OTHMAN"
         ],
         "dayTime": [
             {
@@ -4715,7 +4627,7 @@
         "chr": 3.0,
         "venue": "ICT TL-C2-06 LEVEL 2C",
         "lect": [
-            "DR. NURUL NUHA BINTI ABDUL MOLOK"
+            "DR. SHUHAILI BT. TALIB"
         ],
         "dayTime": [
             {
@@ -4737,7 +4649,7 @@
         "chr": 3.0,
         "venue": "ICT TL-C2-06 LEVEL 2C",
         "lect": [
-            "DR. NURUL NUHA BINTI ABDUL MOLOK"
+            "DR. SHUHAILI BT. TALIB"
         ],
         "dayTime": [
             {

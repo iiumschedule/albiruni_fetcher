@@ -2332,6 +2332,28 @@
         ]
     },
     {
+        "code": "ENGL 1310",
+        "sect": 4,
+        "title": "LITERATURE, LINGUISTICS AND ISLAM",
+        "chr": 3.0,
+        "venue": "ADM LT 2 2.111",
+        "lect": [
+            "HAMOUD YAHYA AHMED MOHSEN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ENGL 1320",
         "sect": 1,
         "title": "LINGUISTICS IN THE HUMANITIES",
@@ -2558,7 +2580,7 @@
         "chr": 3.0,
         "venue": "ADM LT 2 2.111",
         "lect": [
-            "DR. WAN NUR MADIHA BINTI RAMLAN"
+            "HAMOUD YAHYA AHMED MOHSEN"
         ],
         "dayTime": [
             {
@@ -3474,17 +3496,6 @@
                 "endTime": "09:50"
             }
         ]
-    },
-    {
-        "code": "ENGL 4994",
-        "sect": 1,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. ADLINA BINTI HJ. ARIFFIN"
-        ],
-        "dayTime": []
     },
     {
         "code": "ENGL 4994",
@@ -6405,6 +6416,72 @@
         "venue": "HSC LR 2 1.37",
         "lect": [
             "NUR AINI ALEGREA SUNER"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 3018",
+        "sect": 1,
+        "title": "PSYCHOLOGICAL ASSESSMENT",
+        "chr": 3.0,
+        "venue": "HS PSYC EXP.LAB 2",
+        "lect": [
+            "DR. MAISARAH BINTI MOHD. TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 3031",
+        "sect": 1,
+        "title": "EXPERIMENTAL AND NON-EXPERIMENTAL DESIGN AND ANALYSIS",
+        "chr": 3.0,
+        "venue": "HS PSYC EXP.LAB 2",
+        "lect": [
+            "DR. MAISARAH BINTI MOHD. TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 3031",
+        "sect": 2,
+        "title": "EXPERIMENTAL AND NON-EXPERIMENTAL DESIGN AND ANALYSIS",
+        "chr": 3.0,
+        "venue": "HS PSYC EXP.LAB 2",
+        "lect": [
+            "DR. MAISARAH BINTI MOHD. TAIB"
         ],
         "dayTime": [
             {
@@ -9918,6 +9995,171 @@
         "dayTime": []
     },
     {
+        "code": "RKQS 4995",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. RADWAN JAMAL YOUSEF ELATRASH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SAADELDIN MANSOUR GASMELSID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NASHWAN ABDO KHALED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AHMED EL-MOGTABA BANNGA AHMED ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR MOHAMMAD OSMANI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NADZRAH BINTI AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AMMAR BIN FADZIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SOFIAH BT. SAMSUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AMAR FETTANE"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. KHAIRIL HUSAINI BIN JAMIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL JANNAH BT. ZAINAN NAZRI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 12,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ADLI BIN MUSA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 13,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABU HAFIZ BIN SALLEH HUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 14,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. RAUDLOTUL FIRDAUS BT FATAH YASIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKQS 4995",
+        "sect": 15,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHAMAD HAEQAL BIN ISHAK"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "RKUD 1310",
         "sect": 1,
         "title": "ISLAMIC 'AQIDAH",
@@ -9936,28 +10178,6 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "RKUD 1310",
-        "sect": 2,
-        "title": "ISLAMIC 'AQIDAH",
-        "chr": 3.0,
-        "venue": "IRK LR 4 1.29",
-        "lect": [
-            "DR. MAZIAH BTE. MUSTAPHA"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -10254,7 +10474,7 @@
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
-            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -10694,7 +10914,7 @@
         "chr": 3.0,
         "venue": "IRK SR 2 1.12",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
         ],
         "dayTime": [
             {
@@ -10848,7 +11068,7 @@
         "chr": 3.0,
         "venue": "IRK SEMINAR ROO 1.15",
         "lect": [
-            "PROF. DR. THAMEEM USHAMA"
+            "DR. MEGAWATI BT MORIS"
         ],
         "dayTime": [
             {
@@ -11084,48 +11304,213 @@
         ]
     },
     {
-        "code": "RKUD 4350",
+        "code": "RKUD 4993",
         "sect": 1,
-        "title": "HISTORY OF ISLAMIC PHILOSOPHY",
+        "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": "IRK LR 4 1.29",
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FATMIR SHEHU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAZIAH BTE. MUSTAPHA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAJDAN BIN ALIAS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HASLINA BINTI IBRAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AMILAH BT. AWANG ABD. RAHMAN @ JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHD MUMTAZ ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AYMAN AL-AKITI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4993",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. UNGARAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZILAH BTE DIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
         "lect": [
             "DR. MEGAWATI BT MORIS"
         ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
+        "dayTime": []
     },
     {
-        "code": "RKUD 4350",
-        "sect": 2,
-        "title": "HISTORY OF ISLAMIC PHILOSOPHY",
+        "code": "RKUD 4995",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT II",
         "chr": 3.0,
-        "venue": "IRK SR 2 1.12",
+        "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. ABDUL SALAM @ ZULKIFLI B.MUHAMAD SHUKRI"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. THAMEEM USHAMA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAZIAH BTE. MUSTAPHA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MASITOH BINTI AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AMALI BIN MOHD. DAUD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. NOH BIN ABDUL JALIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SURIYA BINTI MOHD NOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4995",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
+        ],
+        "dayTime": []
     },
     {
         "code": "RKUD2020A",
@@ -12200,6 +12585,39 @@
         ]
     },
     {
+        "code": "SOCA 4398",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SH FATIMAH ALZAHRAH BINTI SYED HUSSIEN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SOCA 4398",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SOCA 4699",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "UNGS 1301",
         "sect": 1,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
@@ -12382,7 +12800,7 @@
         "chr": 3.0,
         "venue": "ADM LT 3 3.30",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD JUNAID MUGHAL"
         ],
         "dayTime": [
             {
@@ -12448,7 +12866,7 @@
         "chr": 3.0,
         "venue": "ADM LT 3 3.30",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD JUNAID MUGHAL"
         ],
         "dayTime": [
             {
@@ -13115,6 +13533,138 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 801,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 802,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 803,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 804,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 805,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 806,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -14118,7 +14668,7 @@
         "chr": 3.0,
         "venue": "IRK LR 11 3.70",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD JUNAID MUGHAL"
         ],
         "dayTime": [
             {
@@ -14250,7 +14800,7 @@
         "chr": 3.0,
         "venue": "IRK LR 12 3.71",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD JUNAID MUGHAL"
         ],
         "dayTime": [
             {
@@ -14316,7 +14866,7 @@
         "chr": 3.0,
         "venue": "IRK LR 12 3.71",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD JUNAID MUGHAL"
         ],
         "dayTime": [
             {

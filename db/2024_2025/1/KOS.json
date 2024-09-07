@@ -138,8 +138,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -874,8 +874,8 @@
             },
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -918,8 +918,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1245,8 +1245,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1572,7 +1572,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. HANUM BINTI YA'AKUB"
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
         "dayTime": []
     },
@@ -1583,7 +1583,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
+            "PROF. DR. TENGKU HAZIYAMIN BIN TENGKU ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -1605,7 +1605,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
+            "PROF. DR. TENGKU HAZIYAMIN BIN TENGKU ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -1986,8 +1986,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "14:30",
+                "endTime": "16:30"
             },
             {
                 "day": 3,
@@ -2265,7 +2265,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. NURASYIKIN BINTI HAMZAH"
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
         ],
         "dayTime": [
             {
@@ -2321,13 +2321,13 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            },
-            {
-                "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2342,11 +2342,22 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 5,
                 "startTime": "11:00",
                 "endTime": "13:00"
             }
         ]
+    },
+    {
+        "code": "BSCH 2224",
+        "sect": 1,
+        "title": "Organic Reaction Mechanisms",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR SALIYANA JUMALI"
+        ],
+        "dayTime": []
     },
     {
         "code": "BSCH 2312",
@@ -2359,9 +2370,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
             },
             {
                 "day": 2,
@@ -2377,7 +2388,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. AZAIMA BINTI RAZALI"
+            "DR. WAN HAZMAN BIN DANIAL"
         ],
         "dayTime": [
             {
@@ -2386,9 +2397,9 @@
                 "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "15:00",
-                "endTime": "17:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2403,9 +2414,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
             },
             {
                 "day": 4,
@@ -2421,7 +2432,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "PROF. DR. SHAFIDA BINTI ABD HAMID"
+            "DR. NOR SALIYANA JUMALI"
         ],
         "dayTime": [
             {
@@ -2465,8 +2476,8 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "08:30",
+                "endTime": "10:30"
             }
         ]
     },
@@ -2482,8 +2493,8 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "08:30",
+                "endTime": "10:30"
             }
         ]
     },
@@ -2509,7 +2520,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "08:00",
                 "endTime": "10:00"
             },
@@ -2536,7 +2547,7 @@
                 "endTime": "17:00"
             },
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "11:00",
                 "endTime": "13:00"
             }
@@ -2553,9 +2564,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2570,9 +2581,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
             },
             {
                 "day": 4,
@@ -2592,9 +2603,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
             },
             {
                 "day": 4,
@@ -2614,9 +2625,14 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "09:00",
+                "day": 2,
+                "startTime": "10:30",
                 "endTime": "12:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:30"
             }
         ]
     },
@@ -2631,9 +2647,14 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2648,9 +2669,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
             },
             {
                 "day": 4,
@@ -2658,6 +2679,17 @@
                 "endTime": "17:00"
             }
         ]
+    },
+    {
+        "code": "BSCH 4122",
+        "sect": 1,
+        "title": "Industrial Training",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": []
     },
     {
         "code": "BSCH 4312",
@@ -2672,7 +2704,7 @@
             {
                 "day": 2,
                 "startTime": "08:00",
-                "endTime": "10:00"
+                "endTime": "11:00"
             }
         ]
     },
@@ -2687,9 +2719,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2704,9 +2736,14 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:00",
+                "day": 1,
+                "startTime": "08:30",
                 "endTime": "10:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2722,8 +2759,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2739,13 +2776,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:30",
-                "endTime": "16:30"
+                "startTime": "14:00",
+                "endTime": "16:00"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "12:00"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2760,9 +2797,14 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "11:00",
+                "day": 3,
+                "startTime": "11:30",
                 "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2784,7 +2826,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI FATIMAH BINTI ZAKARIA"
+            "DR. SUPIAN BIN MAT SALLEH"
         ],
         "dayTime": [
             {
@@ -2838,8 +2880,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "09:00",
+                "endTime": "10:30"
             }
         ]
     },
@@ -2899,8 +2941,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "11:00",
+                "endTime": "12:30"
             },
             {
                 "day": 4,
@@ -3070,7 +3112,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SUPIAN BIN MAT SALLEH"
+            "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
         ],
         "dayTime": [
             {
@@ -3190,8 +3232,8 @@
             },
             {
                 "day": 3,
-                "startTime": "14:30",
-                "endTime": "16:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3212,8 +3254,8 @@
             },
             {
                 "day": 3,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             }
         ]
     },
@@ -3228,14 +3270,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:30"
             },
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:30"
             }
         ]
     },
@@ -3312,8 +3354,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:30"
+                "startTime": "10:00",
+                "endTime": "11:30"
             },
             {
                 "day": 3,
@@ -3697,13 +3739,35 @@
         ]
     },
     {
+        "code": "SMS 2310",
+        "sect": 1,
+        "title": "MATHEMATICAL ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            }
+        ]
+    },
+    {
         "code": "SMS 2311",
         "sect": 1,
         "title": "ADVANCED MATHEMATICAL METHODS",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
         ],
         "dayTime": [
             {
@@ -3725,7 +3789,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+            "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
         ],
         "dayTime": [
             {
@@ -4033,7 +4097,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SUPIAN BIN MAT SALLEH"
+            "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
         ],
         "dayTime": [
             {
@@ -4154,7 +4218,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI FATIMAH BINTI ZAKARIA"
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
         ],
         "dayTime": [
             {
@@ -4246,6 +4310,28 @@
             "DR. HAFIZAH BINTI BAHALUDIN"
         ],
         "dayTime": []
+    },
+    {
+        "code": "SMT 1223",
+        "sect": 1,
+        "title": "CHEMICAL OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FUAD BIN MISKON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "SMT 1233",
@@ -4441,9 +4527,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -4574,8 +4660,8 @@
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "09:30",
+                "endTime": "11:00"
             }
         ]
     },
@@ -4613,8 +4699,8 @@
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -4635,8 +4721,8 @@
             },
             {
                 "day": 4,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             }
         ]
     },
@@ -4651,14 +4737,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "23:30",
                 "endTime": "01:00"
             },
             {
-                "day": 3,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:30"
             }
         ]
     },
@@ -4718,8 +4804,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 3,
@@ -4739,7 +4825,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -4778,14 +4864,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:30"
-            },
-            {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "08:30",
+                "endTime": "11:30"
             }
         ]
     },
@@ -4844,7 +4925,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -4862,8 +4943,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:30",
-                "endTime": "16:00"
+                "startTime": "09:30",
+                "endTime": "11:00"
             },
             {
                 "day": 4,
@@ -4884,13 +4965,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:30"
+                "startTime": "23:30",
+                "endTime": "01:00"
             },
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:30"
+                "startTime": "23:30",
+                "endTime": "01:00"
             }
         ]
     },
@@ -4922,8 +5003,8 @@
             },
             {
                 "day": 4,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "09:30",
+                "endTime": "11:00"
             }
         ]
     },
@@ -4988,8 +5069,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:30"
+                "startTime": "14:30",
+                "endTime": "16:00"
             }
         ]
     }
