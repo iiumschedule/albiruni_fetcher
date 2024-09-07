@@ -85,6 +85,40 @@
         ]
     },
     {
+        "code": "DENS 2204",
+        "sect": 1,
+        "title": "DENTAL MATERIALS SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HAIDIL AKMAL BIN MAHDAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "DENS 2413",
+        "sect": 1,
+        "title": "CONSERVATIVE DENTISTRY YEAR 2",
+        "chr": 11.0,
+        "venue": null,
+        "lect": [
+            "DR. DINIE QURRATUAINI BINTI ZULKIFLY"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "DENS 2414",
         "sect": 1,
         "title": "PROSTHODONTICS YEAR 2",
@@ -204,13 +238,30 @@
         ]
     },
     {
+        "code": "DENT 3423",
+        "sect": 1,
+        "title": "PAEDIATRIC DENTISTRY YEAR 3",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUNNISA BINTI AHMAD BUSTAMI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "DENT 3424",
         "sect": 1,
         "title": "ORTHODONTICS YEAR 3",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. KUMERAN MOHAN"
+            "DR. SUHAILA BINTI HJ MUHAMMAD ALI"
         ],
         "dayTime": [
             {
@@ -278,15 +329,9 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "DR. KHAIRUNNISA BINTI AHMAD BUSTAMI",
             "DR. SYARIFAH HAIZAN BINTI SAYED KAMAR"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            },
             {
                 "day": 3,
                 "startTime": "09:00",
@@ -559,11 +604,6 @@
             "DR. RAFIQ BIN KHALID"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            },
             {
                 "day": 4,
                 "startTime": "09:00",

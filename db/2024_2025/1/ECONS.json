@@ -572,6 +572,28 @@
         ]
     },
     {
+        "code": "ACC 2112",
+        "sect": 4,
+        "title": "COST MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "ACC 2121",
         "sect": 1,
         "title": "BUSINESS FINANCE 1",
@@ -638,6 +660,28 @@
         ]
     },
     {
+        "code": "ACC 2121",
+        "sect": 4,
+        "title": "BUSINESS FINANCE 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "ACC 2171",
         "sect": 1,
         "title": "ACCOUNTING AND BUSINESS INFORMATION MANAGEMENT",
@@ -700,6 +744,28 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ACC 2171",
+        "sect": 4,
+        "title": "ACCOUNTING AND BUSINESS INFORMATION MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -1276,6 +1342,28 @@
         ]
     },
     {
+        "code": "ACC 4113",
+        "sect": 4,
+        "title": "DECISION MAKING & CONTROL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "ACC 4132",
         "sect": 1,
         "title": "AUDITING AND ASSURANCE SERVICES",
@@ -1497,28 +1585,6 @@
     },
     {
         "code": "ACC 4251",
-        "sect": 1,
-        "title": "PUBLIC SECTOR ACCOUNTING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4251",
         "sect": 2,
         "title": "PUBLIC SECTOR ACCOUNTING",
         "chr": 3.0,
@@ -1585,28 +1651,6 @@
     },
     {
         "code": "ACC 4272",
-        "sect": 1,
-        "title": "ANALYSIS AND DESIGN OF ACCOUNTING INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4272",
         "sect": 2,
         "title": "ANALYSIS AND DESIGN OF ACCOUNTING INFORMATION SYSTEMS",
         "chr": 3.0,
@@ -1646,28 +1690,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4291",
-        "sect": 2,
-        "title": "INTEGRATED CASE STUDY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
