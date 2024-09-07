@@ -1,5 +1,16 @@
 [
     {
+        "code": "BSBT 4122",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BSBT 4311",
         "sect": 1,
         "title": "BIONANOTECHNOLOGY",
@@ -17,6 +28,17 @@
         ]
     },
     {
+        "code": "BSCH 4122",
+        "sect": 1,
+        "title": "Industrial Training",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "SAP 4196",
         "sect": 1,
         "title": "INTERNSHIP",
@@ -30,6 +52,28 @@
                 "day": 5,
                 "startTime": "17:00",
                 "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2307",
+        "sect": 1,
+        "title": "ADVANCED CALCULUS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. PAH CHIN HEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -161,12 +205,12 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "23:30",
+                "startTime": "22:00",
                 "endTime": "01:00"
             },
             {
                 "day": 4,
-                "startTime": "23:30",
+                "startTime": "22:00",
                 "endTime": "01:00"
             }
         ]
@@ -183,13 +227,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "02:30",
+                "endTime": "05:30"
             },
             {
                 "day": 3,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "02:30",
+                "endTime": "05:30"
             }
         ]
     },
@@ -206,12 +250,12 @@
             {
                 "day": 1,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             },
             {
                 "day": 3,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             }
         ]
     },
@@ -237,14 +281,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "day": 2,
+                "startTime": "09:30",
+                "endTime": "12:30"
             },
             {
-                "day": 3,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "day": 4,
+                "startTime": "09:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -259,14 +303,24 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:30"
+            },
+            {
                 "day": 2,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "15:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:30"
             },
             {
                 "day": 4,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "15:00",
+                "endTime": "16:30"
             }
         ]
     },
@@ -283,12 +337,12 @@
             {
                 "day": 1,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             },
             {
                 "day": 3,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             }
         ]
     },
@@ -305,12 +359,12 @@
             {
                 "day": 2,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             },
             {
                 "day": 4,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             }
         ]
     }
