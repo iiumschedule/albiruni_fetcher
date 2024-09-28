@@ -340,6 +340,23 @@
         ]
     },
     {
+        "code": "CCCN 2561",
+        "sect": 1,
+        "title": "SILAT CEKAK I (NICHE AREA)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
         "code": "CCCN 2562",
         "sect": 1,
         "title": "SILAT CEKAK 2 (NICHE AREA)",
@@ -487,6 +504,23 @@
         "dayTime": [
             {
                 "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 3231",
+        "sect": 5,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -1887,6 +1921,23 @@
         ]
     },
     {
+        "code": "CCGN 2141",
+        "sect": 1,
+        "title": "GAMELAN COURSE 1 (NICHE AREA)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
         "code": "CCGN 2142",
         "sect": 1,
         "title": "GAMELAN COURSE 2 (NICHE AREA)",
@@ -2010,15 +2061,15 @@
         "sect": 1,
         "title": "KHAT 1 (NICHE AREA)",
         "chr": 0.5,
-        "venue": "KHAT ROOM WADI BUD",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -2027,7 +2078,7 @@
         "sect": 1,
         "title": "KHAT 2 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2044,7 +2095,7 @@
         "sect": 1,
         "title": "KHAT 3 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2061,13 +2112,13 @@
         "sect": 1,
         "title": "KHAT 4 (NICHE AREA)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KHAT ROOM WADI BUD",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -2085,8 +2136,25 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCKS 3131",
+        "sect": 2,
+        "title": "KHAT SKILLS COURSE 1",
+        "chr": 0.5,
+        "venue": "KHAT ROOM WADI BUD",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -2673,7 +2741,7 @@
         "sect": 501,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KLM SEMINAR ROOM 3 B3.1.29",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2841,6 +2909,23 @@
     {
         "code": "CCLM 2020",
         "sect": 804,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 805,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
         "venue": null,
@@ -3115,7 +3200,7 @@
         "sect": 1,
         "title": "KARATE SKILLS 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MALE SPORT CO SQUASH A",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3132,7 +3217,7 @@
         "sect": 2,
         "title": "KARATE SKILLS 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MALE SPORT CO SQUASH A",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3149,7 +3234,7 @@
         "sect": 1,
         "title": "KARATE SKILLS 2 (RULES FOR TOURNAMENT)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MALE SPORT CO SQUASH A",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3166,7 +3251,7 @@
         "sect": 2,
         "title": "KARATE SKILLS 2 (RULES FOR TOURNAMENT)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MALE SPORT CO SQUASH A",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3183,7 +3268,7 @@
         "sect": 1,
         "title": "TAE KWAN DO 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MALE SPORT COM SQUASH B",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3200,7 +3285,7 @@
         "sect": 1,
         "title": "TAE KWAN DO 2 (RULES FOR TOURNAMENT)",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MALE SPORT COM SQUASH B",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3894,6 +3979,40 @@
     },
     {
         "code": "CCSL 3611",
+        "sect": 3,
+        "title": "MALAYSIAN SIGN LANGUAGE 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 3611",
+        "sect": 4,
+        "title": "MALAYSIAN SIGN LANGUAGE 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 3611",
         "sect": 501,
         "title": "MALAYSIAN SIGN LANGUAGE 1",
         "chr": 0.5,
@@ -3929,6 +4048,40 @@
     {
         "code": "CCSL 3612",
         "sect": 2,
+        "title": "MALAYSIAN SIGN LANGUAGE 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 3612",
+        "sect": 3,
+        "title": "MALAYSIAN SIGN LANGUAGE 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 3612",
+        "sect": 4,
         "title": "MALAYSIAN SIGN LANGUAGE 2",
         "chr": 0.5,
         "venue": null,
@@ -4116,6 +4269,23 @@
     {
         "code": "CCSM 3271",
         "sect": 808,
+        "title": "EVENT MANAGEMENT SKILL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSM 3271",
+        "sect": 809,
         "title": "EVENT MANAGEMENT SKILL 1",
         "chr": 0.5,
         "venue": null,
