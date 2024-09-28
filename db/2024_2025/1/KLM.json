@@ -1100,6 +1100,28 @@
         ]
     },
     {
+        "code": "BMCO 1101",
+        "sect": 3,
+        "title": "INTRODUCTION TO INTERNATIONAL COMMUNICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 7,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "BMCO 1102",
         "sect": 1,
         "title": "INTRODUCTION TO WORLD LITERATURE",
@@ -1138,6 +1160,28 @@
             },
             {
                 "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 1102",
+        "sect": 3,
+        "title": "INTRODUCTION TO WORLD LITERATURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
                 "startTime": "11:30",
                 "endTime": "12:50"
             }
@@ -1188,6 +1232,28 @@
         ]
     },
     {
+        "code": "BMCO 1103",
+        "sect": 3,
+        "title": "INTRODUCTION TO LINGUISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AMINNUDIN BIN SAIMON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "BMCO 1104",
         "sect": 1,
         "title": "MALAY FOR ACADEMIC WRITING",
@@ -1232,6 +1298,28 @@
         ]
     },
     {
+        "code": "BMCO 1104",
+        "sect": 3,
+        "title": "MALAY FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "BMCO 1106",
         "sect": 1,
         "title": "KOMUNIKASI PENULISAN 1",
@@ -1250,28 +1338,6 @@
                 "day": 7,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 1106",
-        "sect": 2,
-        "title": "KOMUNIKASI PENULISAN 1",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NORA'AZIAN BINTI NAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -1294,28 +1360,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2101",
-        "sect": 1,
-        "title": "KOMUNIKASI ANTARA BUDAYA",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. ARINA BINTI JOHARI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 7,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -1519,50 +1563,6 @@
     },
     {
         "code": "BMCO 2105",
-        "sect": 1,
-        "title": "MORFOLOGI DAN SINTAKSIS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NURUL JAMILAH BT. ROSLY"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2105",
-        "sect": 2,
-        "title": "MORFOLOGI DAN SINTAKSIS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NORA'AZIAN BINTI NAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 7,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2105",
         "sect": 3,
         "title": "MORFOLOGI DAN SINTAKSIS",
         "chr": 3.0,
@@ -1716,50 +1716,6 @@
         ]
     },
     {
-        "code": "BMCO 2999",
-        "sect": 2,
-        "title": "KAEDAH PENYELIDIKAN",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AMINNUDIN BIN SAIMON"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 7,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "BMCO 2999",
-        "sect": 3,
-        "title": "KAEDAH PENYELIDIKAN",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AMINNUDIN BIN SAIMON"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "BMCO 3101",
         "sect": 1,
         "title": "SEMANTIK DAN LEKSIKOLOGI",
@@ -1800,6 +1756,28 @@
                 "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 3101",
+        "sect": 3,
+        "title": "SEMANTIK DAN LEKSIKOLOGI",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL JAMILAH BT. ROSLY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -1854,7 +1832,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. AZEAN IDRUWANI BINTI IDRUS"
+            "DR. AMINNUDIN BIN SAIMON"
         ],
         "dayTime": [
             {
@@ -1866,6 +1844,28 @@
                 "day": 7,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 3103",
+        "sect": 3,
+        "title": "KOMUNIKASI PENULISAN 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORA'AZIAN BINTI NAHAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -1991,6 +1991,28 @@
         ]
     },
     {
+        "code": "BMCO 4101",
+        "sect": 3,
+        "title": "ANALISIS DATA DAN INTERPRETASI",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "BMCO 4102",
         "sect": 1,
         "title": "BAHASA DAN MASYARAKAT",
@@ -2057,28 +2079,6 @@
         ]
     },
     {
-        "code": "BMCO 4103",
-        "sect": 2,
-        "title": "ETIKA SOSIAL, PROTOKOL DAN KOMUNIKASI",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "BMCO 4104",
         "sect": 1,
         "title": "KOMUNIKASI KORPORAT",
@@ -2119,6 +2119,28 @@
                 "day": 7,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4104",
+        "sect": 3,
+        "title": "KOMUNIKASI KORPORAT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORA'AZIAN BINTI NAHAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -2167,6 +2189,50 @@
         ]
     },
     {
+        "code": "BMCO 4105",
+        "sect": 3,
+        "title": "KOMUNIKASI PENGANTARAAN KOMPUTER",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4105",
+        "sect": 4,
+        "title": "KOMUNIKASI PENGANTARAAN KOMPUTER",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZEAN IDRUWANI BINTI IDRUS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 7,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "BMCO 4106",
         "sect": 1,
         "title": "TERJEMAHAN",
@@ -2196,6 +2262,28 @@
         "venue": null,
         "lect": [
             "ISMAIL BIN JAAFAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 4106",
+        "sect": 3,
+        "title": "TERJEMAHAN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ADRIANA SANTA ANAK TINGGOM"
         ],
         "dayTime": [
             {
@@ -4306,6 +4394,50 @@
         ]
     },
     {
+        "code": "MAND 2303",
+        "sect": 3,
+        "title": "INTRODUCTION TO CHINESE CULTURE AND SOCIETY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MAND 2303",
+        "sect": 4,
+        "title": "INTRODUCTION TO CHINESE CULTURE AND SOCIETY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "MAND 2308",
         "sect": 1,
         "title": "MANDARIN AUDIO-VISUAL COMPREHENSION",
@@ -4346,6 +4478,28 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "MAND 3303",
+        "sect": 2,
+        "title": "MANDARIN FOR WORKPLACE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 7,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -4438,6 +4592,50 @@
         ]
     },
     {
+        "code": "TMGT 1311",
+        "sect": 5,
+        "title": "INTRODUCTION TO TOURISM AND HOSPITALITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 7,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 1311",
+        "sect": 6,
+        "title": "INTRODUCTION TO TOURISM AND HOSPITALITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "TMGT 1312",
         "sect": 1,
         "title": "INTRODUCTION TO TOURISM PLANNING",
@@ -4482,6 +4680,28 @@
         ]
     },
     {
+        "code": "TMGT 1312",
+        "sect": 3,
+        "title": "INTRODUCTION TO TOURISM PLANNING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "TMGT 1313",
         "sect": 1,
         "title": "ISLAMIC PERSPECTIVE IN TOURISM",
@@ -4526,13 +4746,13 @@
         ]
     },
     {
-        "code": "TMGT 1321",
-        "sect": 1,
-        "title": "CULTURAL AND HERITAGE TOURISM",
+        "code": "TMGT 1313",
+        "sect": 3,
+        "title": "ISLAMIC PERSPECTIVE IN TOURISM",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "MUHAMMAD ALI A. RAHMAN"
+            "DR. SITI SALWA BTE MD SAWARI"
         ],
         "dayTime": [
             {
@@ -4548,6 +4768,45 @@
         ]
     },
     {
+        "code": "TMGT 1313",
+        "sect": 4,
+        "title": "ISLAMIC PERSPECTIVE IN TOURISM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 1321",
+        "sect": 1,
+        "title": "CULTURAL AND HERITAGE TOURISM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD ALI A. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "TMGT 1322",
         "sect": 1,
         "title": "FUNDAMENTAL OF ECONOMICS",
@@ -4558,14 +4817,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4602,9 +4861,14 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
                 "day": 7,
                 "startTime": "08:30",
-                "endTime": "11:20"
+                "endTime": "09:50"
             }
         ]
     },
@@ -4619,9 +4883,14 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
                 "day": 7,
-                "startTime": "11:30",
-                "endTime": "14:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4637,13 +4906,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -4659,13 +4928,35 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 2312",
+        "sect": 3,
+        "title": "RESEARCH METHODOLOGY IN TOURISM AND HOSPITALITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SALWA BTE MD SAWARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4714,13 +5005,35 @@
         ]
     },
     {
+        "code": "TMGT 2313",
+        "sect": 3,
+        "title": "HUMAN RESOURCE MANAGEMENT IN SERVICE ORGANISATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "CIK NUR FARHANI BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "TMGT 2314",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD TON BIN AB HALIM"
         ],
         "dayTime": [
             {
@@ -4742,7 +5055,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD TON BIN AB HALIM"
         ],
         "dayTime": [
             {
@@ -4754,6 +5067,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 2314",
+        "sect": 3,
+        "title": "FINANCIAL ACCOUNTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHD TON BIN AB HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4830,7 +5165,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "CIK NUR FARHANI BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -4901,13 +5236,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4940,7 +5275,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "CIK NUR FARHANI BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -4966,14 +5301,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 7,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4989,13 +5324,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -5010,14 +5345,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 7,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -5033,13 +5368,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 7,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -5054,14 +5389,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 7,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -5072,7 +5407,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI SALWA BTE MD SAWARI"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -5177,18 +5512,40 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "CIK NUR FARHANI BINTI ABDULLAH"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 7,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 4311",
+        "sect": 3,
+        "title": "PROFESSIONAL GROOMING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "CIK NUR FARHANI BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -5221,7 +5578,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "CIK NUR FARHANI BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -5233,6 +5590,28 @@
                 "day": 7,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 4313",
+        "sect": 3,
+        "title": "SUSTAINABLE TOURISM DEVELOPMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 7,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },

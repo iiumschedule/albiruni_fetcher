@@ -11,8 +11,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "10:20"
+                "startTime": "17:30",
+                "endTime": "19:20"
             }
         ]
     },
@@ -23,7 +23,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "SHAHAZWAN BIN MAT YUSOFF"
+            "ASSOC. PROF. DR. ABDUL SHAKOUR DUNCAN PREECE"
         ],
         "dayTime": [
             {
@@ -40,13 +40,13 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "SHAHAZWAN BIN MAT YUSOFF"
+            "MOHD FAIZUL AZLI BIN ABDUL MUDZAFAR"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "10:20"
+                "startTime": "17:30",
+                "endTime": "19:20"
             }
         ]
     },
@@ -57,7 +57,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "MOHD FAIZUL AZLI BIN ABDUL MUDZAFAR"
+            "ASSOC. PROF. DR. ABDUL SHAKOUR DUNCAN PREECE"
         ],
         "dayTime": [
             {
@@ -138,7 +138,7 @@
         "sect": 830,
         "title": "THE METHODOLOGY OF TEACHING MATHEMATICS IN SECONDARY SCHOOL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
             "DR. ZULMARYAN BINTI EMBONG"
         ],
@@ -195,7 +195,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. NIK AHMAD HISHAM B. ISMAIL"
         ],
         "dayTime": [
             {
@@ -211,19 +211,63 @@
         ]
     },
     {
+        "code": "EDEP 1103",
+        "sect": 1,
+        "title": "EDUCATIONAL PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI RAFIAH ABD. HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "EDEP 1103",
+        "sect": 2,
+        "title": "EDUCATIONAL PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOORLILA BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "EDEP 1610",
         "sect": 1,
         "title": "UNDERSTANDING STUDENTS WITH SPECIAL EDUCATIONAL NEEDS",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AISHAH HANIM BINTI ABD KARIM"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "17:20"
+                "startTime": "11:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -232,9 +276,9 @@
         "sect": 2,
         "title": "UNDERSTANDING STUDENTS WITH SPECIAL EDUCATIONAL NEEDS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 18 B 2.7",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AISHAH HANIM BINTI ABD KARIM"
         ],
         "dayTime": [
             {
@@ -251,13 +295,13 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AISHAH HANIM BINTI ABD KARIM"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "17:20"
+                "startTime": "11:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -268,7 +312,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WIRAWANI BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -285,7 +329,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WIRAWANI BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -302,7 +346,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WIRAWANI BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -336,7 +380,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
@@ -358,7 +402,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
         "dayTime": [
             {
@@ -380,7 +424,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
         "dayTime": [
             {
@@ -402,7 +446,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
         "dayTime": [
             {
@@ -424,7 +468,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
         "dayTime": [
             {
@@ -446,7 +490,24 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAZATUL AKMAR BT MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "EDFM 4365",
+        "sect": 2,
+        "title": "METHODS OF TEACHING MORAL EDUCATION I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SUHAILAH BINTI HUSSIEN"
         ],
         "dayTime": [
             {
@@ -463,7 +524,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -474,13 +535,123 @@
         ]
     },
     {
+        "code": "EDFS 1001",
+        "sect": 1,
+        "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AZAM BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "EDFS 1001",
+        "sect": 2,
+        "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "EDFS 1001",
+        "sect": 3,
+        "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "EDFS 1001",
+        "sect": 4,
+        "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "EDFS 1001",
+        "sect": 5,
+        "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "EDFS 2203",
         "sect": 1,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
@@ -497,7 +668,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
@@ -514,7 +685,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
@@ -531,7 +702,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. ISMAIL HUSSEIN AMZAT"
         ],
         "dayTime": [
             {
@@ -548,7 +719,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. JAFAR PARAMBOOR"
         ],
         "dayTime": [
             {
@@ -565,7 +736,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
         "dayTime": [
             {
@@ -582,7 +753,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. JAFAR PARAMBOOR"
         ],
         "dayTime": [
             {
@@ -599,7 +770,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
         "dayTime": [
             {
@@ -616,7 +787,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
         "dayTime": [
             {
@@ -638,7 +809,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORWATI BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -660,7 +831,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
         "dayTime": [
             {
@@ -682,7 +853,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
         "dayTime": [
             {
@@ -704,7 +875,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. PUTERI AZLIAN MEGAT RAMLI"
         ],
         "dayTime": [
             {
@@ -726,7 +897,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOORLILA BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -748,7 +919,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
         "dayTime": [
             {
@@ -816,7 +987,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURSYAHIDAH BINTI KHALID"
         ],
         "dayTime": [
             {
@@ -860,7 +1031,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI KHOLIJAH BINTI KASSIM"
         ],
         "dayTime": [
             {
@@ -877,7 +1048,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
         "dayTime": [
             {
@@ -911,7 +1082,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
         "dayTime": [
             {
@@ -950,7 +1121,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MASTURA BTE BADZIS"
         ],
         "dayTime": [
             {
@@ -967,7 +1138,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
         "dayTime": [
             {
@@ -978,13 +1149,220 @@
         ]
     },
     {
+        "code": "EDGC 3402",
+        "sect": 2,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SSEKAMANYA SIRAJE ABDALLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3402",
+        "sect": 3,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORWATI BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3402",
+        "sect": 4,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI KHOLIJAH BINTI KASSIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3402",
+        "sect": 5,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3402",
+        "sect": 6,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. PUTERI AZLIAN MEGAT RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3402",
+        "sect": 7,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURSYAHIDAH BINTI KHALID"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3402",
+        "sect": 8,
+        "title": "ACTION RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 1,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 2,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SSEKAMANYA SIRAJE ABDALLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 3,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORWATI BINTI MANSOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 4,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURSYAHIDAH BINTI KHALID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 5,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. PUTERI AZLIAN MEGAT RAMLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 6,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI KHOLIJAH BINTI KASSIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 7,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 3903",
+        "sect": 8,
+        "title": "COUNSELING PRACTICUM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "EDGC 4008",
         "sect": 1,
         "title": "CROSS-CULTURAL COUNSELING",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SSEKAMANYA SIRAJE ABDALLAH"
         ],
         "dayTime": [
             {
@@ -1006,7 +1384,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORWATI BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -1028,7 +1406,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURSYAHIDAH BINTI KHALID"
         ],
         "dayTime": [
             {
@@ -1067,7 +1445,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
         "dayTime": []
     },
@@ -1078,7 +1456,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SSEKAMANYA SIRAJE ABDALLAH"
         ],
         "dayTime": []
     },
@@ -1089,7 +1467,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORWATI BINTI MANSOR"
         ],
         "dayTime": []
     },
@@ -1100,7 +1478,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI KHOLIJAH BINTI KASSIM"
         ],
         "dayTime": []
     },
@@ -1111,7 +1489,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
         "dayTime": []
     },
@@ -1122,7 +1500,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. PUTERI AZLIAN MEGAT RAMLI"
         ],
         "dayTime": []
     },
@@ -1133,7 +1511,18 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURSYAHIDAH BINTI KHALID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 4904",
+        "sect": 8,
+        "title": "COUNSELING INTERNSHIP",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
         "dayTime": []
     },
@@ -1144,7 +1533,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1165,9 +1554,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -1182,14 +1571,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -1217,7 +1606,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ZAENAL MUTAQIN"
         ],
         "dayTime": [
             {
@@ -1239,7 +1628,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ZAENAL MUTAQIN"
         ],
         "dayTime": [
             {
@@ -1305,7 +1694,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. JAFAR PARAMBOOR"
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1322,7 +1711,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. JAFAR PARAMBOOR"
+            "ASSOC. PROF. DR. ABDUL SHAKOUR DUNCAN PREECE"
         ],
         "dayTime": [
             {
@@ -1383,7 +1772,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ABDULLAH ZAWAWI BIN MOHD ZAWAWI"
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1400,7 +1789,24 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "EDIE 2701",
+        "sect": 2,
+        "title": "ETHICS IN EDUCATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. DAWOOD ABDULMALEK YAHYA AL-HIDABI"
         ],
         "dayTime": [
             {
@@ -1417,7 +1823,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
         ],
         "dayTime": [
             {
@@ -1511,14 +1917,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -1529,7 +1935,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. JAFAR PARAMBOOR"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1551,7 +1957,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. JAFAR PARAMBOOR"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1600,13 +2006,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -1617,7 +2023,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1643,14 +2049,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1662,6 +2068,23 @@
         "venue": null,
         "lect": [
             "PROF. DR. TUNKU BADARIAH BINTI TUNKU AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "EDIT 1301",
+        "sect": 2,
+        "title": "INFORMATION TECHNOLOGY IN TEACHING AND LEARNING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AIZAT BIN SHAMSUDDIN"
         ],
         "dayTime": [
             {
@@ -1776,17 +2199,11 @@
         "sect": 1,
         "title": "INSTRUCTIONAL DESIGN AND MULTIMEDIA",
         "chr": 3.0,
-        "venue": "EDU LAB 4 3.88",
+        "venue": null,
         "lect": [
-            "DR. AIZAT BIN SHAMSUDDIN"
+            "TO BE DETERMINED"
         ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "EDIT 2604",
@@ -1846,7 +2263,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NURAZZELENA BINTI ABDULLAH"
+            "ABD WAHAB BIN ZAKARIA"
         ],
         "dayTime": [
             {
@@ -1978,7 +2395,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. KHADIJAH KHALILAH BINTI ABDUL RASHID"
+            "DR. ZAKARIA BIN OMAR"
         ],
         "dayTime": [
             {
@@ -2022,7 +2439,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. KHADIJAH KHALILAH BINTI ABDUL RASHID"
+            "DR. SHAMSUDIN B. MOHD NOOR"
         ],
         "dayTime": [
             {
@@ -2078,7 +2495,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SUERAYA CHE HARON"
+            "DR. RAHMAT BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2210,7 +2627,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ERFAN ABDELDAIM MOHAMED AHMED ABDALLA"
         ],
         "dayTime": [
             {
@@ -2232,7 +2649,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. KHADIJAH KHALILAH BINTI ABDUL RASHID"
         ],
         "dayTime": [
             {
@@ -2271,11 +2688,11 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "08:30",
                 "endTime": "11:20"
             }
@@ -2332,7 +2749,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ABD WAHAB BIN ZAKARIA"
         ],
         "dayTime": [
             {
@@ -2354,7 +2771,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
+            "DR. NURAZZELENA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2481,7 +2898,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. NOOR LIDE BTE. ABU KASSIM"
+            "DR. MOHAIDA BINTI MOHIN"
         ],
         "dayTime": [
             {
@@ -2503,7 +2920,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. HAZIQAH ZULAIKHA BINTI ARIS"
+            "DR. MOHAMMAD AZANNEE SAAD"
         ],
         "dayTime": [
             {
@@ -2635,7 +3052,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. ISMAIL B. SHEIKH AHMAD"
+            "PROF. DR. RATNAWATI BT MOHD. ASRAF"
         ],
         "dayTime": [
             {
@@ -2718,7 +3135,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. RATNAWATI BT MOHD. ASRAF"
+            "PROF. DR. ISMAIL B. SHEIKH AHMAD"
         ],
         "dayTime": [
             {

@@ -829,7 +829,7 @@
         "sect": 1,
         "title": "MATHEMATICS FOR COMPUTING I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
             "DR. TAKUMI SASE"
         ],
@@ -1379,7 +1379,7 @@
         "sect": 9,
         "title": "COMPUTER NETWORKING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1401,7 +1401,7 @@
         "sect": 10,
         "title": "COMPUTER NETWORKING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TL-D4-04 LEVEL 4D",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1423,7 +1423,7 @@
         "sect": 1,
         "title": "DIGITAL SYSTEMS FUNDAMENTAL",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN"
         ],
@@ -1445,7 +1445,7 @@
         "sect": 2,
         "title": "DIGITAL SYSTEMS FUNDAMENTAL",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN"
         ],
@@ -1645,7 +1645,7 @@
         "chr": 3.0,
         "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
-            "DR. NUR-ADIB MASPO"
+            "DR. ASMARANI BINTI AHMAD PUZI"
         ],
         "dayTime": [
             {
@@ -1667,7 +1667,7 @@
         "chr": 3.0,
         "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
-            "DR. NUR-ADIB MASPO"
+            "DR. ASMARANI BINTI AHMAD PUZI"
         ],
         "dayTime": [
             {
@@ -2061,7 +2061,7 @@
         "sect": 2,
         "title": "MATHEMATICS FOR COMPUTING III",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "DR. AKEEM OLOWOLAYEMO"
         ],
@@ -2105,7 +2105,7 @@
         "sect": 4,
         "title": "MATHEMATICS FOR COMPUTING III",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "DR. AKEEM OLOWOLAYEMO"
         ],
@@ -2303,7 +2303,7 @@
         "sect": 1,
         "title": "SOFTWARE DESIGN AND ARCHITECTURE",
         "chr": 3.0,
-        "venue": "ICT LR 3 LEVEL 1C",
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
             "DR. NOOR AZURA BINTI ZAKARIA"
         ],
@@ -2325,7 +2325,7 @@
         "sect": 1,
         "title": "REQUIREMENTS ENGINEERING",
         "chr": 3.0,
-        "venue": "ICT LR 3 LEVEL 1C",
+        "venue": "ICT CITA EXEC LR LEVEL 1B",
         "lect": [
             "DR. AZLIN BINTI NORDIN"
         ],
@@ -2677,7 +2677,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT I",
         "chr": 4.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "TS. DR. DINI OKTARINA DWI HANDAYANI"
         ],
@@ -2694,7 +2694,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT II",
         "chr": 4.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "TS. DR. DINI OKTARINA DWI HANDAYANI"
         ],
@@ -3503,7 +3503,7 @@
         "sect": 2,
         "title": "E-COMMERCE",
         "chr": 3.0,
-        "venue": "ICT TL-C2-06 LEVEL 2C",
+        "venue": "ICT LR 19 LEVEL 4C",
         "lect": [
             "DR. NOOR AZIZAH BT. MOHAMADALI"
         ],
@@ -3657,7 +3657,7 @@
         "sect": 4,
         "title": "WEB APPLICATION DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
             "DR. NOR AZURA BINTI KAMARULZAMAN"
         ],
@@ -4537,7 +4537,7 @@
         "sect": 1,
         "title": "INTEGRATED BUSINESS PROCESS AND ERP SYSTEMS",
         "chr": 3.0,
-        "venue": "ICT TL-C2-06 LEVEL 2C",
+        "venue": "ICT LR 11 LEVEL 2C",
         "lect": [
             "PROF. DR. ABD. RAHMAN BIN AHLAN"
         ],
@@ -4577,6 +4577,17 @@
         ]
     },
     {
+        "code": "INFO 4336",
+        "sect": 1,
+        "title": "INFORMATION RETRIEVAL TECHNOLOGIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ASADULLAH SHAH"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "INFO 4340",
         "sect": 1,
         "title": "MANAGEMENT OF INFORMATION SECURITY",
@@ -4603,7 +4614,7 @@
         "sect": 2,
         "title": "MANAGEMENT OF INFORMATION SECURITY",
         "chr": 3.0,
-        "venue": "ICT TL-C2-06 LEVEL 2C",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "DR. MARINI BINTI OTHMAN"
         ],
@@ -4625,7 +4636,7 @@
         "sect": 1,
         "title": "RISK MANAGEMENT",
         "chr": 3.0,
-        "venue": "ICT TL-C2-06 LEVEL 2C",
+        "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
             "DR. SHUHAILI BT. TALIB"
         ],
@@ -4647,7 +4658,7 @@
         "sect": 2,
         "title": "RISK MANAGEMENT",
         "chr": 3.0,
-        "venue": "ICT TL-C2-06 LEVEL 2C",
+        "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
             "DR. SHUHAILI BT. TALIB"
         ],

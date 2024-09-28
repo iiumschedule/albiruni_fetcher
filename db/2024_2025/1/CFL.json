@@ -308,9 +308,9 @@
         ]
     },
     {
-        "code": "LEED 0002",
+        "code": "LEED 1011",
         "sect": 1,
-        "title": "ENGLISH LANGUAGE II",
+        "title": "ENGLISH IN FOCUS",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -319,18 +319,38 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "01:00"
             },
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "16:30"
+                "endTime": "18:00"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "01:00"
             },
             {
                 "day": 4,
@@ -339,15 +359,15 @@
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "startTime": "08:00",
+                "endTime": "12:00"
             }
         ]
     },
     {
-        "code": "LEED 0002",
-        "sect": 2,
-        "title": "ENGLISH LANGUAGE II",
+        "code": "LEED 1012",
+        "sect": 1,
+        "title": "ENGLISH ON TRACK",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -360,68 +380,51 @@
                 "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0003",
-        "sect": 1,
-        "title": "ENGLISH LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "16:30"
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
     {
-        "code": "LEED 0003",
+        "code": "LEED 1012",
         "sect": 2,
-        "title": "ENGLISH LANGUAGE III",
+        "title": "ENGLISH ON TRACK",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -434,105 +437,51 @@
                 "endTime": "17:00"
             },
             {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            },
+            {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
     {
-        "code": "LEED 0003",
+        "code": "LEED 1012",
         "sect": 3,
-        "title": "ENGLISH LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0004",
-        "sect": 1,
-        "title": "ENGLISH LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0004",
-        "sect": 2,
-        "title": "ENGLISH LANGUAGE IV",
+        "title": "ENGLISH ON TRACK",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -545,68 +494,51 @@
                 "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0004",
-        "sect": 3,
-        "title": "ENGLISH LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "16:30"
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
     {
-        "code": "LEED 0004",
+        "code": "LEED 1012",
         "sect": 4,
-        "title": "ENGLISH LANGUAGE IV",
+        "title": "ENGLISH ON TRACK",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -619,179 +551,51 @@
                 "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 1,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 2,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 3,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 4,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
     {
-        "code": "LEED 0005",
+        "code": "LEED 1012",
         "sect": 5,
-        "title": "ENGLISH LANGUAGE V",
+        "title": "ENGLISH ON TRACK",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -800,35 +604,92 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "16:30"
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
     {
-        "code": "LEED 0005",
-        "sect": 6,
-        "title": "ENGLISH LANGUAGE V",
+        "code": "LEED 1013",
+        "sect": 1,
+        "title": "ENGLISH ON THE GO",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1013",
+        "sect": 2,
+        "title": "ENGLISH ON THE GO",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -842,30 +703,178 @@
             },
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "20:00",
+                "endTime": "01:00"
             },
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "17:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "20:00",
+                "endTime": "01:00"
             },
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "08:00",
+                "endTime": "12:00"
             }
         ]
     },
     {
-        "code": "LEED 0005",
+        "code": "LEED 1013",
+        "sect": 3,
+        "title": "ENGLISH ON THE GO",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1013",
+        "sect": 4,
+        "title": "ENGLISH ON THE GO",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1013",
+        "sect": 5,
+        "title": "ENGLISH ON THE GO",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1013",
+        "sect": 6,
+        "title": "ENGLISH ON THE GO",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1013",
         "sect": 7,
-        "title": "ENGLISH LANGUAGE V",
+        "title": "ENGLISH ON THE GO",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -874,146 +883,72 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "20:00",
+                "endTime": "01:00"
             },
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 8,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
+                "startTime": "20:00",
+                "endTime": "01:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 9,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0005",
-        "sect": 10,
-        "title": "ENGLISH LANGUAGE V",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "08:00",
+                "endTime": "12:00"
             }
         ]
     },
     {
-        "code": "LEED 0006",
+        "code": "LEED 1013",
+        "sect": 501,
+        "title": "ENGLISH ON THE GO",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
         "sect": 1,
-        "title": "ENGLISH LANGUAGE VI",
+        "title": "ENGLISH IN ACTION",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -1022,8 +957,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:30"
             },
             {
                 "day": 2,
@@ -1032,25 +967,20 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:30"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "endTime": "16:30"
             }
         ]
     },
     {
-        "code": "LEED 0006",
+        "code": "LEED 1014",
         "sect": 2,
-        "title": "ENGLISH LANGUAGE VI",
+        "title": "ENGLISH IN ACTION",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -1060,34 +990,29 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "16:30"
             },
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "22:30",
+                "endTime": "01:00"
             },
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "16:30"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "22:30",
+                "endTime": "01:00"
             }
         ]
     },
     {
-        "code": "LEED 0006",
+        "code": "LEED 1014",
         "sect": 3,
-        "title": "ENGLISH LANGUAGE VI",
+        "title": "ENGLISH IN ACTION",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -1096,8 +1021,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:30"
             },
             {
                 "day": 2,
@@ -1106,25 +1031,20 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:30"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "endTime": "16:30"
             }
         ]
     },
     {
-        "code": "LEED 0006",
+        "code": "LEED 1014",
         "sect": 4,
-        "title": "ENGLISH LANGUAGE VI",
+        "title": "ENGLISH IN ACTION",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -1134,34 +1054,29 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "16:30"
             },
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "22:30",
+                "endTime": "01:00"
             },
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "16:30"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "22:30",
+                "endTime": "01:00"
             }
         ]
     },
     {
-        "code": "LEED 0006",
+        "code": "LEED 1014",
         "sect": 5,
-        "title": "ENGLISH LANGUAGE VI",
+        "title": "ENGLISH IN ACTION",
         "chr": 0.0,
         "venue": null,
         "lect": [
@@ -1170,82 +1085,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0006",
-        "sect": 6,
-        "title": "ENGLISH LANGUAGE VI",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:30",
+                "startTime": "08:00",
                 "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 0007",
-        "sect": 1,
-        "title": "ENGLISH LANGUAGE REMEDIAL COURSE",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "13:00"
             },
             {
                 "day": 2,
@@ -1254,18 +1095,653 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:30"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "18:00"
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 6,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
             },
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 7,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 8,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 9,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 10,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 11,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 12,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 13,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 14,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 15,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 16,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 17,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 501,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 502,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 503,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 504,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 801,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 802,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 803,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 804,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "22:30",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "22:30",
+                "endTime": "01:00"
             }
         ]
     },
@@ -2550,9 +3026,9 @@
         "sect": 801,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
         ],
         "dayTime": [
             {
@@ -2567,9 +3043,9 @@
         "sect": 802,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 3, KOM L2",
         "lect": [
-            "TO BE DETERMINED"
+            "TEH JUNE LI"
         ],
         "dayTime": [
             {
@@ -2584,9 +3060,9 @@
         "sect": 803,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AFIFAH BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -2601,9 +3077,9 @@
         "sect": 804,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1 KON L1",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR ELEENDA BINTI SHAHABUDIN"
         ],
         "dayTime": [
             {
@@ -2618,9 +3094,9 @@
         "sect": 805,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "NORHAYATI BINTI MOHD RASIP"
         ],
         "dayTime": [
             {
@@ -2635,9 +3111,9 @@
         "sect": 806,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
         ],
         "dayTime": [
             {
@@ -2652,9 +3128,9 @@
         "sect": 807,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 3, KOM L2",
         "lect": [
-            "TO BE DETERMINED"
+            "TEH JUNE LI"
         ],
         "dayTime": [
             {
@@ -2669,9 +3145,9 @@
         "sect": 808,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AFIFAH BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -2720,9 +3196,9 @@
         "sect": 811,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
         ],
         "dayTime": [
             {
@@ -2737,9 +3213,9 @@
         "sect": 812,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 3, KOM L2",
         "lect": [
-            "TO BE DETERMINED"
+            "TEH JUNE LI"
         ],
         "dayTime": [
             {
@@ -2754,9 +3230,9 @@
         "sect": 813,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AFIFAH BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -2771,9 +3247,9 @@
         "sect": 814,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1 KON L1",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR ELEENDA BINTI SHAHABUDIN"
         ],
         "dayTime": [
             {
@@ -2788,9 +3264,9 @@
         "sect": 815,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "NORHAYATI BINTI MOHD RASIP"
         ],
         "dayTime": [
             {
@@ -2805,9 +3281,9 @@
         "sect": 816,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-02",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
         ],
         "dayTime": [
             {
@@ -2822,9 +3298,9 @@
         "sect": 817,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURE HALL 3, KOM L2",
         "lect": [
-            "TO BE DETERMINED"
+            "TEH JUNE LI"
         ],
         "dayTime": [
             {
@@ -2839,9 +3315,9 @@
         "sect": 818,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AFIFAH BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -2856,9 +3332,9 @@
         "sect": 819,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1 KON L1",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR ELEENDA BINTI SHAHABUDIN"
         ],
         "dayTime": [
             {
@@ -2873,9 +3349,9 @@
         "sect": 820,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "NORHAYATI BINTI MOHD RASIP"
         ],
         "dayTime": [
             {
@@ -2890,9 +3366,9 @@
         "sect": 821,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
         ],
         "dayTime": [
             {
@@ -2907,9 +3383,9 @@
         "sect": 822,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1, KOM GF",
         "lect": [
-            "TO BE DETERMINED"
+            "TEH JUNE LI"
         ],
         "dayTime": [
             {
@@ -2924,9 +3400,9 @@
         "sect": 823,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AFIFAH BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -2941,9 +3417,9 @@
         "sect": 824,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1 KON L1",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR ELEENDA BINTI SHAHABUDIN"
         ],
         "dayTime": [
             {
@@ -2958,9 +3434,9 @@
         "sect": 825,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AUDITORIUM KOP LEVEL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "NORHAYATI BINTI MOHD RASIP"
         ],
         "dayTime": [
             {
@@ -2975,9 +3451,9 @@
         "sect": 870,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-26",
         "lect": [
-            "TO BE DETERMINED"
+            "NORHAYATI BINTI MOHD RASIP"
         ],
         "dayTime": [
             {
@@ -2992,9 +3468,9 @@
         "sect": 871,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "LECTURER HALL 1 KON L1",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR ELEENDA BINTI SHAHABUDIN"
         ],
         "dayTime": [
             {
@@ -4857,7 +5333,7 @@
         "sect": 801,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EXAM HALL 2, KOP L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4879,7 +5355,7 @@
         "sect": 802,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "LECTURE HALL 2 KOP GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4901,29 +5377,7 @@
         "sect": 810,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            }
-        ]
-    },
-    {
-        "code": "LMBD 2204",
-        "sect": 811,
-        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
-        "chr": 2.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5033,7 +5487,7 @@
         "sect": 830,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-15",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5055,7 +5509,7 @@
         "sect": 831,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-33",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5077,7 +5531,7 @@
         "sect": 832,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-01",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5099,7 +5553,7 @@
         "sect": 833,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-02",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5113,734 +5567,6 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:00"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0001",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE I",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0001",
-        "sect": 2,
-        "title": "QURANIC LANGUAGE I",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0002",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE II",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0002",
-        "sect": 2,
-        "title": "QURANIC LANGUAGE II",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0002",
-        "sect": 3,
-        "title": "QURANIC LANGUAGE II",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0002",
-        "sect": 4,
-        "title": "QURANIC LANGUAGE II",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0003",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0003",
-        "sect": 2,
-        "title": "QURANIC LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0003",
-        "sect": 3,
-        "title": "QURANIC LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0003",
-        "sect": 4,
-        "title": "QURANIC LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0003",
-        "sect": 5,
-        "title": "QURANIC LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0003",
-        "sect": 6,
-        "title": "QURANIC LANGUAGE III",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0004",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0004",
-        "sect": 2,
-        "title": "QURANIC LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0004",
-        "sect": 3,
-        "title": "QURANIC LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0004",
-        "sect": 4,
-        "title": "QURANIC LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0004",
-        "sect": 5,
-        "title": "QURANIC LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0004",
-        "sect": 6,
-        "title": "QURANIC LANGUAGE IV",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 0005",
-        "sect": 1,
-        "title": "QURANIC LANGUAGE REMEDIAL COURSE",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:50"
             }
         ]
     },
@@ -6417,6 +6143,1140 @@
         ]
     },
     {
+        "code": "LQAD 1003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": "SEMINAR ROOM 13 DPRS KAHS L2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 820,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 821,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "LQAD 1011",
+        "sect": 1,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-SHAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1011",
+        "sect": 2,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-SHAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1012",
+        "sect": 1,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1012",
+        "sect": 2,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1012",
+        "sect": 3,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1012",
+        "sect": 4,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 1,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 2,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 3,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 4,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 5,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 6,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 7,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 1,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 2,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 3,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 4,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 5,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 6,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1014",
+        "sect": 7,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAMAYYIZAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "LQAD 1103",
         "sect": 1,
         "title": "ARABIC FOR COMMUNICATION  I",
@@ -6459,6 +7319,17 @@
                 "endTime": "15:20"
             }
         ]
+    },
+    {
+        "code": "LQAD 1103",
+        "sect": 820,
+        "title": "ARABIC FOR COMMUNICATION  I",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "LQAD 2003",
@@ -6945,6 +7816,105 @@
         ]
     },
     {
+        "code": "LQAD 2003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "SEMINAR ROOM 14 DPRS KAHS L2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 820,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            },
+            {
+                "day": 2,
+                "startTime": "16:30",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 821,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 830,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "ADMIN BUILDING KOS A-1-27",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 840,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
         "code": "LQAD 2103",
         "sect": 20,
         "title": "ARABIC FOR COMMUNICATION  II",
@@ -7353,7 +8323,7 @@
         "sect": 830,
         "title": "PRE-TILAWAH AL-QURAN",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -7914,7 +8884,7 @@
         "sect": 801,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1, KOP 1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -7931,7 +8901,7 @@
         "sect": 802,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -7948,7 +8918,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2 (DASLP) L1",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -7965,7 +8935,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 3 (DASLP) L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -8016,7 +8986,7 @@
         "sect": 830,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -8033,7 +9003,7 @@
         "sect": 831,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -8048,23 +9018,6 @@
     {
         "code": "TQTD 1002",
         "sect": 840,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "MOHD KAMARULZAMAN BIN SEMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
-        "sect": 841,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
         "venue": null,
@@ -8084,7 +9037,7 @@
         "sect": 860,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "DISCUSSION ROOM 2, KOD GF",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -8101,7 +9054,7 @@
         "sect": 861,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "DISCUSSION ROOM 1, KOD GF",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -9733,7 +10686,7 @@
         "sect": 801,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1, KOP 1",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -9750,7 +10703,7 @@
         "sect": 802,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9767,7 +10720,7 @@
         "sect": 803,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1, KOP 1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -9784,7 +10737,7 @@
         "sect": 804,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9801,7 +10754,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2 (DASLP) L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9818,7 +10771,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 3 (DASLP) L1",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -9835,7 +10788,7 @@
         "sect": 812,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 6 (DPRS) L3",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -9852,7 +10805,7 @@
         "sect": 813,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 4 (DOVS) L2",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -9937,7 +10890,7 @@
         "sect": 830,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9954,7 +10907,7 @@
         "sect": 831,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -9971,7 +10924,7 @@
         "sect": 832,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -9988,7 +10941,7 @@
         "sect": 833,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -10005,7 +10958,7 @@
         "sect": 834,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10022,7 +10975,7 @@
         "sect": 835,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "MOHD KAMARULZAMAN BIN SEMAN"
         ],
@@ -10039,7 +10992,7 @@
         "sect": 836,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -10056,7 +11009,7 @@
         "sect": 837,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10073,7 +11026,7 @@
         "sect": 838,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10141,7 +11094,7 @@
         "sect": 843,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 9, KOM L4",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10158,9 +11111,26 @@
         "sect": 844,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 11, KOM L4",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 845,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD KAMARULZAMAN BIN SEMAN"
         ],
         "dayTime": [
             {
@@ -10175,7 +11145,7 @@
         "sect": 860,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "DISCUSSION ROOM 1, KOD GF",
         "lect": [
             "AHMAD SYAUQANI BIN MOHAMAD GHAZALI"
         ],
@@ -10192,9 +11162,9 @@
         "sect": 861,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "DISCUSSION ROOM 2, KOD GF",
         "lect": [
-            "MOHD KAMARULZAMAN BIN SEMAN"
+            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
         "dayTime": [
             {
@@ -10211,7 +11181,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
+            "MOHD KAMARULZAMAN BIN SEMAN"
         ],
         "dayTime": [
             {
