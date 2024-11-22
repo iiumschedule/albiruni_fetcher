@@ -27,9 +27,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "16:00",
-                "endTime": "17:00"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -61,7 +61,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 5,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -142,7 +142,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. ENGKU NURAISHAH HUDA BINTI E. ZAINUDIN"
+            "DR. NIFERITI BINTI AMINUDDIN"
         ],
         "dayTime": [
             {
@@ -187,6 +187,74 @@
         ]
     },
     {
+        "code": "PPHK 4611",
+        "sect": 1,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZAT FAHIMUDDIN BIN MOHAMED SUFFIAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 2,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. KAMAL RULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 3,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAHRIR BIN ZAINI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 4,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ASYIQIN BINTI YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
         "code": "PPPC 1351",
         "sect": 1,
         "title": "PHARMACEUTICAL ORGANIC CHEMISTRY",
@@ -197,9 +265,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -300,8 +368,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -312,11 +380,11 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "PROF. DR. CHE SURAYA BT. HJ. MOHD. ZIN"
+            "DR. NOR ELINA BINTI ALIAS"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "08:00",
                 "endTime": "10:00"
             }
@@ -329,11 +397,11 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. NOR ELINA BINTI ALIAS"
+            "DR. SITI HADIJAH BINTI SHAMSUDIN"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "08:00",
                 "endTime": "10:00"
             }
@@ -367,7 +435,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 5,
                 "startTime": "08:00",
                 "endTime": "10:00"
             }

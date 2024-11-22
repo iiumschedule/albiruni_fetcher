@@ -1,47 +1,20 @@
 [
     {
-        "code": "NURA 1224",
-        "sect": 1,
-        "title": "FUNDAMENTAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1224",
-        "sect": 2,
-        "title": "FUNDAMENTAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1224",
-        "sect": 3,
-        "title": "FUNDAMENTAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
         "code": "NURA 1311",
         "sect": 1,
         "title": "THEORY, ETHICS AND PROFESSIONALISM IN NURSING",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORFADZILAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURA 1311",
@@ -50,9 +23,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ASHIKIN BINTI ATAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 1311",
@@ -61,152 +40,151 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
-        "code": "NURA 1412",
-        "sect": 1,
-        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1412",
-        "sect": 2,
-        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1412",
-        "sect": 3,
-        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1421",
-        "sect": 1,
-        "title": "HEALTH ASSESSMENT,THERAPEUTIC INTERVENTION & DRUG ADMIN. IN NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1421",
-        "sect": 2,
-        "title": "HEALTH ASSESSMENT,THERAPEUTIC INTERVENTION & DRUG ADMIN. IN NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 1421",
-        "sect": 3,
-        "title": "HEALTH ASSESSMENT,THERAPEUTIC INTERVENTION & DRUG ADMIN. IN NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3227",
-        "sect": 1,
-        "title": "CLINICAL FIQH IN NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3227",
-        "sect": 2,
-        "title": "CLINICAL FIQH IN NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3227",
-        "sect": 3,
-        "title": "CLINICAL FIQH IN NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3321",
-        "sect": 1,
-        "title": "RESEARCH METHODOLOGY IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3321",
-        "sect": 2,
-        "title": "RESEARCH METHODOLOGY IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3321",
-        "sect": 3,
-        "title": "RESEARCH METHODOLOGY IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3321",
+        "code": "NURA 1311",
         "sect": 4,
-        "title": "RESEARCH METHODOLOGY IN NURSING",
+        "title": "THEORY, ETHICS AND PROFESSIONALISM IN NURSING",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RIF'ATUNNAILAH BINTI MAT ISA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 1412",
+        "sect": 1,
+        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AIRUL AZIZAN BIN ZAINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 1412",
+        "sect": 2,
+        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR AIN BINTI MAHAT"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 1412",
+        "sect": 3,
+        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HASANAH PAIROH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 1412",
+        "sect": 4,
+        "title": "MEDICAL SOCIOLOGY, PSYCHOLOGY AND TRANSCULTURAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI AZUNA BINTI ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 3227",
+        "sect": 1,
+        "title": "CLINICAL FIQH IN NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 3227",
+        "sect": 2,
+        "title": "CLINICAL FIQH IN NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AIRUL AZIZAN BIN ZAINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "NURA 3227",
+        "sect": 3,
+        "title": "CLINICAL FIQH IN NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RIF'ATUNNAILAH BINTI MAT ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -215,9 +193,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -226,9 +210,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR AIN BINTI MAHAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -237,9 +227,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -248,9 +244,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURA 4213",
@@ -259,7 +261,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
         "dayTime": []
     },
@@ -270,7 +272,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
         "dayTime": []
     },
@@ -281,7 +283,95 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 4,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ROHAIDA BINTI ABD WAHAB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 5,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ROHAIDA BINTI ABD WAHAB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 6,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ROHAIDA BINTI ABD WAHAB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 7,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ROHAIDA BINTI ABD WAHAB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 8,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL'AIN BINTI AHAYALIMUDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 9,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR'AIN BINTI ABDUL RASHID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 10,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. HARLINNA BINTI ABU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "NURA 4213",
+        "sect": 11,
+        "title": "MANAGEMENT AND ADMINISTRATION IN NURSING PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ROHAIDA BINTI ABD WAHAB"
         ],
         "dayTime": []
     },
@@ -292,9 +382,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ASHIKIN BINTI ATAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 4311",
@@ -303,9 +399,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 4311",
@@ -314,9 +416,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AIRUL AZIZAN BIN ZAINUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -325,9 +433,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI FATIMAH BINTI SA'AT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -336,9 +450,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD FIRDAUS BIN MOHAMAD ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 4312",
@@ -347,1257 +467,20 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HASANAH PAIROH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURA 4412",
         "sect": 1,
         "title": "ELECTIVE: CONTINUOUS NURSING EDUCATION",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 4413",
-        "sect": 1,
-        "title": "ELECTIVE: INFECTION CONTROL",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1213",
-        "sect": 1,
-        "title": "ANATOMY AND PHYSIOLOGY 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1213",
-        "sect": 2,
-        "title": "ANATOMY AND PHYSIOLOGY 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1213",
-        "sect": 3,
-        "title": "ANATOMY AND PHYSIOLOGY 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1214",
-        "sect": 1,
-        "title": "BIOCHEMISTRY FOR NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1214",
-        "sect": 2,
-        "title": "BIOCHEMISTRY FOR NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1214",
-        "sect": 3,
-        "title": "BIOCHEMISTRY FOR NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1223",
-        "sect": 1,
-        "title": "GENERAL PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1223",
-        "sect": 2,
-        "title": "GENERAL PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1223",
-        "sect": 3,
-        "title": "GENERAL PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1224",
-        "sect": 1,
-        "title": "GENERAL PATHOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1224",
-        "sect": 2,
-        "title": "GENERAL PATHOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1224",
-        "sect": 3,
-        "title": "GENERAL PATHOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1315",
-        "sect": 1,
-        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1315",
-        "sect": 2,
-        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1315",
-        "sect": 3,
-        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1322",
-        "sect": 1,
-        "title": "ANATOMY AND PHYSIOLOGY 2",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1322",
-        "sect": 2,
-        "title": "ANATOMY AND PHYSIOLOGY 2",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 1322",
-        "sect": 3,
-        "title": "ANATOMY AND PHYSIOLOGY 2",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 2215",
-        "sect": 1,
-        "title": "SYSTEMIC PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 2215",
-        "sect": 2,
-        "title": "SYSTEMIC PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 2215",
-        "sect": 3,
-        "title": "SYSTEMIC PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 2215",
-        "sect": 4,
-        "title": "SYSTEMIC PHARMACOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURB 4412",
-        "sect": 1,
-        "title": "ELECTIVE: ADVANCED REPRODUCTIVE TECHNOLOGY",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2222",
-        "sect": 1,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2222",
-        "sect": 2,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2222",
-        "sect": 3,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2222",
-        "sect": 4,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2223",
-        "sect": 1,
-        "title": "HEMOPOIETIC, MUSCULOSKELETAL AND GENITOURINARY NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2223",
-        "sect": 2,
-        "title": "HEMOPOIETIC, MUSCULOSKELETAL AND GENITOURINARY NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2223",
-        "sect": 3,
-        "title": "HEMOPOIETIC, MUSCULOSKELETAL AND GENITOURINARY NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2223",
-        "sect": 4,
-        "title": "HEMOPOIETIC, MUSCULOSKELETAL AND GENITOURINARY NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2225",
-        "sect": 1,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2225",
-        "sect": 2,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2225",
-        "sect": 3,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2225",
-        "sect": 4,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2324",
-        "sect": 1,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDROCRINE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2324",
-        "sect": 2,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDROCRINE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2324",
-        "sect": 3,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDROCRINE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2324",
-        "sect": 4,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDROCRINE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2411",
-        "sect": 1,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2411",
-        "sect": 2,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2411",
-        "sect": 3,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2411",
-        "sect": 4,
-        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2412",
-        "sect": 1,
-        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2412",
-        "sect": 2,
-        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2412",
-        "sect": 3,
-        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2412",
-        "sect": 4,
-        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2413",
-        "sect": 1,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2413",
-        "sect": 2,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2413",
-        "sect": 3,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2413",
-        "sect": 4,
-        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2414",
-        "sect": 1,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2414",
-        "sect": 2,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2414",
-        "sect": 3,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 2414",
-        "sect": 4,
-        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 4412",
-        "sect": 1,
-        "title": "ELECTIVE: ORTHOPAEDIC NURSING REHABILITATION",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 4413",
-        "sect": 1,
-        "title": "ELECTIVE: SMOKING CESSATION",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURC 4414",
-        "sect": 1,
-        "title": "ELECTIVE: STOMA CARE",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3325",
-        "sect": 1,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3325",
-        "sect": 2,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3325",
-        "sect": 3,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3325",
-        "sect": 4,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING PRACTICE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3415",
-        "sect": 1,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3415",
-        "sect": 2,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3415",
-        "sect": 3,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 3415",
-        "sect": 4,
-        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 4412",
-        "sect": 1,
-        "title": "ELECTIVE: DISASTER NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURD 4413",
-        "sect": 1,
-        "title": "ELECTIVE: PATIENT SAFETY IN INTENSIVE CARE UNIT",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3122",
-        "sect": 1,
-        "title": "CHILD HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3122",
-        "sect": 2,
-        "title": "CHILD HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3122",
-        "sect": 3,
-        "title": "CHILD HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3122",
-        "sect": 4,
-        "title": "CHILD HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3123",
-        "sect": 1,
-        "title": "MENTAL HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3123",
-        "sect": 2,
-        "title": "MENTAL HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3123",
-        "sect": 3,
-        "title": "MENTAL HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3123",
-        "sect": 4,
-        "title": "MENTAL HEALTH NURSING PRACTICE",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3212",
-        "sect": 1,
-        "title": "CHILD HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3212",
-        "sect": 2,
-        "title": "CHILD HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3212",
-        "sect": 3,
-        "title": "CHILD HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3212",
-        "sect": 4,
-        "title": "CHILD HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3214",
-        "sect": 1,
-        "title": "MENTAL HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3214",
-        "sect": 2,
-        "title": "MENTAL HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3214",
-        "sect": 3,
-        "title": "MENTAL HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3214",
-        "sect": 4,
-        "title": "MENTAL HEALTH NURSING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3221",
-        "sect": 1,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3221",
-        "sect": 2,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3221",
-        "sect": 3,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3221",
-        "sect": 4,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3224",
-        "sect": 1,
-        "title": "COMMUNITY HEALTH NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3224",
-        "sect": 2,
-        "title": "COMMUNITY HEALTH NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3224",
-        "sect": 3,
-        "title": "COMMUNITY HEALTH NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3224",
-        "sect": 4,
-        "title": "COMMUNITY HEALTH NURSING PRACTICE",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3311",
-        "sect": 1,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3311",
-        "sect": 2,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3311",
-        "sect": 3,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3311",
-        "sect": 4,
-        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3413",
-        "sect": 1,
-        "title": "COMMUNITY HEALTH NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3413",
-        "sect": 2,
-        "title": "COMMUNITY HEALTH NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3413",
-        "sect": 3,
-        "title": "COMMUNITY HEALTH NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 3413",
-        "sect": 4,
-        "title": "COMMUNITY HEALTH NURSING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 4412",
-        "sect": 1,
-        "title": "ELECTIVE: BREASTFEEDING",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 4413",
-        "sect": 1,
-        "title": "ELECTIVE: GERIATRIC COMMUNITY",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 4414",
-        "sect": 1,
-        "title": "ELECTIVE: MATERNAL MENTAL HEALTH",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURE 4415",
-        "sect": 1,
-        "title": "ELECTIVE: YOUNG PEOPLE HEALTH",
-        "chr": 4.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 3327",
-        "sect": 1,
-        "title": "INNOVATION IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 3327",
-        "sect": 2,
-        "title": "INNOVATION IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 3327",
-        "sect": 3,
-        "title": "INNOVATION IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 3327",
-        "sect": 4,
-        "title": "INNOVATION IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4324",
-        "sect": 1,
-        "title": "ENTREPRENEURSHIP IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4324",
-        "sect": 2,
-        "title": "ENTREPRENEURSHIP IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4324",
-        "sect": 3,
-        "title": "ENTREPRENEURSHIP IN NURSING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "NURF 4415",
-        "sect": 1,
-        "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
         "lect": [
@@ -1612,68 +495,1010 @@
         ]
     },
     {
-        "code": "NURF 4421",
+        "code": "NURB 1213",
         "sect": 1,
-        "title": "INTEGRATED NURSING SCIENCES (FINAL PROFESSIONAL EXAMINATION)",
-        "chr": 4.0,
+        "title": "ANATOMY AND PHYSIOLOGY 1",
+        "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORLINDA BINTI ABD. RASHID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
-        "code": "NURF 4421",
+        "code": "NURB 1213",
         "sect": 2,
-        "title": "INTEGRATED NURSING SCIENCES (FINAL PROFESSIONAL EXAMINATION)",
-        "chr": 4.0,
+        "title": "ANATOMY AND PHYSIOLOGY 1",
+        "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORLINDA BINTI ABD. RASHID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
-        "code": "NURF 4421",
+        "code": "NURB 1213",
         "sect": 3,
-        "title": "INTEGRATED NURSING SCIENCES (FINAL PROFESSIONAL EXAMINATION)",
-        "chr": 4.0,
+        "title": "ANATOMY AND PHYSIOLOGY 1",
+        "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
-        "code": "NURF 4422",
+        "code": "NURB 1213",
+        "sect": 4,
+        "title": "ANATOMY AND PHYSIOLOGY 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AZMIR BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1214",
         "sect": 1,
-        "title": "INTEGRATED NURSING PRACTICE (FINAL PROFESSIONAL EXAMINATION)",
-        "chr": 4.0,
+        "title": "BIOCHEMISTRY FOR NURSING",
+        "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORATIKAH BT. OTHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
-        "code": "NURF 4422",
+        "code": "NURB 1214",
         "sect": 2,
-        "title": "INTEGRATED NURSING PRACTICE (FINAL PROFESSIONAL EXAMINATION)",
+        "title": "BIOCHEMISTRY FOR NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1214",
+        "sect": 3,
+        "title": "BIOCHEMISTRY FOR NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1214",
+        "sect": 4,
+        "title": "BIOCHEMISTRY FOR NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SHIDQIYYAH BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1315",
+        "sect": 1,
+        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HANIF BIN JAINLABDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1315",
+        "sect": 2,
+        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORATIKAH BT. OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1315",
+        "sect": 3,
+        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1315",
+        "sect": 4,
+        "title": "MICROBIOLOGY, IMMUNOLOGY AND PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. AZRI BIN ABD. JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURB 2215",
+        "sect": 1,
+        "title": "SYSTEMIC PHARMACOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SHIDQIYYAH BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 2215",
+        "sect": 2,
+        "title": "SYSTEMIC PHARMACOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 2215",
+        "sect": 3,
+        "title": "SYSTEMIC PHARMACOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. AZRI BIN ABD. JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURB 2215",
+        "sect": 4,
+        "title": "SYSTEMIC PHARMACOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HANIF BIN JAINLABDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2411",
+        "sect": 1,
+        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI ZUHAIDAH BINTI SHAHADAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2411",
+        "sect": 2,
+        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AZLINA BT. DAUD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2411",
+        "sect": 3,
+        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. CHE AZUNIE BINTI CHE ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2411",
+        "sect": 4,
+        "title": "FUNDAMENTAL OF MEDICAL-SURGICAL AND SPECIAL SENSES NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI NUR ILLIANI BINTI JAAFAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2412",
+        "sect": 1,
+        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD KHAIRUL ZUL HASYMI BIN FIRDAUS"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2412",
+        "sect": 2,
+        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHANA BINTI MUHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2412",
+        "sect": 3,
+        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "MASMUNAA BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2412",
+        "sect": 4,
+        "title": "HEMOPOIETIC,MUSCULOSKELETAL AND GENITOURINARY NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2413",
+        "sect": 1,
+        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2413",
+        "sect": 2,
+        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2413",
+        "sect": 3,
+        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2413",
+        "sect": 4,
+        "title": "CARDIOVASCULAR,RESPIRATORY AND ENDOCRINE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SANISAH BINTI SAIDI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2414",
+        "sect": 1,
+        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUNI ASMA' BINTI BAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2414",
+        "sect": 2,
+        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. JUNAINAH BINTI AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2414",
+        "sect": 3,
+        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "MASMUNAA BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:45",
+                "endTime": "12:45"
+            }
+        ]
+    },
+    {
+        "code": "NURC 2414",
+        "sect": 4,
+        "title": "GASTROINTESTINAL,HEPATOBILIARY AND NEUROLOGICAL NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. PATIMAH BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "NURC 4412",
+        "sect": 1,
+        "title": "ELECTIVE: ORTHOPAEDIC NURSING REHABILITATION",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK NOOR KAUSSAR BINTI NIK MOHD HATTA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURC 4413",
+        "sect": 1,
+        "title": "ELECTIVE: SMOKING CESSATION",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURD 3415",
+        "sect": 1,
+        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL 'INAYATI BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "NURD 3415",
+        "sect": 2,
+        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SALIZAR BT. MOHAMED LUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURD 3415",
+        "sect": 3,
+        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL ALIF BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURD 3415",
+        "sect": 4,
+        "title": "EMERGENCY, THEATRE AND INTENSIVE CARE NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. KHIN THANDAR AUNG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURD 4412",
+        "sect": 1,
+        "title": "ELECTIVE: DISASTER NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI AZUNA BINTI ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURD 4413",
+        "sect": 1,
+        "title": "ELECTIVE: PATIENT SAFETY IN INTENSIVE CARE UNIT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZIZAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3212",
+        "sect": 1,
+        "title": "CHILD HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. LEE SIEW PIEN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3212",
+        "sect": 2,
+        "title": "CHILD HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. LEE SIEW PIEN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3212",
+        "sect": 3,
+        "title": "CHILD HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIRAH FATIN BINTI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3212",
+        "sect": 4,
+        "title": "CHILD HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3214",
+        "sect": 1,
+        "title": "MENTAL HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURASIKIN BINTI MOHAMAD SHARIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3214",
+        "sect": 2,
+        "title": "MENTAL HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURASIKIN BINTI MOHAMAD SHARIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3214",
+        "sect": 3,
+        "title": "MENTAL HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "RAMLAH BINTI MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3214",
+        "sect": 4,
+        "title": "MENTAL HEALTH NURSING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSNANI BINTI SARKARSI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:45",
+                "endTime": "12:45"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3311",
+        "sect": 1,
+        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AKMA BINTI JAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3311",
+        "sect": 2,
+        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "RAMLAH BINTI MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3311",
+        "sect": 3,
+        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI MARIAM BINTI MUDA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3311",
+        "sect": 4,
+        "title": "MATERNAL-NEWBORN AND GYNAECOLOGICAL NURSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI ROSHAIDAI BINTI MOHD ARIFIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3413",
+        "sect": 1,
+        "title": "COMMUNITY HEALTH NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ANIAWANIS BINTI MAKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3413",
+        "sect": 2,
+        "title": "COMMUNITY HEALTH NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ANIAWANIS BINTI MAKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3413",
+        "sect": 3,
+        "title": "COMMUNITY HEALTH NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIZA HASAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 3413",
+        "sect": 4,
+        "title": "COMMUNITY HEALTH NURSING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SHARIFAH MUNIRAH BINTI SYED ELIAS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 4413",
+        "sect": 1,
+        "title": "ELECTIVE: GERIATRIC COMMUNITY",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SHARIFAH MUNIRAH BINTI SYED ELIAS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURE 4415",
+        "sect": 1,
+        "title": "ELECTIVE: YOUNG PEOPLE HEALTH",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "NURF 4324",
+        "sect": 1,
+        "title": "ENTREPRENEURSHIP IN NURSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAMSUL BIN AHMAD ARIFIN"
         ],
         "dayTime": []
     },
     {
-        "code": "NURF 4422",
-        "sect": 3,
-        "title": "INTEGRATED NURSING PRACTICE (FINAL PROFESSIONAL EXAMINATION)",
+        "code": "NURF 4415",
+        "sect": 1,
+        "title": "FINAL YEAR RESEARCH PROJECT I",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ABDUL ALIF BIN ABDUL HAMID"
         ],
         "dayTime": []
     },
@@ -1684,7 +1509,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
+            "DR. ABDUL ALIF BIN ABDUL HAMID"
         ],
         "dayTime": []
     }

@@ -11,8 +11,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -27,9 +27,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -44,9 +44,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -153,53 +153,19 @@
         ]
     },
     {
-        "code": "DENT 2204",
+        "code": "DENT 3328",
         "sect": 1,
-        "title": "DENTAL MATERIALS SCIENCE",
-        "chr": 4.0,
+        "title": "GENERAL MEDICINE & GENERAL SURGERY",
+        "chr": 13.0,
         "venue": null,
         "lect": [
-            "DR. MOHD. HAIDIL AKMAL BIN MAHDAN"
+            "DR. FADHILAH BINTI ZAINAL ABIDIN"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            }
-        ]
-    },
-    {
-        "code": "DENT 2212",
-        "sect": 1,
-        "title": "PHARMACOLOGY",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. BASMA EZZAT MUSTAFA"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
+                "day": 5,
+                "startTime": "09:00",
                 "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "DENT 2413",
-        "sect": 1,
-        "title": "CONSERVATIVE DENTISTRY YEAR 2",
-        "chr": 12.0,
-        "venue": null,
-        "lect": [
-            "DR. DINIE QURRATUAINI BINTI ZULKIFLY"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
             }
         ]
     },
@@ -589,8 +555,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -605,9 +571,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -625,6 +591,40 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 5434",
+        "sect": 1,
+        "title": "INTEGRATED DENTAL PRACTICE",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. GALVIN SIM SIANG LIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENT 5435",
+        "sect": 1,
+        "title": "FORENSIC ODONTOLOGY",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHD FIRDAUS BIN CHE MUSA"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
