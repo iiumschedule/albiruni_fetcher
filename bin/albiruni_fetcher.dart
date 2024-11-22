@@ -35,8 +35,7 @@ void main(List<String> arguments) async {
     print("🏢 Getting ${kull.name}");
     Albiruni albiruni = Albiruni(semester: semester, session: session);
 
-    List<Subject> subjects = await _retrieveSubjects(albiruni, kull,
-        runOnGithub: isRunOnGithubAction);
+    List<Subject> subjects = await _retrieveSubjects(albiruni, kull);
 
     print("📚 Fetched ${subjects.length} subjects");
     numberOfEntriesFetched.add(subjects.length);
@@ -71,16 +70,13 @@ void main(List<String> arguments) async {
   // the key will be use in the workflow yml file
 }
 
-Future<List<Subject>> _retrieveSubjects(Albiruni albiruni, Kulliyyah kulliyyah,
-    {bool runOnGithub = false}) async {
+Future<List<Subject>> _retrieveSubjects(
+    Albiruni albiruni, Kulliyyah kulliyyah) async {
   List<Subject> subjects = [];
-
-  // use [useProxy] to allow the data fetching on GitHub runners
 
   try {
     for (int i = 1;; i++) {
-      var res =
-          await albiruni.fetch(kulliyyah.code, page: i, useProxy: runOnGithub);
+      var res = await albiruni.fetch(kulliyyah.code, page: i);
       subjects.addAll(res.$1);
 
       // delay a few seconds to avoid 'DDOS'
