@@ -4,15 +4,15 @@
         "sect": 1,
         "title": "PRINCIPLES OF MICROBIOLOGY",
         "chr": 1.0,
-        "venue": "ADMIN BUILDING A-G-03",
+        "venue": "ADMIN BUILDING KOS A-G-03",
         "lect": [
             "DR. MD HOIRUL AZRI BIN PONARI"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:00",
-                "endTime": "16:00"
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "11:30"
             }
         ]
     },
@@ -21,15 +21,15 @@
         "sect": 1,
         "title": "PRINCIPLES OF CELL BIOLOGY",
         "chr": 2.0,
-        "venue": "ADMIN BUILDING A-G-03",
+        "venue": "ADMIN BUILDING KOS A-G-03",
         "lect": [
             "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -45,13 +45,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -551,23 +551,6 @@
         ]
     },
     {
-        "code": "BAPS 3216",
-        "sect": 1,
-        "title": "RESEARCH METHODOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. NUR SABRINA BINTI AHMAD AZMI"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
         "code": "BAPS 3217",
         "sect": 1,
         "title": "TRADITIONAL HERBS AND MEDICINAL PLANTS",
@@ -733,13 +716,13 @@
         "sect": 1,
         "title": "OVERVIEW OF COMPUTATIONAL TOOLS",
         "chr": 3.0,
-        "venue": "BIOLOGICAL BUILDING L ORKID1",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -767,13 +750,13 @@
         "sect": 1,
         "title": "INTRODUCTION TO MARINE SCIENCE AND TECHNOLOGY",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-30",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 5,
                 "startTime": "10:00",
                 "endTime": "13:00"
             }
@@ -1090,6 +1073,23 @@
         ]
     },
     {
+        "code": "BMST 4193",
+        "sect": 1,
+        "title": "PROJECT SEMINAR",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD FAIZ BIN MOHD. HANAPIAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "BMST 4361",
         "sect": 1,
         "title": "INTEGRATED COASTAL ZONE MANAGEMENT",
@@ -1204,11 +1204,16 @@
         "sect": 1,
         "title": "GENERAL CHEMISTRY",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS ALT 3",
+        "venue": null,
         "lect": [
             "DR. WAN ZURINA SAMAD"
         ],
         "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
             {
                 "day": 4,
                 "startTime": "09:00",
@@ -1221,20 +1226,20 @@
         "sect": 1,
         "title": "CALCULUS FOR BIOLOGY",
         "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-02",
+        "venue": "CTS BUILDING KOS C-G-02",
         "lect": [
             "DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             },
             {
                 "day": 3,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             }
         ]
     },
@@ -1243,20 +1248,20 @@
         "sect": 2,
         "title": "CALCULUS FOR BIOLOGY",
         "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-02",
+        "venue": "CTS BUILDING KOS C-G-02",
         "lect": [
             "DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             },
             {
                 "day": 3,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "14:30",
+                "endTime": "16:00"
             }
         ]
     },
@@ -1519,15 +1524,15 @@
         "sect": 1,
         "title": "CONCEPT OF HALAL AND HARAM IN FOOD AND BIOTECHNOLOGY",
         "chr": 2.0,
-        "venue": "ADMIN BUILDING KOS A-1-34",
+        "venue": "ADMIN BUILDING KOS A-1-17",
         "lect": [
             "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -1642,13 +1647,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
                 "startTime": "11:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1664,13 +1669,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
                 "startTime": "11:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1705,89 +1710,6 @@
                 "day": 5,
                 "startTime": "08:30",
                 "endTime": "11:30"
-            }
-        ]
-    },
-    {
-        "code": "BSBT 3331",
-        "sect": 1,
-        "title": "FOOD BIOTECHNOLOGY",
-        "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-34",
-        "lect": [
-            "ASSOC. PROF. DR. NOOR HASNIZA BINTI MD ZIN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
-        "code": "BSBT 3332",
-        "sect": 1,
-        "title": "APPLIED MOLECULAR GENETICS IN FOOD",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NUR HAFIZAH BINTI AZIZAN"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
-        "code": "BSBT 3333",
-        "sect": 1,
-        "title": "FOOD CHEMISTRY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. TAN TENG JU"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "BSBT 3334",
-        "sect": 1,
-        "title": "ANALYTICAL METHODS FOR FUNCTIONAL FOODS AND NUTRACEUTICALS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NORMAH BINTI HARON"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "13:00"
             }
         ]
     },
@@ -1984,15 +1906,15 @@
         "sect": 1,
         "title": "FOOD PROCESS ENGINEERING",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-G-07",
+        "venue": "ADMIN BUILDING A-G-03",
         "lect": [
             "DR. TAN TENG JU"
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2045,15 +1967,15 @@
         "sect": 1,
         "title": "FOOD, NUTRITION AND HEALTH",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-18",
+        "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
             "DR. NORMAH BINTI HARON"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2062,20 +1984,15 @@
         "sect": 1,
         "title": "ENVIRONMENTAL LAWS AND POLICIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-36",
         "lect": [
             "DR. ZAKUAN AZIZI BIN SHAMSUL HARUMAIN"
         ],
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2084,37 +2001,15 @@
         "sect": 1,
         "title": "INTEGRATED WASTE MANAGEMENT",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-G-06",
+        "venue": "ADMIN BUILDING KOS A-1-23",
         "lect": [
             "ASSOC. PROF. DR. AZZMER AZZAR BIN ABDUL HAMID"
         ],
         "dayTime": [
             {
-                "day": 5,
+                "day": 2,
                 "startTime": "08:30",
                 "endTime": "11:30"
-            }
-        ]
-    },
-    {
-        "code": "BSBT 4347",
-        "sect": 1,
-        "title": "ENVIRONMENTAL TOXICOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. MOHD. FAEZ BIN SHARIF"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "10:30"
             }
         ]
     },
@@ -2202,14 +2097,14 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2276,6 +2171,23 @@
         ]
     },
     {
+        "code": "BSCH 1311",
+        "sect": 2,
+        "title": "Organic Chemistry 1",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS A-1-23",
+        "lect": [
+            "DR. NOR SALIYANA JUMALI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "BSCH 1313",
         "sect": 1,
         "title": "Physical Chemistry 1",
@@ -2298,6 +2210,28 @@
         ]
     },
     {
+        "code": "BSCH 1313",
+        "sect": 2,
+        "title": "Physical Chemistry 1",
+        "chr": 3.0,
+        "venue": "ADMIN BUILDING KOS A-G-02",
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:30",
+                "endTime": "11:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "BSCH 2215",
         "sect": 1,
         "title": "Computational Chemistry",
@@ -2311,6 +2245,23 @@
                 "day": 5,
                 "startTime": "11:00",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2223",
+        "sect": 1,
+        "title": "Organometallic and Bioinorganic Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURZIANA BINTI NGAH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -2398,7 +2349,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. NOR SALIYANA JUMALI"
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
         ],
         "dayTime": [
             {
@@ -2773,7 +2724,7 @@
         "sect": 1,
         "title": "ANALYTIC GEOMETRY",
         "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-04",
+        "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
             "DR. SUPIAN BIN MAT SALLEH"
         ],
@@ -2784,9 +2735,26 @@
                 "endTime": "13:00"
             },
             {
-                "day": 4,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSMS 1301",
+        "sect": 2,
+        "title": "ANALYTIC GEOMETRY",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS C-1-01",
+        "lect": [
+            "DR. SUPIAN BIN MAT SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2809,6 +2777,23 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSMS 1302",
+        "sect": 2,
+        "title": "CALCULUS I",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS C-1-01",
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -3165,6 +3150,17 @@
         ]
     },
     {
+        "code": "BSPH 1201",
+        "sect": 2,
+        "title": "ELECTRICITY AND MAGNESTISM I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BSPH 1202",
         "sect": 1,
         "title": "VIBRATIONS AND WAVES",
@@ -3198,8 +3194,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "16:00",
+                "endTime": "17:30"
             },
             {
                 "day": 3,
@@ -3264,8 +3260,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -3320,7 +3316,7 @@
         "chr": 3.0,
         "venue": "ADMIN BUILDING KOS A-1-30",
         "lect": [
-            "DR. AZNI BINTI ABDUL AZIZ"
+            "DR. NOR AZWA BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -3466,6 +3462,17 @@
                 "endTime": "13:00"
             }
         ]
+    },
+    {
+        "code": "SAP 3113",
+        "sect": 1,
+        "title": "PLANT AND CROP MODELING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZAH BINTI BAHALUDIN"
+        ],
+        "dayTime": []
     },
     {
         "code": "SAP 3293",
@@ -3874,7 +3881,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:30"
             },
@@ -4040,28 +4047,6 @@
         ]
     },
     {
-        "code": "SMS 3384",
-        "sect": 1,
-        "title": "COMPLEX VARIABLE FUNCTIONS",
-        "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-01",
-        "lect": [
-            "DR. MUHAMMAD SALIHI BIN ABDUL HADI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:30"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
-            }
-        ]
-    },
-    {
         "code": "SMS 3386",
         "sect": 1,
         "title": "INTRODUCTION TO FINANCIAL MATHEMATICS",
@@ -4110,7 +4095,7 @@
         "sect": 1,
         "title": "OPERATIONAL RESEARCH",
         "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-03",
+        "venue": "CTS BUILDING KOS C-2-01",
         "lect": [
             "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
         ],
@@ -4221,9 +4206,9 @@
                 "endTime": "11:00"
             },
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "day": 4,
+                "startTime": "03:30",
+                "endTime": "05:00"
             }
         ]
     },
@@ -4658,18 +4643,18 @@
         "sect": 1,
         "title": "NUCLEAR PHYSICS AND RADIATION",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-30",
+        "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
             "DR. AZNI BINTI ABDUL AZIZ"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:30",
-                "endTime": "16:00"
+                "startTime": "09:30",
+                "endTime": "11:00"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "14:30",
                 "endTime": "16:00"
             }
@@ -5006,7 +4991,7 @@
         "sect": 1,
         "title": "LASERS AND ITS USES",
         "chr": 3.0,
-        "venue": "ADMIN BUILDING KOS A-1-37",
+        "venue": "PHYSICAL BUILDING OPTIC R",
         "lect": [
             "ASSOC. PROF. DR. MUHAMMAD ZAMZURI BIN ABDUL KADIR @ JAAFAR"
         ],

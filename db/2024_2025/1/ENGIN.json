@@ -17,25 +17,6 @@
         ]
     },
     {
-        "code": "AERO 2128",
-        "sect": 1,
-        "title": "AEROSPACE ENGINEERING LAB 1",
-        "chr": 1.0,
-        "venue": "ENG MINI AUDI E1-1-8",
-        "lect": [
-            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM",
-            "DR. ADIB HAMDANI BIN ROSLI",
-            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "AERO 2302",
         "sect": 1,
         "title": "DYNAMIC",
@@ -62,7 +43,7 @@
         "sect": 1,
         "title": "AEROSPACE MATERIALS AND MANUFACTURING PROCESSES",
         "chr": 3.0,
-        "venue": "ENG LRM E0-3-66",
+        "venue": "ENG AUDI A E2-1-9",
         "lect": [
             "PROF. DR. MEFTAH HRAIRI"
         ],
@@ -314,20 +295,20 @@
         "sect": 1,
         "title": "ROCKET PROPULSION",
         "chr": 2.0,
-        "venue": "ENG LRM E3-2-4",
+        "venue": "ENG LRM E3-2-2",
         "lect": [
             "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -420,6 +401,17 @@
         ]
     },
     {
+        "code": "BTEN 3100",
+        "sect": 1,
+        "title": "SEMINAR",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BTEN 3183",
         "sect": 1,
         "title": "BIOTECHNOLOGY ENGINEERING LAB III",
@@ -460,7 +452,6 @@
         "chr": 2.0,
         "venue": "ENG LRM E1-3-10",
         "lect": [
-            "PROF. DR. MAIZIRWAN MEL",
             "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
         ],
         "dayTime": [
@@ -526,7 +517,7 @@
         "sect": 1,
         "title": "REACTION ENGINEERING",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-4",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
             "ASSOC. PROF. DR. AMANATUZZAKIAH ABDUL HALIM"
@@ -596,7 +587,7 @@
         "chr": 3.0,
         "venue": "ENG LT1 E0-1",
         "lect": [
-            "ASSOC. PROF. DR. FATHILAH BINTI ALI"
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
         ],
         "dayTime": [
             {
@@ -679,6 +670,28 @@
         ]
     },
     {
+        "code": "BTEN 4351",
+        "sect": 1,
+        "title": "BIOMASS ENERGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MAIZIRWAN MEL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
         "code": "BTEN 4360",
         "sect": 1,
         "title": "FOOD PROCESS ENGINEERING",
@@ -719,6 +732,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4378",
+        "sect": 1,
+        "title": "BIO NANOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-3-2",
+        "lect": [
+            "ASSOC. PROF. DR. WAN MOHD FAZLI BIN WAN NAWAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -805,7 +840,7 @@
         "sect": 1,
         "title": "THERMODYNAMICS",
         "chr": 2.0,
-        "venue": "ENG LRM E2-1-4",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
             "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
@@ -1061,7 +1096,7 @@
         "sect": 2,
         "title": "CHEMICAL THERMODYNAMICS",
         "chr": 3.0,
-        "venue": "ENG LRM E0-3-20",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "DR. MOHD. FIRDAUS BIN ABD. WAHAB"
         ],
@@ -1129,7 +1164,7 @@
         "sect": 1,
         "title": "FLUID MECHANICS FOR CHEMICAL ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-3-8",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "ASSOC. PROF. DR. FARAH BINTI AHMAD",
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
@@ -1152,7 +1187,7 @@
         "sect": 2,
         "title": "FLUID MECHANICS FOR CHEMICAL ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-4-6",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "ASSOC. PROF. DR. FARAH BINTI AHMAD",
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
@@ -1198,7 +1233,7 @@
         "sect": 1,
         "title": "REACTION ENGINEERING",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-4",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
             "ASSOC. PROF. DR. AMANATUZZAKIAH ABDUL HALIM"
@@ -1246,7 +1281,7 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. AMANATUZZAKIAH ABDUL HALIM",
-            "PROF. DR. MAIZIRWAN MEL"
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
         ],
         "dayTime": [
             {
@@ -1264,7 +1299,7 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. AMANATUZZAKIAH ABDUL HALIM",
-            "PROF. DR. MAIZIRWAN MEL"
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
         ],
         "dayTime": [
             {
@@ -1337,9 +1372,8 @@
         "sect": 1,
         "title": "SEPARATION PROCESSES 2",
         "chr": 2.0,
-        "venue": "ENG LRM E1-3-10",
+        "venue": null,
         "lect": [
-            "PROF. DR. MAIZIRWAN MEL",
             "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
         ],
         "dayTime": [
@@ -1360,9 +1394,8 @@
         "sect": 2,
         "title": "SEPARATION PROCESSES 2",
         "chr": 2.0,
-        "venue": "ENG LRM E1-5-4.3",
+        "venue": "ENG LRM E1-3-10",
         "lect": [
-            "PROF. DR. MAIZIRWAN MEL",
             "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
         ],
         "dayTime": [
@@ -1585,7 +1618,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT 1",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-1",
         "lect": [
             "ASSOC. PROF. DR. AMANATUZZAKIAH ABDUL HALIM"
         ],
@@ -1687,6 +1720,29 @@
         ]
     },
     {
+        "code": "CHEN 4372",
+        "sect": 1,
+        "title": "SOLID AND HAZARDOUS WASTE ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-4",
+        "lect": [
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "CHEN 4400",
         "sect": 1,
         "title": "FINAL YEAR PROJECT 2",
@@ -1710,8 +1766,7 @@
         "chr": 1.0,
         "venue": "ENG LRM E3-2-2",
         "lect": [
-            "DR. AHMAD BUKHARI BIN RAMLI",
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+            "DR. AHMAD BUKHARI BIN RAMLI"
         ],
         "dayTime": [
             {
@@ -1733,8 +1788,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "17:20"
+                "startTime": "14:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -1974,7 +2029,8 @@
         "lect": [
             "DR. WAN NUR FIRDAUS BINTI WAN HASSAN",
             "DR. SITI NORATIKAH BINTI CHE DERAMAN",
-            "PROF. ABDULLAH AL-MAMUN"
+            "PROF. ABDULLAH AL-MAMUN",
+            "DR. NUR AZLIN BINTI BAHARUDIN"
         ],
         "dayTime": [
             {
@@ -2092,18 +2148,18 @@
         "sect": 1,
         "title": "REINFORCED CONCRETE DESIGN II",
         "chr": 3.0,
-        "venue": "ENG LRM E3-3-1",
+        "venue": "ENG LRM E0-3-28",
         "lect": [
             "DR. SITI ASMAHANI BINTI SAAD"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "15:30",
                 "endTime": "16:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
             }
@@ -2219,7 +2275,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E3-2-4",
         "lect": [
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB"
+            "PROF. IR. DR. RUSLAN BIN HASSAN"
         ],
         "dayTime": [
             {
@@ -2270,9 +2326,10 @@
         "sect": 2,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-16",
         "lect": [
-            "DR. TAHARA RAMADZAN BINTI MD KASSIM"
+            "DR. TAHARA RAMADZAN BINTI MD KASSIM",
+            "DR. NUR AZLIN BINTI BAHARUDIN"
         ],
         "dayTime": [
             {
@@ -2396,8 +2453,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E3-2-3",
         "lect": [
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI",
-            "IR. IZIHAN BIN IBRAHIM"
+            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
         ],
         "dayTime": [
             {
@@ -2485,8 +2541,7 @@
         "chr": 1.0,
         "venue": "ENG LRM E3-2-2",
         "lect": [
-            "DR. AHMAD BUKHARI BIN RAMLI",
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+            "DR. AHMAD BUKHARI BIN RAMLI"
         ],
         "dayTime": [
             {
@@ -2503,6 +2558,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E1-3-21",
         "lect": [
+            "DR. NUR AZLIN BINTI BAHARUDIN",
             "DR. RIJALUL FIKRI"
         ],
         "dayTime": [
@@ -2559,8 +2615,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E0-3-66",
         "lect": [
-            "DR. AHMAD BUKHARI BIN RAMLI",
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+            "DR. AHMAD BUKHARI BIN RAMLI"
         ],
         "dayTime": [
             {
@@ -2582,8 +2637,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "17:20"
+                "startTime": "14:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -2764,6 +2819,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-3-8",
         "lect": [
+            "DR. NUR AZLIN BINTI BAHARUDIN",
             "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
         ],
         "dayTime": [
@@ -2810,7 +2866,8 @@
         "lect": [
             "DR. WAN NUR FIRDAUS BINTI WAN HASSAN",
             "DR. SITI NORATIKAH BINTI CHE DERAMAN",
-            "PROF. ABDULLAH AL-MAMUN"
+            "PROF. ABDULLAH AL-MAMUN",
+            "DR. NUR AZLIN BINTI BAHARUDIN"
         ],
         "dayTime": [
             {
@@ -2844,14 +2901,13 @@
         "sect": 1,
         "title": "INFRASTRUCTURE PLANNING AND DESIGN",
         "chr": 2.0,
-        "venue": "ENG CIVE ENGIN DESIGN LAB E4-2-10",
+        "venue": null,
         "lect": [
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB",
             "PROF. IR. DR. RUSLAN BIN HASSAN",
             "ASSOC. PROF. IR. TS. DR. NORHIDAYU BINTI KASIM",
             "TS. BADERUL HISHAM BIN AHMAD",
             "ASSOC. PROF. IR. TS. DR. NORHIDAYU BINTI KASIM",
-            "PROF. IR. DR. RUSLAN BIN HASSAN"
+            "TS. BADERUL HISHAM BIN AHMAD"
         ],
         "dayTime": [
             {
@@ -3030,9 +3086,9 @@
         "lect": [
             "DR. DANI IRWAN BIN MASBAH",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
-            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN",
             "DR. RIJALUL FIKRI",
             "PROF. IR. DR. RUSLAN BIN HASSAN",
+            "DR. NUR AZLIN BINTI BAHARUDIN",
             "PROF. ABDULLAH AL-MAMUN",
             "IR. DR. NADIAH BINTI MD. HUSAIN",
             "IR. IZIHAN BIN IBRAHIM",
@@ -3047,7 +3103,7 @@
             "DR. AHMAD BUKHARI BIN RAMLI",
             "DR. NUR KHAIRIYAH BINTI BASRI",
             "DR. SITI NORATIKAH BINTI CHE DERAMAN",
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB"
+            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
         ],
         "dayTime": [
             {
@@ -3098,9 +3154,9 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB",
             "DR. WAN NUR FIRDAUS BINTI WAN HASSAN",
             "PROF. IR. DR. RUSLAN BIN HASSAN",
+            "DR. NUR AZLIN BINTI BAHARUDIN",
             "PROF. ABDULLAH AL-MAMUN",
             "IR. DR. NADIAH BINTI MD. HUSAIN",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
@@ -3176,7 +3232,7 @@
         "chr": 3.0,
         "venue": "ENG LT2 E0-1",
         "lect": [
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB"
+            "PROF. IR. DR. RUSLAN BIN HASSAN"
         ],
         "dayTime": [
             {
@@ -3198,8 +3254,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E3-2-3",
         "lect": [
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI",
-            "IR. IZIHAN BIN IBRAHIM"
+            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
         ],
         "dayTime": [
             {
@@ -3298,23 +3353,6 @@
         ]
     },
     {
-        "code": "ECIE 3100",
-        "sect": 1,
-        "title": "SEMINAR",
-        "chr": 1.0,
-        "venue": "ENG AUDI A E2-1-9",
-        "lect": [
-            "ASSOC. PROF. DR. HUDA ADIBAH BT. MOHD. RAMLI"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            }
-        ]
-    },
-    {
         "code": "ECIE 3101",
         "sect": 1,
         "title": "COMPUTER AND INFORMATION ENGINEERING LAB I",
@@ -3333,35 +3371,13 @@
         ]
     },
     {
-        "code": "ECIE 3300",
-        "sect": 1,
-        "title": "INTEGRATED DESIGN PROJECT",
-        "chr": 3.0,
-        "venue": "ENG AUDI A E2-1-9",
-        "lect": [
-            "PROF. DR. ANIS NURASHIKIN BT. NORDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "ECIE 3312",
         "sect": 1,
         "title": "DATA STRUCTURE AND ALGORITHM DESIGN",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. AHMAD FAIRUZABADI BIN MOHD MANSOR"
+            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
         ],
         "dayTime": [
             {
@@ -3373,6 +3389,28 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "ECIE 3313",
+        "sect": 1,
+        "title": "DATA AND COMMUNICATIONS SYSTEMS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -3511,7 +3549,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-2-2",
         "lect": [
-            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN",
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN",
             "ASSOC. PROF. DR. ROSMINAZUIN BT. AB. RAHIM"
         ],
         "dayTime": [
@@ -3546,6 +3584,29 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ECIE 4345",
+        "sect": 1,
+        "title": "MICROELECTROMECHANICAL (MEM) SENSORS, ACTUATORS AND SYSTEMS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-28",
+        "lect": [
+            "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB",
+            "ASSOC. PROF. DR. ROSMINAZUIN BT. AB. RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3617,7 +3678,8 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
+            "ASSOC. PROF. DR. BELAL AHMED HAMIDA",
+            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
         ],
         "dayTime": [
             {
@@ -3705,68 +3767,6 @@
         "dayTime": []
     },
     {
-        "code": "ECOM 3100",
-        "sect": 1,
-        "title": "SEMINAR",
-        "chr": 1.0,
-        "venue": "ENG AUDI A E2-1-9",
-        "lect": [
-            "ASSOC. PROF. DR. HUDA ADIBAH BT. MOHD. RAMLI"
-        ],
-        "dayTime": [
-            {
-                "day": 5,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "ECOM 3300",
-        "sect": 1,
-        "title": "INTEGRATED DESIGN PROJECT",
-        "chr": 3.0,
-        "venue": "ENG AUDI A E2-1-9",
-        "lect": [
-            "PROF. DR. ANIS NURASHIKIN BT. NORDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ECOM 3316",
-        "sect": 1,
-        "title": "DIGITAL COMMUNICATION SYSTEMS DESIGN",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
-        "lect": [
-            "IR. DR. YASSER ASRUL BIN AHMAD",
-            "PROF. DR. OTHMAN OMRAN KHALIFA"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "ECOM 4101",
         "sect": 1,
         "title": "COMMUNICATIONS ENGINEERING LAB II",
@@ -3785,35 +3785,13 @@
         ]
     },
     {
-        "code": "ECOM 4311",
-        "sect": 1,
-        "title": "ANTENNAS AND WAVE PROPAGATION",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-4-6",
-        "lect": [
-            "PROF. DR. MD. RAFIQUL ISLAM"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "ECOM 4312",
         "sect": 1,
         "title": "OPTICAL COMMUNICATIONS",
         "chr": 3.0,
         "venue": "ENG LRM E1-3-19",
         "lect": [
-            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
         ],
         "dayTime": [
             {
@@ -3825,28 +3803,6 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ECOM 4313",
-        "sect": 1,
-        "title": "DATA COMMUNICATIONS AND NETWORKING",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
-        "lect": [
-            "PROF. DR. MOHAMED HADI HABAEBI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -3891,6 +3847,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ECOM 4347",
+        "sect": 1,
+        "title": "WIRELESS NETWORKING",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-21",
+        "lect": [
+            "ASSOC. PROF. DR. SITI NOORJANNAH BT. IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -3992,23 +3970,6 @@
     },
     {
         "code": "EECE 1102",
-        "sect": 3,
-        "title": "ELECTRICAL ENGINEERING LAB 1",
-        "chr": 1.0,
-        "venue": "ENG ECE ELEC&ELETNC LAB B E3-4",
-        "lect": [
-            "DR. MOHD. SHAHNAN BIN ZAINAL ABIDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1102",
         "sect": 4,
         "title": "ELECTRICAL ENGINEERING LAB 1",
         "chr": 1.0,
@@ -4019,23 +3980,6 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1102",
-        "sect": 5,
-        "title": "ELECTRICAL ENGINEERING LAB 1",
-        "chr": 1.0,
-        "venue": "ENG ECE ELEC&ELETNC LAB A E3-3",
-        "lect": [
-            "DR. FARIDAH BINTI ABD. RAHMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
                 "startTime": "14:00",
                 "endTime": "16:50"
             }
@@ -4060,57 +4004,18 @@
     },
     {
         "code": "EECE 1102",
-        "sect": 7,
-        "title": "ELECTRICAL ENGINEERING LAB 1",
-        "chr": 1.0,
-        "venue": "ENG ECE ELEC&ELETNC LAB C E3-4",
-        "lect": [
-            "ASSOC. PROF. DR. ROSMINAZUIN BT. AB. RAHIM"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1102",
         "sect": 8,
         "title": "ELECTRICAL ENGINEERING LAB 1",
         "chr": 1.0,
         "venue": "ENG ECE ELEC&ELETNC LAB C E3-4",
         "lect": [
-            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
         ],
         "dayTime": [
             {
                 "day": 1,
                 "startTime": "14:00",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1311",
-        "sect": 1,
-        "title": "ELECTRIC CIRCUITS",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-4",
-        "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -4339,7 +4244,7 @@
         "sect": 2,
         "title": "PROGRAMMING FOR ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG ECE SOFTWARE ENG LAB E0-3",
+        "venue": "ENG ECE COMP TEACHG LAB E3-2",
         "lect": [
             "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK"
         ],
@@ -4427,7 +4332,7 @@
         "sect": 6,
         "title": "PROGRAMMING FOR ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG ECE COMP TEACHG LAB E3-2",
+        "venue": "ENG ECE SOFTWARE ENG LAB E0-3",
         "lect": [
             "ASSOC. PROF. DR. KHAIRUL AZAMI BIN SIDEK"
         ],
@@ -4757,7 +4662,7 @@
         "sect": 1,
         "title": "ELECTRICAL ENGINEERING LAB 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE MICROELECTRNC LAB E2-3",
         "lect": [
             "PROF. DR. A. H. M. ZAHIRUL ALAM"
         ],
@@ -4774,7 +4679,7 @@
         "sect": 2,
         "title": "ELECTRICAL ENGINEERING LAB 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE MICROELECTRNC LAB E2-3",
         "lect": [
             "PROF. DR. S. M. A. MOTAKABBER"
         ],
@@ -4791,7 +4696,7 @@
         "sect": 1,
         "title": "DIGITAL ELECTRONIC LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE DIG LOGIC MICRO L E2-3",
         "lect": [
             "PROF. DR. AISHA HASSAN ABDALLA HASHIM"
         ],
@@ -4808,7 +4713,7 @@
         "sect": 2,
         "title": "DIGITAL ELECTRONIC LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE DIG LOGIC MICRO L E2-3",
         "lect": [
             "DR. ATHAUR RAHMAN BIN NAJEEB"
         ],
@@ -5042,7 +4947,7 @@
         "sect": 1,
         "title": "AUTOMATION AND INSTRUMENTATION LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE ELEC INST&MEA LAB E2-2",
         "lect": [
             "PROF. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -5059,7 +4964,7 @@
         "sect": 2,
         "title": "AUTOMATION AND INSTRUMENTATION LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE ELEC INST&MEA LAB E2-2",
         "lect": [
             "DR. MOHD. SHAHNAN BIN ZAINAL ABIDIN"
         ],
@@ -5076,9 +4981,9 @@
         "sect": 1,
         "title": "ELECTRICAL AND COMPUTER ENG. LAB III",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE ELEC INST&MEA LAB E2-2",
         "lect": [
-            "DR. NUR SHAHIDA BINTI MIDI"
+            "PROF. TS. DR. TEDDY SURYA GUNAWAN"
         ],
         "dayTime": [
             {
@@ -5098,7 +5003,7 @@
             "PROF. DR. ANIS NURASHIKIN BT. NORDIN",
             "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK",
             "IR. DR. YASSER ASRUL BIN AHMAD",
-            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN",
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN",
             "DR. NUR SHAHIDA BINTI MIDI",
             "DR. FARAH DIYANA BT. ABDUL RAHMAN"
         ],
@@ -5110,6 +5015,28 @@
             },
             {
                 "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "EECE 3311",
+        "sect": 1,
+        "title": "INTRODUCTION TO ELECTRICAL POWER SYSTEMS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-4",
+        "lect": [
+            "ASSOC. PROF. DR. AHMAD ZAMANI BIN JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
             }
@@ -5362,7 +5289,7 @@
         "sect": 1,
         "title": "SOFTWARE ENGINEERING",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-19",
+        "venue": "ENG LRM E3-2-1",
         "lect": [
             "ASSOC. PROF. DR. MALIK ARMAN BIN MORSHIDI",
             "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI"
@@ -5381,36 +5308,13 @@
         ]
     },
     {
-        "code": "EECE 3351",
-        "sect": 1,
-        "title": "COMMUNICATION SYSTEM DESIGN",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
-        "lect": [
-            "IR. DR. YASSER ASRUL BIN AHMAD",
-            "PROF. DR. OTHMAN OMRAN KHALIFA"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "EECE 3361",
         "sect": 1,
         "title": "SEMI CONDUCTOR DEVICES",
         "chr": 3.0,
         "venue": "ENG LRM E2-2-2",
         "lect": [
-            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN",
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN",
             "ASSOC. PROF. DR. ROSMINAZUIN BT. AB. RAHIM"
         ],
         "dayTime": [
@@ -5453,7 +5357,7 @@
         "sect": 1,
         "title": "ADVANCED COMPUTER LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE GEN PURPS COM LAB E0-3",
         "lect": [
             "PROF. DR. MOHAMED HADI HABAEBI",
             "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI"
@@ -5471,8 +5375,10 @@
         "sect": 1,
         "title": "ADVANCED COMMUNICATION LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE ANALOG COMM LAB E2-2",
         "lect": [
+            "ASSOC. PROF. DR. AHMAD ZAMANI BIN JUSOH",
+            "ASSOC. PROF. DR. NORUN FARIHAH BT. ABDUL MALEK",
             "PROF. DR. OTHMAN OMRAN KHALIFA",
             "PROF. DR. MD. RAFIQUL ISLAM"
         ],
@@ -5489,7 +5395,7 @@
         "sect": 1,
         "title": "ADVANCED ELECTRONICS LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE GEN PURPS COM LAB E0-3",
         "lect": [
             "PROF. DR. ANIS NURASHIKIN BT. NORDIN",
             "DR. NURUL ARFAH BINTI CHE MUSTAPHA",
@@ -5497,7 +5403,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "16:50"
             }
@@ -5508,7 +5414,7 @@
         "sect": 1,
         "title": "ADVANCED ELECTRICAL LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE ELECTROMEC SY LAB E0-2",
         "lect": [
             "DR. MOHD FAHMI BIN HUSSIN",
             "DR. MOHD SHAHRIN BIN ABU HANIFAH",
@@ -5518,8 +5424,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -5630,28 +5536,6 @@
         ]
     },
     {
-        "code": "EECE 4315",
-        "sect": 1,
-        "title": "PARALLEL COMPUTING",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-4-19",
-        "lect": [
-            "PROF. TS. DR. TEDDY SURYA GUNAWAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "EECE 4316",
         "sect": 1,
         "title": "ARTIFICIAL INTELLIGENCE",
@@ -5702,7 +5586,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-3-19",
         "lect": [
-            "ASSOC. PROF. DR. NORAZLINA BTE SAIDIN"
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
         ],
         "dayTime": [
             {
@@ -5714,28 +5598,6 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 4321",
-        "sect": 1,
-        "title": "SATELLITE COMMUNICATIONS",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-4",
-        "lect": [
-            "PROF. DR. MD. RAFIQUL ISLAM"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -5872,28 +5734,6 @@
         ]
     },
     {
-        "code": "EECE 4362",
-        "sect": 1,
-        "title": "VLSI SYSTEM DESIGN",
-        "chr": 3.0,
-        "venue": "ENG LRM E3-3-2",
-        "lect": [
-            "PROF. DR. ANIS NURASHIKIN BT. NORDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
         "code": "EECE 4371",
         "sect": 1,
         "title": "HIGH VOLTAGE ENGINEERING",
@@ -5917,36 +5757,14 @@
         ]
     },
     {
-        "code": "EECE 4372",
-        "sect": 1,
-        "title": "ELECTRICAL ENERGY UTILIZATION AND PRACTICE",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-21",
-        "lect": [
-            "ASSOC. PROF. TS. DR. SITI HAJAR BINTI YUSOFF"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "EECE 4400",
         "sect": 1,
         "title": "FINAL YEAR PROJECT 2",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA",
-            "ASSOC. PROF. DR. BELAL AHMED HAMIDA"
+            "ASSOC. PROF. DR. BELAL AHMED HAMIDA",
+            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
         ],
         "dayTime": [
             {
@@ -6071,9 +5889,9 @@
         "sect": 3,
         "title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
         "chr": 3.0,
-        "venue": "ENG LRM E0-3-60",
+        "venue": null,
         "lect": [
-            "PROF. DR. MASJUKI BIN HAJI HASSAN"
+            "ASSOC. PROF. IR. DR. KHAIZURAN BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -6117,6 +5935,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-4-19",
         "lect": [
+            "DR. NUR LIYANA BINTI AZMI",
             "ASSOC. PROF. IR. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
         ],
         "dayTime": [
@@ -6178,11 +5997,57 @@
     },
     {
         "code": "GENE 4301",
+        "sect": 3,
+        "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "ASSOC. PROF. IR. DR. KHAIZURAN BIN ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "GENE 4301",
         "sect": 5,
+        "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-2-1",
+        "lect": [
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN",
+            "ASSOC. PROF. DR. SITI NOORJANNAH BT. IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "GENE 4301",
+        "sect": 6,
         "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
         "chr": 3.0,
         "venue": "ENG LRM E1-4-19",
         "lect": [
+            "DR. NUR LIYANA BINTI AZMI",
             "ASSOC. PROF. IR. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
         ],
         "dayTime": [
@@ -6221,23 +6086,33 @@
         "sect": 1,
         "title": "FUNDAMENTAL OF MANUFACTURING PROCESSES",
         "chr": 2.0,
-        "venue": "ENG LRM E3-2-1",
+        "venue": "ENG LRM E0-3-28",
         "lect": [
-            "DR. NORHUDA HIDAYAH BINTI NORDIN",
-            "ASSOC. PROF. DR. FARAH DIANA BINTI MOHD DAUD"
+            "DR. NORHUDA HIDAYAH BINTI NORDIN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MANU 2281",
+        "sect": 9,
+        "title": "FUNDAMENTAL OF MANUFACTURING PROCESSES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORHUDA HIDAYAH BINTI NORDIN"
+        ],
+        "dayTime": []
     },
     {
         "code": "MANU 3101",
@@ -6687,7 +6562,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "MUHAMMAD ZAKWAN BIN MOHD IZAM",
+            "DR. ADIBAH BT. AMIR",
             "IR. TS. DR. (CMILT M.I.E.M.) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
         ],
         "dayTime": [
@@ -6805,29 +6680,6 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "MANU 4211",
-        "sect": 5,
-        "title": "TECHNOLOGY ENTREPRENEURSHIP",
-        "chr": 2.0,
-        "venue": "ENG LT1 E0-1",
-        "lect": [
-            "DR. NUR IDAYU BINTI AYOB",
-            "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -6994,7 +6846,7 @@
         "sect": 1,
         "title": "MICROMANUFACTURING TECHNOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E1-3-19",
         "lect": [
             "DR. AFIFAH BINTI MOHD ALI"
         ],
@@ -7040,7 +6892,8 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI HARYANI BINTI TOMADI"
+            "DR. SITI HARYANI BINTI TOMADI",
+            "DR. ADIBAH BT. AMIR"
         ],
         "dayTime": [
             {
@@ -7057,6 +6910,21 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
+            "IR. TS. DR. (CMILT M.I.E.M.) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN",
+            "IR. DR. YANG CHUAN CHOONG",
+            "DR. ADIBAH BT. AMIR",
+            "DR. ABD. MALEK BIN ABDUL HAMID",
+            "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
+            "ASSOC. PROF. DR. SHARIFAH IMIHEZRI BT. SYED SHAHARUDDIN",
+            "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF",
+            "PROF. IR. DR. MD YUSOF BIN ISMAIL",
+            "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR",
+            "DR. AFIFAH BINTI MOHD ALI",
+            "DR. SUHAILY BINTI MOKHTAR",
+            "DR. AISHAH NAJIAH BT. DAHNEL",
+            "DR. SHAFIE BIN KAMARUDDIN",
+            "DR. NOR FARAH HUDA BINTI ABD HALIM",
+            "DR. SITI HARYANI BINTI TOMADI",
             "DR. ADIBAH BT. AMIR"
         ],
         "dayTime": [
@@ -7376,6 +7244,28 @@
         ]
     },
     {
+        "code": "MATH 1320",
+        "sect": 7,
+        "title": "ENGINEERING MATHEMATICS II",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-1-1",
+        "lect": [
+            "DR. MOHD SAIFUL RIZA BIN BASHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "MATH 1321",
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 2",
@@ -7926,11 +7816,33 @@
         ]
     },
     {
+        "code": "MATH 2311",
+        "sect": 16,
+        "title": "DIFFERENTIAL EQUATIONS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "PROF. DR. ABDUMALIK RAKHIMOV"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MATH 2330",
         "sect": 1,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-4",
+        "venue": "ENG LRM E1-3-24",
         "lect": [
             "ASSOC. PROF. DR. JAMAL I. DAOUD"
         ],
@@ -7939,6 +7851,11 @@
                 "day": 2,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             },
             {
                 "day": 4,
@@ -8080,24 +7997,35 @@
         ]
     },
     {
+        "code": "MATH 2330",
+        "sect": 9,
+        "title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MATH 2340",
         "sect": 1,
         "title": "COMPLEX ANALYSIS AND NUMERICAL METHODS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-4",
+        "venue": "ENG LRM E1-3-21",
         "lect": [
             "DR. KARTINI BINTI AHMAD"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -8239,6 +8167,40 @@
         ]
     },
     {
+        "code": "MATR 3102",
+        "sect": 1,
+        "title": "MATERIALS ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MD. ABDUL MALEQUE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MATR 3300",
+        "sect": 1,
+        "title": "INTERGRATED DESIGN PROJECT",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-09",
+        "lect": [
+            "ASSOC. PROF. DR. NOORASIKIN BT. SAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
         "code": "MATR 3311",
         "sect": 1,
         "title": "HEAT TREATMENT AND MICROSTRUCTURE CONTROL",
@@ -8358,20 +8320,20 @@
         "sect": 1,
         "title": "CORROSION AND DEGRADATION",
         "chr": 3.0,
-        "venue": "ENG LRM E0-3-20",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. MOHD. HANAFI BIN ANI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -8472,21 +8434,21 @@
         "sect": 1,
         "title": "ELECTROCERAMICS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-21",
+        "venue": "ENG LRM E0-3-28",
         "lect": [
             "DR. NUR IDAYU BINTI AYOB",
             "ASSOC. PROF. DR. FARAH DIANA BINTI MOHD DAUD"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
             },
             {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -8495,7 +8457,7 @@
         "sect": 1,
         "title": "POWDER METALLURGY",
         "chr": 3.0,
-        "venue": "ENG LRM E3-3-1",
+        "venue": "ENG LRM E0-3-60",
         "lect": [
             "TS. DR. NORITA BINTI HASSAN",
             "PROF. DR. MD. ABDUL MALEQUE"
@@ -8720,7 +8682,7 @@
         "sect": 1,
         "title": "FUNDAMENTALS OF FLUID MECHANICS",
         "chr": 2.0,
-        "venue": "ENG LRM E1-4-19",
+        "venue": "ENG LRM E2-1-4",
         "lect": [
             "DR. AZNI NABELA BINTI WAHID"
         ],
@@ -8897,7 +8859,7 @@
         "sect": 2,
         "title": "DIGITAL SYSTEM DESIGN AND MICROPROCESSOR",
         "chr": 3.0,
-        "venue": "ENG AUDI A E2-1-9",
+        "venue": "ENG LRM E0-3-66",
         "lect": [
             "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH",
             "DR. HAZLINA BT. MD. YUSOF"
@@ -9211,29 +9173,6 @@
     },
     {
         "code": "MCTA 3331",
-        "sect": 1,
-        "title": "ENGINEERING DESIGN AND RELIABILITY",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-10",
-        "lect": [
-            "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID",
-            "PROF. DR. MD. RAISUDDIN KHAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MCTA 3331",
         "sect": 2,
         "title": "ENGINEERING DESIGN AND RELIABILITY",
         "chr": 3.0,
@@ -9370,7 +9309,7 @@
         "sect": 2,
         "title": "INDUSTRIAL AUTOMATION",
         "chr": 3.0,
-        "venue": "ENG LRM E2-4-7",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. ABD HALIM BIN EMBONG",
             "DR. MARMEEZEE BIN MOHD YUSOFF"
@@ -9412,29 +9351,6 @@
         ]
     },
     {
-        "code": "MCTA 3353",
-        "sect": 2,
-        "title": "CONTROL SYSTEMS 2",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-4-16",
-        "lect": [
-            "DR. AIMI SHAZWANI BINTI GHAZALI",
-            "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
         "code": "MCTA 3371",
         "sect": 1,
         "title": "COMPUTATIONAL INTELLIGENCE",
@@ -9463,7 +9379,8 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-1-15",
         "lect": [
-            "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI"
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN",
+            "PROF. DR. AMIR AKRAMIN BIN SHAFIE"
         ],
         "dayTime": [
             {
@@ -9624,6 +9541,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-4-6",
         "lect": [
+            "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI",
             "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
@@ -9740,11 +9658,55 @@
         ]
     },
     {
+        "code": "MCTE 2311",
+        "sect": 1,
+        "title": "SIGNAL AND SYSTEMS ANALYSIS",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-2-3",
+        "lect": [
+            "DR. WAHJU SEDIONO"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MCTE 2311",
+        "sect": 2,
+        "title": "SIGNAL AND SYSTEMS ANALYSIS",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-3-2",
+        "lect": [
+            "DR. HASMAWATI BT. ANTONG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "MCTE 2332",
         "sect": 1,
         "title": "DIGITAL SYSTEM AND MICROPROCESSOR",
         "chr": 3.0,
-        "venue": "ENG LRM E3-3-1",
+        "venue": "ENG LRM E0-3-66",
         "lect": [
             "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH",
             "DR. HAZLINA BT. MD. YUSOF"
@@ -9752,13 +9714,35 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MCTE 2333",
+        "sect": 1,
+        "title": "INSTRUMENTATION AND MEASUREMENTS",
+        "chr": 3.0,
+        "venue": "ENG LRM E3-2-3",
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -9843,29 +9827,6 @@
     {
         "code": "MCTE 3271",
         "sect": 1,
-        "title": "ENGINERING DESIGN",
-        "chr": 2.0,
-        "venue": "ENG LRM E1-3-10",
-        "lect": [
-            "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID",
-            "PROF. DR. MD. RAISUDDIN KHAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MCTE 3271",
-        "sect": 2,
         "title": "ENGINERING DESIGN",
         "chr": 2.0,
         "venue": "ENG LRM E3-3-1",
@@ -9998,47 +9959,24 @@
         ]
     },
     {
-        "code": "MCTE 3313",
-        "sect": 2,
-        "title": "CONTROL SYSTEMS II",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-4-16",
-        "lect": [
-            "DR. AIMI SHAZWANI BINTI GHAZALI",
-            "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "MCTE 3372",
+        "code": "MCTE 3352",
         "sect": 1,
-        "title": "ENGINEERING SYSTEM RELIABILITY",
+        "title": "DESIGN OF MACHINE ELEMENTS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-2-17",
+        "venue": "ENG LRM E3-2-2",
         "lect": [
-            "ASSOC. PROF. DR. ABD HALIM BIN EMBONG"
+            "DR. MOHD ASYRAF BIN MOHD RAZIB"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -10089,25 +10027,6 @@
     },
     {
         "code": "MCTE 4105",
-        "sect": 1,
-        "title": "MECHATRONICS LAB III",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "DR. HAZLINA BT. MD. YUSOF",
-            "DR. FARAHIYAH BINTI JASNI",
-            "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MCTE 4105",
         "sect": 2,
         "title": "MECHATRONICS LAB III",
         "chr": 1.0,
@@ -10130,7 +10049,7 @@
         "sect": 1,
         "title": "DIGITAL SIGNAL PROCESSING",
         "chr": 3.0,
-        "venue": "ENG LRM E3-2-2",
+        "venue": null,
         "lect": [
             "DR. WAHJU SEDIONO"
         ],
@@ -10176,7 +10095,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-2-17",
         "lect": [
-            "DR. AIMI SHAZWANI BINTI GHAZALI"
+            "ASSOC. PROF. IR. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF"
         ],
         "dayTime": [
             {
@@ -10220,7 +10139,8 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-1-15",
         "lect": [
-            "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI"
+            "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI",
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
             {
@@ -10506,7 +10426,7 @@
         "sect": 1,
         "title": "THERMAL SCIENCE",
         "chr": 2.0,
-        "venue": "ENG LRM E1-4-19",
+        "venue": "ENG LRM E0-3-66",
         "lect": [
             "DR. MOHD ASYRAF BIN MOHD RAZIB",
             "DR. AZNI NABELA BINTI WAHID"
@@ -10806,6 +10726,50 @@
         ]
     },
     {
+        "code": "MECH 1340",
+        "sect": 11,
+        "title": "ENGINEERING MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "ASSOC. PROF. DR. SANY IZAN IHSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MECH 1340",
+        "sect": 12,
+        "title": "ENGINEERING MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-20",
+        "lect": [
+            "DR. ADIB HAMDANI BIN ROSLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "MECH 2100",
         "sect": 1,
         "title": "INTRODUCTION TO MECHANICAL ENGINEERING",
@@ -10909,6 +10873,17 @@
                 "endTime": "15:20"
             }
         ]
+    },
+    {
+        "code": "MECH 2326",
+        "sect": 9,
+        "title": "AEROSPACE DYNAMICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. DWI PEBRIANTI"
+        ],
+        "dayTime": []
     },
     {
         "code": "MECH 2340",
@@ -11033,13 +11008,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "23:30",
+                "endTime": "01:20"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "23:30",
+                "endTime": "01:20"
             }
         ]
     },
@@ -11056,13 +11031,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "23:30",
+                "endTime": "01:20"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "23:30",
+                "endTime": "01:20"
             }
         ]
     },
@@ -11121,15 +11096,77 @@
         ]
     },
     {
+        "code": "MECH 3211",
+        "sect": 1,
+        "title": "INSTRUMENTATIONS AND MEASUREMENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3211",
+        "sect": 2,
+        "title": "INSTRUMENTATIONS AND MEASUREMENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MECH 3241",
         "sect": 1,
         "title": "INTRODUCTION TO IOT AND APPLICATIONS",
         "chr": 2.0,
         "venue": "ENG MEC COMPUTER LAB E4-2",
         "lect": [
+            "DR. MUHAMMAD AFIF BIN HUSMAN",
             "DR. MOHD AZAN BIN MOHAMMED SAPARDI",
             "TO BE DETERMINED",
             "DR. MUHAMMAD BIN ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3242",
+        "sect": 1,
+        "title": "IOT AND APPLICATIONS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -11172,7 +11209,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E1-3-20",
         "lect": [
-            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN BIN RIDHUAN SIRADJ"
+            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN"
         ],
         "dayTime": [
             {
@@ -11216,7 +11253,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-1-10",
         "lect": [
-            "PROF. DR. WALEED FEKRY FARIS"
+            "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
         ],
         "dayTime": [
             {
@@ -11250,28 +11287,6 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MECH 3321",
-        "sect": 1,
-        "title": "AIRCRAFTS STRUCTURES I",
-        "chr": 3.0,
-        "venue": "ENG LRM E0-3-60",
-        "lect": [
-            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -11392,8 +11407,7 @@
         "chr": 3.0,
         "venue": "ENG MEC COMPUTER LAB E4-2",
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB",
-            "PROF. DR. MEFTAH HRAIRI"
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
         ],
         "dayTime": [
             {
@@ -11409,6 +11423,17 @@
         ]
     },
     {
+        "code": "MECH 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MECH 4111",
         "sect": 1,
         "title": "MECHANICAL ENGINEERING LAB 3",
@@ -11417,9 +11442,9 @@
         "lect": [
             "IR. DR. MOHD FARID BIN ALADDIN",
             "IR. AMIRO IQBAL BIN MOHD AMINUDIN",
+            "DR. MUHAMMAD BIN ABDULLAH",
             "DR. MOHD AZAN BIN MOHAMMED SAPARDI",
-            "DR. HILMI BIN HELA LADIN",
-            "PROF. DR. MOHAMMED ATAUR RAHMAN"
+            "DR. HILMI BIN HELA LADIN"
         ],
         "dayTime": [
             {
@@ -11439,7 +11464,7 @@
             "IR. DR. MOHD FARID BIN ALADDIN",
             "DR. ADIB HAMDANI BIN ROSLI",
             "DR. MUHAMMAD BIN ABDULLAH",
-            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN BIN RIDHUAN SIRADJ"
+            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN"
         ],
         "dayTime": [
             {
@@ -11472,7 +11497,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT 1",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "DR. MUHAMMAD BIN ABDULLAH"
         ],
@@ -11621,28 +11646,6 @@
         ]
     },
     {
-        "code": "MECH 4323",
-        "sect": 1,
-        "title": "ENERGY CONVERSION TECHNOLOGY",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-4",
-        "lect": [
-            "ASSOC. PROF. DR. SANY IZAN IHSAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "MECH 4326",
         "sect": 1,
         "title": "AEROSPACE VEHICLE DESIGN",
@@ -11731,28 +11734,6 @@
         ]
     },
     {
-        "code": "MECH 4335",
-        "sect": 1,
-        "title": "VEHICLE SYSTEMS DESIGN",
-        "chr": 3.0,
-        "venue": "ENG LRM E0-3-28",
-        "lect": [
-            "DR. ADIB HAMDANI BIN ROSLI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "MECH 4354",
         "sect": 1,
         "title": "ENERGY AND THE ENVIRONMENT",
@@ -11779,20 +11760,20 @@
         "sect": 1,
         "title": "ROCKET PROPULSION",
         "chr": 3.0,
-        "venue": "ENG LRM E3-2-4",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:30"
             },
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -11801,7 +11782,7 @@
         "sect": 1,
         "title": "COMPUTER AIDED ENGINEERING",
         "chr": 3.0,
-        "venue": "ENG LRM E3-2-3",
+        "venue": "ENG MEC COMPUTER LAB E4-2",
         "lect": [
             "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
         ],
@@ -11946,11 +11927,12 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
+            "PROF. DR. AHMAD FARIS BIN ISMAIL",
             "DR. SANISAH BT. SAHARIN",
-            "PROF. DR. MEFTAH HRAIRI",
             "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID",
+            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI",
             "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH",
-            "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
+            "PROF. DR. MEFTAH HRAIRI"
         ],
         "dayTime": []
     },
@@ -11965,7 +11947,7 @@
             "PROF. DR. WAQAR ASRAR",
             "DR. SYED NOH BIN SYED ABU BAKAR",
             "DR. MUHAMMAD BIN ABDULLAH",
-            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN BIN RIDHUAN SIRADJ",
+            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN",
             "DR. MOHD AZAN BIN MOHAMMED SAPARDI",
             "DR. NABILAH BT. RAMLI"
         ],
@@ -12023,7 +12005,7 @@
         "sect": 1,
         "title": "COMPUTER AIDED DRAWING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG CAD LAB E3-3",
         "lect": [
             "TS. DR. KAMARULZAMAN BIN MAHMAD KHAIRAI"
         ],
@@ -12037,10 +12019,27 @@
     },
     {
         "code": "MFGA 1201",
-        "sect": 3,
+        "sect": 2,
         "title": "COMPUTER AIDED DRAWING",
         "chr": 2.0,
         "venue": null,
+        "lect": [
+            "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 1201",
+        "sect": 3,
+        "title": "COMPUTER AIDED DRAWING",
+        "chr": 2.0,
+        "venue": "ENG CAD LAB E3-3",
         "lect": [
             "DR. AFIFAH BINTI MOHD ALI"
         ],
@@ -12057,7 +12056,7 @@
         "sect": 5,
         "title": "COMPUTER AIDED DRAWING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG CAD LAB E3-3",
         "lect": [
             "DR. AISHAH NAJIAH BT. DAHNEL"
         ],
@@ -12074,7 +12073,7 @@
         "sect": 6,
         "title": "COMPUTER AIDED DRAWING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG CAD LAB E3-3",
         "lect": [
             "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR"
         ],
@@ -12091,7 +12090,7 @@
         "sect": 7,
         "title": "COMPUTER AIDED DRAWING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG CAD LAB E3-3",
         "lect": [
             "DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
@@ -12533,7 +12532,7 @@
         "sect": 4,
         "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
         "chr": 3.0,
-        "venue": "ENG LRM E0-1-16",
+        "venue": null,
         "lect": [
             "PROF. DR. NASSERELDEEN AHMED KABBASHI"
         ],
@@ -12883,29 +12882,6 @@
     },
     {
         "code": "MFGA 4210",
-        "sect": 5,
-        "title": "TECHNOLOGY ENTREPRENEURSHIP",
-        "chr": 2.0,
-        "venue": "ENG LT1 E0-1",
-        "lect": [
-            "DR. NUR IDAYU BINTI AYOB",
-            "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "MFGA 4210",
         "sect": 6,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
@@ -13142,7 +13118,7 @@
         "sect": 1,
         "title": "FUNDAMENTAL OF MATERIALS SCIENCE AND ENGINEERING",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-24",
+        "venue": "ENG LRM E1-3-20",
         "lect": [
             "ASSOC. PROF. TS. DR. NOOR AZLINA BINTI HASSAN",
             "PROF. IR. DR. ZURAIDA BT. AHMAD"
@@ -13426,7 +13402,7 @@
         "sect": 1,
         "title": "INTEGRATED DESIGN PROJECT",
         "chr": 3.0,
-        "venue": "ENG LT1 E0-1",
+        "venue": null,
         "lect": [
             "PROF. IR. DR. ZURAIDA BT. AHMAD",
             "DR. NUR AYUNI BINTI JAMAL",
