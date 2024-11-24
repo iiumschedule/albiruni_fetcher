@@ -10,9 +10,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -27,9 +27,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -251,11 +251,23 @@
                 "day": 1,
                 "startTime": "09:00",
                 "endTime": "10:00"
-            },
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4109",
+        "sect": 2,
+        "title": "COMMUNITY MEDICINE",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -270,14 +282,26 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:00"
-            },
-            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4210",
+        "sect": 2,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ADHAM SHAH BIN AYEOP"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -295,9 +319,21 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:00"
-            },
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4305",
+        "sect": 2,
+        "title": "FAMILY MEDICINE I",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HUSNA BINTI AZMI"
+        ],
+        "dayTime": [
             {
-                "day": 5,
+                "day": 4,
                 "startTime": "11:00",
                 "endTime": "12:00"
             }
@@ -314,14 +350,26 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "12:00",
-                "endTime": "13:00"
-            },
-            {
                 "day": 5,
                 "startTime": "08:00",
                 "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4404",
+        "sect": 2,
+        "title": "EMERGENCY AND TRAUMA",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ABDUS-SYAKUR BIN ABU HASAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -336,14 +384,26 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:00"
-            },
-            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4503",
+        "sect": 2,
+        "title": "OTORHINOLARYNGOLOGY - HEAD AND NECK SURGERY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZWAN HALIM B ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -358,12 +418,24 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "15:00",
                 "endTime": "16:00"
-            },
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4603",
+        "sect": 2,
+        "title": "OPHTHALMOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULHILMI BIN ABDUL RAZAK"
+        ],
+        "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "15:00",
                 "endTime": "16:00"
             }
@@ -380,14 +452,26 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "16:00",
-                "endTime": "17:00"
-            },
-            {
                 "day": 3,
                 "startTime": "16:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4703",
+        "sect": 2,
+        "title": "ANAESTHESIOLOGY AND CRITICAL CARE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHIR ASRAF BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -402,14 +486,26 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            },
-            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4803",
+        "sect": 2,
+        "title": "RADIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD SHAHRIR BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },

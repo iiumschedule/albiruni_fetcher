@@ -15,9 +15,29 @@
                 "endTime": "11:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -31,6 +51,21 @@
             "PROF. DR. IDA MADIEHA BT. ABDUL GHANI AZMI"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
             {
                 "day": 2,
                 "startTime": "11:00",
@@ -60,13 +95,18 @@
             },
             {
                 "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "14:50"
             },
             {
-                "day": 2,
-                "startTime": "15:00",
-                "endTime": "15:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 4,
@@ -138,14 +178,29 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
             },
             {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -165,9 +220,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -187,9 +257,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -198,7 +288,7 @@
         "sect": 2,
         "title": "MALAYSIAN LEGAL SYSTEM",
         "chr": 3.0,
-        "venue": "AIKOL LR 3.6 3.6",
+        "venue": "AIKOL MM 3.11 3.11",
         "lect": [
             "DR. NOR HAFIZAH BT MOHD BADROL AFANDI"
         ],
@@ -242,7 +332,7 @@
         "chr": 3.0,
         "venue": "AIKOL MM 1.5 1.5",
         "lect": [
-            "TO BE DETERMINED"
+            "SITI JUNAIDAH MUHAMAD"
         ],
         "dayTime": [
             {
@@ -251,9 +341,29 @@
                 "endTime": "11:50"
             },
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -328,7 +438,7 @@
         "chr": 3.0,
         "venue": "AIKOL MM 1.9 1.9",
         "lect": [
-            "TO BE DETERMINED"
+            "SITI JUNAIDAH MUHAMAD"
         ],
         "dayTime": [
             {
@@ -337,9 +447,19 @@
                 "endTime": "12:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -348,7 +468,7 @@
         "sect": 1,
         "title": "LEGAL METHOD",
         "chr": 3.0,
-        "venue": "AIKOL LR 3.8 3.8",
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "DATIN ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
@@ -370,18 +490,13 @@
         "sect": 2,
         "title": "LEGAL METHOD",
         "chr": 3.0,
-        "venue": "AIKOL LR 3.8 3.8",
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "DATIN ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:50"
-            },
-            {
-                "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
             },
@@ -389,11 +504,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:50"
-            },
-            {
-                "day": 4,
-                "startTime": "12:00",
-                "endTime": "12:50"
             }
         ]
     },
@@ -450,9 +560,24 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -519,9 +644,19 @@
                 "endTime": "09:50"
             },
             {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -541,11 +676,6 @@
                 "endTime": "10:50"
             },
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "10:50"
-            },
-            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
@@ -554,6 +684,11 @@
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
@@ -625,11 +760,6 @@
                 "endTime": "11:50"
             },
             {
-                "day": 1,
-                "startTime": "12:00",
-                "endTime": "12:50"
-            },
-            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "09:50"
@@ -643,6 +773,11 @@
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -674,9 +809,19 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -729,15 +874,40 @@
         "sect": 1,
         "title": "CRIMINAL LAW I",
         "chr": 3.0,
-        "venue": "AIKOL MM 3.3 3.3",
+        "venue": "AIKOL LR 4.8 4.8",
         "lect": [
             "DR. MOHD. IQBAL BIN ABDUL WAHAB"
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -788,7 +958,7 @@
         "sect": 3,
         "title": "CRIMINAL LAW I",
         "chr": 3.0,
-        "venue": "AIKOL MM 3.2 3.2",
+        "venue": "MOOT COURT AIKOL",
         "lect": [
             "DR. MAZLENA BINTI MOHAMAD HUSSAIN"
         ],
@@ -797,6 +967,26 @@
                 "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 4,
@@ -852,35 +1042,75 @@
         "sect": 5,
         "title": "CRIMINAL LAW I",
         "chr": 3.0,
-        "venue": "AIKOL MM 1.5 1.5",
+        "venue": "AIKOL MM 3.2 3.2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. FARIZA MILAQURSHIAH BINTI MAHMUD"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
-                "day": 3,
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
-                "day": 4,
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -900,9 +1130,24 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -923,18 +1168,23 @@
             },
             {
                 "day": 1,
-                "startTime": "15:00",
-                "endTime": "15:50"
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 2,
                 "startTime": "16:00",
                 "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -955,11 +1205,6 @@
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "14:50"
-            },
-            {
-                "day": 4,
                 "startTime": "14:00",
                 "endTime": "14:50"
             }
@@ -998,19 +1243,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
                 "day": 4,
-                "startTime": "16:00",
-                "endTime": "16:50"
+                "startTime": "17:00",
+                "endTime": "17:50"
             },
             {
                 "day": 4,
-                "startTime": "17:00",
-                "endTime": "17:50"
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -1030,14 +1280,44 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -1102,6 +1382,36 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -1158,9 +1468,29 @@
                 "endTime": "11:50"
             },
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -1169,7 +1499,7 @@
         "sect": 1,
         "title": "ENVIRONMENTAL LAW",
         "chr": 3.0,
-        "venue": "AIKOL MM 2.8 2.8",
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "DATIN ASSOC. PROF. DR. MAIZATUN BT MUSTAFA"
         ],
@@ -1200,6 +1530,21 @@
                 "day": 1,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -1485,14 +1830,14 @@
                 "endTime": "15:50"
             },
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "11:50"
-            },
-            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -1504,18 +1849,55 @@
         "venue": "AIKOL MM 3.10 3.10",
         "lect": [
             "MADAM SUZANNA BT. KAMARUZZAMAN",
+            "MR. IBRAHIM BIN ISMAIL",
+            "MADAM SUZANNA BT. KAMARUZZAMAN",
             "MR. IBRAHIM BIN ISMAIL"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
             {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -1526,13 +1908,28 @@
         "chr": 3.0,
         "venue": "AIKOL MM 1.5 1.5",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. TO' PUAN DR. NOR ASIAH BINTI MOHAMAD"
         ],
         "dayTime": [
             {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1569,9 +1966,19 @@
         ],
         "dayTime": [
             {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -1586,9 +1993,39 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -1644,25 +2081,30 @@
         "sect": 3,
         "title": "LAND LAW I",
         "chr": 3.0,
-        "venue": "AIKOL MM 1.8 1.8",
+        "venue": "AIKOL MM 4.9 4.9",
         "lect": [
             "DR. KHARIYAH BINTI MAT YAMAN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "12:00",
-                "endTime": "12:50"
+                "startTime": "11:00",
+                "endTime": "11:50"
             },
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "startTime": "12:00",
+                "endTime": "12:50"
             },
             {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 2,
@@ -1692,9 +2134,39 @@
                 "endTime": "11:50"
             },
             {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -1715,6 +2187,21 @@
             },
             {
                 "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "09:50"
             }
@@ -1767,7 +2254,7 @@
         "sect": 1,
         "title": "LAND LAW II",
         "chr": 3.0,
-        "venue": "AIKOL MM 3.3 3.3",
+        "venue": "AIKOL MM 3.9 3.9",
         "lect": [
             "DR. AZMI BIN HARUN"
         ],
@@ -1838,6 +2325,11 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -1852,9 +2344,29 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 4,
@@ -1874,14 +2386,39 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -1904,6 +2441,21 @@
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -1914,7 +2466,7 @@
         "chr": 3.0,
         "venue": "AIKOL MM 3.3 3.3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HALYANI BINTI HASSAN"
         ],
         "dayTime": [
             {
@@ -1923,9 +2475,39 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -1948,11 +2530,6 @@
                 "day": 1,
                 "startTime": "15:00",
                 "endTime": "15:50"
-            },
-            {
-                "day": 1,
-                "startTime": "16:00",
-                "endTime": "16:50"
             },
             {
                 "day": 3,
@@ -1998,8 +2575,8 @@
             },
             {
                 "day": 2,
-                "startTime": "12:00",
-                "endTime": "12:50"
+                "startTime": "08:00",
+                "endTime": "08:50"
             },
             {
                 "day": 2,
@@ -2029,9 +2606,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -2067,8 +2664,8 @@
             },
             {
                 "day": 4,
-                "startTime": "12:00",
-                "endTime": "12:50"
+                "startTime": "08:00",
+                "endTime": "08:50"
             },
             {
                 "day": 4,
@@ -2093,9 +2690,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -2116,13 +2733,13 @@
             },
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "startTime": "09:00",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
@@ -2133,6 +2750,11 @@
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -2155,6 +2777,31 @@
                 "day": 1,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 3,
@@ -2180,6 +2827,11 @@
             },
             {
                 "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "14:50"
             },
@@ -2191,7 +2843,7 @@
             {
                 "day": 5,
                 "startTime": "09:00",
-                "endTime": "11:50"
+                "endTime": "10:50"
             }
         ]
     },
@@ -2214,6 +2866,26 @@
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -2233,9 +2905,34 @@
                 "endTime": "12:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -2255,9 +2952,29 @@
                 "endTime": "12:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -2272,14 +2989,34 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
             },
             {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -2352,16 +3089,11 @@
             },
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
-                "day": 2,
-                "startTime": "15:00",
-                "endTime": "15:50"
-            },
-            {
-                "day": 2,
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
@@ -2369,6 +3101,11 @@
                 "day": 5,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -2377,11 +3114,36 @@
         "sect": 2,
         "title": "PROFESSIONAL ETHICS",
         "chr": 2.0,
-        "venue": "AIKOL MM 3.3 3.3",
+        "venue": "AIKOL MM 3.11 3.11",
         "lect": [
             "DR. SHUKRIAH BT. MOHD. SHERIFF"
         ],
         "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
             {
                 "day": 5,
                 "startTime": "11:00",
@@ -2394,15 +3156,35 @@
         "sect": 3,
         "title": "PROFESSIONAL ETHICS",
         "chr": 2.0,
-        "venue": "AIKOL MM 3.11 3.11",
+        "venue": "AIKOL LT A LTA",
         "lect": [
             "ASSOC. PROF. DR. FARHEEN BAIG BINTI SARDAR BAIG"
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
                 "day": 5,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -2413,9 +3195,49 @@
         "chr": 2.0,
         "venue": "AIKOL MM 3.2 3.2",
         "lect": [
-            "TO BE DETERMINED"
+            "WAQIYUDDIN NA'IMULLAH BIN AB KADIR"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
             {
                 "day": 5,
                 "startTime": "11:00",
@@ -2508,14 +3330,9 @@
                 "endTime": "12:50"
             },
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "08:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 4,
@@ -2529,8 +3346,8 @@
             },
             {
                 "day": 4,
-                "startTime": "08:00",
-                "endTime": "08:50"
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -2551,8 +3368,8 @@
             },
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "09:50"
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 1,
@@ -2566,8 +3383,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "08:50"
+                "startTime": "09:00",
+                "endTime": "09:50"
             },
             {
                 "day": 5,
@@ -2581,15 +3398,35 @@
         "sect": 3,
         "title": "EVIDENCE I",
         "chr": 3.0,
-        "venue": "AIKOL MM 1.5 1.5",
+        "venue": "AIKOL MM 4.3 4.3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD ISMAIL BIN HJ MOHD YUNUS"
         ],
         "dayTime": [
             {
                 "day": 2,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -2614,7 +3451,27 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
                 "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
             }
@@ -2636,24 +3493,19 @@
                 "endTime": "12:50"
             },
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "11:50"
-            },
-            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 4,
-                "startTime": "15:00",
-                "endTime": "15:50"
+                "startTime": "11:00",
+                "endTime": "11:50"
             },
             {
                 "day": 4,
@@ -2721,6 +3573,16 @@
             },
             {
                 "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 5,
                 "startTime": "12:00",
                 "endTime": "12:50"
             },
@@ -2728,11 +3590,6 @@
                 "day": 5,
                 "startTime": "11:00",
                 "endTime": "11:50"
-            },
-            {
-                "day": 5,
-                "startTime": "12:00",
-                "endTime": "12:50"
             }
         ]
     },
@@ -2779,6 +3636,41 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "10:50"
@@ -2796,9 +3688,29 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -2813,9 +3725,49 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -2833,6 +3785,26 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 2,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            },
+            {
+                "day": 4,
+                "startTime": "16:30",
+                "endTime": "17:30"
             }
         ]
     },
@@ -2860,13 +3832,33 @@
         "chr": 3.0,
         "venue": "AIKOL MM 3.2 3.2",
         "lect": [
-            "TO BE DETERMINED"
+            "DATO' JULITA ILHANI BINTI ABDUL JABBAR"
         ],
         "dayTime": [
             {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -2886,9 +3878,49 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -2918,11 +3950,6 @@
                 "endTime": "09:50"
             },
             {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:50"
@@ -2931,6 +3958,11 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3017,9 +4049,54 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 2,
                 "startTime": "08:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
             },
             {
                 "day": 4,
@@ -3047,6 +4124,51 @@
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -3113,9 +4235,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3133,6 +4275,31 @@
                 "day": 2,
                 "startTime": "08:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
@@ -3167,19 +4334,19 @@
                 "endTime": "11:50"
             },
             {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "08:50"
-            },
-            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -3204,11 +4371,6 @@
                 "endTime": "15:50"
             },
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "14:50"
-            },
-            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:50"
@@ -3222,6 +4384,16 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -3283,9 +4455,29 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -3299,20 +4491,57 @@
         "sect": 1,
         "title": "NIZAM AL-TASHRI' AL-ISLAMI (ISLAMIC LEGAL SYSTEM)",
         "chr": 3.0,
-        "venue": "AIKOL MM 1.4 1.4",
+        "venue": "AIKOL MM 4.3 4.3",
         "lect": [
             "DR. GHAZALI BIN JAAPAR"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
             {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "SHAA 1351",
+        "sect": 2,
+        "title": "NIZAM AL-TASHRI' AL-ISLAMI (ISLAMIC LEGAL SYSTEM)",
+        "chr": 3.0,
+        "venue": "AIKOL LR 3.8 3.8",
+        "lect": [
+            "MUHAMMAD NABIQUL HAKIM BIN AZUAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -3332,9 +4561,24 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3345,18 +4589,18 @@
         "chr": 3.0,
         "venue": "AIKOL MM 2.4 2.4",
         "lect": [
-            "DR. MUHAMMAD NAIM BIN OMAR"
+            "DR. UZAIMAH BINTI IBRAHIM"
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "08:50"
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:50"
             },
             {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "08:50"
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:30"
             }
         ]
     },
@@ -3376,9 +4620,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -3403,9 +4662,9 @@
                 "endTime": "08:50"
             },
             {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -3423,6 +4682,11 @@
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
             },
             {
                 "day": 4,
@@ -3458,8 +4722,8 @@
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "11:00",
+                "endTime": "11:50"
             },
             {
                 "day": 4,
@@ -3489,9 +4753,29 @@
                 "endTime": "10:50"
             },
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
             }
         ]
     },
@@ -3502,7 +4786,7 @@
         "chr": 3.0,
         "venue": "AIKOL MM 1.4 1.4",
         "lect": [
-            "DR. UZAIMAH BINTI IBRAHIM"
+            "DR. MUHAMMAD NAIM BIN OMAR"
         ],
         "dayTime": [
             {
@@ -3514,6 +4798,26 @@
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -3524,13 +4828,18 @@
         "chr": 3.0,
         "venue": "AIKOL LR 3.8 3.8",
         "lect": [
-            "DR. GHAZALI BIN JAAPAR"
+            "MUHAMMAD NABIQUL HAKIM BIN AZUAR"
         ],
         "dayTime": [
             {
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -3555,7 +4864,27 @@
                 "endTime": "09:50"
             },
             {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "09:50"
             }
@@ -3572,9 +4901,24 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "08:00",
                 "endTime": "08:50"
+            },
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -3599,9 +4943,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3619,6 +4978,11 @@
                 "day": 1,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 3,
@@ -3683,6 +5047,26 @@
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -3702,9 +5086,39 @@
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3719,6 +5133,16 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
@@ -3727,6 +5151,11 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -3735,20 +5164,40 @@
         "sect": 1,
         "title": "USUL AL FIQH IV (PRINCIPLES OF ISLAMIC JURISPRUDENCE IV)",
         "chr": 3.0,
-        "venue": "AIKOL LR 3.7 3.7",
+        "venue": "AIKOL MM 4.3 4.3",
         "lect": [
             "ASSOC. PROF. DR. BADRUDDIN BIN HJ IBRAHIM"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
             {
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -3854,12 +5303,7 @@
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "15:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "endTime": "14:50"
             },
             {
                 "day": 4,
@@ -3922,8 +5366,18 @@
             },
             {
                 "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 2,
                 "startTime": "15:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
                 "day": 2,
@@ -3953,6 +5407,21 @@
                 "endTime": "10:50"
             },
             {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
@@ -3975,6 +5444,11 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
@@ -3992,14 +5466,44 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 2,
                 "startTime": "08:00",
                 "endTime": "08:50"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "08:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -4019,9 +5523,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -4042,13 +5566,13 @@
             },
             {
                 "day": 1,
-                "startTime": "12:00",
-                "endTime": "12:50"
+                "startTime": "17:00",
+                "endTime": "17:50"
             },
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
@@ -4062,40 +5586,13 @@
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "14:50"
-            }
-        ]
-    },
-    {
-        "code": "SHAS 2327",
-        "sect": 1,
-        "title": "ISLAMIC LEGAL MAXIMS",
-        "chr": 3.0,
-        "venue": "AIKOL LR 1.3 1.3",
-        "lect": [
-            "DR. MUHAMMAD NAIM BIN OMAR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
                 "startTime": "16:00",
                 "endTime": "16:50"
             },
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "09:50"
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -4110,14 +5607,29 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -4154,6 +5666,21 @@
                 "endTime": "09:50"
             },
             {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
@@ -4176,6 +5703,21 @@
                 "endTime": "11:50"
             },
             {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
@@ -4193,14 +5735,29 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
             }
         ]
     },
@@ -4220,31 +5777,29 @@
                 "endTime": "10:50"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "SHAS 2387",
-        "sect": 1,
-        "title": "OBJECTIVES OF SHARIAH",
-        "chr": 3.0,
-        "venue": "AIKOL MM 1.10 1.10",
-        "lect": [
-            "ASSOC. PROF. DR. BADRUDDIN BIN HJ IBRAHIM"
-        ],
-        "dayTime": [
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
                 "endTime": "15:50"
             },
             {
                 "day": 3,
-                "startTime": "16:00",
-                "endTime": "16:50"
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -4264,9 +5819,29 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
             }
         ]
     },
@@ -4286,6 +5861,26 @@
                 "endTime": "09:50"
             },
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "09:50"
@@ -4293,11 +5888,22 @@
         ]
     },
     {
+        "code": "SHAS 3358",
+        "sect": 2,
+        "title": "ISLAMIC BANKING LAW AND TAKAFUL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AHMAD AZAM BIN OTHMAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "SHAS 3368",
         "sect": 1,
         "title": "ISLAMIC LAW OF SUCCESSION",
         "chr": 3.0,
-        "venue": "AIKOL MM 1.9 1.9",
+        "venue": "AIKOL LR 3.6 3.6",
         "lect": [
             "DR. WAN NORAINI BINTI MOHD SALIM"
         ],
@@ -4314,8 +5920,8 @@
             },
             {
                 "day": 1,
-                "startTime": "15:00",
-                "endTime": "15:50"
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 3,
@@ -4346,8 +5952,18 @@
             },
             {
                 "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 1,
                 "startTime": "15:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 1,
@@ -4377,9 +5993,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4399,9 +6030,24 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -4421,9 +6067,24 @@
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -4465,24 +6126,29 @@
                 "endTime": "11:50"
             },
             {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "14:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "09:50"
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -4500,6 +6166,21 @@
                 "day": 1,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
@@ -4524,19 +6205,19 @@
                 "endTime": "09:50"
             },
             {
-                "day": 2,
-                "startTime": "12:00",
-                "endTime": "12:50"
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
             },
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 3,
@@ -4640,14 +6321,39 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -4663,13 +6369,33 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -4678,20 +6404,40 @@
         "sect": 4,
         "title": "EVIDENCE OF SHARI'AH COURT",
         "chr": 3.0,
-        "venue": "AIKOL LT A LTA",
+        "venue": "AIKOL LT B LTB",
         "lect": [
             "MADAM FATIMAWATI BINTI ISMAIL"
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "10:50"
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -4709,6 +6455,36 @@
                 "day": 1,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
             },
             {
                 "day": 3,

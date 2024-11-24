@@ -4,7 +4,7 @@
         "sect": 1,
         "title": "THE ORGANIZATION OF THE SCHOOL CO-CURRICULUM",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
             "MOHD FAIZUL AZLI BIN ABDUL MUDZAFAR"
         ],
@@ -21,7 +21,7 @@
         "sect": 2,
         "title": "THE ORGANIZATION OF THE SCHOOL CO-CURRICULUM",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "ASSOC. PROF. DR. ABDUL SHAKOUR DUNCAN PREECE"
         ],
@@ -38,7 +38,7 @@
         "sect": 3,
         "title": "THE ORGANIZATION OF THE SCHOOL CO-CURRICULUM",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "MOHD FAIZUL AZLI BIN ABDUL MUDZAFAR"
         ],
@@ -55,7 +55,7 @@
         "sect": 4,
         "title": "THE ORGANIZATION OF THE SCHOOL CO-CURRICULUM",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "ASSOC. PROF. DR. ABDUL SHAKOUR DUNCAN PREECE"
         ],
@@ -72,9 +72,9 @@
         "sect": 1,
         "title": "CURRICULUM AND INSTRUCTION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
-            "DR. MOHAMAD RIDHUAN BIN ABDULLAH"
+            "DR. HASNIZA BINTI IBRAHIM"
         ],
         "dayTime": [
             {
@@ -94,9 +94,9 @@
         "sect": 2,
         "title": "CURRICULUM AND INSTRUCTION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 34 1.0",
         "lect": [
-            "DR. HASNIZA BINTI IBRAHIM"
+            "DR. MOHAMAD RIDHUAN BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -116,7 +116,7 @@
         "sect": 3,
         "title": "CURRICULUM AND INSTRUCTION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 26 3.86",
         "lect": [
             "DR. HASNIZA BINTI IBRAHIM"
         ],
@@ -193,20 +193,20 @@
         "sect": 1,
         "title": "THEORIES OF PERSONALITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
             "PROF. DR. NIK AHMAD HISHAM B. ISMAIL"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "10:30",
+                "endTime": "11:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "10:30",
+                "endTime": "11:50"
             }
         ]
     },
@@ -215,7 +215,7 @@
         "sect": 1,
         "title": "EDUCATIONAL PSYCHOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "ASSOC. PROF. DR. SITI RAFIAH ABD. HAMID"
         ],
@@ -237,9 +237,53 @@
         "sect": 2,
         "title": "EDUCATIONAL PSYCHOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "DR. NOORLILA BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "EDEP 1103",
+        "sect": 3,
+        "title": "EDUCATIONAL PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": "EDU LR 18B 2.7",
+        "lect": [
+            "DR. NOORLILA BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "EDEP 1103",
+        "sect": 4,
+        "title": "EDUCATIONAL PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": "EDU LR 30 3.79",
+        "lect": [
+            "ASSOC. PROF. DR. MASTURA BTE BADZIS"
         ],
         "dayTime": [
             {
@@ -259,15 +303,15 @@
         "sect": 1,
         "title": "UNDERSTANDING STUDENTS WITH SPECIAL EDUCATIONAL NEEDS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
             "ASSOC. PROF. DR. AISHAH HANIM BINTI ABD KARIM"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -276,7 +320,7 @@
         "sect": 2,
         "title": "UNDERSTANDING STUDENTS WITH SPECIAL EDUCATIONAL NEEDS",
         "chr": 2.0,
-        "venue": "EDU LR 18 B 2.7",
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
             "ASSOC. PROF. DR. AISHAH HANIM BINTI ABD KARIM"
         ],
@@ -293,7 +337,7 @@
         "sect": 3,
         "title": "UNDERSTANDING STUDENTS WITH SPECIAL EDUCATIONAL NEEDS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
             "ASSOC. PROF. DR. AISHAH HANIM BINTI ABD KARIM"
         ],
@@ -310,9 +354,9 @@
         "sect": 1,
         "title": "TESTING AND ASSESSMENT IN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
-            "DR. WIRAWANI BINTI KAMARULZAMAN"
+            "DR. MADIHAH BINTI KHALID"
         ],
         "dayTime": [
             {
@@ -327,7 +371,7 @@
         "sect": 2,
         "title": "TESTING AND ASSESSMENT IN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LT 3 3.3",
         "lect": [
             "DR. WIRAWANI BINTI KAMARULZAMAN"
         ],
@@ -344,9 +388,9 @@
         "sect": 3,
         "title": "TESTING AND ASSESSMENT IN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
-            "DR. WIRAWANI BINTI KAMARULZAMAN"
+            "DR. MADIHAH BINTI KHALID"
         ],
         "dayTime": [
             {
@@ -361,9 +405,9 @@
         "sect": 4,
         "title": "TESTING AND ASSESSMENT IN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. WIRAWANI BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -378,7 +422,7 @@
         "sect": 1,
         "title": "MORAL DEVELOPMENT FROM THE PSYCHOLOGICAL PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
@@ -400,7 +444,7 @@
         "sect": 1,
         "title": "MORAL DEVELOPMENT FROM THE SOCIOLOGICAL PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
@@ -422,7 +466,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO MORAL PHILOSOPHY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
@@ -444,7 +488,7 @@
         "sect": 1,
         "title": "MORAL PHILOSOPHY FROM ISLAMIC PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
@@ -466,7 +510,7 @@
         "sect": 1,
         "title": "CURRICULUM OF MORAL EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
@@ -488,7 +532,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING MORAL EDUCATION I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
             "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
@@ -505,7 +549,7 @@
         "sect": 2,
         "title": "METHODS OF TEACHING MORAL EDUCATION I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "ASSOC. PROF. DR. SUHAILAH BINTI HUSSIEN"
         ],
@@ -522,7 +566,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING MORAL EDUCATION II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
         ],
@@ -539,7 +583,7 @@
         "sect": 1,
         "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
             "ASSOC. PROF. DR. AZAM BIN OTHMAN"
         ],
@@ -561,7 +605,7 @@
         "sect": 2,
         "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
         ],
@@ -583,7 +627,7 @@
         "sect": 3,
         "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
@@ -605,9 +649,9 @@
         "sect": 4,
         "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
-            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
+            "ASSOC. PROF. DR. AFAREEZ BIN ABD RAZAK AL-HAFIZ"
         ],
         "dayTime": [
             {
@@ -627,7 +671,7 @@
         "sect": 5,
         "title": "HISTORICAL AND PHILOSOPHICAL FOUNDATIONS OF MALAYSIAN EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
             "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
         ],
@@ -649,13 +693,13 @@
         "sect": 1,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:50"
             }
@@ -666,15 +710,15 @@
         "sect": 2,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -683,7 +727,7 @@
         "sect": 3,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
@@ -700,7 +744,7 @@
         "sect": 4,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "ASSOC. PROF. DR. ISMAIL HUSSEIN AMZAT"
         ],
@@ -717,7 +761,7 @@
         "sect": 5,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "DR. JAFAR PARAMBOOR"
         ],
@@ -734,9 +778,9 @@
         "sect": 1,
         "title": "TOOLS FOR THINKING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
-            "DR. NAZATUL AKMAR BT MOKHTAR"
+            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
         "dayTime": [
             {
@@ -751,7 +795,7 @@
         "sect": 2,
         "title": "TOOLS FOR THINKING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "DR. JAFAR PARAMBOOR"
         ],
@@ -768,9 +812,9 @@
         "sect": 3,
         "title": "TOOLS FOR THINKING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
-            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
+            "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
         "dayTime": [
             {
@@ -785,18 +829,18 @@
         "sect": 1,
         "title": "INTRODUCTION TO SCHOOL COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
             "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
             }
@@ -807,20 +851,20 @@
         "sect": 1,
         "title": "THEORIES OF GUIDANCE AND COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "DR. NORWATI BINTI MANSOR"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -829,7 +873,7 @@
         "sect": 1,
         "title": "LEGAL AND ETHICAL ISSUES IN COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
@@ -851,7 +895,7 @@
         "sect": 1,
         "title": "INDIVIDUAL APPRAISAL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
@@ -873,7 +917,7 @@
         "sect": 1,
         "title": "GUIDANCE AND COUNSELING PROGRAMME PLANNING AND EVALUATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "DR. PUTERI AZLIAN MEGAT RAMLI"
         ],
@@ -895,9 +939,9 @@
         "sect": 1,
         "title": "INTRODUCTION TO STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
-            "DR. NOORLILA BINTI AHMAD"
+            "ASSOC. PROF. DR. MOHD BURHAN BIN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -917,7 +961,7 @@
         "sect": 1,
         "title": "COUNSELING LAB I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 34 1.0",
         "lect": [
             "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
@@ -934,15 +978,15 @@
         "sect": 2,
         "title": "COUNSELING LAB I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD FHADIL BIN AB RASHID"
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "12:50"
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:50"
             }
         ]
     },
@@ -951,9 +995,9 @@
         "sect": 1,
         "title": "COUNSELING SKILLS FOR TEACHERS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD FHADIL BIN AB RASHID"
         ],
         "dayTime": [
             {
@@ -968,13 +1012,13 @@
         "sect": 2,
         "title": "COUNSELING SKILLS FOR TEACHERS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
-            "TO BE DETERMINED"
+            "AINA' MARDHIYYAH BINTI MOHAMAD NOOR"
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 2,
                 "startTime": "17:30",
                 "endTime": "19:20"
             }
@@ -985,7 +1029,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO GROUP COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "DR. NURSYAHIDAH BINTI KHALID"
         ],
@@ -1007,20 +1051,20 @@
         "sect": 1,
         "title": "CAREER DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
-            "TO BE DETERMINED"
+            "ENCIK WAN MOHD ASHMIRULLAH BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "18:30",
+                "endTime": "19:50"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:20"
             }
         ]
     },
@@ -1029,7 +1073,7 @@
         "sect": 1,
         "title": "COUNSELING LAB II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
             "DR. SITI KHOLIJAH BINTI KASSIM"
         ],
@@ -1046,7 +1090,7 @@
         "sect": 1,
         "title": "CAREER COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
             "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
@@ -1063,15 +1107,15 @@
         "sect": 1,
         "title": "PSYCHO-EDUCATIONAL AND CONSULTATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD NAZRUL BIN AZIZI"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
+                "startTime": "17:00",
+                "endTime": "19:50"
             }
         ]
     },
@@ -1080,20 +1124,20 @@
         "sect": 1,
         "title": "INTRODUCTION TO MARRIAGE AND FAMILY COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1102,9 +1146,9 @@
         "sect": 1,
         "title": "ADOLESCENT DEVELOPMENT IN COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SITI RAFIAH ABD. HAMID"
         ],
         "dayTime": [
             {
@@ -1119,7 +1163,7 @@
         "sect": 1,
         "title": "RESEARCH METHODS IN COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 26 3.86",
         "lect": [
             "ASSOC. PROF. DR. MASTURA BTE BADZIS"
         ],
@@ -1189,7 +1233,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SITI KHOLIJAH BINTI KASSIM"
+            "DR. NURSYAHIDAH BINTI KHALID"
         ],
         "dayTime": [
             {
@@ -1206,7 +1250,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
+            "DR. PUTERI AZLIAN MEGAT RAMLI"
         ],
         "dayTime": [
             {
@@ -1223,7 +1267,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. PUTERI AZLIAN MEGAT RAMLI"
+            "DR. SITI KHOLIJAH BINTI KASSIM"
         ],
         "dayTime": [
             {
@@ -1240,7 +1284,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NURSYAHIDAH BINTI KHALID"
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
         "dayTime": [
             {
@@ -1266,101 +1310,13 @@
                 "endTime": "18:00"
             }
         ]
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 1,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 2,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. SSEKAMANYA SIRAJE ABDALLAH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 3,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NORWATI BINTI MANSOR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 4,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NURSYAHIDAH BINTI KHALID"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 5,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. PUTERI AZLIAN MEGAT RAMLI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 6,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. SITI KHOLIJAH BINTI KASSIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 7,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EDGC 3903",
-        "sect": 8,
-        "title": "COUNSELING PRACTICUM",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
-        ],
-        "dayTime": []
     },
     {
         "code": "EDGC 4008",
         "sect": 1,
         "title": "CROSS-CULTURAL COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 34 1.0",
         "lect": [
             "ASSOC. PROF. DR. SSEKAMANYA SIRAJE ABDALLAH"
         ],
@@ -1382,20 +1338,20 @@
         "sect": 1,
         "title": "ISLAMIC APPROACH TO COUNSELING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
             "DR. NORWATI BINTI MANSOR"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -1404,7 +1360,7 @@
         "sect": 1,
         "title": "SEMINAR IN COUNSELING: PROFESSIONAL AND HUMAN DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LAB 1 2.44",
         "lect": [
             "DR. NURSYAHIDAH BINTI KHALID"
         ],
@@ -1421,7 +1377,7 @@
         "sect": 1,
         "title": "MENTAL HEALTH IN SCHOOL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 26 3.86",
         "lect": [
             "PROF. DR. NIK AHMAD HISHAM B. ISMAIL"
         ],
@@ -1478,7 +1434,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. SITI KHOLIJAH BINTI KASSIM"
+            "DR. NURSYAHIDAH BINTI KHALID"
         ],
         "dayTime": []
     },
@@ -1489,7 +1445,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
+            "DR. PUTERI AZLIAN MEGAT RAMLI"
         ],
         "dayTime": []
     },
@@ -1500,7 +1456,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. PUTERI AZLIAN MEGAT RAMLI"
+            "DR. SITI KHOLIJAH BINTI KASSIM"
         ],
         "dayTime": []
     },
@@ -1511,7 +1467,7 @@
         "chr": 6.0,
         "venue": null,
         "lect": [
-            "DR. NURSYAHIDAH BINTI KHALID"
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
         "dayTime": []
     },
@@ -1531,7 +1487,7 @@
         "sect": 1,
         "title": "QURANIC AND PROPHETIC TEXTS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
         ],
@@ -1548,15 +1504,32 @@
         "sect": 1,
         "title": "TAJWID AND HIFZ",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "EDIE 1301",
+        "sect": 2,
+        "title": "TAJWID AND HIFZ",
+        "chr": 2.0,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "17:20"
+                "startTime": "14:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -1565,7 +1538,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO SCIENCES OF QUR'AN AND HADITH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
         ],
@@ -1587,13 +1560,13 @@
         "sect": 1,
         "title": "ARABIC AND JAWI SCRIPT",
         "chr": 1.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "ASSOC. PROF. DR. ARIFIN B. MAMAT"
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "15:00"
             }
@@ -1604,7 +1577,7 @@
         "sect": 1,
         "title": "FIQH IBADAT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "ZAENAL MUTAQIN"
         ],
@@ -1626,7 +1599,7 @@
         "sect": 2,
         "title": "FIQH IBADAT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "ZAENAL MUTAQIN"
         ],
@@ -1648,7 +1621,7 @@
         "sect": 1,
         "title": "FIQH AL-SIRAH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
         ],
@@ -1670,7 +1643,7 @@
         "sect": 2,
         "title": "FIQH AL-SIRAH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
         ],
@@ -1692,7 +1665,7 @@
         "sect": 1,
         "title": "PHILOSOPHY OF ISLAMIC EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
             "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
         ],
@@ -1709,7 +1682,7 @@
         "sect": 2,
         "title": "PHILOSOPHY OF ISLAMIC EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
             "ASSOC. PROF. DR. ABDUL SHAKOUR DUNCAN PREECE"
         ],
@@ -1726,7 +1699,7 @@
         "sect": 1,
         "title": "FIQH AL-USRAH AND AL-MU'AMALAT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
             "DR. ABDUL GAFUR ARIFIN"
         ],
@@ -1748,7 +1721,7 @@
         "sect": 2,
         "title": "FIQH AL-USRAH AND AL-MU'AMALAT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 34 1.0",
         "lect": [
             "DR. ABDUL GAFUR ARIFIN"
         ],
@@ -1770,7 +1743,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO 'ILM AL-MANTIQ",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
             "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
         ],
@@ -1778,7 +1751,7 @@
             {
                 "day": 4,
                 "startTime": "09:00",
-                "endTime": "11:00"
+                "endTime": "10:50"
             }
         ]
     },
@@ -1787,15 +1760,15 @@
         "sect": 1,
         "title": "ETHICS IN EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
-            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+            "DR. ABDUL GAFUR ARIFIN"
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "09:00",
-                "endTime": "10:50"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -1804,15 +1777,15 @@
         "sect": 2,
         "title": "ETHICS IN EDUCATION",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
-            "PROF. DR. DAWOOD ABDULMALEK YAHYA AL-HIDABI"
+            "DR. ABDUL GAFUR ARIFIN"
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "09:00",
-                "endTime": "10:50"
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:50"
             }
         ]
     },
@@ -1821,7 +1794,7 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY IN ISLAMIC EDUCATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
             "ASSOC. PROF. DR. ARIFIN B. MAMAT"
         ],
@@ -1838,7 +1811,7 @@
         "sect": 1,
         "title": "ISLAMIC THEOLOGICAL THOUGHT",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
             "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
         ],
@@ -1855,7 +1828,7 @@
         "sect": 1,
         "title": "AL-QAWAID AL-FIQHIYYAH AND AL-MAQASID AL-SHAR'IYYAH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
             "ASSOC. PROF. DR. ARIFIN B. MAMAT"
         ],
@@ -1877,7 +1850,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING ISLAMIC EDUCATION I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
             "DR. HALIM BIN ISMAIL"
         ],
@@ -1911,7 +1884,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO FIQH AL-JINAYAT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "DR. ABDUL GAFUR ARIFIN"
         ],
@@ -1933,9 +1906,9 @@
         "sect": 1,
         "title": "DA'WAH AND LEADERSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 26 3.86",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. AHMAD REMANDA BIN KHOLIL"
         ],
         "dayTime": [
             {
@@ -1955,9 +1928,9 @@
         "sect": 2,
         "title": "DA'WAH AND LEADERSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 29 3.75",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. AHMAD REMANDA BIN KHOLIL"
         ],
         "dayTime": [
             {
@@ -1977,7 +1950,7 @@
         "sect": 1,
         "title": "'AQIDAH ISLAMIYYAH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
         ],
@@ -1999,18 +1972,18 @@
         "sect": 2,
         "title": "'AQIDAH ISLAMIYYAH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "08:30",
                 "endTime": "09:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
             }
@@ -2021,9 +1994,9 @@
         "sect": 1,
         "title": "USUL AL-FIQH AND TARIKH AL-TASHRI'",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
-            "TO BE DETERMINED"
+            "FATIMAH MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -2043,9 +2016,9 @@
         "sect": 1,
         "title": "TAFSIR AL-AYAT AND AL-HADITH AL-AHKAM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
-            "TO BE DETERMINED"
+            "FATIMAH MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -2065,24 +2038,7 @@
         "sect": 1,
         "title": "INFORMATION TECHNOLOGY IN TEACHING AND LEARNING",
         "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. TUNKU BADARIAH BINTI TUNKU AHMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "EDIT 1301",
-        "sect": 2,
-        "title": "INFORMATION TECHNOLOGY IN TEACHING AND LEARNING",
-        "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LAB 4 3.88",
         "lect": [
             "DR. AIZAT BIN SHAMSUDDIN"
         ],
@@ -2099,7 +2055,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO DIGITAL PHOTOGRAPHY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "DR. MOHD. SHUKRI BIN NORDIN"
         ],
@@ -2116,66 +2072,102 @@
         "sect": 1,
         "title": "INSTRUCTIONAL TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LAB 4 3.88",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SAKINAH BINTI AHMAD NASARUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
     },
     {
         "code": "EDIT 1303",
         "sect": 2,
         "title": "INSTRUCTIONAL TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LAB 4 3.88",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SAKINAH BINTI AHMAD NASARUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
     },
     {
         "code": "EDIT 1303",
         "sect": 3,
         "title": "INSTRUCTIONAL TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LAB 4 3.88",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SAKINAH BINTI AHMAD NASARUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
     },
     {
         "code": "EDIT 1303",
         "sect": 4,
         "title": "INSTRUCTIONAL TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LAB 4 3.88",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SAKINAH BINTI AHMAD NASARUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:20"
+            }
+        ]
     },
     {
         "code": "EDIT 1303",
         "sect": 5,
         "title": "INSTRUCTIONAL TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LAB 4 3.88",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SAKINAH BINTI AHMAD NASARUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:20"
+            }
+        ]
     },
     {
         "code": "EDIT 1303",
         "sect": 6,
         "title": "INSTRUCTIONAL TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LAB 1 2.44",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NUR SAKINAH BINTI AHMAD NASARUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ]
     },
     {
         "code": "EDIT 1602",
@@ -2184,7 +2176,7 @@
         "chr": 3.0,
         "venue": "EDU LAB 4 3.88",
         "lect": [
-            "DR. MOHD. SHUKRI BIN NORDIN"
+            "DR. AIZAT BIN SHAMSUDDIN"
         ],
         "dayTime": [
             {
@@ -2195,22 +2187,11 @@
         ]
     },
     {
-        "code": "EDIT 2203",
-        "sect": 1,
-        "title": "INSTRUCTIONAL DESIGN AND MULTIMEDIA",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
         "code": "EDIT 2604",
         "sect": 1,
         "title": "INTERNET APPLICATIONS IN EDUCATION",
         "chr": 3.0,
-        "venue": "EDU LAB 1 2.44",
+        "venue": "EDU LAB 4 3.88",
         "lect": [
             "DR. MOHD. SHUKRI BIN NORDIN"
         ],
@@ -2244,7 +2225,7 @@
         "sect": 1,
         "title": "MANAGING INFORMATION TECHNOLOGY",
         "chr": 3.0,
-        "venue": "EDU LAB 4 3.88",
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "DR. SULAIMAN BIN HASHIM"
         ],
@@ -2261,7 +2242,7 @@
         "sect": 1,
         "title": "ARABIC MORPHOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "ABD WAHAB BIN ZAKARIA"
         ],
@@ -2283,7 +2264,7 @@
         "sect": 1,
         "title": "ARABIC SYNTAX I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "DR. MOHAMAD LUKMAN AL HAKIM BIN MD. NOOR"
         ],
@@ -2305,7 +2286,7 @@
         "sect": 2,
         "title": "ARABIC SYNTAX I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "DR. MOHAMAD LUKMAN AL HAKIM BIN MD. NOOR"
         ],
@@ -2327,7 +2308,7 @@
         "sect": 1,
         "title": "ARABIC MORPHOLOGY I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "DR. NURAZZELENA BINTI ABDULLAH"
         ],
@@ -2349,7 +2330,7 @@
         "sect": 1,
         "title": "ARABIC PHONOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 36 1.0",
         "lect": [
             "ASSOC. PROF. DR. SUERAYA CHE HARON"
         ],
@@ -2371,7 +2352,7 @@
         "sect": 2,
         "title": "ARABIC PHONOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "ASSOC. PROF. DR. SUERAYA CHE HARON"
         ],
@@ -2393,9 +2374,9 @@
         "sect": 1,
         "title": "RHETORICAL, \"AL-MA'ANI SCIENCES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
-            "DR. ZAKARIA BIN OMAR"
+            "DR. SHAMSUDIN B. MOHD NOOR"
         ],
         "dayTime": [
             {
@@ -2415,7 +2396,7 @@
         "sect": 2,
         "title": "RHETORICAL, \"AL-MA'ANI SCIENCES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "DR. KHADIJAH KHALILAH BINTI ABDUL RASHID"
         ],
@@ -2437,7 +2418,7 @@
         "sect": 1,
         "title": "LEARNING LANGUAGE SKILLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "DR. SHAMSUDIN B. MOHD NOOR"
         ],
@@ -2459,7 +2440,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING ARABIC LANGUAGE I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "DR. ERFAN ABDELDAIM MOHAMED AHMED ABDALLA"
         ],
@@ -2476,7 +2457,7 @@
         "sect": 2,
         "title": "METHODS OF TEACHING ARABIC LANGUAGE I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "DR. ERFAN ABDELDAIM MOHAMED AHMED ABDALLA"
         ],
@@ -2493,7 +2474,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO GENERAL LINGUISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "DR. RAHMAT BIN ABDULLAH"
         ],
@@ -2515,7 +2496,7 @@
         "sect": 1,
         "title": "ARABIC MORPHOLOGY II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU TR 2 (LEVEL 3) 3.024",
         "lect": [
             "DR. NURAZZELENA BINTI ABDULLAH"
         ],
@@ -2537,7 +2518,7 @@
         "sect": 1,
         "title": "ARABIC SYNTAX II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
             "DR. MOHAMAD LUKMAN AL HAKIM BIN MD. NOOR"
         ],
@@ -2559,7 +2540,7 @@
         "sect": 2,
         "title": "ARABIC SYNTAX II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 15 (PG SIDE LVL 2) 2.2",
         "lect": [
             "DR. MOHAMAD LUKMAN AL HAKIM BIN MD. NOOR"
         ],
@@ -2581,7 +2562,7 @@
         "sect": 1,
         "title": "MODERN ARABIC LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "DR. WAN RUSLI BIN WAN AHMAD"
         ],
@@ -2603,20 +2584,20 @@
         "sect": 1,
         "title": "AL-BAYAN WA AL-BADI' SCIENCES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "DR. ERFAN ABDELDAIM MOHAMED AHMED ABDALLA"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:20"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 4,
+                "startTime": "09:30",
+                "endTime": "10:50"
             }
         ]
     },
@@ -2625,7 +2606,7 @@
         "sect": 2,
         "title": "AL-BAYAN WA AL-BADI' SCIENCES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 30 3.79",
         "lect": [
             "DR. ERFAN ABDELDAIM MOHAMED AHMED ABDALLA"
         ],
@@ -2647,7 +2628,7 @@
         "sect": 1,
         "title": "SYLLABUS DESIGN AND MATERIALS PREPARATION FOR TASL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "DR. KHADIJAH KHALILAH BINTI ABDUL RASHID"
         ],
@@ -2669,15 +2650,15 @@
         "sect": 1,
         "title": "METHODS OF TEACHING ARABIC LANGUAGE II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
             "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "11:20"
+                "startTime": "08:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -2686,15 +2667,15 @@
         "sect": 2,
         "title": "METHODS OF TEACHING ARABIC LANGUAGE II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -2703,7 +2684,7 @@
         "sect": 1,
         "title": "ARABIC SYNTAX III",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "ASSOC. PROF. DR. SUERAYA CHE HARON"
         ],
@@ -2725,7 +2706,7 @@
         "sect": 2,
         "title": "ARABIC SYNTAX III",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "ASSOC. PROF. DR. SUERAYA CHE HARON"
         ],
@@ -2747,7 +2728,7 @@
         "sect": 1,
         "title": "CLASSICAL PROSE TEXTS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
             "ABD WAHAB BIN ZAKARIA"
         ],
@@ -2769,9 +2750,9 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 34 1.0",
         "lect": [
-            "DR. NURAZZELENA BINTI ABDULLAH"
+            "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
         ],
         "dayTime": [
             {
@@ -2786,7 +2767,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO MODERN ISLAMIC LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "DR. WAN RUSLI BIN WAN AHMAD"
         ],
@@ -2808,7 +2789,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO MODERN ISLAMIC LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "DR. WAN RUSLI BIN WAN AHMAD"
         ],
@@ -2830,7 +2811,7 @@
         "sect": 1,
         "title": "LINGUISTICS FOR THE ELT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "PROF. DR. ISMAIL B. SHEIKH AHMAD"
         ],
@@ -2852,7 +2833,7 @@
         "sect": 1,
         "title": "GRAMMATICAL ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "DR. MOHAIDA BINTI MOHIN"
         ],
@@ -2874,7 +2855,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "DR. MOHAIDA BINTI MOHIN"
         ],
@@ -2896,9 +2877,9 @@
         "sect": 1,
         "title": "INTRODUCTION TO ELT METHODOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
-            "DR. MOHAIDA BINTI MOHIN"
+            "PROF. DR. NOOR LIDE BTE. ABU KASSIM"
         ],
         "dayTime": [
             {
@@ -2918,9 +2899,9 @@
         "sect": 1,
         "title": "PSYCHO-SOCIOLINGUISTIC PERSPECTIVES IN ENGLISH LANGUAGE TEACHER",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
-            "DR. MOHAMMAD AZANNEE SAAD"
+            "MOHAMMAD HUZAIFA SIDDIQUI"
         ],
         "dayTime": [
             {
@@ -2940,7 +2921,7 @@
         "sect": 1,
         "title": "PHONOLOGY FOR ENGLISH LANGUAGE TEACHER",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "PROF. DR. AINOL MADZIAH BT. ZUBAIRI"
         ],
@@ -2962,7 +2943,7 @@
         "sect": 1,
         "title": "SYLLABUS DESIGN AND MATERIALS PREPARATION FOR TESL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "PROF. DR. NOOR LIDE BTE. ABU KASSIM"
         ],
@@ -2984,7 +2965,7 @@
         "sect": 1,
         "title": "SEMANTICS FOR ENGLISH LANGUAGE TEACHER",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "DR. MOHAMMAD AZANNEE SAAD"
         ],
@@ -3006,7 +2987,7 @@
         "sect": 1,
         "title": "DISCOURSE ANALYSIS FOR ELT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 18B 2.7",
         "lect": [
             "DR. MOHAMMAD AZANNEE SAAD"
         ],
@@ -3028,7 +3009,7 @@
         "sect": 1,
         "title": "ISSUES IN TESL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "PROF. DR. RATNAWATI BT MOHD. ASRAF"
         ],
@@ -3050,7 +3031,7 @@
         "sect": 1,
         "title": "ACTION RESEARCH FOR ESL TEACHER",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "PROF. DR. RATNAWATI BT MOHD. ASRAF"
         ],
@@ -3089,7 +3070,7 @@
         "sect": 1,
         "title": "TEACHING WRITING IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 21 3.68",
         "lect": [
             "ASSOC. PROF. DR. ZAINURIN BIN ABD RAHMAN"
         ],
@@ -3111,7 +3092,7 @@
         "sect": 1,
         "title": "TEACHING READING IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "PROF. DR. ISMAIL B. SHEIKH AHMAD"
         ],
@@ -3133,7 +3114,7 @@
         "sect": 1,
         "title": "TEACHING LISTENING AND SPEAKING IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "PROF. DR. ISMAIL B. SHEIKH AHMAD"
         ],
@@ -3155,20 +3136,20 @@
         "sect": 1,
         "title": "TEACHING GRAMMAR IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 20 3.67",
         "lect": [
             "PROF. DR. AINOL MADZIAH BT. ZUBAIRI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3177,7 +3158,7 @@
         "sect": 1,
         "title": "TEACHING LITERATURE IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "DR. HAZIQAH ZULAIKHA BINTI ARIS"
         ],
@@ -3193,5 +3174,170 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 1,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 2,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 3,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 4,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 5,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL GAFUR ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 1,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 2,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 3,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 4,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 5,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL GAFUR ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 1,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 2,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 3,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 4,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 5,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL GAFUR ARIFIN"
+        ],
+        "dayTime": []
     }
 ]
