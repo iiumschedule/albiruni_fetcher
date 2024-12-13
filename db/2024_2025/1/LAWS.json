@@ -83,7 +83,7 @@
         "sect": 3,
         "title": "LAW OF CONTRACT I",
         "chr": 3.0,
-        "venue": "AIKOL MM 1.9 1.9",
+        "venue": "AIKOL MM 1.10 1.10",
         "lect": [
             "ASSOC. PROF. DR. MOHD. YAZID BIN ZUL KEPLI"
         ],
@@ -115,13 +115,13 @@
             },
             {
                 "day": 4,
-                "startTime": "15:00",
-                "endTime": "15:50"
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "14:50"
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -822,6 +822,16 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "08:50"
             }
         ]
     },
@@ -3311,6 +3321,61 @@
                 "day": 1,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -6421,8 +6486,8 @@
             },
             {
                 "day": 2,
-                "startTime": "16:00",
-                "endTime": "16:50"
+                "startTime": "10:00",
+                "endTime": "10:50"
             },
             {
                 "day": 3,

@@ -1483,12 +1483,18 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "PROF. IR. DR. ZURAIDA BT. AHMAD",
             "ASSOC. PROF. TS. DR. SITI HAJAR BINTI YUSOFF",
             "DR. FARIDAH BINTI ABD. RAHMAN",
             "TS. DR. SARAH YASMIN BINTI MOHAMAD",
             "DR. NUR SHAHIDA BINTI MIDI"
         ],
         "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "12:00"
+            },
             {
                 "day": 5,
                 "startTime": "15:00",
@@ -1733,7 +1739,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "MOHD ASHRAF HAFIZUDDIN NASR BIN MOHD HANAFIAH"
+            "NURJANNAH BINTI ROSMAN"
         ],
         "dayTime": [
             {
