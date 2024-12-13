@@ -6115,6 +6115,28 @@
         "dayTime": []
     },
     {
+        "code": "MANU 2381",
+        "sect": 1,
+        "title": "MANUFACTURING PROCESSES",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-28",
+        "lect": [
+            "DR. NORHUDA HIDAYAH BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MANU 3101",
         "sect": 1,
         "title": "MANUFACTURING ENGINEERING LAB II",
@@ -9539,7 +9561,7 @@
         "sect": 1,
         "title": "NATURAL LANGUAGE PROCESSING",
         "chr": 3.0,
-        "venue": "ENG LRM E1-4-6",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI",
             "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
@@ -9562,7 +9584,7 @@
         "sect": 1,
         "title": "MACHINE VISION",
         "chr": 3.0,
-        "venue": "ENG LRM E1-4-19",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI"
         ],
@@ -10160,7 +10182,7 @@
         "sect": 1,
         "title": "MACHINE VISION",
         "chr": 3.0,
-        "venue": "ENG LRM E1-4-19",
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI"
         ],
@@ -11181,7 +11203,7 @@
         "sect": 1,
         "title": "INTEGRATED DESIGN PROJECT (IDP)",
         "chr": 3.0,
-        "venue": "ENG LT2 E0-1",
+        "venue": "ENG LRM E2-1-4",
         "lect": [
             "IR. AMIRO IQBAL BIN MOHD AMINUDIN",
             "PROF. DR. WAQAR ASRAR",
@@ -11536,7 +11558,7 @@
         "sect": 1,
         "title": "INTEGRATED DESIGN PROJECT",
         "chr": 3.0,
-        "venue": "ENG LT2 E0-1",
+        "venue": "ENG LRM E2-1-4",
         "lect": [
             "IR. AMIRO IQBAL BIN MOHD AMINUDIN",
             "PROF. DR. WAQAR ASRAR",
@@ -11927,7 +11949,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. AHMAD FARIS BIN ISMAIL",
+            "PROF. DATO' DR. AHMAD FARIS BIN ISMAIL",
             "DR. SANISAH BT. SAHARIN",
             "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID",
             "ASSOC. PROF. TS. DR. MUHAMMAD HANAFI BIN AZAMI",
