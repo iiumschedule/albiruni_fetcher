@@ -462,6 +462,17 @@
         ]
     },
     {
+        "code": "ACC 3592",
+        "sect": 1,
+        "title": "PRACTICAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ACC 4105",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 5",
@@ -517,13 +528,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -550,31 +561,9 @@
         ]
     },
     {
-        "code": "ACC 4233",
+        "code": "ACC 4181",
         "sect": 1,
-        "title": "INTERNAL AUDIT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4243",
-        "sect": 1,
-        "title": "ADVANCED TAXATION",
+        "title": "BUSINESS ETHICS & CORPORATE GOVERNANCE",
         "chr": 3.0,
         "venue": null,
         "lect": [
@@ -590,6 +579,50 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ACC 4233",
+        "sect": 1,
+        "title": "INTERNAL AUDIT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ACC 4243",
+        "sect": 1,
+        "title": "ADVANCED TAXATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3322,6 +3355,23 @@
         ]
     },
     {
+        "code": "ENTR 2304",
+        "sect": 830,
+        "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
         "code": "ENTR 3303",
         "sect": 1,
         "title": "ENTREPRENEURSHIP",
@@ -3648,28 +3698,6 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "FINC 1302",
-        "sect": 6,
-        "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -4378,6 +4406,17 @@
         ]
     },
     {
+        "code": "FINC 4120",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "FINC 4301",
         "sect": 1,
         "title": "QAWAID FIQHIYYAH FOR BANKING & FINANCE",
@@ -4594,6 +4633,28 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 4305",
+        "sect": 3,
+        "title": "INTERNATIONAL FINANCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },

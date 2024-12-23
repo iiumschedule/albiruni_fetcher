@@ -6,18 +6,18 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORAINI BINTI AHMAD"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "12:30"
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -28,18 +28,18 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ISMAIL BIN JASMANI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "12:30"
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -50,18 +50,18 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "12:30"
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -72,18 +72,18 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "12:30"
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -92,9 +92,60 @@
         "sect": 1,
         "title": "INDUSTRIAL DESIGN DRAWING",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. JULAILA BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 1231",
+        "sect": 1,
+        "title": "INTERIOR DESIGN MATERIALS TECHNOLOGY & CONSTRUCTION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ISMAIL BIN JASMANI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 1240",
+        "sect": 1,
+        "title": "CONSERVATION AND RESTORATION",
+        "chr": 3.0,
+        "venue": "KAED SR (L1) 2",
+        "lect": [
+            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 1284",
+        "sect": 1,
+        "title": "VIDEOGRAPHY AND MULTIMEDIA DESIGN",
+        "chr": 2.0,
+        "venue": "KAED QS LAB LVL 2",
+        "lect": [
+            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -105,68 +156,17 @@
         ]
     },
     {
-        "code": "BAAD 1231",
-        "sect": 1,
-        "title": "INTERIOR DESIGN MATERIALS TECHNOLOGY & CONSTRUCTION",
-        "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
-        "lect": [
-            "ISMAIL BIN JASMANI"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 1240",
-        "sect": 1,
-        "title": "CONSERVATION AND RESTORATION",
-        "chr": 3.0,
-        "venue": "KAED SR (L2) 7",
-        "lect": [
-            "DR. RAJABI BINTI ABDUL RAZAK"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 1283",
-        "sect": 1,
-        "title": "PHOTOGRAPHY AND DIGITAL IMAGING",
-        "chr": 2.0,
-        "venue": "KAED QS LAB LVL 2",
-        "lect": [
-            "DR. ARITA HANIM BT. AWANG"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            }
-        ]
-    },
-    {
         "code": "BAAD 1284",
-        "sect": 1,
+        "sect": 2,
         "title": "VIDEOGRAPHY AND MULTIMEDIA DESIGN",
         "chr": 2.0,
-        "venue": "KAED (L1) CAD LAB2",
+        "venue": "KAED QS LAB LVL 2",
         "lect": [
             "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
@@ -177,15 +177,15 @@
         "sect": 1,
         "title": "COMPUTER GRAPHICS DESIGN 1",
         "chr": 3.0,
-        "venue": "KAED (L1) CAD LAB2",
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
-            "DR. NURLELAWATI BT. AB JALIL"
+            "DR. ARITA HANIM BT. AWANG"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "day": 4,
+                "startTime": "02:30",
+                "endTime": "05:30"
             }
         ]
     },
@@ -194,13 +194,13 @@
         "sect": 2,
         "title": "COMPUTER GRAPHICS DESIGN 1",
         "chr": 3.0,
-        "venue": "KAED (L1) CAD LAB2",
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
             "DR. NURLELAWATI BT. AB JALIL"
         ],
         "dayTime": [
             {
-                "day": 5,
+                "day": 4,
                 "startTime": "14:30",
                 "endTime": "17:30"
             }
@@ -213,7 +213,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
         "dayTime": [
             {
@@ -309,7 +309,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
         "dayTime": [
             {
@@ -392,7 +392,7 @@
         "chr": 2.0,
         "venue": "KAED SR (L1) 3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RAJABI BINTI ABDUL RAZAK"
         ],
         "dayTime": [
             {
@@ -409,7 +409,7 @@
         "chr": 2.0,
         "venue": "KAED SR (L1) 4",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -447,9 +447,169 @@
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3200",
+        "sect": 1,
+        "title": "APPLIED ARTS AND DESIGN STUDIO 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJABI BINTI ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3201",
+        "sect": 1,
+        "title": "APPLIED ARTS & DESIGN STUDIO 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3201",
+        "sect": 2,
+        "title": "APPLIED ARTS & DESIGN STUDIO 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3201",
+        "sect": 3,
+        "title": "APPLIED ARTS & DESIGN STUDIO 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3201",
+        "sect": 4,
+        "title": "APPLIED ARTS & DESIGN STUDIO 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJABI BINTI ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "09:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -458,15 +618,32 @@
         "sect": 1,
         "title": "RESEARCH METHODOLOGY FOR ART AND DESIGN",
         "chr": 2.0,
-        "venue": "KAED L4 LT4",
+        "venue": "KAED SR (L1) 4",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAYA BT BANIYAMIN"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3211",
+        "sect": 1,
+        "title": "CONSERVATION AND RESTORATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -476,6 +653,282 @@
         "title": "MATERIALS & PROCESS",
         "chr": 3.0,
         "venue": "KAED LR (L1) 1",
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3230",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAYA BT BANIYAMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3231",
+        "sect": 1,
+        "title": "MATERIAL SPECIFICATION & COSTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ISMAIL BIN JASMANI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3232",
+        "sect": 1,
+        "title": "BUILDING PATHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3234",
+        "sect": 1,
+        "title": "VISUAL PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": "KAED SR (L1) 3",
+        "lect": [
+            "DR. NORAINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3241",
+        "sect": 1,
+        "title": "SUSTAINABLE HERITAGE PRACTICES",
+        "chr": 3.0,
+        "venue": "KAED MULTIMEDIA LAB 3",
+        "lect": [
+            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 3290",
+        "sect": 1,
+        "title": "ADVANCED CAD FOR INTERIOR DESIGN",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLELAWATI BT. AB JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4200",
+        "sect": 1,
+        "title": "DEGREE PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. JULAILA BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4200",
+        "sect": 2,
+        "title": "DEGREE PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLELAWATI BT. AB JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4201",
+        "sect": 1,
+        "title": "DEGREE PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAYA BT BANIYAMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4201",
+        "sect": 2,
+        "title": "DEGREE PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. JULAILA BINTI ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4201",
+        "sect": 3,
+        "title": "DEGREE PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLELAWATI BT. AB JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4211",
+        "sect": 1,
+        "title": "DISSERTATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAYA BT BANIYAMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4211",
+        "sect": 2,
+        "title": "DISSERTATION",
+        "chr": 3.0,
+        "venue": null,
         "lect": [
             "DR. JULAILA BINTI ABDUL RAHMAN"
         ],
@@ -488,177 +941,13 @@
         ]
     },
     {
-        "code": "BAAD 3234",
-        "sect": 1,
-        "title": "VISUAL PSYCHOLOGY",
-        "chr": 3.0,
-        "venue": "KAED SR (L1) 4",
-        "lect": [
-            "DR. NORAINI BINTI AHMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 3241",
-        "sect": 1,
-        "title": "SUSTAINABLE HERITAGE PRACTICES",
-        "chr": 3.0,
-        "venue": "KAED MULTIMEDIA LAB 3",
-        "lect": [
-            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 4201",
-        "sect": 1,
-        "title": "DEGREE PROJECT",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "17:00"
-            },
-            {
-                "day": 5,
-                "startTime": "09:00",
-                "endTime": "12:30"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 4201",
-        "sect": 2,
-        "title": "DEGREE PROJECT",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "17:00"
-            },
-            {
-                "day": 5,
-                "startTime": "09:00",
-                "endTime": "12:30"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 4201",
-        "sect": 3,
-        "title": "DEGREE PROJECT",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "17:00"
-            },
-            {
-                "day": 5,
-                "startTime": "09:00",
-                "endTime": "12:30"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 4211",
-        "sect": 1,
-        "title": "DISSERTATION",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 4211",
-        "sect": 2,
-        "title": "DISSERTATION",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
         "code": "BAAD 4211",
         "sect": 3,
         "title": "DISSERTATION",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURLELAWATI BT. AB JALIL"
         ],
         "dayTime": [
             {
@@ -675,7 +964,7 @@
         "chr": 3.0,
         "venue": "KAED SR (L2) 7",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
         ],
         "dayTime": [
             {
@@ -686,13 +975,47 @@
         ]
     },
     {
+        "code": "BAAD 4230",
+        "sect": 1,
+        "title": "DESIGN THESIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 4231",
         "sect": 1,
         "title": "INTERIOR DESIGN PROFESSIONAL PRACTICE",
         "chr": 3.0,
         "venue": "KAED SR (L2) 6",
         "lect": [
-            "DR. NURHAYA BT BANIYAMIN"
+            "DR. NORAINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4232",
+        "sect": 1,
+        "title": "INDUSTRIAL DESIGN MARKETING AND MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. FADZLI IRWAN BIN BAHRUDIN"
         ],
         "dayTime": [
             {
@@ -707,15 +1030,49 @@
         "sect": 1,
         "title": "HERITAGE CONSERVATION PROFESSIONAL PRACTICE",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 5",
+        "venue": "KAED SR (L2) 7",
         "lect": [
-            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
+            "DR. RAJABI BINTI ABDUL RAZAK"
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4251",
+        "sect": 1,
+        "title": "CONSERVATION PROFESSIONAL PRACTICE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAJABI BINTI ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4252",
+        "sect": 1,
+        "title": "COLLECTIONS MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -726,13 +1083,30 @@
         "chr": 3.0,
         "venue": "KAED L3 LT3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
         "dayTime": [
             {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 4291",
+        "sect": 1,
+        "title": "GRAPHICS & ANIMATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -935,7 +1309,7 @@
         "sect": 1,
         "title": "THEORY OF ARCHITECTURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L1 LT1",
         "lect": [
             "DR. AIDA KESUMA BINTI AZMIN"
         ],
@@ -969,9 +1343,9 @@
         "sect": 1,
         "title": "HISTORY OF ISLAMIC ARCHITECTURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L1 LT1",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AIDA KESUMA BINTI AZMIN"
         ],
         "dayTime": [
             {
@@ -988,6 +1362,40 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAR 1295",
+        "sect": 1,
+        "title": "BUILDING CONSTRUCTION & MATERIALS 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAR 1295",
+        "sect": 2,
+        "title": "BUILDING CONSTRUCTION & MATERIALS 2",
+        "chr": 3.0,
+        "venue": "KAED L1 LT1",
+        "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
@@ -999,47 +1407,13 @@
         ]
     },
     {
-        "code": "BAAR 1295",
-        "sect": 1,
-        "title": "BUILDING CONSTRUCTION & MATERIALS 2",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAR 1295",
-        "sect": 2,
-        "title": "BUILDING CONSTRUCTION & MATERIALS 2",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
         "code": "BAAR 1298",
         "sect": 1,
         "title": "ENVIRONMENTAL SCIENCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L1 LT1",
         "lect": [
-            "TO BE DETERMINED"
+            "MISS NUR ULFAH AWATIF UMAIRAH BINTI ALIAS"
         ],
         "dayTime": [
             {
@@ -1056,13 +1430,13 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MISS NUR ULFAH AWATIF UMAIRAH BINTI ALIAS"
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1231,7 +1605,7 @@
         "sect": 1,
         "title": "WORKING DRAWING AND SPECIFICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1248,7 +1622,7 @@
         "sect": 2,
         "title": "WORKING DRAWING AND SPECIFICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1265,7 +1639,7 @@
         "sect": 3,
         "title": "WORKING DRAWING AND SPECIFICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1282,7 +1656,7 @@
         "sect": 4,
         "title": "WORKING DRAWING AND SPECIFICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1299,7 +1673,7 @@
         "sect": 5,
         "title": "WORKING DRAWING AND SPECIFICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1316,9 +1690,9 @@
         "sect": 1,
         "title": "CULTURE AND HUMAN BEHAVIOUR IN ARCHITECTURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. ZURAINI BINTI DENAN"
         ],
         "dayTime": [
             {
@@ -1335,7 +1709,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. ZURAINI BINTI DENAN"
         ],
         "dayTime": [
             {
@@ -1350,9 +1724,9 @@
         "sect": 1,
         "title": "BUILDING SERVICES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "ASST. PROF. AR. DR. SRAZALI BIN ARIPIN"
         ],
         "dayTime": [
             {
@@ -1369,7 +1743,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASST. PROF. AR. DR. SRAZALI BIN ARIPIN"
         ],
         "dayTime": [
             {
@@ -1544,7 +1918,7 @@
         "sect": 1,
         "title": "HERITAGE STUDIES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 10",
         "lect": [
             "DR. ZEENAT BEGAM BT YUSOF"
         ],
@@ -1561,7 +1935,7 @@
         "sect": 2,
         "title": "HERITAGE STUDIES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 10",
         "lect": [
             "DR. MOHD NOORIZHAR BIN ISMAIL"
         ],
@@ -1578,7 +1952,7 @@
         "sect": 3,
         "title": "HERITAGE STUDIES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 10",
         "lect": [
             "MR. ADLI HADI BIN ABDUL HADI"
         ],
@@ -1595,7 +1969,7 @@
         "sect": 4,
         "title": "HERITAGE STUDIES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 10",
         "lect": [
             "DR. ALIYAH NUR ZAFIRAH BT. SANUSI"
         ],
@@ -1612,7 +1986,7 @@
         "sect": 5,
         "title": "HERITAGE STUDIES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 10",
         "lect": [
             "ASSOC. PROF. TS. DR. NURUL HAMIRUDDIN BIN SALLEH"
         ],
@@ -1629,7 +2003,7 @@
         "sect": 6,
         "title": "HERITAGE STUDIES 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 10",
         "lect": [
             "DR. AIDA KESUMA BINTI AZMIN"
         ],
@@ -1646,7 +2020,7 @@
         "sect": 1,
         "title": "PROFESSIONAL PRACTICE & MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L3 LT3",
         "lect": [
             "DATIN DR. NORWINA BINTI MOHD NAWAWI"
         ],
@@ -2565,7 +2939,7 @@
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "16:00"
+                "endTime": "17:00"
             }
         ]
     },
