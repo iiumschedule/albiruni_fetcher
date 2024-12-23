@@ -981,13 +981,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -1003,13 +1003,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1763,14 +1763,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -2588,14 +2588,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -5986,7 +5986,7 @@
         "sect": 2,
         "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-09",
         "lect": [
             "PROF. IR. DR. MD YUSOF BIN ISMAIL",
             "DR. 'ATIAH BT. ABDULLAH SIDEK"
@@ -7244,7 +7244,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. HANISAH BINTI MANSHOR"
+            "ASSOC. PROF. DR. JAMAL I. DAOUD"
         ],
         "dayTime": [
             {
@@ -7310,7 +7310,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. JAMAL I. DAOUD"
+            "DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": [
             {
@@ -10037,12 +10037,12 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
+                "startTime": "08:00",
                 "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
+                "startTime": "08:00",
                 "endTime": "09:50"
             }
         ]
@@ -10060,12 +10060,12 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
+                "startTime": "08:00",
                 "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
+                "startTime": "08:00",
                 "endTime": "09:50"
             }
         ]
@@ -10270,12 +10270,12 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
             }

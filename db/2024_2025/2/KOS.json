@@ -580,7 +580,7 @@
             {
                 "day": 4,
                 "startTime": "08:00",
-                "endTime": "11:00"
+                "endTime": "10:00"
             }
         ]
     },
@@ -1537,6 +1537,28 @@
         ]
     },
     {
+        "code": "BMST 4365",
+        "sect": 1,
+        "title": "MODELLING OF MARINE PROCESSES 2",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS L TRATAI",
+        "lect": [
+            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "BMST 4366",
         "sect": 1,
         "title": "MARINE ECOTOURISM",
@@ -1801,6 +1823,28 @@
         ]
     },
     {
+        "code": "BMST 4592",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NAJATUL SU AD BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
         "code": "BSBT 1321",
         "sect": 1,
         "title": "PRINCIPLES OF BIOCHEMISTRY",
@@ -1825,6 +1869,28 @@
     {
         "code": "BSBT 1322",
         "sect": 1,
+        "title": "CELL BIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR FIRDAUS BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 1322",
+        "sect": 2,
         "title": "CELL BIOLOGY",
         "chr": 3.0,
         "venue": null,
@@ -1929,7 +1995,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOR FAEZAH BINTI ANSARI"
+            "DR. TAN TENG JU"
         ],
         "dayTime": [
             {
@@ -2084,13 +2150,13 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MARDIANA MOHD. ASHAARI"
+            "ASSOC. PROF. DR. NUR HAFIZAH BINTI AZIZAN"
         ],
         "dayTime": [
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "16:00"
+                "endTime": "17:00"
             },
             {
                 "day": 4,
@@ -2135,6 +2201,23 @@
                 "day": 1,
                 "startTime": "10:00",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3315",
+        "sect": 2,
+        "title": "IMMUNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD HAMZAH BIN MOHD NASIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "22:00",
+                "endTime": "01:00"
             }
         ]
     },
@@ -2325,6 +2408,716 @@
                 "endTime": "12:30"
             }
         ]
+    },
+    {
+        "code": "BSBT 3352",
+        "sect": 1,
+        "title": "MEDICAL PATHOLOGY FOR BIOTECHNOLOGIST",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR FIRDAUS BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 3353",
+        "sect": 1,
+        "title": "MEDICAL MICROBIOLOGY & PARASITOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WIDYA BINTI ABDUL WAHAB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 3354",
+        "sect": 1,
+        "title": "COMPUTER AIDED DRUG DESIGN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4122",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4311",
+        "sect": 1,
+        "title": "BIONANOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SUHAILA BT. MOHD. OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4345",
+        "sect": 1,
+        "title": "ENVIRONMENTAL LAWS AND POLICIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAKUAN AZIZI BIN SHAMSUL HARUMAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4346",
+        "sect": 1,
+        "title": "INTEGRATED WASTE MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AZZMER AZZAR BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "22:00",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4347",
+        "sect": 1,
+        "title": "ENVIRONMENTAL TOXICOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARDIANA MOHD. ASHAARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4348",
+        "sect": 1,
+        "title": "BIOREMEDIATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AZZMER AZZAR BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4355",
+        "sect": 1,
+        "title": "HUMAN GENETICS AND GENETIC DISORDERS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR FIRDAUS BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4356",
+        "sect": 1,
+        "title": "ONCOLOGY AND CANCER THERAPY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. FAEZ BIN SHARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4357",
+        "sect": 1,
+        "title": "MOLECULAR EPIDEMIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HANUM BINTI YA'AKUB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4358",
+        "sect": 1,
+        "title": "EXPERIMENTAL MODELS IN MEDICAL BIOTECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WIDYA BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "BSBT 4612",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. HANUM BINTI YA'AKUB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 1222",
+        "sect": 1,
+        "title": "Practical Inorganic Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FIONA HOW NI FOONG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1321",
+        "sect": 1,
+        "title": "Inorganic Chemistry 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1323",
+        "sect": 1,
+        "title": "Analytical Chemistry 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL 'ARIFIN BIN SHAFIEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1324",
+        "sect": 1,
+        "title": "Introduction to Biochemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2223",
+        "sect": 1,
+        "title": "Organometallic and Bioinorganic Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURZIANA BINTI NGAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2224",
+        "sect": 1,
+        "title": "Organic Reaction Mechanisms",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2226",
+        "sect": 1,
+        "title": "Catalysis",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSLIZA BINTI MOHD. SALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2227",
+        "sect": 1,
+        "title": "Cosmetic Science & Technology",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2321",
+        "sect": 1,
+        "title": "Spectroscopy",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR SALIYANA JUMALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2322",
+        "sect": 1,
+        "title": "Polymer Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3121",
+        "sect": 1,
+        "title": "Generic Skills for Chemistry Students",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3222",
+        "sect": 1,
+        "title": "Final Year Project 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 3225",
+        "sect": 1,
+        "title": "Ethics in Science",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSLIZA BINTI MOHD. SALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3323",
+        "sect": 1,
+        "title": "Special Topics in Applied Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL 'ARIFIN BIN SHAFIEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3324",
+        "sect": 1,
+        "title": "Advanced Materials",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3333",
+        "sect": 1,
+        "title": "Halal Food Processing & Regulations",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3334",
+        "sect": 1,
+        "title": "Halal Food Authentication and Traceability Techniques",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3343",
+        "sect": 1,
+        "title": "Drug Delivery and Application",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3344",
+        "sect": 1,
+        "title": "Separation Techniques for Medicinal Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL IMAN AMINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3353",
+        "sect": 1,
+        "title": "Analytical Techniques in Environmental Health",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3354",
+        "sect": 1,
+        "title": "Environmental and Industrial Toxicology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ARMI BIN ABU SAMAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4122",
+        "sect": 1,
+        "title": "Industrial Training",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 4312",
+        "sect": 1,
+        "title": "Industrial Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSLIZA BINTI MOHD. SALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4315",
+        "sect": 1,
+        "title": "Halal Foods & Related Products",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4316",
+        "sect": 1,
+        "title": "Cosmetic Ingredient & Formulation",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4317",
+        "sect": 1,
+        "title": "Occupational, Safety, Health Legislation & Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ARMI BIN ABU SAMAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4411",
+        "sect": 1,
+        "title": "Final Year Project 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": []
     },
     {
         "code": "BSMS 1300",

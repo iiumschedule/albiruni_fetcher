@@ -1535,7 +1535,7 @@
         "chr": 3.0,
         "venue": "HSC SPEECH LAB 1.23",
         "lect": [
-            "DR. RIZALAWATI BINTI ISMAIL"
+            "HAEKAL ADHA AL-GIFFARI"
         ],
         "dayTime": [
             {
@@ -1557,7 +1557,7 @@
         "chr": 3.0,
         "venue": "HSC SPEECH LAB 1.23",
         "lect": [
-            "DR. RIZALAWATI BINTI ISMAIL"
+            "HAEKAL ADHA AL-GIFFARI"
         ],
         "dayTime": [
             {
@@ -2085,7 +2085,7 @@
         "chr": 3.0,
         "venue": "HSC SPEECH LAB 1.23",
         "lect": [
-            "DR. RIZALAWATI BINTI ISMAIL"
+            "AZNAN BIN MAT PIAH"
         ],
         "dayTime": [
             {
@@ -4740,6 +4740,28 @@
     },
     {
         "code": "PSCI 1301",
+        "sect": 2,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 30 (HS COMP LAB A) 3",
+        "lect": [
+            "PROF. DR. ALDALALA'A NATHEER"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
         "sect": 3,
         "title": "INTRODUCTION TO POLITICAL SCIENCE",
         "chr": 3.0,
@@ -4828,6 +4850,28 @@
     },
     {
         "code": "PSCI 1301",
+        "sect": 7,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 4 1.34",
+        "lect": [
+            "DR. MOHAMED FOUZ MOHAMED ZACKY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
         "sect": 8,
         "title": "INTRODUCTION TO POLITICAL SCIENCE",
         "chr": 3.0,
@@ -4845,6 +4889,28 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 9,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 7 1.40",
+        "lect": [
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -5311,6 +5377,28 @@
         ]
     },
     {
+        "code": "PSCI 3330",
+        "sect": 1,
+        "title": "POLITICAL HISTORY OF MODERN EUROPE",
+        "chr": 3.0,
+        "venue": "HSC LR 7 1.40",
+        "lect": [
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "PSCI 3332",
         "sect": 1,
         "title": "FOREIGN POLICY DECISION-MAKING",
@@ -5428,6 +5516,28 @@
         "venue": "HSC LR 26 3.31",
         "lect": [
             "DR. ZAHID BIN ZAMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4315",
+        "sect": 1,
+        "title": "POSTCOLONIAL THEORY",
+        "chr": 3.0,
+        "venue": "HSC LR 9 1.42",
+        "lect": [
+            "DR. MEOR ALIF BIN MEOR AZALAN"
         ],
         "dayTime": [
             {
@@ -6679,20 +6789,20 @@
         "sect": 6,
         "title": "AL-MADKHAL ILA AL-FIQH AL-ISLAMI (INTRODUCTION TO ISLAMIC JURISPRUDENCE)",
         "chr": 3.0,
-        "venue": "IRKHS COMP. LAB 1",
+        "venue": "ADM LR 5 3.111",
         "lect": [
             "ASSOC. PROF. DR. ABDUL BARI BIN AWANG"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -8259,6 +8369,28 @@
         ]
     },
     {
+        "code": "RKQS 1320",
+        "sect": 1,
+        "title": "HIFZ AL-QUR'AN WA AHADITH MUKHTARAH I (MEMORISATION OF SELECTED SURAHS AND HADITH I)",
+        "chr": 3.0,
+        "venue": "IRK LR 2 1.25",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "RKQS 1370",
         "sect": 1,
         "title": "INTRODUCTION TO PROPHETIC HISTORY",
@@ -9275,18 +9407,18 @@
         "sect": 6,
         "title": "QUR'ANIC PERSPECTIVE OF OTHER RELIGIONS",
         "chr": 3.0,
-        "venue": "ADM LR 1 2.134",
+        "venue": "IRK SEMINAR ROO 1.15",
         "lect": [
-            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+            "DR. MAZIAH BTE. MUSTAPHA"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "08:30",
                 "endTime": "09:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
             }
@@ -9343,7 +9475,7 @@
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
-            "DR. MUHAMMAD AYMAN AL-AKITI"
+            "DATO' DR. MUHAMMAD AYMAN AL-AKITI"
         ],
         "dayTime": [
             {
@@ -9365,7 +9497,7 @@
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
-            "DR. MUHAMMAD AYMAN AL-AKITI"
+            "DATO' DR. MUHAMMAD AYMAN AL-AKITI"
         ],
         "dayTime": [
             {
@@ -9431,7 +9563,7 @@
         "chr": 3.0,
         "venue": "ADM LR 1 2.134",
         "lect": [
-            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+            "ASSOC. PROF. DR. ABDUL SALAM @ ZULKIFLI B.MUHAMAD SHUKRI"
         ],
         "dayTime": [
             {
@@ -9959,7 +10091,7 @@
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
-            "DR. MUHAMMAD AYMAN AL-AKITI"
+            "DATO' DR. MUHAMMAD AYMAN AL-AKITI"
         ],
         "dayTime": [
             {
@@ -9981,7 +10113,7 @@
         "chr": 3.0,
         "venue": "IRK LR 9 3.68",
         "lect": [
-            "DR. MUHAMMAD AYMAN AL-AKITI"
+            "DATO' DR. MUHAMMAD AYMAN AL-AKITI"
         ],
         "dayTime": [
             {
@@ -10881,20 +11013,20 @@
         "sect": 1,
         "title": "SOCIETY AND TECHNOLOGICAL CHANGE",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LR 17 1.52",
         "lect": [
             "KHAIRULANUAR BIN ABD. RAHMAN"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -11120,20 +11252,20 @@
         "sect": 6,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -12643,7 +12775,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "15:50"
             }
         ]
     },
@@ -12660,7 +12792,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "15:50"
             }
         ]
     },
@@ -12677,7 +12809,7 @@
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "15:50"
             }
         ]
     },
@@ -12694,7 +12826,7 @@
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "15:50"
             }
         ]
     },
@@ -12745,7 +12877,7 @@
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "15:50"
             }
         ]
     },
@@ -12762,7 +12894,7 @@
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "15:20"
+                "endTime": "15:50"
             }
         ]
     },
