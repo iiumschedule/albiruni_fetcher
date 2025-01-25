@@ -1442,28 +1442,6 @@
     },
     {
         "code": "COMM 1310",
-        "sect": 4,
-        "title": "INTRODUCTION TO COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC SPEECH LAB 1.23",
-        "lect": [
-            "ZARITA BT KASIM"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "COMM 1310",
         "sect": 5,
         "title": "INTRODUCTION TO COMMUNICATION",
         "chr": 3.0,
@@ -1951,42 +1929,20 @@
         "sect": 1,
         "title": "PROFESSIONAL SPEECH COMMUNICATION",
         "chr": 3.0,
-        "venue": "HSC LR 16 1.50",
+        "venue": "HSC SPEECH LAB 1.23",
         "lect": [
-            "DR. HARMI TAAZIM BIN MOHAMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "COMM 3312",
-        "sect": 2,
-        "title": "PROFESSIONAL SPEECH COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC LR 16 1.50",
-        "lect": [
-            "DR. HARMI TAAZIM BIN MOHAMAD"
+            "ZARITA BT KASIM"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -2281,20 +2237,20 @@
         "sect": 1,
         "title": "ESSENTIALS OF NEGOTIATIONS",
         "chr": 3.0,
-        "venue": "HSC LR 21 2.48",
+        "venue": "HSC SPEECH LAB 1.23",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "17:00",
+                "endTime": "18:30"
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "17:00",
+                "endTime": "18:30"
             }
         ]
     },
@@ -4855,7 +4811,7 @@
         "chr": 3.0,
         "venue": "HSC LR 4 1.34",
         "lect": [
-            "DR. MOHAMED FOUZ MOHAMED ZACKY"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -5047,6 +5003,28 @@
         ]
     },
     {
+        "code": "PSCI 2302",
+        "sect": 3,
+        "title": "COMPARATIVE POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "PSCI 2303",
         "sect": 1,
         "title": "PUBLIC ADMINISTRATION",
@@ -5091,6 +5069,28 @@
         ]
     },
     {
+        "code": "PSCI 2303",
+        "sect": 3,
+        "title": "PUBLIC ADMINISTRATION",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. NORMALA BINTI MOHD ADNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "PSCI 2304",
         "sect": 1,
         "title": "INTERNATIONAL RELATIONS",
@@ -5135,6 +5135,28 @@
         ]
     },
     {
+        "code": "PSCI 2304",
+        "sect": 3,
+        "title": "INTERNATIONAL RELATIONS",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. BENDEBKA RAMZI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "PSCI 2305",
         "sect": 1,
         "title": "POLITICAL PHILOSOPHY",
@@ -5175,6 +5197,28 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2305",
+        "sect": 3,
+        "title": "POLITICAL PHILOSOPHY",
+        "chr": 3.0,
+        "venue": "HSC LR 7 1.40",
+        "lect": [
+            "DR. MOHAMED FOUZ MOHAMED ZACKY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:20"
             }
         ]
     },
@@ -7093,6 +7137,28 @@
         ]
     },
     {
+        "code": "RKFQ 1321",
+        "sect": 6,
+        "title": "AL-MADKHAL ILA USUL AL-FIQH (INTRODUCTION TO PRINCIPLES OF ISLAMIC JURISPRUDENCE)",
+        "chr": 3.0,
+        "venue": "ADM LR 9 3.100",
+        "lect": [
+            "ASSOC. PROF. DR. HOSSAM EL-DIN IBRAHIM MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "RKFQ 1330",
         "sect": 1,
         "title": "ADMINISTRATION OF ISLAMIC LAW IN MALAYSIA",
@@ -7935,7 +8001,7 @@
         "chr": 3.0,
         "venue": "ADM LR 4 2.137",
         "lect": [
-            "ASSOC. PROF. DR. BOUHEDDA GHALIA"
+            "PROF. DR. BOUHEDDA GHALIA"
         ],
         "dayTime": [
             {
@@ -7979,7 +8045,7 @@
         "chr": 3.0,
         "venue": "ADM LR 4 2.137",
         "lect": [
-            "ASSOC. PROF. DR. BOUHEDDA GHALIA"
+            "PROF. DR. BOUHEDDA GHALIA"
         ],
         "dayTime": [
             {
@@ -9541,7 +9607,7 @@
         "chr": 3.0,
         "venue": "ADM LR 1 2.134",
         "lect": [
-            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+            "ABDULLAH ZAWAWI BIN MOHD ZAWAWI"
         ],
         "dayTime": [
             {
@@ -9827,7 +9893,7 @@
         "chr": 3.0,
         "venue": "ADM LR 1 2.134",
         "lect": [
-            "DR. ASMA BINTI MUHAMMAD UTHMAN EL-MUHAMMADY"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -10441,7 +10507,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO ANTHROPOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
@@ -10463,7 +10529,7 @@
         "sect": 1,
         "title": "MAN AND SOCIETIES IN MUSLIM SCRIPTURES",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "DR. NORASIKIN BT BASIR"
         ],
@@ -10529,7 +10595,7 @@
         "sect": 1,
         "title": "MALAYSIAN SOCIETY AND CULTURE",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ZURAIDA BINTI ABD RAHIM"
         ],
@@ -10551,7 +10617,7 @@
         "sect": 2,
         "title": "MALAYSIAN SOCIETY AND CULTURE",
         "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ZURAIDA BINTI ABD RAHIM"
         ],
@@ -10573,7 +10639,7 @@
         "sect": 1,
         "title": "EDUCATION AND SOCIETY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 17 1.52",
         "lect": [
             "NOOR SYAFIKA BINTI RAMLI"
         ],
@@ -10595,9 +10661,9 @@
         "sect": 1,
         "title": "FOOD AND SOCIETY",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": null,
         "lect": [
-            "NOOR SYAFIKA BINTI RAMLI"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -10609,6 +10675,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 2342",
+        "sect": 2,
+        "title": "FOOD AND SOCIETY",
+        "chr": 3.0,
+        "venue": "HSC LT 1 1.62",
+        "lect": [
+            "NOOR SYAFIKA BINTI RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:20"
             }
         ]
     },
@@ -10639,7 +10727,7 @@
         "sect": 1,
         "title": "SOCIAL DEMOGRAPHY AND POPULATION TRANSFORMATION",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "DR. IYAD M. Y. EID"
         ],
@@ -10701,6 +10789,28 @@
         ]
     },
     {
+        "code": "SOCA 2380",
+        "sect": 2,
+        "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES II",
+        "chr": 3.0,
+        "venue": "HSC LT 1 1.62",
+        "lect": [
+            "DR. SOHELA MUSTARI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "SOCA 2399",
         "sect": 1,
         "title": "SOCIAL RESEARCH METHODS I",
@@ -10749,7 +10859,7 @@
         "sect": 1,
         "title": "SOCIAL STRAFICATION AND INEQUALITY",
         "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "DR. NOR AISAH BINTI AREFF"
         ],
@@ -10837,7 +10947,7 @@
         "sect": 1,
         "title": "ISLAMIC PERSPECTIVE OF SOCIOLOGY AND ANTHROPOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC SOCA LAB 2",
         "lect": [
             "PROF. DR. HAZIZAN B. MD. NOON"
         ],
@@ -10859,7 +10969,7 @@
         "sect": 2,
         "title": "ISLAMIC PERSPECTIVE OF SOCIOLOGY AND ANTHROPOLOGY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "PROF. DR. HAZIZAN B. MD. NOON"
         ],
@@ -11271,28 +11381,6 @@
     },
     {
         "code": "SOCA 4397",
-        "sect": 7,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 4397",
         "sect": 8,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
@@ -11318,7 +11406,7 @@
         "sect": 9,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 17 1.52",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -11341,6 +11429,28 @@
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
         "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4397",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "TO BE DETERMINED"
         ],
