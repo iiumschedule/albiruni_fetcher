@@ -3703,6 +3703,28 @@
     },
     {
         "code": "FINC 1302",
+        "sect": 6,
+        "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1302",
         "sect": 7,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
@@ -3720,6 +3742,50 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1302",
+        "sect": 8,
+        "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1302",
+        "sect": 9,
+        "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4637,28 +4703,6 @@
         ]
     },
     {
-        "code": "FINC 4305",
-        "sect": 3,
-        "title": "INTERNATIONAL FINANCE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "FINC 4306",
         "sect": 1,
         "title": "FINANCIAL DERIVATIVES",
@@ -4802,13 +4846,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4934,13 +4978,35 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 1301",
+        "sect": 501,
+        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },

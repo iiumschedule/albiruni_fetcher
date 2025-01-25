@@ -698,7 +698,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+            "DR. FIKRIAH BINTI FAUDZI"
         ],
         "dayTime": [
             {
@@ -1194,7 +1194,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD FUAD BIN MISKON"
+            "PROF. DR. KAMARUZZAMAN BIN YUNUS"
         ],
         "dayTime": [
             {
@@ -1260,7 +1260,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NUR NAZIFAH BINTI MANSOR"
+            "DR. RASHIDAH BINTI ABDUL RAZAK"
         ],
         "dayTime": [
             {
@@ -1370,8 +1370,8 @@
             },
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -1519,42 +1519,20 @@
         "sect": 1,
         "title": "GIS FOR COASTAL ZONE MANAGEMENT",
         "chr": 3.0,
-        "venue": "BIOLOGICAL BUILDING L MAWAR",
+        "venue": null,
         "lect": [
             "DR. NURFAIRUNNAJIHA BINTI RIDZUAN"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 5,
                 "startTime": "10:00",
                 "endTime": "13:00"
             },
             {
-                "day": 1,
+                "day": 5,
                 "startTime": "08:00",
                 "endTime": "10:00"
-            }
-        ]
-    },
-    {
-        "code": "BMST 4365",
-        "sect": 1,
-        "title": "MODELLING OF MARINE PROCESSES 2",
-        "chr": 3.0,
-        "venue": "CTS BUILDING KOS L TRATAI",
-        "lect": [
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
             }
         ]
     },
@@ -2071,8 +2049,8 @@
             },
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2182,8 +2160,8 @@
             },
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "10:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -3296,6 +3274,28 @@
         ]
     },
     {
+        "code": "BSMS 1305",
+        "sect": 2,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
         "code": "BSMS 1306",
         "sect": 1,
         "title": "INTRODUCTION TO DATA ANALYTICS",
@@ -4238,6 +4238,50 @@
         ]
     },
     {
+        "code": "SMS 2309",
+        "sect": 1,
+        "title": "INTRODUCTION TO STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULMARYAN BINTI EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:30",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2310",
+        "sect": 1,
+        "title": "MATHEMATICAL ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
         "code": "SMS 2311",
         "sect": 1,
         "title": "ADVANCED MATHEMATICAL METHODS",
@@ -4256,6 +4300,50 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2312",
+        "sect": 1,
+        "title": "THEORY OF PROBABILITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. PAH CHIN HEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2380",
+        "sect": 1,
+        "title": "DISCRETE MATHEMATICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR ZATUL AKMAR BTE HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -4370,6 +4458,50 @@
         ]
     },
     {
+        "code": "SMS 3384",
+        "sect": 1,
+        "title": "COMPLEX VARIABLE FUNCTIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUPIAN BIN MAT SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3386",
+        "sect": 1,
+        "title": "INTRODUCTION TO FINANCIAL MATHEMATICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZAH BINTI BAHALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "SMS 3387",
         "sect": 1,
         "title": "BASIC INFERENTIAL STATISTICS",
@@ -4388,6 +4520,28 @@
                 "day": 3,
                 "startTime": "15:00",
                 "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "SMS 3392",
+        "sect": 1,
+        "title": "OPERATIONAL RESEARCH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN MALISSA BINTI WAN MOHD. AMINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -4458,6 +4612,28 @@
         ]
     },
     {
+        "code": "SMS 4342",
+        "sect": 1,
+        "title": "DYNAMIC PROGRAMMING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORFAIEQAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
         "code": "SMS 4352",
         "sect": 1,
         "title": "STOCHASTIC PROCESSES",
@@ -4476,6 +4652,28 @@
                 "day": 4,
                 "startTime": "23:30",
                 "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "SMT 4115",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT (2)",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NAJATUL SU AD BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:30"
             }
         ]
     },
@@ -4524,8 +4722,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:30"
+                "startTime": "14:00",
+                "endTime": "15:30"
             },
             {
                 "day": 4,
@@ -4594,9 +4792,9 @@
                 "endTime": "01:00"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:30"
             }
         ]
     },
@@ -4633,9 +4831,9 @@
                 "endTime": "15:30"
             },
             {
-                "day": 2,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:00"
             }
         ]
     },

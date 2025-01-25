@@ -50,7 +50,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NORIAH BT RAMLI"
+            "PROF. DR. NORIAH BT RAMLI"
         ],
         "dayTime": [
             {
@@ -400,20 +400,40 @@
         "sect": 1,
         "title": "LAW OF TORTS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 1.8 1.8",
         "lect": [
             "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
             {
                 "day": 2,
                 "startTime": "09:00",
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -466,7 +486,7 @@
         "sect": 4,
         "title": "LAW OF TORTS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 1.5 1.5",
         "lect": [
             "DR. MUHAMAD HASSAN BIN AHMAD"
         ],
@@ -477,9 +497,29 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -488,7 +528,7 @@
         "sect": 5,
         "title": "LAW OF TORTS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.6 2.6",
         "lect": [
             "PROF. DR. PUTERI NEMIE BT. JAHN KASSIM"
         ],
@@ -499,9 +539,19 @@
                 "endTime": "11:50"
             },
             {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -961,7 +1011,7 @@
         "sect": 1,
         "title": "CRIMINAL LAW I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 1.5 1.5",
         "lect": [
             "DR. MAZLENA BINTI MOHAMAD HUSSAIN"
         ],
@@ -970,6 +1020,21 @@
                 "day": 1,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 3,
@@ -1005,7 +1070,7 @@
         "sect": 2,
         "title": "CRIMINAL LAW II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 3.11 3.11",
         "lect": [
             "DR. MOHD. IQBAL BIN ABDUL WAHAB"
         ],
@@ -1014,6 +1079,26 @@
                 "day": 1,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
             },
             {
                 "day": 3,
@@ -1027,7 +1112,7 @@
         "sect": 3,
         "title": "CRIMINAL LAW II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.3 2.3",
         "lect": [
             "DR. MAZLENA BINTI MOHAMAD HUSSAIN"
         ],
@@ -1036,6 +1121,16 @@
                 "day": 1,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
             },
             {
                 "day": 3,
@@ -1049,7 +1144,7 @@
         "sect": 4,
         "title": "CRIMINAL LAW II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 1.6 1.6",
         "lect": [
             "DR. FARIZA MILAQURSHIAH BINTI MAHMUD"
         ],
@@ -1060,9 +1155,29 @@
                 "endTime": "12:50"
             },
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
             }
         ]
     },
@@ -1093,7 +1208,7 @@
         "sect": 6,
         "title": "CRIMINAL LAW II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 3.11 3.11",
         "lect": [
             "DR. MOHD. IQBAL BIN ABDUL WAHAB"
         ],
@@ -1104,9 +1219,29 @@
                 "endTime": "12:50"
             },
             {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -1115,7 +1250,7 @@
         "sect": 1,
         "title": "ADMINISTRATIVE LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 3.11 3.11",
         "lect": [
             "MR. IBRAHIM B. ISMAIL"
         ],
@@ -1123,6 +1258,16 @@
             {
                 "day": 2,
                 "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 3,
+                "startTime": "18:00",
+                "endTime": "18:50"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
                 "endTime": "17:50"
             }
         ]
@@ -1176,20 +1321,40 @@
         "sect": 2,
         "title": "CONSTITUTIONAL LAW II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 1.7 1.7",
         "lect": [
             "DR. FARIZA MILAQURSHIAH BINTI MAHMUD"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
             {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "11:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -1198,7 +1363,7 @@
         "sect": 3,
         "title": "CONSTITUTIONAL LAW II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 3.11 3.11",
         "lect": [
             "MR. IBRAHIM B. ISMAIL"
         ],
@@ -1212,6 +1377,21 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -1732,7 +1912,7 @@
         "sect": 1,
         "title": "EQUITY & TRUSTS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 1.10 1.10",
         "lect": [
             "DR. MUHAMAD HASSAN BIN AHMAD"
         ],
@@ -1743,9 +1923,29 @@
                 "endTime": "08:50"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "08:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -1778,7 +1978,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NORIAH BT RAMLI"
+            "PROF. DR. NORIAH BT RAMLI"
         ],
         "dayTime": [
             {
@@ -1864,7 +2064,7 @@
         "sect": 1,
         "title": "COMMERCIAL LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL LT A LTA",
         "lect": [
             "DR. MUHAMMAD AMRULLAH BIN DRS NASRUL"
         ],
@@ -1881,11 +2081,56 @@
         "sect": 2,
         "title": "COMMERCIAL LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL LT B LTB",
         "lect": [
             "DR. KHADIJAH BINTI MOHD NAJID"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
             {
                 "day": 5,
                 "startTime": "09:00",
@@ -2752,13 +2997,28 @@
         "sect": 1,
         "title": "ISLAMIC LEGAL SYSTEM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.4 2.4",
         "lect": [
             "ASSOC. PROF. DR. RAMIZAH BINTI WAN MUHAMMAD"
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
                 "startTime": "12:00",
                 "endTime": "12:50"
             },
@@ -2908,7 +3168,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. ASMA AKLI SOUALHI"
+            "ASSOC. PROF. DR. MUHAMMAD ABDURRAHMAN SADIQUE"
         ],
         "dayTime": [
             {
@@ -2952,16 +3212,16 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MUHAMMAD ABDURRAHMAN SADIQUE"
+            "DR. ASMA AKLI SOUALHI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "11:00",
                 "endTime": "11:50"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "11:00",
                 "endTime": "11:50"
             }
@@ -3199,15 +3459,30 @@
         "sect": 5,
         "title": "USUL AL FIQH I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "AIKOL MM 2.7 2.7",
         "lect": [
             "ASSOC. PROF. DR. RAMIZAH BINTI WAN MUHAMMAD"
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
             },
             {
                 "day": 4,

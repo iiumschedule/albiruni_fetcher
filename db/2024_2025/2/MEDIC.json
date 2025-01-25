@@ -170,6 +170,40 @@
         ]
     },
     {
+        "code": "MBBS 3409",
+        "sect": 1,
+        "title": "GENERAL PAEDIATRICS I",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AB  HAFIZ BIN AB HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3409",
+        "sect": 2,
+        "title": "GENERAL PAEDIATRICS I",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AB  HAFIZ BIN AB HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
         "code": "MBBS 4109",
         "sect": 1,
         "title": "COMMUNITY MEDICINE",
@@ -499,7 +533,7 @@
         "chr": 8.0,
         "venue": null,
         "lect": [
-            "MOHD HAZLAN BIN HAMZAH"
+            "DR. MOHD HAZLAN BIN HAMZAH"
         ],
         "dayTime": [
             {
@@ -516,7 +550,7 @@
         "chr": 8.0,
         "venue": null,
         "lect": [
-            "MOHD HAZLAN BIN HAMZAH"
+            "DR. MOHD HAZLAN BIN HAMZAH"
         ],
         "dayTime": [
             {
@@ -533,7 +567,7 @@
         "chr": 8.0,
         "venue": null,
         "lect": [
-            "MOHD HAZLAN BIN HAMZAH"
+            "DR. MOHD HAZLAN BIN HAMZAH"
         ],
         "dayTime": [
             {
@@ -591,6 +625,312 @@
                 "day": 1,
                 "startTime": "15:00",
                 "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5307",
+        "sect": 1,
+        "title": "WOMEN'S HEALTH AND DISEASES II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZNI ADILAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5307",
+        "sect": 2,
+        "title": "WOMEN'S HEALTH AND DISEASES II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZNI ADILAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5307",
+        "sect": 3,
+        "title": "WOMEN'S HEALTH AND DISEASES II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZNI ADILAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5407",
+        "sect": 1,
+        "title": "GENERAL PAEDIATRICS II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. ASRAR ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5407",
+        "sect": 2,
+        "title": "GENERAL PAEDIATRICS II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. ASRAR ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5407",
+        "sect": 3,
+        "title": "GENERAL PAEDIATRICS II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. ASRAR ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5508",
+        "sect": 1,
+        "title": "PSYCHIATRY",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FAUZAH RAHIMAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5508",
+        "sect": 2,
+        "title": "PSYCHIATRY",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FAUZAH RAHIMAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5508",
+        "sect": 3,
+        "title": "PSYCHIATRY",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FAUZAH RAHIMAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5602",
+        "sect": 1,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD HAIDAR B. NASURUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5602",
+        "sect": 2,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD HAIDAR B. NASURUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5602",
+        "sect": 3,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD HAIDAR B. NASURUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5702",
+        "sect": 1,
+        "title": "FAMILY MEDICINE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZHAFRI BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5702",
+        "sect": 2,
+        "title": "FAMILY MEDICINE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZHAFRI BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5702",
+        "sect": 3,
+        "title": "FAMILY MEDICINE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZHAFRI BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5802",
+        "sect": 1,
+        "title": "DERMATOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RASIMAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5802",
+        "sect": 2,
+        "title": "DERMATOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RASIMAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5802",
+        "sect": 3,
+        "title": "DERMATOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RASIMAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     }

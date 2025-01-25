@@ -1786,6 +1786,94 @@
         ]
     },
     {
+        "code": "LEED 1014",
+        "sect": 801,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 802,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "NUR AFIFAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 803,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TEH JUNE LI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 804,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "NOOR ELEENDA BINTI SHAHABUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
         "code": "LEED 1301",
         "sect": 1,
         "title": "ENGLISH FOR ACADEMIC WRITING",
@@ -6137,6 +6225,28 @@
     },
     {
         "code": "LQAD 1003",
+        "sect": 801,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
         "sect": 810,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
@@ -6195,6 +6305,17 @@
                 "endTime": "16:30"
             }
         ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 860,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "LQAD 1011",
@@ -6643,6 +6764,17 @@
                 "endTime": "15:20"
             }
         ]
+    },
+    {
+        "code": "LQAD 1103",
+        "sect": 830,
+        "title": "ARABIC FOR COMMUNICATION  I",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": []
     },
     {
         "code": "LQAD 2003",
@@ -7345,6 +7477,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 801,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
