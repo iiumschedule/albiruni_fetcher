@@ -8,7 +8,13 @@
         "lect": [
             "ZAFRI AZRAN ABDUL MAJID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "02:00",
+                "endTime": "04:00"
+            }
+        ]
     },
     {
         "code": "AAUD 1202",
@@ -19,7 +25,13 @@
         "lect": [
             "DR. MASNIRA BINTI JUSOH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AAUD 1204",
@@ -28,9 +40,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. NUR HAFIZAH BINTI SULAIMAN"
+            "DR. NUR 'AZZAH BINTI ZAKARIA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 1205",
@@ -41,7 +59,13 @@
         "lect": [
             "DR. SARAH BINTI RAHMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 1303",
@@ -52,7 +76,13 @@
         "lect": [
             "PROF. DR. AHMAD AIDIL ARAFAT BIN DZULKARNAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 2203",
@@ -61,9 +91,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. SAIFUL ADLI BIN JAMALUDDIN"
+            "ASSOC. PROF. DR. SAIFUL ADLI BIN JAMALUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 2204",
@@ -74,7 +110,13 @@
         "lect": [
             "TENGKU ZULAILA HASMA BINTI TENGKU ZAM ZAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AAUD 2305",
@@ -85,7 +127,13 @@
         "lect": [
             "DR. NURLIN BT ALI HANAFIAH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 2406",
@@ -96,7 +144,13 @@
         "lect": [
             "DR. NUR 'AZZAH BINTI ZAKARIA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 3204",
@@ -107,7 +161,13 @@
         "lect": [
             "DR. SARAH BINTI RAHMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AAUD 3205",
@@ -118,7 +178,13 @@
         "lect": [
             "DR. NUR 'AZZAH BINTI ZAKARIA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 3307",
@@ -129,7 +195,13 @@
         "lect": [
             "DR. NURLIN BT ALI HANAFIAH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 3606",
@@ -140,7 +212,13 @@
         "lect": [
             "DR. NURUL SYARIDA BINTI MOHD SAKERI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AAUD 4205",
@@ -151,7 +229,30 @@
         "lect": [
             "DR. JULIANA AMINAH BINTI MARHABAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "AAUD 4601",
+        "sect": 1,
+        "title": "Research Project 1",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "01:00"
+            }
+        ]
     },
     {
         "code": "AAUD 4602",
@@ -162,7 +263,30 @@
         "lect": [
             "ASSOC. PROF. DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
+    },
+    {
+        "code": "AAUD 4704",
+        "sect": 1,
+        "title": "Audiology Clinic 3",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AAUD 4706",
@@ -173,7 +297,13 @@
         "lect": [
             "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1212",
@@ -184,7 +314,13 @@
         "lect": [
             "ASSOC. PROF. DR. ZAITUNNATAKHIN BINTI ZAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1214",
@@ -195,7 +331,13 @@
         "lect": [
             "ASSOC. PROF. DR. RADIAH BT. ABDUL GHANI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1216",
@@ -206,7 +348,13 @@
         "lect": [
             "ASSOC. PROF. DR. MOHD. AFFENDI BIN MOHD SHAFRI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1218",
@@ -217,7 +365,13 @@
         "lect": [
             "DR. NURULWAHIDA SAAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1222",
@@ -226,9 +380,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "PROF. DR. MAISARAH BT ALI"
+            "DR. IBRAHIM ADHAM BIN TAIB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1312",
@@ -239,7 +399,13 @@
         "lect": [
             "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBM 1314",
@@ -250,7 +416,13 @@
         "lect": [
             "ASSOC. PROF. DR. NORAFIZA BINTI ZAINUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBS 1312",
@@ -261,7 +433,13 @@
         "lect": [
             "ASSOC. PROF. DR. ZAITUNNATAKHIN BINTI ZAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBS 1314",
@@ -272,7 +450,13 @@
         "lect": [
             "ASSOC. PROF. DR. RADIAH BT. ABDUL GHANI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBS 2212",
@@ -283,7 +467,13 @@
         "lect": [
             "ASSOC. PROF. DR. MOHD. AFFENDI BIN MOHD SHAFRI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBS 2312",
@@ -294,7 +484,13 @@
         "lect": [
             "DR. ROZLIN BINTI ABDUL RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHBS 2314",
@@ -305,7 +501,13 @@
         "lect": [
             "DR. NURULWAHIDA SAAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBS 2316",
@@ -316,7 +518,13 @@
         "lect": [
             "DR. MOHD. FUAD BIN RAHMAT SAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBS 2318",
@@ -327,7 +535,13 @@
         "lect": [
             "PROF. DR. SUZANAH BINTI ABDUL RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3211",
@@ -337,6 +551,23 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. AZANTEE YAZMIE BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "AHBS 3212",
+        "sect": 1,
+        "title": "QUALITY LABORATORY MANAGEMENT",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. HANANI BINTI AHMAD YUSOF @ HANAFI"
         ],
         "dayTime": []
     },
@@ -349,7 +580,13 @@
         "lect": [
             "DR. MOHD ZUBAIRY BIN SHAMSUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3256",
@@ -360,18 +597,13 @@
         "lect": [
             "DR. NORUL HERNANI BINTI ABD LATIF"
         ],
-        "dayTime": []
-    },
-    {
-        "code": "AHBS 3258",
-        "sect": 1,
-        "title": "LEAN MANAGEMENT",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. MAISARAH BT ALI"
-        ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3262",
@@ -382,7 +614,13 @@
         "lect": [
             "DR. NORHIDAYAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3272",
@@ -393,7 +631,13 @@
         "lect": [
             "DR. IZZUDDIN BIN HJ. AHMAD NADZIRIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3274",
@@ -404,7 +648,13 @@
         "lect": [
             "ASSOC. PROF. DR. NORAFIZA BINTI ZAINUDDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3276",
@@ -415,7 +665,13 @@
         "lect": [
             "DR. MOHD. FUAD BIN RAHMAT SAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3278",
@@ -426,7 +682,13 @@
         "lect": [
             "DR. NORAZSIDA BINTI RAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3332",
@@ -437,7 +699,13 @@
         "lect": [
             "DR. MOHD. FUAD BIN RAHMAT SAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3342",
@@ -448,7 +716,13 @@
         "lect": [
             "DR. MOHD SHUKRI BIN BABA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBS 3612",
@@ -459,7 +733,13 @@
         "lect": [
             "ASSOC. PROF. DR. AZANTEE YAZMIE BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHBS 4105",
@@ -470,7 +750,13 @@
         "lect": [
             "DR. MARDIATY IRYANI BINTI ABDULLAH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHBS 4107",
@@ -481,7 +767,13 @@
         "lect": [
             "ASSOC. PROF. DR. MARDHIAH BINTI MOHAMMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHCC 1322",
@@ -492,7 +784,13 @@
         "lect": [
             "ASSOC. PROF. DR. ZAITUNNATAKHIN BINTI ZAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHCC 2321",
@@ -503,7 +801,13 @@
         "lect": [
             "DR. NORSYUHADA BINTI ALIAS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHDT 1221",
@@ -514,7 +818,13 @@
         "lect": [
             "DR. HANAPI BIN MAT JUSOH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 1222",
@@ -525,7 +835,13 @@
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM BIN ABU BAKAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHDT 1224",
@@ -536,7 +852,13 @@
         "lect": [
             "DR. MUHAMAD ARIFF BIN IBRAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHDT 1323",
@@ -547,7 +869,13 @@
         "lect": [
             "DR. WAN FATHIN FARIZA BT. WAN MAHMOOD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 2221",
@@ -558,7 +886,13 @@
         "lect": [
             "DR. MUHAMAD ASHRAF BIN ROSTAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 2222",
@@ -569,7 +903,13 @@
         "lect": [
             "ASSOC. PROF. DR. MUHAMMAD BIN IBRAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHDT 2225",
@@ -580,7 +920,13 @@
         "lect": [
             "ASSOC. PROF. DR. WAN AZDIE BIN MOHD. ABU BAKAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHDT 2323",
@@ -591,7 +937,13 @@
         "lect": [
             "PROF. DR. MUHAMMAD MUZAFFAR ALI KHAN KHATTAK"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 2324",
@@ -602,7 +954,13 @@
         "lect": [
             "ASSOC. PROF. DR. NOR AZWANI BINTI MOHD SHUKRI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 3126",
@@ -613,7 +971,13 @@
         "lect": [
             "DR. ROSZANADIA BINTI RUSALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 3222",
@@ -624,7 +988,13 @@
         "lect": [
             "DR. NORAISHAH BINTI MOHAMED NOR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 3321",
@@ -635,7 +1005,13 @@
         "lect": [
             "ASSOC. PROF. DR. IBRAHIM BIN ABU BAKAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHDT 3323",
@@ -646,7 +1022,13 @@
         "lect": [
             "DR. NOOR SUZANA BINTI OSMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHDT 3325",
@@ -657,7 +1039,13 @@
         "lect": [
             "DR. NURUL HAZIRAH BINTI JAAFAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 3424",
@@ -668,7 +1056,13 @@
         "lect": [
             "DR. AFLAH BT. AFANDI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "AHDT 4223",
@@ -679,7 +1073,13 @@
         "lect": [
             "DR. NURANIZA BINTI AZAHARI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 4421",
@@ -690,7 +1090,13 @@
         "lect": [
             "ASSOC. PROF. DR. ALIZA HASLINDA BINTI HAMIRUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHDT 4422",
@@ -701,7 +1107,13 @@
         "lect": [
             "DR. NURANIZA BINTI AZAHARI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHDT 4612",
@@ -712,7 +1124,13 @@
         "lect": [
             "DR. NORAISHAH BINTI MOHAMED NOR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHHA 4211",
@@ -726,6 +1144,23 @@
         "dayTime": []
     },
     {
+        "code": "AHHA 4613",
+        "sect": 1,
+        "title": "AUDIOLOGY CLINIC 3",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
         "code": "AHHA 4622",
         "sect": 1,
         "title": "RESEARCH PROJECT 2",
@@ -734,7 +1169,13 @@
         "lect": [
             "ASSOC. PROF. DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHHA 4623",
@@ -745,7 +1186,115 @@
         "lect": [
             "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 3521",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE 3",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. UMMI FARHANA BINTI HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 4131",
+        "sect": 1,
+        "title": "SPECIAL CLINICAL PRACTICE",
+        "chr": 13.0,
+        "venue": null,
+        "lect": [
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 4211",
+        "sect": 1,
+        "title": "RESEARCH PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. IQBAL BIN JAMALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "19:00",
+                "endTime": "20:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 4222",
+        "sect": 1,
+        "title": "COMPARATIVE IMAGING",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. IQBAL BIN JAMALUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "AHMI 4223",
+        "sect": 1,
+        "title": "DIAGNOSTIC IMAGING MANAGEMENT",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORHANNA BINTI SOHAIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4223",
+        "sect": 1,
+        "title": "CLINICAL ROTATION: INPATIENT 3",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURANIZA BINTI AZAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "19:00",
+                "endTime": "20:00"
+            }
+        ]
     },
     {
         "code": "AHND 4421",
@@ -756,7 +1305,47 @@
         "lect": [
             "ASSOC. PROF. DR. ALIZA HASLINDA BINTI HAMIRUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4422",
+        "sect": 1,
+        "title": "CLINICAL ROTATION: INPATIENT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURANIZA BINTI AZAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
+    },
+    {
+        "code": "AHND 4424",
+        "sect": 1,
+        "title": "FOODSERVICE PLACEMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NORAISHAH BINTI MOHAMED NOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "05:00",
+                "endTime": "06:00"
+            }
+        ]
     },
     {
         "code": "AHOV 3221",
@@ -767,7 +1356,13 @@
         "lect": [
             "DR. ILYANOON BINTI ZAHARI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHOV 3222",
@@ -778,7 +1373,13 @@
         "lect": [
             "DR. NURUL AIN BINTI YAHAYA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "02:00",
+                "endTime": "04:00"
+            }
+        ]
     },
     {
         "code": "AHOV 3223",
@@ -789,7 +1390,13 @@
         "lect": [
             "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "02:00",
+                "endTime": "04:00"
+            }
+        ]
     },
     {
         "code": "AHOV 3322",
@@ -800,18 +1407,13 @@
         "lect": [
             "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
         ],
-        "dayTime": []
-    },
-    {
-        "code": "AHOV 3322",
-        "sect": 2,
-        "title": "INVESTIGATIVE PROJECT 1",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
-        ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHOV 3323",
@@ -820,9 +1422,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NORSHAM BT AHMAD"
+            "DR. NURUL AIN BINTI YAHAYA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4221",
@@ -833,7 +1441,13 @@
         "lect": [
             "DR. NURUL AIN BINTI YAHAYA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4222",
@@ -844,7 +1458,13 @@
         "lect": [
             "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4311",
@@ -853,9 +1473,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
+            "ASSOC. PROF. DR. FIRDAUS BIN YUSOF @ ALIAS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4314",
@@ -866,7 +1492,13 @@
         "lect": [
             "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4321",
@@ -877,7 +1509,13 @@
         "lect": [
             "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4322",
@@ -888,7 +1526,13 @@
         "lect": [
             "NOOR WAFIRAH BINTI SHAFEE"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4324",
@@ -899,7 +1543,13 @@
         "lect": [
             "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHPT 1214",
@@ -910,7 +1560,13 @@
         "lect": [
             "DR. MOHD. YUSOF BIN MOHAMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 1216",
@@ -921,7 +1577,13 @@
         "lect": [
             "SHAHID MOHD DAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 1218",
@@ -932,7 +1594,13 @@
         "lect": [
             "DR. MOHAMED ARSHAD BIN MOHAMED SIDEEK"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHPT 1222",
@@ -943,7 +1611,13 @@
         "lect": [
             "DR. ROZLIN BINTI ABDUL RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 1331",
@@ -954,7 +1628,13 @@
         "lect": [
             "MUSFIRAH BINTI DINON"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHPT 1332",
@@ -965,7 +1645,13 @@
         "lect": [
             "DR. ELIN ELISA BINTI KHAIRUL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHPT 2212",
@@ -976,7 +1662,13 @@
         "lect": [
             "DR. MOHD NAZIR BIN MOHD NAZORI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 2232",
@@ -987,7 +1679,13 @@
         "lect": [
             "SHAHID MOHD DAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 2234",
@@ -996,9 +1694,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "NURUL AMIRAH BINTI MUSTAPA"
+            "DR. NURUL AMIRAH BINTI MUSTAPA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 2332",
@@ -1009,7 +1713,13 @@
         "lect": [
             "DR. SITI SALWANA BINTI KAMSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHPT 2334",
@@ -1020,7 +1730,13 @@
         "lect": [
             "MUSFIRAH BINTI DINON"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3232",
@@ -1031,7 +1747,13 @@
         "lect": [
             "DR. ELIN ELISA BINTI KHAIRUL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3234",
@@ -1042,7 +1764,13 @@
         "lect": [
             "DR. AHMAD FAHMI BIN HARUN @ ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "04:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3312",
@@ -1053,7 +1781,13 @@
         "lect": [
             "DR. AHMAD FAHMI BIN HARUN @ ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3314",
@@ -1064,7 +1798,13 @@
         "lect": [
             "DR. NOR AZLINA A. RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3332",
@@ -1075,7 +1815,13 @@
         "lect": [
             "DR. SITI SALWANA BINTI KAMSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3334",
@@ -1086,7 +1832,13 @@
         "lect": [
             "DR. ELIN ELISA BINTI KHAIRUL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3349",
@@ -1097,7 +1849,13 @@
         "lect": [
             "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "01:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3449",
@@ -1108,7 +1866,13 @@
         "lect": [
             "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "02:00",
+                "endTime": "03:00"
+            }
+        ]
     },
     {
         "code": "AHPT 4342",
@@ -1117,9 +1881,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "NURUL AMIRAH BINTI MUSTAPA"
+            "DR. NURUL AMIRAH BINTI MUSTAPA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "AHPT 4542",
@@ -1128,10 +1898,32 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "NURUL AMIRAH BINTI MUSTAPA",
             "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AHPT 4544",
+        "sect": 1,
+        "title": "CLINICAL COMPETENCIES IN PHYSIOTHERAPY",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AMIRAH BINTI MUSTAPA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "AHSC 1221",
@@ -1142,7 +1934,13 @@
         "lect": [
             "DR. NURULWAHIDA SAAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "05:00",
+                "endTime": "06:00"
+            }
+        ]
     },
     {
         "code": "AHSC 1322",
@@ -1153,7 +1951,13 @@
         "lect": [
             "ASSOC. PROF. DR. ZAITUNNATAKHIN BINTI ZAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHSC 1322",
@@ -1164,7 +1968,13 @@
         "lect": [
             "ASSOC. PROF. DR. ZAITUNNATAKHIN BINTI ZAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHSC 2325",
@@ -1175,7 +1985,13 @@
         "lect": [
             "DR. NOR AZLINA A. RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHSC 2325",
@@ -1186,7 +2002,13 @@
         "lect": [
             "DR. NOR AZLINA A. RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHSC 3321",
@@ -1197,7 +2019,13 @@
         "lect": [
             "DR. NURULWAHIDA SAAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "05:00",
+                "endTime": "06:00"
+            }
+        ]
     },
     {
         "code": "AHVS 1321",
@@ -1208,7 +2036,13 @@
         "lect": [
             "PROF. DR. MOHD. ZULFAEZAL BIN CHE AZEMIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "03:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "AHVS 1323",
@@ -1219,7 +2053,13 @@
         "lect": [
             "FATIN AMALINA BINTI CHE ARIF"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHVS 1324",
@@ -1230,7 +2070,13 @@
         "lect": [
             "ASSOC. PROF. DR. FIRDAUS BIN YUSOF @ ALIAS"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "AHVS 2221",
@@ -1241,7 +2087,13 @@
         "lect": [
             "DR. MOHAMAD HANIF BIN HAJAR MAIDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "AHVS 2225",
@@ -1252,7 +2104,13 @@
         "lect": [
             "DR. ILYANOON BINTI ZAHARI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHVS 2322",
@@ -1263,7 +2121,13 @@
         "lect": [
             "DR. MOHD. HAFIDZ BIN ITHNIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "03:00",
+                "endTime": "05:30"
+            }
+        ]
     },
     {
         "code": "AHVS 2323",
@@ -1274,7 +2138,13 @@
         "lect": [
             "NOOR WAFIRAH BINTI SHAFEE"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHVS 2324",
@@ -1285,7 +2155,13 @@
         "lect": [
             "ASSOC. PROF. DR. NORSHAM BT AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "10:30"
+            }
+        ]
     },
     {
         "code": "ASLP 4236",
@@ -1296,7 +2172,13 @@
         "lect": [
             "DR. MASNIRA BINTI JUSOH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "ASPA 1201",
@@ -1307,7 +2189,13 @@
         "lect": [
             "DR. NOR AZRITA BT. MOHAMED ZAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "ASPA 1204",
@@ -1318,7 +2206,13 @@
         "lect": [
             "DR. NOR AZRITA BT. MOHAMED ZAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "ASPA 1205",
@@ -1329,7 +2223,13 @@
         "lect": [
             "ASSOC. PROF. DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "ASPA 1206",
@@ -1340,7 +2240,13 @@
         "lect": [
             "DR. JULIANA AMINAH BINTI MARHABAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "02:00",
+                "endTime": "04:00"
+            }
+        ]
     },
     {
         "code": "ASPA 2208",
@@ -1351,7 +2257,13 @@
         "lect": [
             "DR. NUR HANISAH BINTI TUKIRAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "ASPA 2210",
@@ -1362,7 +2274,13 @@
         "lect": [
             "DR. NOR AZRITA BT. MOHAMED ZAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "ASPA 2211",
@@ -1373,7 +2291,13 @@
         "lect": [
             "ASSOC. PROF. DR. WAN ASLYNN SALWANI BINTI WAN AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "ASPA 2306",
@@ -1384,7 +2308,13 @@
         "lect": [
             "DR. NUR HANISAH BINTI TUKIRAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "ASPA 2309",
@@ -1395,7 +2325,13 @@
         "lect": [
             "DR. MUHAMAD ARIFF BIN IBRAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "ASPA 3205",
@@ -1406,7 +2342,13 @@
         "lect": [
             "DR. RAHAYU MUSTAFFA KAMAL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "ASPA 3206",
@@ -1417,7 +2359,13 @@
         "lect": [
             "DR. RAHAYU MUSTAFFA KAMAL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "ASPA 3209",
@@ -1428,7 +2376,13 @@
         "lect": [
             "DR. NUR HANISAH BINTI TUKIRAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "ASPA 3308",
@@ -1439,7 +2393,64 @@
         "lect": [
             "DR. RAHAYU MUSTAFFA KAMAL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "ASPA 3407",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinic 4",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "ASPA 4502",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinic 5",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR HANISAH BINTI TUKIRAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "ASPA 4601",
+        "sect": 1,
+        "title": "Speech-Language Pathology Clinic 6",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MASNIRA BINTI JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "HSMI 1212",
@@ -1450,7 +2461,13 @@
         "lect": [
             "ZAFRI AZRAN ABDUL MAJID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "HSMI 1322",
@@ -1461,7 +2478,13 @@
         "lect": [
             "ZAFRI AZRAN ABDUL MAJID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "HSMI 1323",
@@ -1472,7 +2495,13 @@
         "lect": [
             "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "HSMI 2322",
@@ -1483,7 +2512,13 @@
         "lect": [
             "DR. UMMI FARHANA BINTI HASHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "HSMI 2323",
@@ -1494,7 +2529,13 @@
         "lect": [
             "DR. HALIMATUSSA'DIAH BINTI AHMAD RADZI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "HSMI 2324",
@@ -1505,7 +2546,13 @@
         "lect": [
             "DR. LIYANA BINTI MUSA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "HSMI 3221",
@@ -1516,7 +2563,30 @@
         "lect": [
             "DR. IQBAL BIN JAMALUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "HSMI 3254",
+        "sect": 1,
+        "title": "Clinical Practice 3",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIMATUSSA'DIAH BINTI AHMAD RADZI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "HSMI 3322",
@@ -1525,9 +2595,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SAYED INAYATULLAH SHAH"
+            "PROF. DR. SAYED INAYATULLAH SHAH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "HSMI 3323",
@@ -1538,6 +2614,46 @@
         "lect": [
             "DR. IQBAL BIN JAMALUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "HSMI 4122",
+        "sect": 1,
+        "title": "Special Clinical Practice",
+        "chr": 13.0,
+        "venue": null,
+        "lect": [
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "HSMI 4221",
+        "sect": 1,
+        "title": "Medical Imaging Management",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORHANNA BINTI SOHAIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
     }
 ]

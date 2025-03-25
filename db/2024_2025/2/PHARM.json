@@ -11,8 +11,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "13:00",
+                "endTime": "14:00"
             }
         ]
     },
@@ -85,6 +85,17 @@
         ]
     },
     {
+        "code": "PPHK 4611",
+        "sect": 1,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "PPPC 1242",
         "sect": 1,
         "title": "BASIC PHARMACEUTICAL ANALYSIS",
@@ -112,7 +123,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:00"
             }
@@ -193,7 +204,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
+            "NOR AKILAH BINTI JAMALUD-DIN"
         ],
         "dayTime": [
             {
@@ -261,7 +272,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NOR ILYANI BINTI MOHAMED NAZAR"
+            "DR. SITI HADIJAH BINTI SHAMSUDIN"
         ],
         "dayTime": [
             {
@@ -278,7 +289,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. SITI HADIJAH BINTI SHAMSUDIN"
+            "ASSOC. PROF. DR. NOR ILYANI BINTI MOHAMED NAZAR"
         ],
         "dayTime": [
             {
@@ -312,7 +323,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "NOR AKILAH BINTI JAMALUD-DIN"
+            "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
         ],
         "dayTime": [
             {
@@ -414,7 +425,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. TS. DR. MUHAMMAD SALAHUDDIN BIN HARIS @ HARITH"
+            "DR. MUHAMMAD TAUFIQ BIN MOHD JAILANI"
         ],
         "dayTime": [
             {
