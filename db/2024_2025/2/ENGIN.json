@@ -440,6 +440,28 @@
         ]
     },
     {
+        "code": "BTEN 3292",
+        "sect": 1,
+        "title": "PROCESS PLANT DESIGN & SAFETY",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-3-20",
+        "lect": [
+            "ASSOC. PROF. DR. AZLIN SUHAIDA BT. AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "BTEN 3316",
         "sect": 1,
         "title": "ENVIRONMENTAL ENGINEERING",
@@ -3261,9 +3283,10 @@
         "sect": 1,
         "title": "DIGITAL COMMUNICATION SYSTEMS DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-4",
         "lect": [
-            "IR. DR. YASSER ASRUL BIN AHMAD"
+            "IR. DR. YASSER ASRUL BIN AHMAD",
+            "PROF. DR. OTHMAN OMRAN KHALIFA"
         ],
         "dayTime": [
             {
@@ -3319,6 +3342,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ECOM 4344",
+        "sect": 1,
+        "title": "SATELLITE COMMUNICATIONS SYSTEMS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-20",
+        "lect": [
+            "PROF. DR. MD. RAFIQUL ISLAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -4560,7 +4605,7 @@
         "sect": 1,
         "title": "COMPUTER ARCHITECTURE AND SYSTEM DESIGN",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-4",
+        "venue": null,
         "lect": [
             "PROF. DATO' SRI DR. MASHKURI BIN YAACOB"
         ],
@@ -4718,7 +4763,8 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-1-4",
         "lect": [
-            "IR. DR. YASSER ASRUL BIN AHMAD"
+            "IR. DR. YASSER ASRUL BIN AHMAD",
+            "PROF. DR. OTHMAN OMRAN KHALIFA"
         ],
         "dayTime": [
             {
@@ -6448,6 +6494,17 @@
         ]
     },
     {
+        "code": "MANU 4343",
+        "sect": 9,
+        "title": "METAL CUTTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOR KHAIRUSSHIMA BINTI MUHAMAD KHAIRUSSALEH"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MANU 4346",
         "sect": 1,
         "title": "NONTRADITIONAL MACHINING",
@@ -7741,7 +7798,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E2-1-3",
         "lect": [
-            "DR. SUAZLAN BIN MT AZNAM",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
@@ -8105,7 +8162,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SUAZLAN BIN MT AZNAM",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
             "TS. DR. NORITA BINTI HASSAN"
         ],
         "dayTime": [
@@ -10910,8 +10967,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES",
-            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
+            "DR. AMELDA DIANNE BINTI ANDAN"
         ],
         "dayTime": [
             {
@@ -12757,7 +12813,7 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. NOORASIKIN BT. SAMAT",
-            "DR. SUAZLAN BIN MT AZNAM",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
             "DR. HAFIZAH HANIM BINTI MOHD ZAKI",
             "ASSOC. PROF. DR. NORSHAHIDA BINTI SARIFUDDIN"
         ],
@@ -12819,7 +12875,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-1-1",
         "lect": [
-            "DR. SUAZLAN BIN MT AZNAM",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
@@ -12888,7 +12944,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-1-3",
         "lect": [
-            "DR. SUAZLAN BIN MT AZNAM",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
@@ -13157,7 +13213,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. SUAZLAN BIN MT AZNAM",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
             "TS. DR. NORITA BINTI HASSAN"
         ],
         "dayTime": [
@@ -13328,7 +13384,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. SUAZLAN BIN MT AZNAM"
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM"
         ],
         "dayTime": []
     },

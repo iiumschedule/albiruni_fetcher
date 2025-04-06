@@ -436,24 +436,7 @@
         "sect": 1,
         "title": "ADVANCED COMPUTER GRAPHICS",
         "chr": 3.0,
-        "venue": "KAED (L1) CAD LAB1",
-        "lect": [
-            "DR. NURLELAWATI BT. AB JALIL"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 2293",
-        "sect": 2,
-        "title": "ADVANCED COMPUTER GRAPHICS",
-        "chr": 3.0,
-        "venue": "KAED (L1) CAD LAB1",
+        "venue": null,
         "lect": [
             "DR. NURLELAWATI BT. AB JALIL"
         ],
@@ -462,6 +445,23 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 2293",
+        "sect": 2,
+        "title": "ADVANCED COMPUTER GRAPHICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLELAWATI BT. AB JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
