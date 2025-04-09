@@ -1469,7 +1469,7 @@
         "chr": 3.0,
         "venue": "HSC LR 21 2.48",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD RAZLAN BIN RASHID ALI"
         ],
         "dayTime": [
             {
@@ -2173,7 +2173,7 @@
         "chr": 3.0,
         "venue": "HSC SPEECH LAB 1.23",
         "lect": [
-            "TO BE DETERMINED"
+            "ABDUL LATIFF BIN PUTEH"
         ],
         "dayTime": [
             {
@@ -2267,17 +2267,6 @@
     },
     {
         "code": "COMM 4994",
-        "sect": 4,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. RIZALAWATI BINTI ISMAIL"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "COMM 4994",
         "sect": 5,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
@@ -2317,28 +2306,6 @@
         "venue": null,
         "lect": [
             "ZARITA BT KASIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "COMM 4994",
-        "sect": 9,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. TENGKU SITI AISHA BINTI TENGKU AZZMAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "COMM 4994",
-        "sect": 10,
-        "title": "FINAL YEAR PROJECT I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. SHAFIZAN BINTI MOHAMED"
         ],
         "dayTime": []
     },
@@ -3661,6 +3628,17 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "ENGL 4394",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR ELENA BINTI A.RAHIM"
+        ],
+        "dayTime": []
     },
     {
         "code": "ENGL 4620",
@@ -6236,7 +6214,7 @@
         "sect": 1,
         "title": "CYBERPOLITICS",
         "chr": 3.0,
-        "venue": "HSC LR 22 2.49",
+        "venue": "HSC WRITING LAB 1.27",
         "lect": [
             "DR. ROHANA BINTI ABDUL HAMID"
         ],
@@ -9466,6 +9444,39 @@
         "dayTime": []
     },
     {
+        "code": "RKFQ 4993",
+        "sect": 18,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD SHIRWAN BIN ABDULLAH SANI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKFQ 4993",
+        "sect": 19,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN SYIBRAH HANISAH BINTI WAN SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKFQ 4993",
+        "sect": 20,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IRHAMMUDIN BIN IBRAHIM"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "RKFQ 4994",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
@@ -10947,6 +10958,28 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "RKQS 4321",
+        "sect": 2,
+        "title": "I'JAZ AL-QUR'AN WA NAZMUH (THE COHERENCY AND INIMITABILITY OF THE QUR'AN)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. RADWAN JAMAL YOUSEF ELATRASH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -14513,6 +14546,17 @@
         "dayTime": []
     },
     {
+        "code": "UNGS 2050",
+        "sect": 99,
+        "title": "ETHICS & FIQH FOR EVERYDAY LIFE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "UNGS 2060",
         "sect": 99,
         "title": "MALAY VIRTUES, HERITAGE AND MALAYSIAN SOCIETY",
@@ -15888,7 +15932,7 @@
         "sect": 13,
         "title": "ETHICS AND FIQH OF CONTEMPORARY ISSUES",
         "chr": 3.0,
-        "venue": "IRK IBN KHALDUN 1.18",
+        "venue": "IRK LR 11 3.70",
         "lect": [
             "DR. NORBANI BINTI ISMAIL"
         ],
