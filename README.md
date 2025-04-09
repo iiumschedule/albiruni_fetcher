@@ -3,9 +3,9 @@
 > [!WARNING]
 > This project is :alembic: **EXPERIMENTAL** :alembic:
 
-# albiruni fetcher
+# Albiruni Fetcher
 
-Fetches subject information from [IIUM'S Course Schedule](https://albiruni.iium.edu.my/myapps/StudentOnline/schedule1.php) and store in DB.
+Fetches subject information from [IIUM'S Course Schedule](https://albiruni.iium.edu.my/myapps/StudentOnline/schedule1.php) and stores it in a local file.
 
 ## Getting Started
 
@@ -15,12 +15,12 @@ Fetches subject information from [IIUM'S Course Schedule](https://albiruni.iium.
 dart bin\albiruni_fetcher.dart --session <session> --sem <semester>
 ```
 
-Where `<session>` is the academic session (eg: `2023/2024`) and `<semester>` is the semester number (eg: `1` or `2` or `3`).
+Where `<session>` is the academic session (e.g., `2023/2024`) and `<semester>` is the semester number (e.g., `1`, `2`, or `3`).
 
-The data is then saved to `db/{session}/{semester}.{kulliyyah}json`.
+The data will be saved to `db/{session}/{semester}.{kulliyyah}.json`.
 
-## Related projects
+## Related Projects
 
-- [IIUM Schedule](https://github.com/iqfareez/iium_schedule) - Make IIUM schedule using this app
+- [IIUM Schedule](https://github.com/iqfareez/iium_schedule) - An app to create your IIUM schedule
 - [albiruni](https://github.com/iqfareez/albiruni) - Dart package to scrape IIUM's Course Schedule
 - [albiruni-api](https://github.com/iqfareez/albiruni-api) - IIUM Subjects REST API that uses this fetched database **[:alembic: Experimental]**
