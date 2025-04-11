@@ -28,7 +28,7 @@ jobs:
 
       - name: Setup Dart SDK
         id: setup-dart-sdk
-        uses: dart-lang/setup-dart@v1.6.4
+        uses: dart-lang/setup-dart@v1
 
       - name: Install dependencies
         run: dart pub get
@@ -44,7 +44,7 @@ jobs:
           commit-message: "🗃️ update DB from ${{ github.run_id }}"
           title: "🗃️ Update DB (session ${{ inputs.session }}, sem ${{ inputs.semester }})"
           body: "![chart_iium_subjects](${{ steps.dart-scrapper.outputs.chart_link }})"
-          branch: update/db
+          branch: update/db-${{ github.run_id }}
           base: master
 
       - run: echo "Job completed successfully. Using **Dart ${{ steps.setup-dart-sdk.outputs.dart-version }}**" >> $GITHUB_STEP_SUMMARY
