@@ -1,0 +1,198 @@
+[
+    {
+        "code": "AERO 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AERO 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ECIE 3312",
+        "sect": 1,
+        "title": "DATA STRUCTURE AND ALGORITHM DESIGN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "ECOM 4101",
+        "sect": 1,
+        "title": "COMMUNICATIONS ENGINEERING LAB II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. OTHMAN OMRAN KHALIFA",
+            "PROF. DR. MD. RAFIQUL ISLAM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ECOM 4312",
+        "sect": 1,
+        "title": "OPTICAL COMMUNICATIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:20"
+            },
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:20"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:20"
+            }
+        ]
+    },
+    {
+        "code": "EECE 3102",
+        "sect": 1,
+        "title": "ELECTRICAL AND COMPUTER ENG. LAB III",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHAHIDA BINTI MIDI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "EITR 3511",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3512",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 3242",
+        "sect": 1,
+        "title": "IOT AND APPLICATIONS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZ BIN IMAN",
+            "DR. MUHAMMAD BIN ABDULLAH",
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 4399",
+        "sect": 1,
+        "title": "PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN",
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
+    }
+]
