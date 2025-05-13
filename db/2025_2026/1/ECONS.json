@@ -3156,20 +3156,42 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
     {
         "code": "ECON 2332",
         "sect": 2,
+        "title": "FIQH FOR ECONOMIST II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ECON 2332",
+        "sect": 3,
         "title": "FIQH FOR ECONOMIST II",
         "chr": 3.0,
         "venue": null,
@@ -3191,7 +3213,7 @@
     },
     {
         "code": "ECON 2332",
-        "sect": 3,
+        "sect": 4,
         "title": "FIQH FOR ECONOMIST II",
         "chr": 3.0,
         "venue": null,
@@ -3420,14 +3442,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -3465,13 +3487,35 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ECON 3335",
+        "sect": 2,
+        "title": "USUL FIQH II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3618,14 +3662,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
