@@ -128,7 +128,7 @@
         "sect": 1,
         "title": "CONTROL SYSTEMS",
         "chr": 3.0,
-        "venue": "ENG LRM E0-3-60",
+        "venue": null,
         "lect": [
             "DR. DWI PEBRIANTI"
         ],
@@ -175,13 +175,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -197,13 +197,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -285,13 +285,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -806,7 +806,7 @@
         "sect": 1,
         "title": "CHEMICAL THERMODYNAMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
             "PROF. DR. MD ZAHANGIR ALAM"
@@ -829,7 +829,7 @@
         "sect": 2,
         "title": "CHEMICAL THERMODYNAMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
             "PROF. DR. MD ZAHANGIR ALAM"
@@ -1019,13 +1019,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1501,7 +1501,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR",
+            "DR. NUR KHAIRIYAH BINTI BASRI",
             "DR. DANI IRWAN BIN MASBAH"
         ],
         "dayTime": [
@@ -1651,10 +1651,9 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB",
+            "PROF. ABDULLAH AL-MAMUN",
             "TS. BADERUL HISHAM BIN AHMAD",
-            "IR. DR. NADIAH BINTI MD. HUSAIN",
-            "PROF. ABDULLAH AL-MAMUN"
+            "IR. DR. NADIAH BINTI MD. HUSAIN"
         ],
         "dayTime": [
             {
@@ -1712,7 +1711,6 @@
         "lect": [
             "DR. DANI IRWAN BIN MASBAH",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
-            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN",
             "DR. RIJALUL FIKRI",
             "PROF. IR. DR. RUSLAN BIN HASSAN",
             "DR. NUR AZLIN BINTI BAHARUDIN",
@@ -1724,13 +1722,12 @@
             "TS. DR. SITI ALIYYAH BINTI MASJUKI",
             "DR. SITI ASMAHANI BINTI SAAD",
             "PROF. DR. MAISARAH BT ALI",
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR",
             "TS. BADERUL HISHAM BIN AHMAD",
             "ASSOC. PROF. IR. TS. DR. NORHIDAYU BINTI KASIM",
             "DR. AHMAD BUKHARI BIN RAMLI",
             "DR. NUR KHAIRIYAH BINTI BASRI",
             "DR. SITI NORATIKAH BINTI CHE DERAMAN",
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB"
+            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
         ],
         "dayTime": [
             {
@@ -1764,7 +1761,6 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. RAMEZ AL-EZZI ABDULJALIL AL-MANSOB",
             "DR. WAN NUR FIRDAUS BINTI WAN HASSAN",
             "PROF. IR. DR. RUSLAN BIN HASSAN",
             "DR. NUR AZLIN BINTI BAHARUDIN",
@@ -1772,7 +1768,6 @@
             "IR. DR. NADIAH BINTI MD. HUSAIN",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
             "PROF. DR. MAISARAH BT ALI",
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR",
             "TS. BADERUL HISHAM BIN AHMAD",
             "ASSOC. PROF. IR. TS. DR. NORHIDAYU BINTI KASIM",
             "DR. NUR KHAIRIYAH BINTI BASRI",
@@ -1899,14 +1894,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1929,50 +1924,6 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 4391",
-        "sect": 1,
-        "title": "TRANSPORTATION ENGINEERING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "CIVE 4395",
-        "sect": 1,
-        "title": "PAVEMENT ENGINEERING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -2071,13 +2022,13 @@
         "sect": 1,
         "title": "CIVIL ENGINEERING DRAWING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG ECE GEN PURPS COM LAB E0-3",
         "lect": [
             "DR. TAHARA RAMADZAN BINTI MD KASSIM"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "15:30",
                 "endTime": "17:20"
             }
@@ -2323,7 +2274,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR",
+            "DR. NUR KHAIRIYAH BINTI BASRI",
             "DR. DANI IRWAN BIN MASBAH"
         ],
         "dayTime": [
@@ -2535,7 +2486,6 @@
             "TS. DR. SITI ALIYYAH BINTI MASJUKI",
             "DR. SITI ASMAHANI BINTI SAAD",
             "PROF. DR. MAISARAH BT ALI",
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR",
             "TS. BADERUL HISHAM BIN AHMAD",
             "ASSOC. PROF. IR. TS. DR. NORHIDAYU BINTI KASIM",
             "DR. AHMAD BUKHARI BIN RAMLI",
@@ -2579,9 +2529,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "03:30",
-                "endTime": "05:20"
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -2597,14 +2552,13 @@
             "DR. NUR AZLIN BINTI BAHARUDIN",
             "PROF. ABDULLAH AL-MAMUN",
             "IR. DR. NADIAH BINTI MD. HUSAIN",
-            "DR. SAERAHANY LEGORI IBRAHIM",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR",
+            "PROF. DR. MAISARAH BT ALI",
             "TS. BADERUL HISHAM BIN AHMAD",
             "ASSOC. PROF. IR. TS. DR. NORHIDAYU BINTI KASIM",
             "DR. NUR KHAIRIYAH BINTI BASRI",
             "DR. SITI NORATIKAH BINTI CHE DERAMAN",
-            "PROF. DR. MAISARAH BT ALI"
+            "DR. SAERAHANY LEGORI IBRAHIM"
         ],
         "dayTime": [
             {
@@ -2763,14 +2717,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -2815,28 +2769,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "CVLE 4373",
-        "sect": 1,
-        "title": "PAVEMENT ENGINEERING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. WAN NUR AIFA BINTI WAN AZAHAR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },
@@ -3051,14 +2983,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3616,7 +3548,7 @@
         "sect": 6,
         "title": "PROGRAMMING FOR ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG ECE COMP TEACHG LAB E3-2",
+        "venue": "ENG ECE CAD LAB E0-4",
         "lect": [
             "ASSOC. PROF. DR. KHAIRUL AZAMI BIN SIDEK"
         ],
@@ -3704,7 +3636,7 @@
         "sect": 2,
         "title": "DATA STRUCTURE AND PROGRAMMING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG ECE COMP TEACHG LAB E3-2",
         "lect": [
             "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
         ],
@@ -4719,7 +4651,7 @@
         "sect": 1,
         "title": "ADVANCED COMPUTER LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE GEN PURPS COM LAB E0-3",
         "lect": [
             "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI",
             "PROF. DR. MOHAMED HADI HABAEBI",
@@ -4757,7 +4689,7 @@
         "sect": 1,
         "title": "ADVANCED ELECTRONICS LAB",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG ECE COMP TEACHG LAB E3-2",
         "lect": [
             "PROF. DR. ANIS NURASHIKIN BT. NORDIN",
             "DR. NURUL ARFAH BINTI CHE MUSTAPHA",
@@ -4863,14 +4795,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4952,13 +4884,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -5039,14 +4971,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -5083,14 +5015,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -9418,7 +9350,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+            "DR. SYED NOH BIN SYED ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -9506,7 +9438,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SYED NOH BIN SYED ABU BAKAR"
+            "DR. HANAN BT. MOKHTAR"
         ],
         "dayTime": [
             {
@@ -9642,14 +9574,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -9728,8 +9660,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NABILAH BT. RAMLI",
-            "DR. HANAN BT. MOKHTAR"
+            "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
         ],
         "dayTime": [
             {
@@ -9835,7 +9766,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SANY IZAN IHSAN"
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
         ],
         "dayTime": [
             {
@@ -9857,7 +9788,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+            "ASSOC. PROF. DR. SANY IZAN IHSAN"
         ],
         "dayTime": [
             {
@@ -9895,24 +9826,46 @@
         ]
     },
     {
+        "code": "MECH 2312",
+        "sect": 2,
+        "title": "DYNAMICS OF MACHINERY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NABILAH BT. RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "MECH 2340",
         "sect": 1,
         "title": "FLUID MECHANICS",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. SHER AFGHAN KHAN"
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -9950,13 +9903,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -9967,7 +9920,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
         ],
         "dayTime": [
             {
@@ -9989,12 +9942,17 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. ASSAYIDATUL LAILA BINTI NOR HAIRIN",
+            "DR. MUHAMMAD HAFIZ BIN JAHARE",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:50"
             }
@@ -10007,12 +9965,17 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. ASSAYIDATUL LAILA BINTI NOR HAIRIN",
+            "DR. MUHAMMAD HAFIZ BIN JAHARE",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:50"
             }
@@ -10069,7 +10032,7 @@
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "16:50"
+                "endTime": "15:20"
             }
         ]
     },
@@ -10342,7 +10305,7 @@
         "sect": 1,
         "title": "CONTROL SYSTEMS",
         "chr": 3.0,
-        "venue": "ENG LRM E0-3-60",
+        "venue": null,
         "lect": [
             "DR. HAFIZ BIN IMAN"
         ],
@@ -10576,14 +10539,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -10599,13 +10562,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
