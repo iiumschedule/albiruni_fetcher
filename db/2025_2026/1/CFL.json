@@ -1,5 +1,115 @@
 [
     {
+        "code": "LCHD 1201",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 2,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 3,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 2202",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 3203",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE III",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
         "code": "LEED 1011",
         "sect": 1,
         "title": "ENGLISH IN FOCUS",
@@ -1407,14 +1517,68 @@
                 "endTime": "16:30"
             },
             {
-                "day": 1,
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 21,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:30"
             },
             {
                 "day": 2,
                 "startTime": "14:00",
-                "endTime": "16:00"
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 22,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:30"
             },
             {
                 "day": 2,
@@ -1427,16 +1591,6 @@
                 "endTime": "16:30"
             },
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
                 "day": 4,
                 "startTime": "10:30",
                 "endTime": "13:00"
@@ -1446,6 +1600,38 @@
     {
         "code": "LEED 1014",
         "sect": 30,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 40,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
         "venue": null,
@@ -2717,6 +2903,28 @@
     },
     {
         "code": "LEED 1301",
+        "sect": 53,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
         "sect": 54,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
@@ -3228,8 +3436,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "MS. NUR FATEHAH BINTI JEFFRI",
-            "RAZMAN BIN MOHAMAD"
+            "MS. NUR FATEHAH BINTI JEFFRI"
         ],
         "dayTime": [
             {
@@ -3238,29 +3445,9 @@
                 "endTime": "12:30"
             },
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:30"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:30"
-            },
-            {
                 "day": 3,
                 "startTime": "11:00",
                 "endTime": "12:30"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:30"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
             }
         ]
     },
@@ -3390,7 +3577,7 @@
                 "endTime": "10:50"
             },
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "09:00",
                 "endTime": "10:50"
             }
@@ -3782,23 +3969,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:50"
+                "startTime": "09:00",
+                "endTime": "10:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:50"
+                "startTime": "09:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -3814,23 +3991,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4149,7 +4316,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "RAZMAN BIN MOHAMAD"
+            "MOHD FAUZAN BIN MAT JAM JAM"
         ],
         "dayTime": [
             {
@@ -4171,7 +4338,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "MOHD FAUZAN BIN MAT JAM JAM"
+            "MOHD. SENU BIN AWANG"
         ],
         "dayTime": [
             {
@@ -5524,13 +5691,13 @@
             },
             {
                 "day": 5,
-                "startTime": "10:00",
-                "endTime": "11:50"
+                "startTime": "08:00",
+                "endTime": "09:50"
             },
             {
                 "day": 5,
-                "startTime": "08:00",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -6079,6 +6246,11 @@
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "10:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -7050,6 +7222,3053 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 1,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 2,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 3,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 4,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 5,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 101,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 102,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 103,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 104,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 105,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 501,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 551,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 1,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 2,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 3,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 4,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 5,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 6,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 7,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 8,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 9,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 10,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 101,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 102,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 103,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 104,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 105,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 106,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 107,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 108,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 109,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 110,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 111,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 112,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 113,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 114,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 115,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 116,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 117,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 118,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 119,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 120,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 501,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 502,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 551,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 552,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 553,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 1,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 2,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 3,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 4,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 5,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 6,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 7,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 8,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 9,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 10,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 11,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 12,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 13,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 14,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 15,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 16,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 17,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 18,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 19,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 20,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 21,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 22,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 23,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 24,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 25,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 26,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 27,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 28,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 29,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 30,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 31,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 32,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 33,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 101,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 102,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 103,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 104,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 105,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 106,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 107,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 108,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 109,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 110,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 111,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 112,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 113,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 115,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 116,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 117,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 118,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 119,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 120,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 121,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 122,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 123,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 124,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 125,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 126,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 127,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 128,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 129,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 130,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 131,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 132,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 133,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 134,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 135,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 136,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 137,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 138,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 139,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 140,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 141,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 142,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 143,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 144,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 145,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 146,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 147,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 148,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 149,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 150,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 151,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 152,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 153,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 501,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 502,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 551,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 552,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 553,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 554,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 555,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 556,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 557,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 558,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 559,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 1,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 2,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 3,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 4,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 5,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 6,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 7,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 8,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 9,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 10,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 11,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 12,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 13,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 14,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3001",
+        "sect": 15,
+        "title": "ADVANCED TILAWAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 1,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 2,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 3,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 4,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 5,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 6,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 7,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 8,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "14:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 9,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 10,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "08:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 11,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 12,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 3002",
+        "sect": 13,
+        "title": "ADVANCED TILAWAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
             }
         ]
     }
