@@ -2490,6 +2490,518 @@
         ]
     },
     {
+        "code": "BSCH 1214",
+        "sect": 1,
+        "title": "Statistic",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1311",
+        "sect": 1,
+        "title": "Organic Chemistry 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR SALIYANA JUMALI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 1313",
+        "sect": 1,
+        "title": "Physical Chemistry 1",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2215",
+        "sect": 1,
+        "title": "Computational Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2312",
+        "sect": 1,
+        "title": "Inorganic Chemistry 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FIONA HOW NI FOONG"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2313",
+        "sect": 1,
+        "title": "Physical Chemistry 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSLIZA BINTI MOHD. SALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2314",
+        "sect": 1,
+        "title": "Analytical Chemistry 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SAIFUL 'ARIFIN BIN SHAFIEE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 2411",
+        "sect": 1,
+        "title": "Organic Chemistry 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3213",
+        "sect": 1,
+        "title": "Chemical Health & Safety Management",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3214",
+        "sect": 1,
+        "title": "Materials Chemistry",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3215",
+        "sect": 1,
+        "title": "Organic Synthesis",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SHAFIDA BINTI ABD HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3222",
+        "sect": 1,
+        "title": "Final Year Project 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 3311",
+        "sect": 1,
+        "title": "Natural Product Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3312",
+        "sect": 1,
+        "title": "Environmental Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURZIANA BINTI NGAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3331",
+        "sect": 1,
+        "title": "Food Chemistry and Safety",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD NORAZMI BIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3332",
+        "sect": 1,
+        "title": "Chemistry of Fats, Oils and Emulsifiers",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3341",
+        "sect": 1,
+        "title": "Medicinal Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL IMAN AMINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3342",
+        "sect": 1,
+        "title": "Drug Dosage Form",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3351",
+        "sect": 1,
+        "title": "Occupational Safety and Health Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ARMI BIN ABU SAMAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 3352",
+        "sect": 1,
+        "title": "Industrial Chemical Hygiene",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4312",
+        "sect": 1,
+        "title": "Industrial Chemistry",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSLIZA BINTI MOHD. SALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4313",
+        "sect": 1,
+        "title": "Quality Control & Assurance",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. WAN KHARTINI BINTI WAN ABDUL KHODIR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4314",
+        "sect": 1,
+        "title": "Flavours & Fragrances",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN ZURINA SAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4315",
+        "sect": 1,
+        "title": "Halal Foods & Related Products",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4316",
+        "sect": 1,
+        "title": "Cosmetic Ingredient & Formulation",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. DENY SUSANTI BINTI DARNIS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4317",
+        "sect": 1,
+        "title": "Occupational, Safety, Health Legislation & Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BSCH 4411",
+        "sect": 1,
+        "title": "Final Year Project 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HAZMAN BIN DANIAL"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BSMS 1301",
         "sect": 1,
         "title": "ANALYTIC GEOMETRY",
@@ -3194,6 +3706,28 @@
         ]
     },
     {
+        "code": "BSMS 3322",
+        "sect": 1,
+        "title": "INTRODUCTION TO LATTICE STATISTICAL MECHANICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI FATIMAH BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
         "code": "BSMS 3331",
         "sect": 1,
         "title": "FINANCIAL DERIVATIVES I",
@@ -3316,7 +3850,7 @@
             {
                 "day": 1,
                 "startTime": "15:30",
-                "endTime": "20:00"
+                "endTime": "17:00"
             },
             {
                 "day": 4,
@@ -3364,8 +3898,8 @@
             },
             {
                 "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
