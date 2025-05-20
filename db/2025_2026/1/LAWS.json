@@ -318,14 +318,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:00"
             },
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2541,13 +2541,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "startTime": "09:00",
+                "endTime": "10:00"
             },
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2585,13 +2585,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:00"
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -2607,13 +2607,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:00"
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -2717,13 +2717,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "12:00",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "12:00",
+                "endTime": "13:00"
             },
             {
                 "day": 5,
@@ -2787,12 +2787,12 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "09:00",
                 "endTime": "10:00"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "09:00",
                 "endTime": "10:00"
             }
