@@ -2883,6 +2883,28 @@
     },
     {
         "code": "ENGL 3310",
+        "sect": 2,
+        "title": "BUSINESS ENGLISH",
+        "chr": 3.0,
+        "venue": "HSC TR 23 3.71",
+        "lect": [
+            "MAZLAN BIN MOHD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 3310",
         "sect": 3,
         "title": "BUSINESS ENGLISH",
         "chr": 3.0,
@@ -2900,6 +2922,72 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 3311",
+        "sect": 1,
+        "title": "DIGITAL HUMANITIES FOR LINGUISTICS AND LITERARY STUDIES",
+        "chr": 3.0,
+        "venue": "HSC WRITING LAB 1.27",
+        "lect": [
+            "DR. WAN NUR MADIHA BINTI RAMLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 3311",
+        "sect": 2,
+        "title": "DIGITAL HUMANITIES FOR LINGUISTICS AND LITERARY STUDIES",
+        "chr": 3.0,
+        "venue": "HSC WRITING LAB 1.27",
+        "lect": [
+            "DR. WAN NUR MADIHA BINTI RAMLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 3311",
+        "sect": 3,
+        "title": "DIGITAL HUMANITIES FOR LINGUISTICS AND LITERARY STUDIES",
+        "chr": 3.0,
+        "venue": "HSC TR 13 1.47",
+        "lect": [
+            "DR. WAN NUR MADIHA BINTI RAMLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3419,8 +3507,8 @@
         "chr": 3.0,
         "venue": "IRKHS COMP. LAB 1",
         "lect": [
-            "DR. NURHUSNA BINTI SAMSUDIN",
-            "ASSOC. PROF. DR. MOHD HAFIDZ BIN MAHAMAD MAIFIAH"
+            "DR. NURHIDAYU AL-SAARI",
+            "DR. NURHUSNA BINTI SAMSUDIN"
         ],
         "dayTime": [
             {
@@ -3448,13 +3536,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },

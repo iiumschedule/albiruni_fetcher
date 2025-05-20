@@ -11129,7 +11129,6 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. ABD. MALEK BIN ABDUL HAMID",
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
         ],
@@ -11140,14 +11139,27 @@
                 "endTime": "11:20"
             },
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 2305",
+        "sect": 2,
+        "title": "PROJECT AND OPERATIONS MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
+            "DR. ABD. MALEK BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,

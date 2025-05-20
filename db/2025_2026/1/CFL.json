@@ -66,6 +66,72 @@
         ]
     },
     {
+        "code": "LCHD 1201",
+        "sect": 501,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 502,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 503,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
         "code": "LCHD 2202",
         "sect": 1,
         "title": "MANDARIN LANGUAGE II",
@@ -88,6 +154,50 @@
         ]
     },
     {
+        "code": "LCHD 2202",
+        "sect": 501,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 2202",
+        "sect": 502,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
         "code": "LCHD 3203",
         "sect": 1,
         "title": "MANDARIN LANGUAGE III",
@@ -106,6 +216,50 @@
                 "day": 5,
                 "startTime": "10:30",
                 "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 3203",
+        "sect": 501,
+        "title": "MANDARIN LANGUAGE III",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 3203",
+        "sect": 502,
+        "title": "MANDARIN LANGUAGE III",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:20"
             }
         ]
     },
@@ -3540,6 +3694,17 @@
         ]
     },
     {
+        "code": "LMBD 1132",
+        "sect": 800,
+        "title": "BAHASA MELAYU II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "LMBD 2201",
         "sect": 1,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
@@ -4904,6 +5069,116 @@
         ]
     },
     {
+        "code": "LMBD 2204",
+        "sect": 810,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
+        "sect": 830,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
+        "sect": 831,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
+        "sect": 832,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
+        "sect": 833,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
         "code": "LQAD 1003",
         "sect": 1,
         "title": "ARABIC FOR IBADAH I",
@@ -5494,6 +5769,72 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 830,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 831,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:30"
             }
         ]
     },
@@ -7112,6 +7453,50 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 830,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:30"
             }
         ]
     },
