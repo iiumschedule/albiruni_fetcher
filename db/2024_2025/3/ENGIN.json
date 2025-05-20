@@ -155,9 +155,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "11:20"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -179,7 +184,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "MOHD AZAM BIN AB RAHMAN",
+            "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES",
             "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
         ],
         "dayTime": []

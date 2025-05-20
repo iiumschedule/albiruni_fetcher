@@ -1,5 +1,86 @@
 [
     {
+        "code": "LCHD 1201",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 2,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "02:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 2202",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "05:00",
+                "endTime": "08:00"
+            },
+            {
+                "day": 2,
+                "startTime": "05:00",
+                "endTime": "07:00"
+            },
+            {
+                "day": 4,
+                "startTime": "05:00",
+                "endTime": "08:00"
+            }
+        ]
+    },
+    {
         "code": "LEED 1011",
         "sect": 1,
         "title": "ENGLISH IN FOCUS",
@@ -1386,13 +1467,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1403,7 +1484,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AKHMAL HAKIM BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -1467,7 +1548,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAZMAN BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -1956,14 +2037,14 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
                 "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
             }
         ]
     },
@@ -2551,12 +2632,17 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
                 "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "11:30",
+                "startTime": "11:00",
                 "endTime": "12:50"
             }
         ]
@@ -2622,7 +2708,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2644,7 +2730,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2666,7 +2752,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2688,7 +2774,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2710,7 +2796,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2732,7 +2818,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2754,7 +2840,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2776,7 +2862,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2798,7 +2884,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2864,7 +2950,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2886,7 +2972,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2908,7 +2994,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2930,7 +3016,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2952,7 +3038,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2974,7 +3060,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -2996,7 +3082,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3018,7 +3104,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3040,7 +3126,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3062,7 +3148,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3084,7 +3170,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3106,7 +3192,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3128,7 +3214,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3150,7 +3236,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3172,7 +3258,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3254,13 +3340,79 @@
         ]
     },
     {
+        "code": "TQTD 1002",
+        "sect": 820,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 830,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 831,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "TQTD 2002",
         "sect": 1,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3282,7 +3434,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3304,7 +3456,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3326,7 +3478,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3348,7 +3500,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3370,7 +3522,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3392,7 +3544,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3414,7 +3566,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3436,7 +3588,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3458,7 +3610,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3480,7 +3632,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3502,7 +3654,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3524,7 +3676,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3546,7 +3698,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3568,7 +3720,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3590,7 +3742,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3612,7 +3764,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3634,7 +3786,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3656,7 +3808,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3678,7 +3830,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3700,7 +3852,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3722,7 +3874,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3744,7 +3896,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3766,7 +3918,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3788,7 +3940,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3810,7 +3962,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3892,13 +4044,145 @@
         ]
     },
     {
+        "code": "TQTD 2002",
+        "sect": 820,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 830,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 831,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 832,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 833,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 834,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
         "code": "TQTD 3001",
         "sect": 1,
         "title": "ADVANCED TILAWAH I",
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3920,7 +4204,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3942,7 +4226,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3964,7 +4248,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -3986,7 +4270,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -4008,7 +4292,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -4030,7 +4314,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -4052,7 +4336,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
