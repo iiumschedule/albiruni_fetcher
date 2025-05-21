@@ -129,13 +129,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -151,13 +151,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1145,6 +1145,23 @@
                 "day": 4,
                 "startTime": "23:30",
                 "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "EDGC 3253",
+        "sect": 1,
+        "title": "ADOLESCENT DEVELOPMENT IN COUNSELING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "23:30"
             }
         ]
     },
