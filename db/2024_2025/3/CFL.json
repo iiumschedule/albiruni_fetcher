@@ -1478,6 +1478,50 @@
         ]
     },
     {
+        "code": "LEED 4302",
+        "sect": 820,
+        "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (NURSING)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 4302",
+        "sect": 821,
+        "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (NURSING)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
         "code": "LMBD 1131",
         "sect": 1,
         "title": "BAHASA MELAYU I",
@@ -2632,17 +2676,22 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
+                "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
                 "day": 2,
-                "startTime": "11:00",
+                "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "11:00",
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
                 "endTime": "12:50"
             }
         ]
