@@ -10376,7 +10376,7 @@
         "sect": 4,
         "title": "INTRODUCTION TO SOCIOLOGY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "KHAIRULANUAR BIN ABD. RAHMAN"
         ],
@@ -10398,20 +10398,20 @@
         "sect": 5,
         "title": "INTRODUCTION TO SOCIOLOGY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 17 1.52",
         "lect": [
-            "DR. SZARIANNIE BINTI SULAIMAN"
+            "MOHAMAD KHARUDIN BIN KHALID"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:20"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:20"
             }
         ]
     },
@@ -10464,7 +10464,7 @@
         "sect": 1,
         "title": "MAN AND SOCIETIES IN MUSLIM SCRIPTURES",
         "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "DR. NORASIKIN BT BASIR"
         ],
@@ -10552,7 +10552,7 @@
         "sect": 2,
         "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES I",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC SOCA LAB 2",
         "lect": [
             "DR. IYAD M. Y. EID"
         ],
@@ -10768,28 +10768,6 @@
         ]
     },
     {
-        "code": "SOCA 2362",
-        "sect": 1,
-        "title": "ABORIGINES AND THE NATIVES",
-        "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
-        "lect": [
-            "MOHAMAD KHARUDIN BIN KHALID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            },
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            }
-        ]
-    },
-    {
         "code": "SOCA 2380",
         "sect": 1,
         "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES II",
@@ -10852,6 +10830,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 2399",
+        "sect": 3,
+        "title": "SOCIAL RESEARCH METHODS I",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "DR. SZARIANNIE BINTI SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -10926,7 +10926,7 @@
         "sect": 1,
         "title": "ETHNIC RELATION AND CULTURAL DIVERSITY",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
@@ -11014,7 +11014,7 @@
         "sect": 1,
         "title": "WORK AND SOCIAL ORGANIZATION",
         "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
         ],
