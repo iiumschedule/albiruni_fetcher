@@ -1,1 +1,444 @@
-[]
+[
+    {
+        "code": "PPBM 1211",
+        "sect": 1,
+        "title": "BASIC ANATOMY & HISTOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 1321",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF PHYSIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 1331",
+        "sect": 1,
+        "title": "MEDICAL BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 2211",
+        "sect": 1,
+        "title": "PHARMACOLOGY OF PERIPHERAL NERVOUS SYSTEM",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 2221",
+        "sect": 1,
+        "title": "GENERAL PATHOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 2331",
+        "sect": 1,
+        "title": "ANTI-INFECTIVE AGENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PPBM 3211",
+        "sect": 1,
+        "title": "ANTICANCER CHEMOTHERAPY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 3321",
+        "sect": 1,
+        "title": "BODY SYSTEM & THERAPEUTICS III: MSK & SENSORY ORGANS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 3331",
+        "sect": 1,
+        "title": "BODY SYSTEM & THERAPEUTICS IV: GIT & HEPATOBILIARY SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 3341",
+        "sect": 1,
+        "title": "BODY SYSTEM & THERAPEUTICS V: ENDOCRINE & REPRODUCTIVE SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 1351",
+        "sect": 1,
+        "title": "PHARMACEUTICAL ORGANIC CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 2251",
+        "sect": 1,
+        "title": "PHARMACEUTICAL INSTRUMENTAL ANALYSIS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 2271",
+        "sect": 1,
+        "title": "NUCLEAR PHARMACY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 2272",
+        "sect": 1,
+        "title": "HALAL PHARMACEUTICAL",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 3251",
+        "sect": 1,
+        "title": "PHARMACOGNOSY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 4251",
+        "sect": 1,
+        "title": "HERBAL SCIENCE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 1241",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF PHARMACY PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 2261",
+        "sect": 1,
+        "title": "COMMUNITY PHARMACY PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3281",
+        "sect": 1,
+        "title": "RENAL PHARMACY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4231",
+        "sect": 1,
+        "title": "CLINICAL TOXICOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4261",
+        "sect": 1,
+        "title": "PUBLIC HEALTH PHARMACY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4341",
+        "sect": 1,
+        "title": "E-COMMERCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 2262",
+        "sect": 1,
+        "title": "NUTRACEUTICAL",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 2281",
+        "sect": 1,
+        "title": "COSMETICS & COSMECEUTICALS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 2341",
+        "sect": 1,
+        "title": "PHARMACEUTICS II : DISPERSE SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 3261",
+        "sect": 1,
+        "title": "PHARMACEUTICAL BIOTECHNOLOGY & BIOPHARMACEUTICALS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    }
+]
