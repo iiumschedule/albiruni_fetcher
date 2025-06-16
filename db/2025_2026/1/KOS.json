@@ -2501,8 +2501,8 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "09:30",
+                "endTime": "11:30"
             }
         ]
     },
@@ -2518,13 +2518,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:30"
-            },
-            {
-                "day": 5,
-                "startTime": "11:00",
-                "endTime": "12:30"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2561,14 +2556,14 @@
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "11:30",
-                "endTime": "12:30"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             },
             {
-                "day": 5,
-                "startTime": "10:30",
-                "endTime": "11:30"
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -2649,14 +2644,19 @@
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 5,
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2671,9 +2671,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2688,7 +2688,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "08:00",
                 "endTime": "10:00"
             }
@@ -2705,7 +2705,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "10:00",
                 "endTime": "12:00"
             }
@@ -2755,14 +2755,14 @@
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 1,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2777,9 +2777,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2794,14 +2794,14 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "12:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2816,14 +2816,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "12:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2839,8 +2839,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2856,8 +2856,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2872,14 +2872,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
             },
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "12:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2894,9 +2894,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2912,8 +2912,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2928,9 +2928,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
             }
         ]
     },
@@ -2945,9 +2950,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2984,7 +2989,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
             }
