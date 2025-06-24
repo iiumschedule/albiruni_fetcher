@@ -1984,20 +1984,20 @@
         "sect": 1,
         "title": "STRATEGIC COMMUNICATION",
         "chr": 3.0,
-        "venue": "HSC LR 16 1.50",
+        "venue": "HSC TR 24 3.72",
         "lect": [
             "ASSOC. PROF. DR. AINI MAZNINA BINTI A. MANAF"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -6567,6 +6567,28 @@
         ]
     },
     {
+        "code": "PSYC 5311",
+        "sect": 1,
+        "title": "INTRODUCTION, HISTORY AND PHILOSOPHY OF SCIENCE OF THE SOUL",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "NURUL IZZATI ASYIKIN BINTI ZULKIFLY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "RKFQ 1310",
         "sect": 1,
         "title": "INTRODUCTION TO ISLAMIC JURISPRUDENCE",
@@ -9037,7 +9059,7 @@
         "chr": 3.0,
         "venue": "IRK LR 1 1.24",
         "lect": [
-            "ASSOC. PROF. DR. RADWAN JAMAL YOUSEF ELATRASH"
+            "PROF. DR. RADWAN JAMAL YOUSEF ELATRASH"
         ],
         "dayTime": [
             {
@@ -9081,7 +9103,7 @@
         "chr": 3.0,
         "venue": "IRK LR 1 1.24",
         "lect": [
-            "ASSOC. PROF. DR. RADWAN JAMAL YOUSEF ELATRASH"
+            "PROF. DR. RADWAN JAMAL YOUSEF ELATRASH"
         ],
         "dayTime": [
             {
@@ -10531,7 +10553,7 @@
         "sect": 3,
         "title": "MAN AND SOCIETIES IN MUSLIM SCRIPTURES",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC SOCA LAB 2",
         "lect": [
             "ZURAIDA BINTI ABD RAHIM"
         ],
@@ -10753,7 +10775,7 @@
         "chr": 3.0,
         "venue": "HSC LR 17 1.52",
         "lect": [
-            "DR. NOR AISAH BINTI AREFF"
+            "ASSOC. PROF. DR. NURAZZURA BT MOHAMAD DIAH"
         ],
         "dayTime": [
             {
@@ -10971,53 +10993,9 @@
         "sect": 1,
         "title": "ISLAMIC PERSPECTIVE OF SOCIOLOGY AND ANTHROPOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "PROF. DR. HAZIZAN B. MD. NOON"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 3370",
-        "sect": 2,
-        "title": "ISLAMIC PERSPECTIVE OF SOCIOLOGY AND ANTHROPOLOGY",
-        "chr": 3.0,
-        "venue": "HSC LR 17 1.52",
-        "lect": [
-            "PROF. DR. HAZIZAN B. MD. NOON"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 3382",
-        "sect": 1,
-        "title": "SOCIAL ANTHROPOLOGY",
-        "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
-        "lect": [
-            "ASSOC. PROF. DR. NURAZZURA BT MOHAMAD DIAH"
         ],
         "dayTime": [
             {
@@ -11117,28 +11095,6 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "SOCA 4330",
-        "sect": 2,
-        "title": "RURAL AND URBAN SOCIETY",
-        "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
-        "lect": [
-            "DR. SOHELA MUSTARI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            },
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:20"
             }
         ]
     },
@@ -11325,7 +11281,7 @@
         "chr": 3.0,
         "venue": "HSC LR 17 1.52",
         "lect": [
-            "DR. NOR AISAH BINTI AREFF"
+            "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
         "dayTime": [
             {
@@ -11342,7 +11298,7 @@
         "chr": 3.0,
         "venue": "HSC SOCA LAB 2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SOHELA MUSTARI"
         ],
         "dayTime": [
             {
@@ -11397,14 +11353,36 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "SOCA 4397",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 3.0,
+        "venue": "HSC LR 17 1.52",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -11426,15 +11404,21 @@
         ]
     },
     {
-        "code": "SOCA 4699",
-        "sect": 1,
-        "title": "INTERNSHIP",
-        "chr": 6.0,
-        "venue": null,
+        "code": "SOCA 4398",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": "HSC LR 19 1.54",
         "lect": [
-            "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
+            "DR. SOHELA MUSTARI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
     },
     {
         "code": "UNGS 1301",
