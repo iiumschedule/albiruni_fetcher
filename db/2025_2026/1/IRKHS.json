@@ -6571,7 +6571,7 @@
         "sect": 1,
         "title": "INTRODUCTION, HISTORY AND PHILOSOPHY OF SCIENCE OF THE SOUL",
         "chr": 6.0,
-        "venue": null,
+        "venue": "HS PSYC EXP.LAB 2",
         "lect": [
             "NURUL IZZATI ASYIKIN BINTI ZULKIFLY"
         ],
@@ -6585,6 +6585,89 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 5312",
+        "sect": 1,
+        "title": "RESEARCH METHODS AND STATISTICS IN PSYCHOLOGY",
+        "chr": 6.0,
+        "venue": "HS PSYC EXP.LAB 2",
+        "lect": [
+            "ASSOC. PROF. DR. NOR DIANA BINTI MOHD. MAHUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 5313",
+        "sect": 1,
+        "title": "PSYCHOLOGICAL ASSESSMENT: PRINCIPLES AND APPLICATION",
+        "chr": 6.0,
+        "venue": "HS PSYC SEM ROO LVL 2",
+        "lect": [
+            "DR. MAISARAH BINTI MOHD. TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "20:00"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 5314",
+        "sect": 1,
+        "title": "ETHICAL STANDARDS IN PSYCHOLOGY",
+        "chr": 6.0,
+        "venue": "HSC TR 13 1.47",
+        "lect": [
+            "DR. SURIATI BINTI SIDEK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 5323",
+        "sect": 1,
+        "title": "SOCIAL AND COGNITIVE PSYCHOLOGY",
+        "chr": 6.0,
+        "venue": "HS PSYC EXP.LAB 2",
+        "lect": [
+            "ASSOC. PROF. DR. MARIAM ADAWIAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -9807,7 +9890,7 @@
         "chr": 3.0,
         "venue": "IRK SR 2 1.12",
         "lect": [
-            "ASSOC. PROF. DR. FATMIR SHEHU"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -9829,7 +9912,7 @@
         "chr": 3.0,
         "venue": "IRK SR 2 1.12",
         "lect": [
-            "ASSOC. PROF. DR. FATMIR SHEHU"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -9939,7 +10022,7 @@
         "chr": 3.0,
         "venue": "ADM LR 1 2.134",
         "lect": [
-            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
         ],
         "dayTime": [
             {
@@ -9961,7 +10044,7 @@
         "chr": 3.0,
         "venue": "ADM LR 1 2.134",
         "lect": [
-            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
         ],
         "dayTime": [
             {
@@ -9973,6 +10056,28 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "RKUD 3311",
+        "sect": 1,
+        "title": "MODERN MUSLIM THINKERS: DIMENSIONS OF THOUGHT AND REFORM",
+        "chr": 3.0,
+        "venue": "IRK AL GHAZALI 1.1",
+        "lect": [
+            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -10237,6 +10342,28 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "RKUD 4345",
+        "sect": 1,
+        "title": "PHILOSOPHY OF SCIENCE",
+        "chr": 3.0,
+        "venue": "IRK AL GHAZALI 1.1",
+        "lect": [
+            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },

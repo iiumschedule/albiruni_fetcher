@@ -108,12 +108,12 @@
             {
                 "day": 1,
                 "startTime": "03:30",
-                "endTime": "05:00"
+                "endTime": "04:50"
             },
             {
                 "day": 3,
                 "startTime": "03:30",
-                "endTime": "05:00"
+                "endTime": "04:50"
             }
         ]
     },
@@ -130,12 +130,12 @@
             {
                 "day": 2,
                 "startTime": "11:30",
-                "endTime": "13:00"
+                "endTime": "12:50"
             },
             {
                 "day": 4,
                 "startTime": "11:30",
-                "endTime": "13:00"
+                "endTime": "12:50"
             }
         ]
     },
@@ -152,12 +152,12 @@
             {
                 "day": 2,
                 "startTime": "11:30",
-                "endTime": "13:00"
+                "endTime": "12:50"
             },
             {
                 "day": 4,
                 "startTime": "11:30",
-                "endTime": "13:00"
+                "endTime": "12:50"
             }
         ]
     },
@@ -174,12 +174,12 @@
             {
                 "day": 1,
                 "startTime": "10:00",
-                "endTime": "11:30"
+                "endTime": "11:20"
             },
             {
                 "day": 3,
                 "startTime": "10:00",
-                "endTime": "11:30"
+                "endTime": "11:20"
             }
         ]
     },
@@ -196,7 +196,7 @@
             {
                 "day": 5,
                 "startTime": "08:00",
-                "endTime": "11:00"
+                "endTime": "10:50"
             }
         ]
     },
@@ -312,12 +312,12 @@
             {
                 "day": 2,
                 "startTime": "02:00",
-                "endTime": "03:30"
+                "endTime": "03:20"
             },
             {
                 "day": 4,
                 "startTime": "02:00",
-                "endTime": "03:30"
+                "endTime": "03:20"
             }
         ]
     },
@@ -390,7 +390,7 @@
             {
                 "day": 2,
                 "startTime": "11:00",
-                "endTime": "13:00"
+                "endTime": "12:50"
             }
         ]
     },
@@ -407,7 +407,7 @@
             {
                 "day": 1,
                 "startTime": "05:30",
-                "endTime": "07:30"
+                "endTime": "07:20"
             }
         ]
     },
@@ -424,7 +424,7 @@
             {
                 "day": 1,
                 "startTime": "05:30",
-                "endTime": "07:30"
+                "endTime": "07:20"
             }
         ]
     },
@@ -475,7 +475,7 @@
             {
                 "day": 2,
                 "startTime": "10:00",
-                "endTime": "13:00"
+                "endTime": "12:50"
             }
         ]
     },
@@ -552,7 +552,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. JAFAR PARAMBOOR"
+            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
         "dayTime": [
             {
@@ -613,7 +613,7 @@
         "chr": 3.0,
         "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
-            "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
+            "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
         "dayTime": [
             {
@@ -757,7 +757,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MOHD BURHAN BIN IBRAHIM"
+            "ASSOC. PROF. DR. MOHAMAD JOHDI BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -802,13 +802,30 @@
         ]
     },
     {
+        "code": "EDFS 2203",
+        "sect": 5,
+        "title": "SOCIOLOGY OF EDUCATION",
+        "chr": 2.0,
+        "venue": "EDU LR 26 3.86",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
         "code": "EDFT 2160",
         "sect": 1,
         "title": "TOOLS FOR THINKING",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
+            "DR. JAFAR PARAMBOOR"
         ],
         "dayTime": [
             {
@@ -825,7 +842,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
+            "DR. JAFAR PARAMBOOR"
         ],
         "dayTime": [
             {
@@ -3233,14 +3250,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:20"
             },
             {
-                "day": 3,
-                "startTime": "23:30",
-                "endTime": "01:00"
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:20"
             }
         ]
     },
