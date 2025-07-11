@@ -59,6 +59,21 @@
                 "endTime": "11:00"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:00"
@@ -389,9 +404,34 @@
                 "endTime": "10:00"
             },
             {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -707,6 +747,11 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -912,6 +957,21 @@
                 "day": 1,
                 "startTime": "16:00",
                 "endTime": "18:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1240,6 +1300,26 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -1301,6 +1381,26 @@
                 "day": 1,
                 "startTime": "10:00",
                 "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
             },
             {
                 "day": 3,
@@ -1457,9 +1557,29 @@
                 "endTime": "10:00"
             },
             {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "10:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -1628,9 +1748,29 @@
                 "endTime": "13:00"
             },
             {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2050,6 +2190,36 @@
                 "day": 1,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2084,6 +2254,26 @@
                 "day": 1,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2188,14 +2378,69 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
                 "day": 2,
                 "startTime": "08:00",
                 "endTime": "10:00"
             },
             {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "12:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },
