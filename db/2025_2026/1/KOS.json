@@ -4019,6 +4019,23 @@
         ]
     },
     {
+        "code": "BSPH 1303",
+        "sect": 1,
+        "title": "MODERN PHYSICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. ADLI BIN MD. ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "BSPH 2201",
         "sect": 1,
         "title": "EXPERIMENTAL PHYSICS II",
@@ -4705,6 +4722,23 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "SPS 4116",
+        "sect": 1,
+        "title": "PHYSICS PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. ISKANDAR BIN BAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
