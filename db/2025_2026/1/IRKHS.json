@@ -3015,6 +3015,28 @@
     },
     {
         "code": "ENGL 3320",
+        "sect": 1,
+        "title": "KNOWLEDGE OF MEANING",
+        "chr": 3.0,
+        "venue": "HSC LR 16 1.50",
+        "lect": [
+            "ASSOC. PROF. DR. ZAHARIAH BT PILUS"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ENGL 3320",
         "sect": 2,
         "title": "KNOWLEDGE OF MEANING",
         "chr": 3.0,
@@ -3106,7 +3128,7 @@
         "sect": 1,
         "title": "FILM AS LITERATURE",
         "chr": 3.0,
-        "venue": "HSC LR 7 1.40",
+        "venue": "HSC TR 24 3.72",
         "lect": [
             "DR. NORA BT MOHD. NASIR"
         ],
@@ -3172,7 +3194,7 @@
         "sect": 1,
         "title": "GLOBAL DISCOURSE AND DIVERSITY",
         "chr": 3.0,
-        "venue": "HSC TR 24 3.72",
+        "venue": null,
         "lect": [
             "DR. MAIMUNAH BINTI ABDUL KADIR"
         ],
@@ -3304,7 +3326,7 @@
         "sect": 1,
         "title": "FILM AND MEDIA DISCOURSE",
         "chr": 3.0,
-        "venue": "HSC TR 23 3.71",
+        "venue": "HSC TR 24 3.72",
         "lect": [
             "DR. NORA BT MOHD. NASIR"
         ],
@@ -5649,7 +5671,7 @@
         "chr": 3.0,
         "venue": "HS ALFARABI LAB 2",
         "lect": [
-            "ASSOC. PROF. DR. RUHAYA BINTI HUSSIN"
+            "DR. JUSMAWATI BINTI FAUZAMAN"
         ],
         "dayTime": [
             {
@@ -6668,6 +6690,28 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 5325",
+        "sect": 1,
+        "title": "CLINICAL AND NEUROPSYCHOLOGY",
+        "chr": 6.0,
+        "venue": "HSC TR 13 1.47",
+        "lect": [
+            "DR. USMAN JAFFER"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "21:50"
+            },
+            {
+                "day": 4,
+                "startTime": "20:30",
+                "endTime": "21:50"
             }
         ]
     },
@@ -9340,7 +9384,7 @@
         "chr": 3.0,
         "venue": "IRK SEMINAR ROO 1.15",
         "lect": [
-            "DR. MAJDAN BIN ALIAS"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -9362,7 +9406,7 @@
         "chr": 3.0,
         "venue": "IRK SEMINAR ROO 1.15",
         "lect": [
-            "DR. MAJDAN BIN ALIAS"
+            "ASSOC. PROF. DR. HASLINA BINTI IBRAHIM"
         ],
         "dayTime": [
             {
@@ -9384,7 +9428,7 @@
         "chr": 3.0,
         "venue": "IRK LR 4 1.29",
         "lect": [
-            "ASSOC. PROF. DR. HASLINA BINTI IBRAHIM"
+            "DR. MAJDAN BIN ALIAS"
         ],
         "dayTime": [
             {
@@ -9890,7 +9934,7 @@
         "chr": 3.0,
         "venue": "IRK SR 2 1.12",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. FATMIR SHEHU"
         ],
         "dayTime": [
             {
@@ -9912,7 +9956,7 @@
         "chr": 3.0,
         "venue": "IRK SR 2 1.12",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. FATMIR SHEHU"
         ],
         "dayTime": [
             {
@@ -10148,6 +10192,28 @@
         ]
     },
     {
+        "code": "RKUD 3336",
+        "sect": 1,
+        "title": "ISLAMIC SOCIAL INSTITUTIONS",
+        "chr": 3.0,
+        "venue": "IRK AL GHAZALI 1.1",
+        "lect": [
+            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "RKUD 3345",
         "sect": 1,
         "title": "LOGIC FOR ISLAMIC STUDIES",
@@ -10258,9 +10324,9 @@
         ]
     },
     {
-        "code": "RKUD 4325",
+        "code": "RKUD 4328",
         "sect": 1,
-        "title": "READINGS IN COMPARATIVE RELIGION",
+        "title": "MUSLIM METHODOLOGIES OF COMPARATIVE RELIGION",
         "chr": 3.0,
         "venue": "IRK LR 4 1.29",
         "lect": [
@@ -10276,28 +10342,6 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "RKUD 4328",
-        "sect": 1,
-        "title": "MUSLIM METHODOLOGIES OF COMPARATIVE RELIGION",
-        "chr": 3.0,
-        "venue": "IRK SEMINAR ROO 1.15",
-        "lect": [
-            "DR. MAJDAN BIN ALIAS"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -10342,28 +10386,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "RKUD 4345",
-        "sect": 1,
-        "title": "PHILOSOPHY OF SCIENCE",
-        "chr": 3.0,
-        "venue": "IRK AL GHAZALI 1.1",
-        "lect": [
-            "ASSOC. PROF. DR. ADIBAH BINTI ABDUL RAHIM"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -10440,7 +10462,7 @@
         "chr": 3.0,
         "venue": "IRK SEMINAR ROO 1.15",
         "lect": [
-            "ASSOC. PROF. DR. ISMAIL BIN MAMAT"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
