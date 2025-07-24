@@ -1562,28 +1562,6 @@
         ]
     },
     {
-        "code": "COMM 2311",
-        "sect": 2,
-        "title": "INTERCULTURAL COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC LR 21 2.48",
-        "lect": [
-            "ASSOC. PROF. DR. TENGKU SITI AISHA BINTI TENGKU AZZMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
         "code": "COMM 2312",
         "sect": 1,
         "title": "BASICS OF WRITING",
@@ -1646,28 +1624,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "COMM 2313",
-        "sect": 2,
-        "title": "INTRODUCTORY STATISTICS FOR COMMUNICATION",
-        "chr": 3.0,
-        "venue": "HSC M.MEDIA LAB 1.74",
-        "lect": [
-            "ASSOC. PROF. DR. TENGKU SITI AISHA BINTI TENGKU AZZMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            },
-            {
-                "day": 3,
-                "startTime": "17:00",
-                "endTime": "18:20"
             }
         ]
     },
@@ -3522,14 +3478,37 @@
         ]
     },
     {
+        "code": "HART 1321",
+        "sect": 2,
+        "title": "ISLAMIC LAW OF CONSUMERISM",
+        "chr": 3.0,
+        "venue": "KICT TLD5-02",
+        "lect": [
+            "ASSOC. PROF. DR. BETANIA KARTIKA MUFLIH",
+            "PROF. DR. IRWANDI JASWIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "HART 1331",
         "sect": 1,
         "title": "HALAL INDUSTRY ECOSYSTEM",
         "chr": 3.0,
         "venue": "IRKHS COMP. LAB 1",
         "lect": [
-            "PROF. DR. IRWANDI JASWIR",
-            "ASSOC. PROF. DR. NOOR FAIZUL HADRY BIN NORDIN"
+            "DR. NURHUSNA BINTI SAMSUDIN",
+            "ASSOC. PROF. TS. DR. AMAL A.M. ELGHARBAWY"
         ],
         "dayTime": [
             {
@@ -3614,6 +3593,29 @@
         ]
     },
     {
+        "code": "HART 2333",
+        "sect": 1,
+        "title": "HALAL ENTREPRENEURSHIP",
+        "chr": 3.0,
+        "venue": "KICT TLD5-01",
+        "lect": [
+            "DR. WAN SYIBRAH HANISAH BINTI WAN SULAIMAN",
+            "ASSOC. PROF. TS. DR. AMAL A.M. ELGHARBAWY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "HART 3322",
         "sect": 1,
         "title": "HALAL CONSUMERISM AND CULTURE",
@@ -3621,7 +3623,7 @@
         "venue": "KICT TLD5-01",
         "lect": [
             "DR. WAN SYIBRAH HANISAH BINTI WAN SULAIMAN",
-            "PROF. TS. DR. AZURA BT. AMID"
+            "DR. NUR HANIE BINTI MOHD LATIFF"
         ],
         "dayTime": [
             {
@@ -5907,6 +5909,50 @@
         ]
     },
     {
+        "code": "PSYC 1321",
+        "sect": 3,
+        "title": "RESEARCH METHODOLOGY I",
+        "chr": 3.0,
+        "venue": "HS ALFARABI LAB 2",
+        "lect": [
+            "ASSOC. PROF. DR. LIHANNA BINTI BORHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSYC 1321",
+        "sect": 4,
+        "title": "RESEARCH METHODOLOGY I",
+        "chr": 3.0,
+        "venue": "HSC LR 2 1.37",
+        "lect": [
+            "ASSOC. PROF. DR. LIHANNA BINTI BORHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "PSYC 1322",
         "sect": 1,
         "title": "PSYCHOLOGICAL STATISTICS I",
@@ -6644,8 +6690,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "20:00"
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -11719,7 +11770,7 @@
         "chr": 3.0,
         "venue": "ADM LT 3 3.30",
         "lect": [
-            "TO BE DETERMINED"
+            "DATUK PROF. DR. BERGHOUT ABDELAZIZ"
         ],
         "dayTime": [
             {
@@ -11807,7 +11858,7 @@
         "chr": 3.0,
         "venue": "ADM LT 3 3.30",
         "lect": [
-            "TO BE DETERMINED"
+            "DATUK PROF. DR. BERGHOUT ABDELAZIZ"
         ],
         "dayTime": [
             {
@@ -13168,7 +13219,7 @@
         "chr": 2.0,
         "venue": "IRK LR 14 RK LVL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. JAMAL AHMED BASHIER BADI"
         ],
         "dayTime": [
             {
@@ -13270,7 +13321,7 @@
         "chr": 2.0,
         "venue": "IRK LR 14 RK LVL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMED SHEIKH ALIO"
         ],
         "dayTime": [
             {
