@@ -1,5 +1,38 @@
 [
     {
+        "code": "BMST 4090",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD AZFAR BIN MOHAMED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4122",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUL BARIYYAH BINTI ABD HALIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4122",
+        "sect": 2,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. TAN TENG JU"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BSCH 4122",
         "sect": 1,
         "title": "Industrial Training",
@@ -7,6 +40,17 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. ERNA NORMAYA BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 4122",
+        "sect": 2,
+        "title": "Industrial Training",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
         ],
         "dayTime": []
     },
@@ -57,6 +101,17 @@
     {
         "code": "SAP 4196",
         "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SAP 4196",
+        "sect": 2,
         "title": "INTERNSHIP",
         "chr": 12.0,
         "venue": null,
@@ -132,8 +187,41 @@
         "dayTime": []
     },
     {
+        "code": "SMT 4900",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD AZFAR BIN MOHAMED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMT 4900",
+        "sect": 2,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD AZFAR BIN MOHAMED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "SPS 3212",
         "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SHAFIQAH BINTI AHMAD SHAHARUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SPS 3212",
+        "sect": 2,
         "title": "INDUSTRIAL TRAINING",
         "chr": 12.0,
         "venue": null,

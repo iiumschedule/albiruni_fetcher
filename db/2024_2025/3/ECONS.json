@@ -11,6 +11,28 @@
         "dayTime": []
     },
     {
+        "code": "ECON 1302",
+        "sect": 1,
+        "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
+        "chr": 3.0,
+        "venue": "KENMS 1.6 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "ECON 3672",
         "sect": 1,
         "title": "PRACTICAL TRAINING",
@@ -33,10 +55,43 @@
         "dayTime": []
     },
     {
+        "code": "FINC 2301",
+        "sect": 1,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": "KENMS 1.6 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "FINC 4120",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
         "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ISF 4214",
+        "sect": 1,
+        "title": "PRACTICAL TRAINING",
+        "chr": 6.0,
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
