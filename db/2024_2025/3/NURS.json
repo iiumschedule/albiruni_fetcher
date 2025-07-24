@@ -1,14 +1,42 @@
 [
     {
+        "code": "NURA 3327",
+        "sect": 1,
+        "title": "BIOSTATISTICS AND EPIDEMIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN HASLIZA BINTI WAN MAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "NURB 1213",
         "sect": 1,
         "title": "ANATOMY AND PHYSIOLOGY 1",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORLINDA BINTI ABD. RASHID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
     },
     {
         "code": "NURB 1214",
@@ -17,9 +45,42 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORATIKAH BT. OTHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "23:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1322",
+        "sect": 1,
+        "title": "ANATOMY AND PHYSIOLOGY 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "22:00",
+                "endTime": "01:00"
+            },
+            {
+                "day": 3,
+                "startTime": "22:00",
+                "endTime": "01:00"
+            }
+        ]
     },
     {
         "code": "NURC 2221",
@@ -28,9 +89,25 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. PATIMAH BINTI ABDUL WAHAB"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2221",
@@ -39,9 +116,25 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AYUNI ASMA' BINTI BAHARUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2221",
@@ -50,9 +143,25 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. CHE AZUNIE BINTI CHE ABDULLAH"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2221",
@@ -61,9 +170,25 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MASMUNAA BINTI HASSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2221",
@@ -72,9 +197,25 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MASMUNAA BINTI HASSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2324",
@@ -83,9 +224,20 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. JUNAINAH BINTI AZMI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2324",
@@ -94,9 +246,20 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2324",
@@ -105,9 +268,20 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2324",
@@ -116,9 +290,20 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SANISAH BINTI SAIDI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "NURC 2324",
@@ -127,8 +312,19 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HANIDA HANI BINTI MOHD MOKHTAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "21:00"
+            }
+        ]
     }
 ]
