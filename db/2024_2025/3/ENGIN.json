@@ -26,7 +26,7 @@
         "sect": 1,
         "title": "DATA STRUCTURE AND ALGORITHM DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-2-4",
         "lect": [
             "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
         ],
@@ -53,7 +53,7 @@
         "sect": 1,
         "title": "PARALLEL COMPUTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-1",
         "lect": [
             "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -108,7 +108,7 @@
         "sect": 1,
         "title": "OPTICAL COMMUNICATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-2",
         "lect": [
             "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
         ],
@@ -135,7 +135,7 @@
         "sect": 1,
         "title": "WIRELESS NETWORKING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-2",
         "lect": [
             "ASSOC. PROF. DR. SITI NOORJANNAH BT. IBRAHIM"
         ],
@@ -159,94 +159,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1311",
-        "sect": 1,
-        "title": "ELECTRIC CIRCUITS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1312",
-        "sect": 1,
-        "title": "ELECTRONICS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1313",
-        "sect": 1,
-        "title": "PROGRAMMING FOR ENGINEERS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "EECE 1316",
-        "sect": 1,
-        "title": "FUNDAMENTALS OF ELECTRICAL AND ELECTRONIC",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "12:50"
             }
         ]
     },
@@ -343,7 +255,7 @@
         "sect": 1,
         "title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "PROF. DR. MAIZIRWAN MEL"
         ],
@@ -365,7 +277,7 @@
         "sect": 1,
         "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "PROF. DR. MAIZIRWAN MEL"
         ],
@@ -387,30 +299,20 @@
         "sect": 1,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "11:20"
             }
         ]
     },
@@ -419,9 +321,9 @@
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-1",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
         ],
         "dayTime": [
             {
@@ -451,9 +353,10 @@
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORHANIS AIDA BINTI MOHD NOR",
+            "DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -483,9 +386,9 @@
         "sect": 1,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURIZAN BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -515,9 +418,9 @@
         "sect": 1,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURIZAN BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -547,7 +450,7 @@
         "sect": 2,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-4",
         "lect": [
             "DR. KARTINI BINTI AHMAD"
         ],
@@ -579,9 +482,9 @@
         "sect": 1,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-2-1",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA"
         ],
         "dayTime": [
             {
@@ -611,9 +514,9 @@
         "sect": 2,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-2-2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": [
             {
@@ -635,134 +538,6 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "MECH 1301",
-        "sect": 1,
-        "title": "STATICS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MECH 1302",
-        "sect": 1,
-        "title": "DYNAMICS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MECH 1340",
-        "sect": 1,
-        "title": "ENGINEERING MECHANICS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MECH 2342",
-        "sect": 1,
-        "title": "MECHANICS OF MATERIALS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -782,7 +557,7 @@
         "sect": 1,
         "title": "ENGINEERING DESIGN IDEATION",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-1",
         "lect": [
             "DR. TENGKU NORDAYANA AKMA BINTI TUAN KAMARUDDIN",
             "DR. NABILAH BT. RAMLI"
@@ -805,7 +580,7 @@
         "sect": 1,
         "title": "IOT AND APPLICATIONS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-15",
         "lect": [
             "DR. HAFIZ BIN IMAN",
             "DR. MUHAMMAD BIN ABDULLAH",
@@ -887,30 +662,20 @@
         "sect": 1,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "11:20"
             }
         ]
     }
