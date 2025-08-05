@@ -11,13 +11,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "02:00",
-                "endTime": "04:50"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 3,
-                "startTime": "02:00",
-                "endTime": "04:50"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 5,
@@ -38,8 +38,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "02:00",
-                "endTime": "04:50"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 3,
@@ -48,8 +48,8 @@
             },
             {
                 "day": 4,
-                "startTime": "02:00",
-                "endTime": "04:50"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -65,102 +65,18 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "05:00",
-                "endTime": "08:00"
+                "startTime": "17:00",
+                "endTime": "20:00"
             },
             {
                 "day": 2,
-                "startTime": "05:00",
-                "endTime": "07:00"
+                "startTime": "17:00",
+                "endTime": "19:00"
             },
             {
                 "day": 4,
-                "startTime": "05:00",
-                "endTime": "08:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1011",
-        "sect": 1,
-        "title": "ENGLISH IN FOCUS",
-        "chr": 0.0,
-        "venue": "ICT LR 1 LEVEL 1C",
-        "lect": [
-            "ARNIE NARTIKA NAHARUDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1012",
-        "sect": 1,
-        "title": "ENGLISH ON TRACK",
-        "chr": 0.0,
-        "venue": "ICT LR 2 LEVEL 1D",
-        "lect": [
-            "HARLINDA BINTI DALDIRI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "23:00",
-                "endTime": "04:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "23:00",
-                "endTime": "04:00"
+                "startTime": "17:00",
+                "endTime": "20:00"
             }
         ]
     },
@@ -169,7 +85,7 @@
         "sect": 1,
         "title": "ENGLISH ON THE GO",
         "chr": 0.0,
-        "venue": "ICT LR 5 LEVEL 1C",
+        "venue": "KAED TR (L1) 11",
         "lect": [
             "NURUL FUADAH BINTI MOHAMAD HASSAN"
         ],
@@ -221,23 +137,18 @@
         "sect": 2,
         "title": "ENGLISH ON THE GO",
         "chr": 0.0,
-        "venue": "ICT LR 6 LEVEL 1D",
+        "venue": "KENMS 3.13 LEVEL 3",
         "lect": [
             "NATASHA BINTI AYUB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "12:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
                 "startTime": "08:00",
                 "endTime": "12:00"
             },
@@ -247,7 +158,7 @@
                 "endTime": "17:00"
             },
             {
-                "day": 3,
+                "day": 2,
                 "startTime": "08:00",
                 "endTime": "12:00"
             },
@@ -257,7 +168,7 @@
                 "endTime": "17:00"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "12:00"
             },
@@ -265,6 +176,11 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -273,7 +189,7 @@
         "sect": 1,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
-        "venue": "ICT LR 9 LEVEL 2C",
+        "venue": "KAED TR (L1) 9",
         "lect": [
             "MUHAMMAD DANIAL BIN BAHARUDIN"
         ],
@@ -286,7 +202,7 @@
             {
                 "day": 2,
                 "startTime": "23:00",
-                "endTime": "04:00"
+                "endTime": "05:00"
             },
             {
                 "day": 3,
@@ -296,7 +212,7 @@
             {
                 "day": 4,
                 "startTime": "23:00",
-                "endTime": "04:00"
+                "endTime": "05:00"
             }
         ]
     },
@@ -305,9 +221,9 @@
         "sect": 2,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
-        "venue": "ICT LR 10 LEVEL 2C",
+        "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "FAZELINAH BINTI FAZELI KADER"
+            "NORAMIZAH BT HAJI MOHD YUSOFF"
         ],
         "dayTime": [
             {
@@ -318,44 +234,12 @@
             {
                 "day": 2,
                 "startTime": "23:00",
-                "endTime": "04:00"
+                "endTime": "05:00"
             },
             {
                 "day": 3,
                 "startTime": "08:00",
                 "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "23:00",
-                "endTime": "04:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1014",
-        "sect": 20,
-        "title": "ENGLISH IN ACTION",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "BUKHARI BIN SHAFIE"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "23:00",
-                "endTime": "05:00"
-            },
-            {
-                "day": 2,
-                "startTime": "23:00",
-                "endTime": "05:00"
-            },
-            {
-                "day": 3,
-                "startTime": "23:00",
-                "endTime": "05:00"
             },
             {
                 "day": 4,
@@ -503,7 +387,7 @@
         "chr": 3.0,
         "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "DR. MOHD. KHAIRUL BIN ABU SUFI"
+            "EMELIA BINTI EFFENDY"
         ],
         "dayTime": [
             {
@@ -545,7 +429,7 @@
         "sect": 9,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 3",
         "lect": [
             "ALINA FAZILAH BINTI FAZI"
         ],
@@ -557,8 +441,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -569,7 +453,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 2",
         "lect": [
-            "DR. LIZA BINTI ABDULLAH"
+            "YANTE ALEEZA BINTI APISAH"
         ],
         "dayTime": [
             {
@@ -589,7 +473,7 @@
         "sect": 11,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CFL 6 IBN MALIK 4.26",
         "lect": [
             "ARINAH BINTI OTHMAN"
         ],
@@ -601,8 +485,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -677,7 +561,7 @@
         "sect": 15,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "NUR AFIFAH BINTI ABD HALIM"
         ],
@@ -765,7 +649,7 @@
         "sect": 19,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 9",
+        "venue": "ICT LR 20 LEVEL 4E",
         "lect": [
             "SHAHRUL ANNUAR BIN OTHMAN"
         ],
@@ -809,7 +693,7 @@
         "sect": 21,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 3",
+        "venue": "ICT TL-E5-03 LEVEL 5E",
         "lect": [
             "NURZIDA BINTI MOHAMED KALAM"
         ],
@@ -831,7 +715,7 @@
         "sect": 22,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
             "YULIATI BINTI ABDUL WAHAB"
         ],
@@ -943,7 +827,7 @@
         "chr": 3.0,
         "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "NOOR HAIMIAKHTAR BT. ABU BAKAR"
+            "NORHANA IMELDA BT. ISMAIL"
         ],
         "dayTime": [
             {
@@ -1051,7 +935,7 @@
         "sect": 32,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 3",
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "NOOR HAYATI BINTI ABDULLAH"
         ],
@@ -1073,9 +957,9 @@
         "sect": 33,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 11",
+        "venue": "ICT TL-E5-03 LEVEL 5E",
         "lect": [
-            "NUR AZIERA BINTI MOHD. RAMLI"
+            "SUHAILA BINTI MUHAMAD"
         ],
         "dayTime": [
             {
@@ -1095,20 +979,20 @@
         "sect": 34,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L2) 15",
+        "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
             "ASMEZA BINTI ARJAN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1359,9 +1243,9 @@
         "sect": 46,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 11",
+        "venue": "ICT TL-E5-03 LEVEL 5E",
         "lect": [
-            "HARTINI BINTI HJ. JAMIL"
+            "WAN ZETI BINTI WAN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -1381,20 +1265,20 @@
         "sect": 47,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 1",
         "lect": [
             "NOOR AMILI BT. HJ. ABDUL GHANI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1403,7 +1287,7 @@
         "sect": 48,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
             "NURZIDA BINTI MOHAMED KALAM"
         ],
@@ -1425,7 +1309,7 @@
         "sect": 49,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 9",
+        "venue": "ICT LR 20 LEVEL 4E",
         "lect": [
             "WAN PUTRI ZAHRA BINTI WAN YUSOF"
         ],
@@ -1447,7 +1331,7 @@
         "sect": 50,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "ICT LR 20 LEVEL 4E",
         "lect": [
             "NURZAHIYAH BINTI ABU HASSAN"
         ],
@@ -1469,7 +1353,7 @@
         "sect": 51,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 9",
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "SUHAILA BINTI ABDULLAH"
         ],
@@ -1491,20 +1375,20 @@
         "sect": 52,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "ENG TR E1-3-8",
+        "venue": "KENMS 2.6 LEVEL 2",
         "lect": [
-            "SUHAILA BINTI MUHAMAD"
+            "NUR AZIERA BINTI MOHD. RAMLI"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1535,20 +1419,20 @@
         "sect": 54,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "CFL SOSDEL LAB 1",
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
-            "WAN ZETI BINTI WAN IBRAHIM"
+            "HARTINI BINTI HJ. JAMIL"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1557,20 +1441,20 @@
         "sect": 55,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "ENG TR E1-3-17",
+        "venue": "KENMS 3.2 LEVEL 3",
         "lect": [
-            "YANTE ALEEZA BINTI APISAH"
+            "NOR ZURAIYA BINTI HJ. KHAIRUDDIN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1579,7 +1463,7 @@
         "sect": 56,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 3",
+        "venue": "ICT CITA STUDIO LEVEL 1B",
         "lect": [
             "YULIATI BINTI ABDUL WAHAB"
         ],
@@ -1601,7 +1485,7 @@
         "sect": 57,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L1) 11",
+        "venue": "ICT CITA STUDIO LEVEL 1B",
         "lect": [
             "ZARINAH JAN BINTI YUSOF KHAN"
         ],
@@ -1623,7 +1507,7 @@
         "sect": 58,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KAED TR (L2) 15",
+        "venue": "ICT CITA EXEC LR LEVEL 1B",
         "lect": [
             "WAN PUTRI ZAHRA BINTI WAN YUSOF"
         ],
@@ -1689,7 +1573,7 @@
         "sect": 1,
         "title": "SPEAKOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "HAYATI BINTI BURKHAN"
         ],
@@ -1791,6 +1675,50 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 4301",
+        "sect": 4,
+        "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (KENMS)",
+        "chr": 3.0,
+        "venue": "KENMS 2.5 LEVEL 3",
+        "lect": [
+            "HARLINDA BINTI DALDIRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 4301",
+        "sect": 5,
+        "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (KENMS)",
+        "chr": 3.0,
+        "venue": "ENG TR E1-3-16",
+        "lect": [
+            "BUKHARI BIN SHAFIE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1907,7 +1835,7 @@
         "sect": 1,
         "title": "BAHASA MELAYU II",
         "chr": 1.0,
-        "venue": "HSC TR 10 1.43",
+        "venue": "KENMS 3.13 LEVEL 3",
         "lect": [
             "RAZMAN BIN MOHAMAD"
         ],
@@ -2035,7 +1963,7 @@
         "sect": 1,
         "title": "BAHASA  MELAYU KERJAYA (PERUNDANGAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ICT CITA EXEC LR LEVEL 1B",
         "lect": [
             "NUR JANNAH BINTI AB RAHMAN"
         ],
@@ -2191,11 +2119,43 @@
         ]
     },
     {
+        "code": "LMBD 2203",
+        "sect": 3,
+        "title": "BAHASA  MELAYU KERJAYA (PERNIAGAAN)",
+        "chr": 2.0,
+        "venue": "KENMS 3.3 LEVEL 3",
+        "lect": [
+            "DR. MOHD. SENU BIN AWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
         "code": "LMBD 2204",
         "sect": 1,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": "ICT TL-C1-04 LEVEL 1C",
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "SITI ZAFIRA BINTI ZAINAL ABIDIN"
         ],
@@ -2227,7 +2187,7 @@
         "sect": 2,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": "ENG TR E1-4-7",
+        "venue": "KAED LR (L1) 1",
         "lect": [
             "NUR FARHANA BINTI MOHD NASIR"
         ],
@@ -2411,39 +2371,12 @@
     },
     {
         "code": "LQAD 1003",
-        "sect": 2,
-        "title": "ARABIC FOR IBADAH I",
-        "chr": 0.5,
-        "venue": "KENMS 3.7 LEVEL 3",
-        "lect": [
-            "ZETI AKHTAR BINTI MUHAMMAD RAFAAI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 1003",
         "sect": 3,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "DATIN SABARIAH BINTI BAKRI"
+            "DR. NAJMIAH BINTI HASHIM"
         ],
         "dayTime": [
             {
@@ -2470,7 +2403,7 @@
         "chr": 0.5,
         "venue": "CFL 6 IBN MALIK 4.26",
         "lect": [
-            "AIMAN BIN ISMAIL"
+            "ZETI AKHTAR BINTI MUHAMMAD RAFAAI"
         ],
         "dayTime": [
             {
@@ -2524,7 +2457,7 @@
         "chr": 0.5,
         "venue": "HSC TR 8 1.41",
         "lect": [
-            "DR. AZHAR BIN MOHAMED"
+            "KHALID BIN MOHAMED ZAIN"
         ],
         "dayTime": [
             {
@@ -2545,137 +2478,13 @@
         ]
     },
     {
-        "code": "LQAD 1011",
-        "sect": 1,
-        "title": "AL-LUGHAH AL-ARABIYAH AL-SHAMILAH",
-        "chr": 0.0,
-        "venue": "ICT LR 11 LEVEL 2C",
-        "lect": [
-            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 1012",
-        "sect": 1,
-        "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
-        "chr": 0.0,
-        "venue": "ICT LR 12 LEVEL 2C",
-        "lect": [
-            "ROKIAH BINTI ABU TALIB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "LQAD 1013",
         "sect": 1,
         "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
         "chr": 0.0,
-        "venue": "ICT TL-C1-03 LEVEL 1C",
+        "venue": "KAED TR (L2) 15",
         "lect": [
-            "RABIATUL ADAWIAH BINTI SAADON"
+            "DR. JAMSURI BIN MOHD. SHAMSUDIN"
         ],
         "dayTime": [
             {
@@ -2685,11 +2494,16 @@
             },
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             },
             {
                 "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
                 "startTime": "11:00",
                 "endTime": "12:50"
             },
@@ -2704,24 +2518,19 @@
                 "endTime": "16:50"
             },
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
                 "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "14:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -2730,13 +2539,13 @@
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "14:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -2747,7 +2556,7 @@
         "chr": 0.0,
         "venue": "CFL J94 LEVEL 4",
         "lect": [
-            "DR. MARSUFAH BINTI JALIL"
+            "DR. AZHAR BIN MOHAMED"
         ],
         "dayTime": [
             {
@@ -2797,7 +2606,7 @@
         "sect": 1,
         "title": "ARABIC FOR COMMUNICATION  I",
         "chr": 1.0,
-        "venue": "HSC TR 10 1.43",
+        "venue": null,
         "lect": [
             "DR. NAJMIAH BINTI HASHIM"
         ],
@@ -2880,7 +2689,7 @@
         "chr": 0.5,
         "venue": "CFL SOSDEL LAB 2",
         "lect": [
-            "AIMAN BIN ISMAIL"
+            "WAN NORDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2934,7 +2743,7 @@
         "chr": 0.5,
         "venue": "KAED LR (L1) 2",
         "lect": [
-            "HALIZA MAIMUNA BINTI OMAR"
+            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
         ],
         "dayTime": [
             {
@@ -3018,7 +2827,7 @@
         "sect": 1,
         "title": "ARABIC FOR COMMUNICATION  II",
         "chr": 1.0,
-        "venue": "HSC TR 12 1.46",
+        "venue": "CFL J94 LEVEL 4",
         "lect": [
             "ILYANI SYIHAM BINTI MUHAMMAD"
         ],
@@ -3047,7 +2856,7 @@
         "chr": 3.0,
         "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
-            "WAN NORHANA BINTI WAN AB RAHMAN"
+            "IBRAHIM AHMED FARES MOHAMED"
         ],
         "dayTime": [
             {
@@ -3201,28 +3010,6 @@
     },
     {
         "code": "TQTD 1001",
-        "sect": 103,
-        "title": "PRE-TILAWAH AL-QURAN",
-        "chr": 0.5,
-        "venue": "CFL AUDIO LAB L1 (1.2)",
-        "lect": [
-            "SIRIAUPA BT. SALLEH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "09:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1001",
         "sect": 104,
         "title": "PRE-TILAWAH AL-QURAN",
         "chr": 0.5,
@@ -3240,50 +3027,6 @@
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1001",
-        "sect": 106,
-        "title": "PRE-TILAWAH AL-QURAN",
-        "chr": 0.5,
-        "venue": "CFL AUDIO LAB L1 (1.2)",
-        "lect": [
-            "SIRIAUPA BT. SALLEH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1001",
-        "sect": 830,
-        "title": "PRE-TILAWAH AL-QURAN",
-        "chr": 0.5,
-        "venue": "LECTURE ROOM 3/4, KON GF",
-        "lect": [
-            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:00"
             }
         ]
     },
@@ -3438,28 +3181,6 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
-        "sect": 8,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": "ADM TR 8 3.102",
-        "lect": [
-            "RAMLEE BIN ABDULLAH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "12:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "12:00",
-                "endTime": "12:50"
             }
         ]
     },
@@ -3823,6 +3544,28 @@
         "venue": "ADM TR 14 4.7",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 10,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "ADM TR 8 3.102",
+        "lect": [
+            "RAMLEE BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -4191,6 +3934,50 @@
     },
     {
         "code": "TQTD 2002",
+        "sect": 118,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "CFL AUDIO LAB L1 (1.2)",
+        "lect": [
+            "SIRIAUPA BT. SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 119,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "CFL AUDIO LAB L1 (1.2)",
+        "lect": [
+            "SIRIAUPA BT. SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
         "sect": 501,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
@@ -4304,20 +4091,20 @@
         "sect": 820,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "LECTURE ROOM 5/6, KON GF",
+        "venue": null,
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "10:00",
+                "endTime": "11:00"
             },
             {
                 "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -4362,28 +4149,6 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 3001",
-        "sect": 2,
-        "title": "ADVANCED TILAWAH I",
-        "chr": 0.5,
-        "venue": "ADM TR 8 3.102",
-        "lect": [
-            "ZAID MUHAMMAD B. MOHD. RAIS"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:00",
-                "endTime": "16:50"
             }
         ]
     },
