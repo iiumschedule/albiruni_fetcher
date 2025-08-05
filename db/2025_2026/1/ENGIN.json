@@ -4,7 +4,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO AEROSPACE ENGINEERING",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG MINI AUDI E1-1-8",
         "lect": [
             "DR. AMELDA DIANNE BINTI ANDAN"
         ],
@@ -106,7 +106,7 @@
         "sect": 1,
         "title": "SPACE MECHANICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
         ],
@@ -128,7 +128,7 @@
         "sect": 1,
         "title": "CONTROL SYSTEMS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "DR. DWI PEBRIANTI"
         ],
@@ -358,7 +358,7 @@
         "sect": 1,
         "title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-4",
         "lect": [
             "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
         ],
@@ -464,7 +464,7 @@
         "sect": 1,
         "title": "PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-2",
         "lect": [
             "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM"
         ],
@@ -521,18 +521,18 @@
         "sect": 2,
         "title": "ORGANIC CHEMISTRY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E1-3-10",
         "lect": [
-            "DR. MUNIRA BT. SHAHBUDDIN"
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:20"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
             }
@@ -566,7 +566,7 @@
         "sect": 1,
         "title": "PHYSICAL CHEMISTRY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-16",
         "lect": [
             "PROF. DR. FARIDAH BT. YUSOF"
         ],
@@ -588,7 +588,7 @@
         "sect": 1,
         "title": "MATERIAL SCIENCES FOR CHEMICAL ENGINEERS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "DR. YUSILAWATI BINTI AHMAD NOR",
             "ASSOC. PROF. DR. WAN MOHD FAZLI BIN WAN NAWAWI"
@@ -864,7 +864,7 @@
         "sect": 2,
         "title": "HEAT TRANSFER",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "DR. MARIATUL FADZILLAH BT MANSOR",
             "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
@@ -933,7 +933,7 @@
         "sect": 1,
         "title": "LIFE SCIENCES FOR CHEMICAL ENGINEERIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-3",
         "lect": [
             "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD"
         ],
@@ -1001,7 +1001,7 @@
         "sect": 1,
         "title": "SEPARATION PROCESSES 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD"
         ],
@@ -1185,7 +1185,7 @@
         "sect": 2,
         "title": "PROCESS DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "ASSOC. PROF. IR. DR. AZLIN SUHAIDA BT. AZMI"
         ],
@@ -1366,7 +1366,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT 1",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-2",
         "lect": [
             "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM"
         ],
@@ -1424,11 +1424,33 @@
         ]
     },
     {
+        "code": "CHEN 4361",
+        "sect": 1,
+        "title": "FOOD PROCESS ENGINEERING",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-60",
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "CHEN 4372",
         "sect": 1,
         "title": "SOLID AND HAZARDOUS WASTE ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "DR. YUSILAWATI BINTI AHMAD NOR",
             "DR. HUSNA BINTI AHMAD TAJUDDIN"
@@ -1696,7 +1718,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-16",
         "lect": [
             "DR. DANI IRWAN BIN MASBAH",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
@@ -1811,7 +1833,7 @@
         "sect": 1,
         "title": "PRE-STRESSED CONCRETE DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "TS. BADERUL HISHAM BIN AHMAD"
         ],
@@ -1877,7 +1899,7 @@
         "sect": 1,
         "title": "COASTAL ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
         ],
@@ -1977,7 +1999,7 @@
         "sect": 1,
         "title": "GEOLOGY AND SOIL MECHANICS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "DR. AHMAD BUKHARI BIN RAMLI"
         ],
@@ -1994,7 +2016,7 @@
         "sect": 1,
         "title": "ENGINEERING SURVEY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "DR. AHMAD BUKHARI BIN RAMLI"
         ],
@@ -2198,7 +2220,7 @@
         "sect": 1,
         "title": "GEOTECHNICAL ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "DR. NUR AZLIN BINTI BAHARUDIN"
         ],
@@ -2460,7 +2482,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT 1",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-16",
         "lect": [
             "DR. DANI IRWAN BIN MASBAH",
             "DR. TAHARA RAMADZAN BINTI MD KASSIM",
@@ -2512,7 +2534,7 @@
         "sect": 1,
         "title": "TRANSPORTATION ENGINEERING",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "DR. NUR KHAIRIYAH BINTI BASRI"
         ],
@@ -2612,7 +2634,7 @@
         "sect": 1,
         "title": "PRESTRESSED CONCRETE DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "TS. BADERUL HISHAM BIN AHMAD"
         ],
@@ -2678,7 +2700,7 @@
         "sect": 1,
         "title": "ADVANCED CONCRETE TECHNOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
         ],
@@ -2700,7 +2722,7 @@
         "sect": 1,
         "title": "COASTAL ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
         ],
@@ -2913,7 +2935,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-2-2",
         "lect": [
             "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
         ],
@@ -4575,7 +4597,7 @@
         "sect": 1,
         "title": "COMMUNICATION SYSTEM DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "IR. DR. YASSER ASRUL BIN AHMAD"
         ],
@@ -4717,7 +4739,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT 1",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E2-2-2",
         "lect": [
             "DR. FARIDAH BINTI ABD. RAHMAN",
             "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
@@ -4911,7 +4933,7 @@
         "sect": 1,
         "title": "RENEWABLE ENERGY AND GREEN TECHNOLOGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "ASSOC. PROF. TS. DR. SITI HAJAR BINTI YUSOFF"
         ],
@@ -4999,7 +5021,7 @@
         "sect": 1,
         "title": "RF DESIGN AND MICROWAVE ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "PROF. TS. IR. DR. AHMAD FADZIL BIN ISMAIL"
         ],
@@ -5653,11 +5675,55 @@
         ]
     },
     {
+        "code": "GENE 4301",
+        "sect": 8,
+        "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-21",
+        "lect": [
+            "PROF. TS. DR. AZURA BT. AMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "GENE 4301",
+        "sect": 10,
+        "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-3-28",
+        "lect": [
+            "PROF. TS. DR. AZURA BT. AMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "MANU 1202",
         "sect": 1,
         "title": "WORKSHOP TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG MINI AUDI E1-1-8",
         "lect": [
             "DR. SHAFIE BIN KAMARUDDIN",
             "DR. SUHAILY BINTI MOKHTAR"
@@ -5698,7 +5764,7 @@
         "sect": 1,
         "title": "VIBRATION AND MECHANICS OF MACHINE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "DR. AISHAH NAJIAH BT. DAHNEL"
         ],
@@ -6217,7 +6283,7 @@
         "sect": 1,
         "title": "NON METALLIC MATERIALS PROCESSING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF"
         ],
@@ -6531,50 +6597,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "MATH 1310",
-        "sect": 14,
-        "title": "ENGINEERING MATHEMATICS 1",
-        "chr": 3.0,
-        "venue": "ENG LRM E2-1-3",
-        "lect": [
-            "DR. NURIZAN BINTI OMAR"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MATH 1310",
-        "sect": 15,
-        "title": "ENGINEERING MATHEMATICS 1",
-        "chr": 3.0,
-        "venue": "ENG LRM E2-2-4",
-        "lect": [
-            "DR. NURIZAN BINTI OMAR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     },
@@ -7129,6 +7151,50 @@
         ]
     },
     {
+        "code": "MATH 2311",
+        "sect": 15,
+        "title": "DIFFERENTIAL EQUATIONS",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-1-3",
+        "lect": [
+            "DR. NURIZAN BINTI OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MATH 2311",
+        "sect": 16,
+        "title": "DIFFERENTIAL EQUATIONS",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-2-4",
+        "lect": [
+            "DR. NURIZAN BINTI OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MATH 2330",
         "sect": 1,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
@@ -7661,7 +7727,7 @@
         "sect": 1,
         "title": "FUNDAMENTALS OF FLUID MECHANICS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "DR. FARAHIYAH BINTI JASNI",
             "DR. AZNI NABELA BINTI WAHID"
@@ -7974,7 +8040,7 @@
         "sect": 2,
         "title": "INSTRUMENTATION AND MEASUREMENT",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-4",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "DR. MUHAMMAD AFIF BIN HUSMAN"
         ],
@@ -8556,7 +8622,7 @@
         "sect": 1,
         "title": "MACHINE VISION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG MINI AUDI E1-1-8",
         "lect": [
             "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI"
         ],
@@ -8822,7 +8888,7 @@
         "sect": 2,
         "title": "INTEGRATED DESIGN PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG MCT SYTM DESIGN LAB E0-3",
         "lect": [
             "DR. FARAHIYAH BINTI JASNI"
         ],
@@ -8861,7 +8927,7 @@
         "sect": 1,
         "title": "CONTROL SYSTEMS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-6",
         "lect": [
             "DR. AIMI SHAZWANI BINTI GHAZALI",
             "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN"
@@ -8929,7 +8995,7 @@
         "sect": 1,
         "title": "ENGINEERING SYSTEM RELIABILITY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "ASSOC. PROF. DR. ABD HALIM BIN EMBONG",
             "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID"
@@ -9059,7 +9125,7 @@
         "sect": 1,
         "title": "MACHINE VISION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG MINI AUDI E1-1-8",
         "lect": [
             "ASSOC. PROF. TS. DR. HASAN FIRDAUS BIN MOHD ZAKI"
         ],
@@ -9798,7 +9864,7 @@
         "sect": 1,
         "title": "DYNAMICS OF MACHINERY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "IR. TS. DR. NORHAFANA BINTI MOHAMED"
         ],
@@ -9908,7 +9974,7 @@
         "sect": 3,
         "title": "MECHANICS OF MATERIALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-1",
         "lect": [
             "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
         ],
@@ -9930,7 +9996,7 @@
         "sect": 1,
         "title": "THERMOFLUID ENGINEERING",
         "chr": 4.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "DR. MUHAMMAD HAFIZ BIN JAHARE",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
@@ -9953,7 +10019,7 @@
         "sect": 1,
         "title": "THERMOFLUID ENGINEERING",
         "chr": 4.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "DR. MUHAMMAD HAFIZ BIN JAHARE",
             "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
@@ -10012,7 +10078,7 @@
         "sect": 1,
         "title": "ENGINEERING DESIGN IDEATION",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG LT2 E0-1",
         "lect": [
             "IR. TS. DR. NORHAFANA BINTI MOHAMED",
             "DR. TENGKU NORDAYANA AKMA BINTI TUAN KAMARUDDIN",
@@ -10359,7 +10425,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT 1",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-1",
         "lect": [
             "DR. MUHAMMAD BIN ABDULLAH"
         ],
@@ -10655,7 +10721,7 @@
         "sect": 1,
         "title": "VEHICLE SYSTEMS DESIGN",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "DR. ADIB HAMDANI BIN ROSLI"
         ],
@@ -10743,7 +10809,7 @@
         "sect": 1,
         "title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-4",
         "lect": [
             "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
         ],
@@ -10765,7 +10831,7 @@
         "sect": 1,
         "title": "PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E2-1-1",
         "lect": [
             "DR. MUHAMMAD BIN ABDULLAH",
             "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
@@ -10917,7 +10983,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO ENGINEERING WORKSHOP",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG MINI AUDI E1-1-8",
         "lect": [
             "DR. MUHAMMAD HAFIZ BIN JAHARE",
             "TS. DR. KAMARULZAMAN BIN MAHMAD KHAIRAI"
@@ -10935,7 +11001,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO ENGINEERING WORKSHOP",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG LT2 E0-1",
         "lect": [
             "DR. MUHAMMAD HAFIZ BIN JAHARE",
             "TS. DR. KAMARULZAMAN BIN MAHMAD KHAIRAI"
@@ -11038,7 +11104,7 @@
         "sect": 1,
         "title": "WORKSHOP TECHNOLOGY",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG MINI AUDI E1-1-8",
         "lect": [
             "DR. SHAFIE BIN KAMARUDDIN",
             "DR. SUHAILY BINTI MOKHTAR"
@@ -11484,7 +11550,7 @@
         "sect": 1,
         "title": "MECHANICAL DESIGN AND VIBRATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "DR. AISHAH NAJIAH BT. DAHNEL"
         ],
@@ -11861,7 +11927,7 @@
         "sect": 1,
         "title": "SUPPLY CHAIN AND LOGISTICS IN MANUFACTURING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-2-4",
         "lect": [
             "IR. TS. DR. (CMILT M.I.E.M. ACPE) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
         ],
@@ -11905,7 +11971,7 @@
         "sect": 1,
         "title": "AGILE MANUFACTURING SYSTEM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "TS. DR. KAMARULZAMAN BIN MAHMAD KHAIRAI"
         ],
@@ -11949,7 +12015,7 @@
         "sect": 1,
         "title": "NON-METALLIC MATERIALS PROCESSING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E3-3-2",
         "lect": [
             "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF"
         ],
@@ -12065,7 +12131,7 @@
         "sect": 1,
         "title": "ENGINEERING CONCEPTUAL DESIGN",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG LRM E1-2-17",
         "lect": [
             "DR. NORHUDA HIDAYAH BINTI NORDIN",
             "PROF. IR. DR. ZURAIDA BT. AHMAD"
@@ -12260,7 +12326,7 @@
         "sect": 1,
         "title": "MATERIALS SCIENCE AND ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "DR. HAFIZAH HANIM BINTI MOHD ZAKI",
             "ASSOC. PROF. DR. FARAH DIANA BINTI MOHD DAUD"
@@ -12302,7 +12368,7 @@
         "sect": 1,
         "title": "INTEGRATED DESIGN PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "PROF. IR. DR. ZURAIDA BT. AHMAD",
             "DR. NUR AYUNI BINTI JAMAL",
