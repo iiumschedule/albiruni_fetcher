@@ -81,7 +81,7 @@
         "sect": 1,
         "title": "MATHEMATICAL ANALYSIS",
         "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-03",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
@@ -93,8 +93,8 @@
             },
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -125,7 +125,7 @@
         "sect": 1,
         "title": "MATHEMATICAL ANALYSIS",
         "chr": 3.0,
-        "venue": "CTS BUILDING KOS C-1-03",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
@@ -137,8 +137,8 @@
             },
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "08:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -171,9 +171,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. HAFIZAH BINTI BAHALUDIN"
+            "DR. NURUL NAJIHAH BINTI MOHAMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
     },
     {
         "code": "SMS 4121",

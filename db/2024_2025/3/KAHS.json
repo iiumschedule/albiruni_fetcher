@@ -89,7 +89,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MD MUZIMAN SYAH BIN MD MUSTAFA"
+            "SYAZWAN HAFIZ BIN MOHD"
         ],
         "dayTime": [
             {
@@ -203,5 +203,38 @@
                 "endTime": "09:00"
             }
         ]
+    },
+    {
+        "code": "HSMI 2431",
+        "sect": 1,
+        "title": "CLINICAL PRACTICE 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. LIYANA BINTI MUSA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HSMI 3524",
+        "sect": 1,
+        "title": "Clinical Practice 3",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. HALIMATUSSA'DIAH BINTI AHMAD RADZI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HSMI 4122",
+        "sect": 1,
+        "title": "Special Clinical Practice",
+        "chr": 13.0,
+        "venue": null,
+        "lect": [
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
+        ],
+        "dayTime": []
     }
 ]

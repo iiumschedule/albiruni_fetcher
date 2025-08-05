@@ -22,11 +22,55 @@
         "dayTime": []
     },
     {
+        "code": "BTEN 4399",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CHEN 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CHEN 4372",
+        "sect": 9,
+        "title": "SOLID AND HAZARDOUS WASTE ENGINEERING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CVLE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ECIE 3312",
         "sect": 1,
         "title": "DATA STRUCTURE AND ALGORITHM DESIGN",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-4",
+        "venue": "ENG LRM E1-2-17",
         "lect": [
             "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
         ],
@@ -49,11 +93,34 @@
         ]
     },
     {
+        "code": "ECIE 4101",
+        "sect": 1,
+        "title": "COMPUTER INFORMATION ENGINEERING LAB II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHAMED HADI HABAEBI",
+            "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "ECIE 4353",
         "sect": 1,
         "title": "PARALLEL COMPUTING",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-1",
+        "venue": "ENG LRM E1-3-20",
         "lect": [
             "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -108,7 +175,7 @@
         "sect": 1,
         "title": "OPTICAL COMMUNICATIONS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-2",
+        "venue": "ENG LRM E1-3-21",
         "lect": [
             "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
         ],
@@ -135,7 +202,7 @@
         "sect": 1,
         "title": "WIRELESS NETWORKING",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-2",
+        "venue": "ENG LRM E1-3-21",
         "lect": [
             "ASSOC. PROF. DR. SITI NOORJANNAH BT. IBRAHIM"
         ],
@@ -229,6 +296,17 @@
         ]
     },
     {
+        "code": "EECE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "EITR 3511",
         "sect": 1,
         "title": "ENGINEERING INDUSTRIAL TRAINING",
@@ -247,6 +325,61 @@
         "venue": null,
         "lect": [
             "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3521",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3531",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3541",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3551",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3552",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
         ],
         "dayTime": []
     },
@@ -321,42 +454,9 @@
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 1",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-1",
+        "venue": "ENG LRM E1-3-20",
         "lect": [
             "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "MATH 1321",
-        "sect": 1,
-        "title": "ENGINEERING MATHEMATICS 2",
-        "chr": 3.0,
-        "venue": "ENG LRM E2-1-2",
-        "lect": [
-            "DR. NORHANIS AIDA BINTI MOHD NOR",
-            "DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -386,7 +486,7 @@
         "sect": 1,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-3",
+        "venue": "ENG LRM E1-3-9",
         "lect": [
             "DR. NURIZAN BINTI OMAR"
         ],
@@ -418,7 +518,7 @@
         "sect": 1,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-3",
+        "venue": "ENG LRM E1-3-9",
         "lect": [
             "DR. NURIZAN BINTI OMAR"
         ],
@@ -450,7 +550,7 @@
         "sect": 2,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-4",
+        "venue": "ENG LRM E1-3-10",
         "lect": [
             "DR. KARTINI BINTI AHMAD"
         ],
@@ -458,22 +558,22 @@
             {
                 "day": 1,
                 "startTime": "11:30",
-                "endTime": "12:51"
+                "endTime": "12:50"
             },
             {
                 "day": 2,
                 "startTime": "11:30",
-                "endTime": "12:51"
+                "endTime": "12:50"
             },
             {
                 "day": 3,
                 "startTime": "11:30",
-                "endTime": "12:51"
+                "endTime": "12:50"
             },
             {
                 "day": 4,
                 "startTime": "11:30",
-                "endTime": "12:51"
+                "endTime": "12:50"
             }
         ]
     },
@@ -482,7 +582,7 @@
         "sect": 1,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-1",
+        "venue": "ENG LRM E1-3-24",
         "lect": [
             "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA"
         ],
@@ -514,7 +614,7 @@
         "sect": 2,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-2-2",
+        "venue": "ENG LRM E1-4-16",
         "lect": [
             "DR. HANISAH BINTI MANSHOR"
         ],
@@ -542,6 +642,64 @@
         ]
     },
     {
+        "code": "MATR 4399",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR AYUNI BINTI JAMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MCTA 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MCTA 4200",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ASYRAF BIN MOHD RAZIB",
+            "ASSOC. PROF. DR. ABD HALIM BIN EMBONG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MCTA 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. HASMAWATI BT. ANTONG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MCTE 4399",
+        "sect": 1,
+        "title": "PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. HASMAWATI BT. ANTONG"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MECH 2440",
         "sect": 9,
         "title": "THERMOFLUID ENGINEERING",
@@ -557,7 +715,7 @@
         "sect": 1,
         "title": "ENGINEERING DESIGN IDEATION",
         "chr": 1.0,
-        "venue": "ENG LRM E2-1-1",
+        "venue": "ENG LRM E1-3-20",
         "lect": [
             "DR. TENGKU NORDAYANA AKMA BINTI TUAN KAMARUDDIN",
             "DR. NABILAH BT. RAMLI"
@@ -658,6 +816,17 @@
         "dayTime": []
     },
     {
+        "code": "MFGA 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MFGA 4210",
         "sect": 1,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
@@ -678,5 +847,16 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MTRE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     }
 ]

@@ -1,5 +1,56 @@
 [
     {
+        "code": "BAAD 1110",
+        "sect": 1,
+        "title": "HISTORY OF ART AND ARCHITECTURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORZALIFA BINTI ZAINAL ABIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 1113",
+        "sect": 1,
+        "title": "ARTS AND DESIGN METHODS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ARITA HANIM BT. AWANG"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 2192",
+        "sect": 1,
+        "title": "COMPUTER GRAPHICS DESIGN 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLELAWATI BT. AB JALIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 2350",
         "sect": 1,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
@@ -314,6 +365,54 @@
         ]
     },
     {
+        "code": "BAQS 4271",
+        "sect": 1,
+        "title": "PRACTICAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. MOHD FAIRULLAZI BIN AYOB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            },
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "BAUP 3265",
+        "sect": 1,
+        "title": "PUBLIC ADMINISTRATION AND GOVERNANCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAFIEE BIN SHUID"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAUP 3364",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
@@ -349,6 +448,17 @@
                 "endTime": "05:00"
             }
         ]
+    },
+    {
+        "code": "BAUP 4166",
+        "sect": 1,
+        "title": "PROFESSIONAL PLANNING PRACTICES AND ETHICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD FARIS BIN ABDULLAH"
+        ],
+        "dayTime": []
     },
     {
         "code": "BLAR 3311",
