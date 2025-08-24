@@ -3971,28 +3971,6 @@
         ]
     },
     {
-        "code": "FINC 1301",
-        "sect": 9,
-        "title": "FOUNDATION OF ISLAMIC FINANCE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
         "code": "FINC 1302",
         "sect": 1,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
@@ -4215,6 +4193,50 @@
     {
         "code": "FINC 2301",
         "sect": 4,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2301",
+        "sect": 5,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2301",
+        "sect": 6,
         "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
         "chr": 3.0,
         "venue": null,
@@ -4825,6 +4847,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 3306",
+        "sect": 5,
+        "title": "INVESTMENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -5984,6 +6028,28 @@
         ]
     },
     {
+        "code": "MGMT 2305",
+        "sect": 5,
+        "title": "DECISION SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "MGMT 3301",
         "sect": 1,
         "title": "OPERATIONS MANAGEMENT",
@@ -6629,6 +6695,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MKTG 2301",
+        "sect": 9,
+        "title": "MARKETING PRINCIPLES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
