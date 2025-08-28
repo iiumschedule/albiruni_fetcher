@@ -66,6 +66,28 @@
         ]
     },
     {
+        "code": "ACC 2171",
+        "sect": 1,
+        "title": "ACCOUNTING AND BUSINESS INFORMATION MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:05",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:05",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ACC 2203",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
@@ -436,6 +458,28 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ACC 3142",
+        "sect": 4,
+        "title": "TAXATION 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -777,28 +821,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4162",
-        "sect": 3,
-        "title": "ACCOUNTING, AUDITING & GOVERNANCE OF ISLAMIC FINANCIAL INSTITUTIONS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -1178,28 +1200,6 @@
     },
     {
         "code": "ACCT 1311",
-        "sect": 9,
-        "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "ACCT 1311",
         "sect": 10,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
@@ -1459,6 +1459,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "ACCT 1411",
+        "sect": 6,
+        "title": "FINANCIAL ACCOUNTING & REPORTING 1",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:20"
             }
         ]
     },
@@ -2053,6 +2075,50 @@
                 "day": 3,
                 "startTime": "17:30",
                 "endTime": "18:50"
+            }
+        ]
+    },
+    {
+        "code": "BLAW 3303",
+        "sect": 3,
+        "title": "COMPANY LAW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BLAW 3303",
+        "sect": 4,
+        "title": "COMPANY LAW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -3971,28 +4037,6 @@
         ]
     },
     {
-        "code": "FINC 1301",
-        "sect": 9,
-        "title": "FOUNDATION OF ISLAMIC FINANCE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
         "code": "FINC 1302",
         "sect": 1,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
@@ -4215,6 +4259,50 @@
     {
         "code": "FINC 2301",
         "sect": 4,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2301",
+        "sect": 5,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2301",
+        "sect": 6,
         "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
         "chr": 3.0,
         "venue": null,
@@ -4825,6 +4913,28 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 3306",
+        "sect": 5,
+        "title": "INVESTMENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -5984,6 +6094,28 @@
         ]
     },
     {
+        "code": "MGMT 2305",
+        "sect": 5,
+        "title": "DECISION SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "MGMT 3301",
         "sect": 1,
         "title": "OPERATIONS MANAGEMENT",
@@ -6629,6 +6761,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MKTG 2301",
+        "sect": 9,
+        "title": "MARKETING PRINCIPLES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },

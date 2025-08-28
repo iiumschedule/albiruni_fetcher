@@ -1912,6 +1912,102 @@
         ]
     },
     {
+        "code": "LEED 1014",
+        "sect": 801,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 802,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1014",
+        "sect": 803,
+        "title": "ENGLISH IN ACTION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
         "code": "LEED 1301",
         "sect": 1,
         "title": "ENGLISH FOR ACADEMIC WRITING",
@@ -5070,10 +5166,54 @@
     },
     {
         "code": "LMBD 2204",
+        "sect": 801,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": "EXAM HALL 1, KOP L1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
+        "sect": 802,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": "LECTURE HALL 2 KOP GF, KOP",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            },
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
         "sect": 810,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM 5 (DNS) L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5774,12 +5914,34 @@
     },
     {
         "code": "LQAD 1003",
+        "sect": 801,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": "TUTORIAL ROOM 1, KOP 1",
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
         "sect": 810,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 13 DPRS KAHS L2",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD AZAM BIN AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -5801,7 +5963,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD AZAM BIN AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -5823,7 +5985,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. SHAFIEN BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -7458,12 +7620,34 @@
     },
     {
         "code": "LQAD 2003",
+        "sect": 801,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:30"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
         "sect": 810,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 14 DPRS KAHS L2",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. SHAFIEN BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -7485,7 +7669,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. SHAFIEN BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -8436,7 +8620,7 @@
         "sect": 801,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1, KOP 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -8453,7 +8637,7 @@
         "sect": 802,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -8470,7 +8654,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2 (DASLP) L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -8487,7 +8671,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 3 (DASLP) L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -8640,7 +8824,7 @@
         "sect": 860,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM Y2, KOD GF",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10289,7 +10473,7 @@
         "sect": 801,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1, KOP 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10306,7 +10490,7 @@
         "sect": 802,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10323,7 +10507,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 5 (DNS) L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10340,7 +10524,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 6 (DNS) KAHS L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10357,7 +10541,7 @@
         "sect": 812,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 4 (DOVS) L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10374,7 +10558,7 @@
         "sect": 813,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 5 (DOVS) L2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10391,7 +10575,7 @@
         "sect": 814,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 3 (DDIR) L1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10425,7 +10609,7 @@
         "sect": 816,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 6 (DPRS) L3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10669,7 +10853,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }
@@ -10686,7 +10870,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -10703,7 +10887,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -10720,7 +10904,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -10737,7 +10921,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -10754,7 +10938,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -10771,7 +10955,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "16:00",
                 "endTime": "17:00"
             }
@@ -10782,7 +10966,7 @@
         "sect": 860,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM Y2, KOD GF",
         "lect": [
             "TO BE DETERMINED"
         ],
