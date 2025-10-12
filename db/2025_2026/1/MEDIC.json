@@ -1,1 +1,971 @@
-[]
+[
+    {
+        "code": "MBBS 1106",
+        "sect": 1,
+        "title": "CELL BIOLOGY AND BEHAVIOURAL SCIENCES",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ASHIKIN BINTI MUHAMMAD MUSA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 1109",
+        "sect": 1,
+        "title": "NORMAL STRUCTURE & FUNCTION OF THE HUMAN CELL, TISSUE & BODY SYSTEMS",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ASHIKIN BINTI MUHAMMAD MUSA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 1209",
+        "sect": 1,
+        "title": "RESPONSE TO DISEASED STATE AND EXOGENOUS AGENTS",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. NOUR EL HUDA BINTI ABD. RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 1210",
+        "sect": 1,
+        "title": "NORMAL RESPONSE AND PROCESS TO DISEASED STATE",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. NOUR EL HUDA BINTI ABD. RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 2109",
+        "sect": 1,
+        "title": "CARDIOVASCULAR, RESPIRATORY AND HAEMOPOIETIC SYSTEMS",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHIDA BINTI SAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 2210",
+        "sect": 1,
+        "title": "THE ALIMENTARY AND HEPATOBILIARY SYSTEMS",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHIDA BINTI SAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3002",
+        "sect": 1,
+        "title": "ELEMENTARY CLINIC",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NILAR WIN@FAHMIDA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3110",
+        "sect": 1,
+        "title": "INTERNAL MEDICINE I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. AMINUDDIN BIN HASNOL AIDI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3110",
+        "sect": 2,
+        "title": "INTERNAL MEDICINE I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. AMINUDDIN BIN HASNOL AIDI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3210",
+        "sect": 1,
+        "title": "GENERAL SURGERY I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. YUSOF BIN SAINAL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3210",
+        "sect": 2,
+        "title": "GENERAL SURGERY I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. YUSOF BIN SAINAL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3309",
+        "sect": 1,
+        "title": "WOMEN'S HEALTH AND DISEASES I",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIRA ANIS BINTI ALI YEON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3309",
+        "sect": 2,
+        "title": "WOMEN'S HEALTH AND DISEASES I",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIRA ANIS BINTI ALI YEON"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3409",
+        "sect": 1,
+        "title": "GENERAL PAEDIATRICS I",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AB  HAFIZ BIN AB HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 3409",
+        "sect": 2,
+        "title": "GENERAL PAEDIATRICS I",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AB  HAFIZ BIN AB HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4003",
+        "sect": 1,
+        "title": "FORENSIC MEDICINE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOR ZAMZILA BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4109",
+        "sect": 1,
+        "title": "COMMUNITY MEDICINE",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4109",
+        "sect": 2,
+        "title": "COMMUNITY MEDICINE",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4210",
+        "sect": 1,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ADHAM SHAH BIN AYEOP"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4210",
+        "sect": 2,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION I",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ADHAM SHAH BIN AYEOP"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4305",
+        "sect": 1,
+        "title": "FAMILY MEDICINE I",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HUSNA BINTI AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4305",
+        "sect": 2,
+        "title": "FAMILY MEDICINE I",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL HUSNA BINTI AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4404",
+        "sect": 1,
+        "title": "EMERGENCY AND TRAUMA",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ABDUS-SYAKUR BIN ABU HASAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4404",
+        "sect": 2,
+        "title": "EMERGENCY AND TRAUMA",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ABDUS-SYAKUR BIN ABU HASAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4503",
+        "sect": 1,
+        "title": "OTORHINOLARYNGOLOGY - HEAD AND NECK SURGERY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZWAN HALIM B ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4503",
+        "sect": 2,
+        "title": "OTORHINOLARYNGOLOGY - HEAD AND NECK SURGERY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZWAN HALIM B ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4603",
+        "sect": 1,
+        "title": "OPHTHALMOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULHILMI BIN ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4603",
+        "sect": 2,
+        "title": "OPHTHALMOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZULHILMI BIN ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4703",
+        "sect": 1,
+        "title": "ANAESTHESIOLOGY AND CRITICAL CARE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHIR ASRAF BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4703",
+        "sect": 2,
+        "title": "ANAESTHESIOLOGY AND CRITICAL CARE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHIR ASRAF BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4803",
+        "sect": 1,
+        "title": "RADIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD SHAHRIR BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 4803",
+        "sect": 2,
+        "title": "RADIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD SHAHRIR BIN ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5108",
+        "sect": 1,
+        "title": "INTERNAL MEDICINE II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FARHANA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5108",
+        "sect": 2,
+        "title": "INTERNAL MEDICINE II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FARHANA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5108",
+        "sect": 3,
+        "title": "INTERNAL MEDICINE II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FARHANA BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5208",
+        "sect": 1,
+        "title": "GENERAL SURGERY II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. NURSHARMIZAM BIN BAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5208",
+        "sect": 2,
+        "title": "GENERAL SURGERY II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. NURSHARMIZAM BIN BAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5208",
+        "sect": 3,
+        "title": "GENERAL SURGERY II",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. NURSHARMIZAM BIN BAHARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5307",
+        "sect": 1,
+        "title": "WOMEN'S HEALTH AND DISEASES II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZNI ADILAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5307",
+        "sect": 2,
+        "title": "WOMEN'S HEALTH AND DISEASES II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZNI ADILAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5307",
+        "sect": 3,
+        "title": "WOMEN'S HEALTH AND DISEASES II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. IZZNI ADILAH BINTI DZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5407",
+        "sect": 1,
+        "title": "GENERAL PAEDIATRICS II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. ASRAR ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5407",
+        "sect": 2,
+        "title": "GENERAL PAEDIATRICS II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. ASRAR ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5407",
+        "sect": 3,
+        "title": "GENERAL PAEDIATRICS II",
+        "chr": 7.0,
+        "venue": null,
+        "lect": [
+            "DR. ASRAR ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5508",
+        "sect": 1,
+        "title": "PSYCHIATRY",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FAUZAH RAHIMAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5508",
+        "sect": 2,
+        "title": "PSYCHIATRY",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FAUZAH RAHIMAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5508",
+        "sect": 3,
+        "title": "PSYCHIATRY",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "DR. FAUZAH RAHIMAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5602",
+        "sect": 1,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD HAIDAR B. NASURUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5602",
+        "sect": 2,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD HAIDAR B. NASURUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5602",
+        "sect": 3,
+        "title": "ORTHOPAEDICS, TRAUMATOLOGY AND REHABILITATION II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD HAIDAR B. NASURUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5702",
+        "sect": 1,
+        "title": "FAMILY MEDICINE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZHAFRI BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5702",
+        "sect": 2,
+        "title": "FAMILY MEDICINE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZHAFRI BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5702",
+        "sect": 3,
+        "title": "FAMILY MEDICINE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ZHAFRI BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5802",
+        "sect": 1,
+        "title": "DERMATOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RASIMAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5802",
+        "sect": 2,
+        "title": "DERMATOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RASIMAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5802",
+        "sect": 3,
+        "title": "DERMATOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. RASIMAH BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5900",
+        "sect": 1,
+        "title": "PROFESSIONAL EXAMINATION",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARDILLA HANIM BINTI ABDUL RAZAK"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    }
+]

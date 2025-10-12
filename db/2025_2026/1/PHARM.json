@@ -1,12 +1,80 @@
 [
     {
+        "code": "PHAB 1211",
+        "sect": 1,
+        "title": "BASIC ANATOMY & HISTOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ASYIQIN BINTI YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAB 1321",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF PHYSIOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ROSAZRA BINTI ROSLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAC 1251",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF CHEMISTRY FOR PHARMACY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. QAMAR UDDIN AHMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAP 1241",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF PHARMACY PRACTICE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
         "code": "PPBM 1211",
         "sect": 1,
         "title": "BASIC ANATOMY & HISTOLOGY",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURUL ASYIQIN BINTI YUSOF"
         ],
         "dayTime": [
             {
@@ -23,7 +91,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ROSAZRA BINTI ROSLAN"
         ],
         "dayTime": [
             {
@@ -40,7 +108,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MAY KHIN SOE"
         ],
         "dayTime": [
             {
@@ -57,7 +125,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD HAKIMI BIN MOHD. RASHID"
         ],
         "dayTime": [
             {
@@ -74,7 +142,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ENGKU NURAISHAH HUDA BINTI E. ZAINUDIN"
         ],
         "dayTime": [
             {
@@ -91,7 +159,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HUSSAM ABDELJABAR AHMAD MIZHER"
         ],
         "dayTime": [
             {
@@ -108,7 +176,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. BISHA FATHAMAH BINTI UZIR"
         ],
         "dayTime": [
             {
@@ -125,7 +193,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. CHE ANUAR BIN CHE MOHAMAD"
         ],
         "dayTime": [
             {
@@ -142,7 +210,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NIFERITI BINTI AMINUDDIN"
         ],
         "dayTime": [
             {
@@ -159,7 +227,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AHMED MOHAMED YEHIA NAGUIB AHMED OSMAN"
         ],
         "dayTime": [
             {
@@ -170,13 +238,98 @@
         ]
     },
     {
+        "code": "PPHK 4221",
+        "sect": 1,
+        "title": "ISLAMIC INPUT IN PHARMACY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMED SUFIAN BIN MOHD. NAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 1,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. RUSHDI BIN HJ. ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 2,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. KAMAL RULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 3,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAHRIR BIN ZAINI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 4611",
+        "sect": 4,
+        "title": "FINAL YEAR RESEARCH PROJECT",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ASYIQIN BINTI YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
         "code": "PPPC 1351",
         "sect": 1,
         "title": "PHARMACEUTICAL ORGANIC CHEMISTRY",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. QAMAR UDDIN AHMED"
         ],
         "dayTime": [
             {
@@ -193,13 +346,13 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. CHM. DR. AWIS SUKARNI BIN MOHMAD SABERE"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -210,7 +363,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. FARAHIDAH BINTI MOHAMED"
         ],
         "dayTime": [
             {
@@ -227,13 +380,13 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. A.B.M. HELAL UDDIN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "startTime": "17:00",
+                "endTime": "18:00"
             }
         ]
     },
@@ -244,7 +397,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. ALFI KHATIB"
         ],
         "dayTime": [
             {
@@ -261,7 +414,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORAZIAN BINTI MOHD. HASSAN"
         ],
         "dayTime": [
             {
@@ -272,17 +425,17 @@
         ]
     },
     {
-        "code": "PPPP 1241",
+        "code": "PPPP 2261",
         "sect": 1,
-        "title": "FUNDAMENTALS OF PHARMACY PRACTICE",
+        "title": "COMMUNITY PHARMACY PRACTICE",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR ELINA BINTI ALIAS"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }
@@ -290,12 +443,12 @@
     },
     {
         "code": "PPPP 2261",
-        "sect": 1,
+        "sect": 2,
         "title": "COMMUNITY PHARMACY PRACTICE",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOR AKILAH BINTI JAMALUD-DIN"
         ],
         "dayTime": [
             {
@@ -312,7 +465,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. ABDUL RAHMAN FATA NAHAS"
         ],
         "dayTime": [
             {
@@ -329,7 +482,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORNY SYAFINAZ BINTI AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -346,7 +499,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NOR HIDAYAH BINTI MOHD TAUFEK"
         ],
         "dayTime": [
             {
@@ -363,7 +516,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SYAHRIR BIN ZAINI"
         ],
         "dayTime": [
             {
@@ -380,13 +533,13 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. JULIANA BT.  MD. JAFFRI"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -397,7 +550,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. HAZRINA BINTI AB. HADI"
         ],
         "dayTime": [
             {
@@ -414,13 +567,13 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD TAUFIQ BIN MOHD JAILANI"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -431,7 +584,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. M. TAHER BIN BAKHTIAR"
         ],
         "dayTime": [
             {
