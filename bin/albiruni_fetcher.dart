@@ -3,10 +3,13 @@ import 'dart:io';
 
 import 'package:albiruni/albiruni.dart';
 import 'package:albiruni_fetcher/kulliyyah.dart';
+import 'package:albiruni_fetcher/my_http_overrides.dart';
 import 'package:albiruni_fetcher/subject_chart_stats.dart';
 import 'package:args/args.dart';
 
 void main(List<String> arguments) async {
+  HttpOverrides.global = MyHttpOverrides();
+
   final parser = ArgParser()
     ..addOption('session')
     ..addOption('sem');
