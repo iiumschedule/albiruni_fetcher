@@ -4,7 +4,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -26,7 +26,7 @@
         "sect": 1,
         "title": "COST MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.6 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -48,7 +48,7 @@
         "sect": 1,
         "title": "BUSINESS FINANCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -66,11 +66,33 @@
         ]
     },
     {
+        "code": "ACC 2171",
+        "sect": 1,
+        "title": "ACCOUNTING AND BUSINESS INFORMATION MANAGEMENT",
+        "chr": 3.0,
+        "venue": "KENMS 3.6 LEVEL 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:05",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:05",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ACC 2203",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -92,7 +114,7 @@
         "sect": 2,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -114,7 +136,7 @@
         "sect": 1,
         "title": "BUSINESS FINANCE 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -136,7 +158,7 @@
         "sect": 2,
         "title": "BUSINESS FINANCE 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -158,7 +180,7 @@
         "sect": 1,
         "title": "TAXATION 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -180,7 +202,7 @@
         "sect": 2,
         "title": "TAXATION 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -202,7 +224,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 4",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -224,7 +246,7 @@
         "sect": 2,
         "title": "FINANCIAL ACCOUNTING & REPORTING 4",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -246,7 +268,7 @@
         "sect": 3,
         "title": "FINANCIAL ACCOUNTING & REPORTING 4",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -268,7 +290,7 @@
         "sect": 4,
         "title": "FINANCIAL ACCOUNTING & REPORTING 4",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -290,7 +312,7 @@
         "sect": 1,
         "title": "AUDITING FUNDAMENTALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -304,28 +326,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 3131",
-        "sect": 2,
-        "title": "AUDITING FUNDAMENTALS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -334,7 +334,7 @@
         "sect": 3,
         "title": "AUDITING FUNDAMENTALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -356,7 +356,7 @@
         "sect": 4,
         "title": "AUDITING FUNDAMENTALS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -378,7 +378,7 @@
         "sect": 1,
         "title": "TAXATION 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -400,7 +400,7 @@
         "sect": 2,
         "title": "TAXATION 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -422,7 +422,7 @@
         "sect": 3,
         "title": "TAXATION 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -436,6 +436,28 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "ACC 3142",
+        "sect": 4,
+        "title": "TAXATION 2",
+        "chr": 3.0,
+        "venue": "KENMS 3.10 LEVEL 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -444,7 +466,7 @@
         "sect": 1,
         "title": "ACCOUNTING FOR ISLAMIC BANKS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -466,7 +488,7 @@
         "sect": 2,
         "title": "ACCOUNTING FOR ISLAMIC BANKS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -488,7 +510,7 @@
         "sect": 3,
         "title": "ACCOUNTING FOR ISLAMIC BANKS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -510,7 +532,7 @@
         "sect": 4,
         "title": "ACCOUNTING FOR ISLAMIC BANKS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -543,7 +565,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 5",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -565,7 +587,7 @@
         "sect": 2,
         "title": "FINANCIAL ACCOUNTING & REPORTING 5",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -587,7 +609,7 @@
         "sect": 3,
         "title": "FINANCIAL ACCOUNTING & REPORTING 5",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -609,7 +631,7 @@
         "sect": 1,
         "title": "DECISION MAKING & CONTROL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -631,7 +653,7 @@
         "sect": 2,
         "title": "DECISION MAKING & CONTROL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -653,7 +675,7 @@
         "sect": 3,
         "title": "DECISION MAKING & CONTROL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -675,7 +697,7 @@
         "sect": 1,
         "title": "AUDITING AND ASSURANCE SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -697,7 +719,7 @@
         "sect": 2,
         "title": "AUDITING AND ASSURANCE SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -719,7 +741,7 @@
         "sect": 3,
         "title": "AUDITING AND ASSURANCE SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -741,7 +763,7 @@
         "sect": 1,
         "title": "ACCOUNTING, AUDITING & GOVERNANCE OF ISLAMIC FINANCIAL INSTITUTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -763,7 +785,7 @@
         "sect": 2,
         "title": "ACCOUNTING, AUDITING & GOVERNANCE OF ISLAMIC FINANCIAL INSTITUTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -777,28 +799,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4162",
-        "sect": 3,
-        "title": "ACCOUNTING, AUDITING & GOVERNANCE OF ISLAMIC FINANCIAL INSTITUTIONS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -807,7 +807,7 @@
         "sect": 1,
         "title": "BUSINESS ETHICS & CORPORATE GOVERNANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -829,29 +829,7 @@
         "sect": 2,
         "title": "BUSINESS ETHICS & CORPORATE GOVERNANCE",
         "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4181",
-        "sect": 3,
-        "title": "BUSINESS ETHICS & CORPORATE GOVERNANCE",
-        "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -873,7 +851,7 @@
         "sect": 1,
         "title": "ADVANCED TAXATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -895,7 +873,7 @@
         "sect": 1,
         "title": "PUBLIC SECTOR ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -917,7 +895,7 @@
         "sect": 1,
         "title": "ZAKAT ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -939,7 +917,7 @@
         "sect": 2,
         "title": "ZAKAT ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -961,7 +939,7 @@
         "sect": 1,
         "title": "ANALYSIS AND DESIGN OF ACCOUNTING INFORMATION SYSTEMS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.8 - AB LAB LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -983,7 +961,7 @@
         "sect": 1,
         "title": "INTEGRATED CASE STUDY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1005,7 +983,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1027,7 +1005,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1049,7 +1027,7 @@
         "sect": 3,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1071,7 +1049,7 @@
         "sect": 4,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1093,7 +1071,7 @@
         "sect": 5,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1115,7 +1093,7 @@
         "sect": 6,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1137,7 +1115,7 @@
         "sect": 7,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1159,7 +1137,7 @@
         "sect": 8,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1181,20 +1159,20 @@
         "sect": 9,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1203,7 +1181,7 @@
         "sect": 10,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1225,20 +1203,37 @@
         "sect": 11,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
+        "venue": "KENMS 3.1 LEVEL 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ACCT 1319",
+        "sect": 600,
+        "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
+        "chr": 3.0,
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1247,7 +1242,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.2 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1269,29 +1264,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "ACCT 1321",
-        "sect": 3,
-        "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
-        "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.2 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1313,7 +1286,7 @@
         "sect": 4,
         "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.8 - AB LAB LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1335,7 +1308,7 @@
         "sect": 5,
         "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.8 - AB LAB LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1357,7 +1330,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1379,7 +1352,7 @@
         "sect": 2,
         "title": "FINANCIAL ACCOUNTING & REPORTING 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1401,7 +1374,7 @@
         "sect": 3,
         "title": "FINANCIAL ACCOUNTING & REPORTING 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1423,7 +1396,7 @@
         "sect": 4,
         "title": "FINANCIAL ACCOUNTING & REPORTING 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1445,7 +1418,7 @@
         "sect": 5,
         "title": "FINANCIAL ACCOUNTING & REPORTING 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1459,6 +1432,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "ACCT 1411",
+        "sect": 6,
+        "title": "FINANCIAL ACCOUNTING & REPORTING 1",
+        "chr": 4.0,
+        "venue": "KENMS 2.6 LEVEL 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:20"
             }
         ]
     },
@@ -1467,7 +1462,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 2",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1489,7 +1484,7 @@
         "sect": 1,
         "title": "MANAGEMENT ACCOUNTING 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1511,7 +1506,7 @@
         "sect": 1,
         "title": "ACCOUNTING INFORMATION SYSTEM",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1533,7 +1528,7 @@
         "sect": 1,
         "title": "BUSINESS FINANCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1555,7 +1550,7 @@
         "sect": 2,
         "title": "BUSINESS FINANCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1577,7 +1572,7 @@
         "sect": 3,
         "title": "BUSINESS FINANCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1599,7 +1594,7 @@
         "sect": 4,
         "title": "BUSINESS FINANCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1621,7 +1616,7 @@
         "sect": 5,
         "title": "BUSINESS FINANCE 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1643,7 +1638,7 @@
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1665,7 +1660,7 @@
         "sect": 2,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1687,7 +1682,7 @@
         "sect": 3,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1709,7 +1704,7 @@
         "sect": 4,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1731,7 +1726,7 @@
         "sect": 5,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1753,7 +1748,7 @@
         "sect": 1,
         "title": "TAXATION 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.4 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1775,7 +1770,7 @@
         "sect": 2,
         "title": "TAXATION 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1797,7 +1792,7 @@
         "sect": 3,
         "title": "TAXATION 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1819,7 +1814,7 @@
         "sect": 4,
         "title": "TAXATION 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1841,7 +1836,7 @@
         "sect": 5,
         "title": "TAXATION 1",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1863,7 +1858,7 @@
         "sect": 1,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1885,7 +1880,7 @@
         "sect": 2,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1907,7 +1902,7 @@
         "sect": 3,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1926,32 +1921,10 @@
     },
     {
         "code": "BLAW 3301",
-        "sect": 4,
-        "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "BLAW 3301",
         "sect": 5,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -1970,7 +1943,7 @@
     },
     {
         "code": "BLAW 3301",
-        "sect": 6,
+        "sect": 600,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
         "chr": 3.0,
         "venue": null,
@@ -1979,14 +1952,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1995,7 +1963,7 @@
         "sect": 1,
         "title": "COMMERCIAL LAW (FOR ENM)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2017,7 +1985,7 @@
         "sect": 1,
         "title": "COMPANY LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2039,7 +2007,7 @@
         "sect": 2,
         "title": "COMPANY LAW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2061,7 +2029,7 @@
         "sect": 1,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2083,7 +2051,7 @@
         "sect": 2,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2105,7 +2073,7 @@
         "sect": 3,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2127,7 +2095,7 @@
         "sect": 4,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2149,7 +2117,7 @@
         "sect": 5,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2171,7 +2139,7 @@
         "sect": 6,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2193,7 +2161,7 @@
         "sect": 7,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2215,7 +2183,7 @@
         "sect": 8,
         "title": "STATISTICAL METHODS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2233,11 +2201,33 @@
         ]
     },
     {
+        "code": "ECON 1301",
+        "sect": 9,
+        "title": "STATISTICAL METHODS",
+        "chr": 3.0,
+        "venue": "KENMS 1.6 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "ECON 1302",
         "sect": 1,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2259,7 +2249,7 @@
         "sect": 2,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2281,7 +2271,7 @@
         "sect": 3,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2303,7 +2293,7 @@
         "sect": 4,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2325,7 +2315,7 @@
         "sect": 5,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2347,7 +2337,7 @@
         "sect": 6,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2369,7 +2359,7 @@
         "sect": 7,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2391,7 +2381,7 @@
         "sect": 8,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2413,7 +2403,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF MICROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2435,7 +2425,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF MICROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2457,7 +2447,7 @@
         "sect": 3,
         "title": "PRINCIPLES OF MICROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2479,7 +2469,7 @@
         "sect": 4,
         "title": "PRINCIPLES OF MICROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2497,11 +2487,33 @@
         ]
     },
     {
+        "code": "ECON 1311",
+        "sect": 5,
+        "title": "PRINCIPLES OF MICROECONOMICS",
+        "chr": 3.0,
+        "venue": "KENMS 1.4 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "ECON 1312",
         "sect": 1,
         "title": "PRINCIPLES OF MACROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2523,7 +2535,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF MACROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2545,7 +2557,7 @@
         "sect": 3,
         "title": "PRINCIPLES OF MACROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2567,7 +2579,7 @@
         "sect": 4,
         "title": "PRINCIPLES OF MACROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2589,7 +2601,7 @@
         "sect": 5,
         "title": "PRINCIPLES OF MACROECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2611,7 +2623,7 @@
         "sect": 1,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2633,7 +2645,7 @@
         "sect": 2,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2655,7 +2667,7 @@
         "sect": 3,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2677,7 +2689,7 @@
         "sect": 4,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2699,7 +2711,7 @@
         "sect": 5,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2721,7 +2733,7 @@
         "sect": 6,
         "title": "FOUNDATION OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2739,11 +2751,28 @@
         ]
     },
     {
+        "code": "ECON 1321",
+        "sect": 600,
+        "title": "FOUNDATION OF ISLAMIC ECONOMICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "ECON 1331",
         "sect": 1,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS - IBNU TAYMIYYAH LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2765,7 +2794,7 @@
         "sect": 2,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2787,7 +2816,7 @@
         "sect": 3,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2809,7 +2838,7 @@
         "sect": 4,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2831,7 +2860,7 @@
         "sect": 5,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2853,7 +2882,7 @@
         "sect": 6,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2875,7 +2904,7 @@
         "sect": 7,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2897,7 +2926,7 @@
         "sect": 1,
         "title": "ESSENTIALS OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2919,7 +2948,7 @@
         "sect": 2,
         "title": "ESSENTIALS OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2941,7 +2970,7 @@
         "sect": 3,
         "title": "ESSENTIALS OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2963,7 +2992,7 @@
         "sect": 4,
         "title": "ESSENTIALS OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2985,7 +3014,7 @@
         "sect": 5,
         "title": "ESSENTIALS OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3007,7 +3036,7 @@
         "sect": 6,
         "title": "ESSENTIALS OF ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3021,6 +3050,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ECON 1373",
+        "sect": 7,
+        "title": "ESSENTIALS OF ECONOMICS",
+        "chr": 3.0,
+        "venue": "KENMS 1.5 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -3029,7 +3080,7 @@
         "sect": 1,
         "title": "INTERMEDIATE MICROECONOMICS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3051,7 +3102,7 @@
         "sect": 1,
         "title": "INTERMEDIATE MICROECONOMICS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3073,7 +3124,7 @@
         "sect": 2,
         "title": "INTERMEDIATE MICROECONOMICS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3095,7 +3146,7 @@
         "sect": 1,
         "title": "INTERMEDIATE MACROECONOMICS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3117,7 +3168,7 @@
         "sect": 1,
         "title": "INTERMEDIATE MACROECONOMICS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3139,7 +3190,7 @@
         "sect": 2,
         "title": "INTERMEDIATE MACROECONOMICS II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3161,7 +3212,7 @@
         "sect": 1,
         "title": "FIQH FOR ECONOMIST II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3183,7 +3234,7 @@
         "sect": 2,
         "title": "FIQH FOR ECONOMIST II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3205,7 +3256,7 @@
         "sect": 3,
         "title": "FIQH FOR ECONOMIST II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.2 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3227,7 +3278,7 @@
         "sect": 4,
         "title": "FIQH FOR ECONOMIST II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3249,7 +3300,7 @@
         "sect": 1,
         "title": "USUL FIQH I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.2 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3271,7 +3322,7 @@
         "sect": 2,
         "title": "USUL FIQH I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.2 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3289,11 +3340,33 @@
         ]
     },
     {
+        "code": "ECON 2333",
+        "sect": 3,
+        "title": "USUL FIQH I",
+        "chr": 3.0,
+        "venue": "KENMS 3.7 LEVEL 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ECON 2341",
         "sect": 1,
         "title": "ECONOMICS OF MONEY, BANKING AND FINANCIAL SYSTEM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3315,7 +3388,7 @@
         "sect": 2,
         "title": "ECONOMICS OF MONEY, BANKING AND FINANCIAL SYSTEM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3333,11 +3406,33 @@
         ]
     },
     {
+        "code": "ECON 2341",
+        "sect": 3,
+        "title": "ECONOMICS OF MONEY, BANKING AND FINANCIAL SYSTEM",
+        "chr": 3.0,
+        "venue": "KENMS 3.1 LEVEL 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "ECON 2342",
         "sect": 1,
         "title": "ISLAMIC BANKING AND FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3359,7 +3454,7 @@
         "sect": 1,
         "title": "PUBLIC FINANCE AND POLICY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3381,7 +3476,7 @@
         "sect": 1,
         "title": "DEVELOPMENT ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3403,7 +3498,7 @@
         "sect": 1,
         "title": "INTERNATIONAL ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3425,7 +3520,7 @@
         "sect": 1,
         "title": "ECONOMETRICS I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3447,7 +3542,7 @@
         "sect": 1,
         "title": "METHODOLOGY OF ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3469,20 +3564,20 @@
         "sect": 1,
         "title": "OBJECTIVES OF SHARIAH AND ECONOMIC POLICY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -3491,7 +3586,7 @@
         "sect": 1,
         "title": "USUL FIQH II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3513,7 +3608,7 @@
         "sect": 2,
         "title": "USUL FIQH II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3535,7 +3630,7 @@
         "sect": 1,
         "title": "MALAYSIAN ECONOMY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3557,7 +3652,7 @@
         "sect": 1,
         "title": "INDUSTRIAL ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.6 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3579,7 +3674,7 @@
         "sect": 1,
         "title": "ENVIRONMENTAL ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.6 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3601,7 +3696,7 @@
         "sect": 1,
         "title": "INTERNATIONAL MONETARY ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.6 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3623,7 +3718,7 @@
         "sect": 1,
         "title": "DIGITAL ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3645,7 +3740,7 @@
         "sect": 1,
         "title": "COMPARATIVE ECONOMIC THOUGHT AND POLICY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3667,7 +3762,7 @@
         "sect": 1,
         "title": "ISSUES IN ISLAMIC ECONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.6 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3685,11 +3780,22 @@
         ]
     },
     {
+        "code": "ECON 4364",
+        "sect": 99,
+        "title": "ASEAN ECONOMIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "ENTR 2304",
         "sect": 1,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3711,7 +3817,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3733,7 +3839,7 @@
         "sect": 3,
         "title": "INTRODUCTION TO ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3755,7 +3861,7 @@
         "sect": 1,
         "title": "ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3777,7 +3883,7 @@
         "sect": 2,
         "title": "ENTREPRENEURSHIP",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3799,7 +3905,7 @@
         "sect": 1,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3821,7 +3927,7 @@
         "sect": 2,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3843,7 +3949,7 @@
         "sect": 3,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3865,7 +3971,7 @@
         "sect": 4,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3887,7 +3993,7 @@
         "sect": 5,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3909,7 +4015,7 @@
         "sect": 6,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3931,7 +4037,7 @@
         "sect": 7,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3953,7 +4059,7 @@
         "sect": 8,
         "title": "FOUNDATION OF ISLAMIC FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3967,28 +4073,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "FINC 1301",
-        "sect": 9,
-        "title": "FOUNDATION OF ISLAMIC FINANCE",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -3997,7 +4081,7 @@
         "sect": 1,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4019,7 +4103,7 @@
         "sect": 2,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4041,7 +4125,7 @@
         "sect": 3,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4063,7 +4147,7 @@
         "sect": 4,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4085,7 +4169,7 @@
         "sect": 5,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4107,7 +4191,7 @@
         "sect": 6,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4129,7 +4213,95 @@
         "sect": 7,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1321",
+        "sect": 1,
+        "title": "FIQH MUAMALAT",
+        "chr": 3.0,
+        "venue": "KENMS 4.12 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1321",
+        "sect": 2,
+        "title": "FIQH MUAMALAT",
+        "chr": 3.0,
+        "venue": "KENMS 1.6 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1322",
+        "sect": 1,
+        "title": "INTRODUCTION TO FINANCIAL MARKETS AND INSTITUTIONS",
+        "chr": 3.0,
+        "venue": "KENMS LT1 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1322",
+        "sect": 2,
+        "title": "INTRODUCTION TO FINANCIAL MARKETS AND INSTITUTIONS",
+        "chr": 3.0,
+        "venue": "KENMS 1.3 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4151,7 +4323,7 @@
         "sect": 1,
         "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4173,7 +4345,7 @@
         "sect": 2,
         "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4195,7 +4367,7 @@
         "sect": 3,
         "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4217,7 +4389,51 @@
         "sect": 4,
         "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2301",
+        "sect": 5,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": "KENMS 2.4 LEVEL 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 2301",
+        "sect": 6,
+        "title": "TECHNOLOGIES FOR FINANCIAL SERVICES",
+        "chr": 3.0,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4239,7 +4455,7 @@
         "sect": 1,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4261,7 +4477,7 @@
         "sect": 2,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4283,7 +4499,7 @@
         "sect": 3,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4305,7 +4521,7 @@
         "sect": 4,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4327,7 +4543,7 @@
         "sect": 5,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4349,7 +4565,7 @@
         "sect": 6,
         "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.4 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4367,11 +4583,28 @@
         ]
     },
     {
+        "code": "FINC 2302",
+        "sect": 600,
+        "title": "INTERMEDIATE FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "FINC 2303",
         "sect": 1,
         "title": "REGULATORY FRAMEWORK OF ISLAMIC BANKING AND FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4393,7 +4626,7 @@
         "sect": 1,
         "title": "ACCOUNTING FOR ISLAMIC FINANCIAL INSTITUTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4415,7 +4648,7 @@
         "sect": 1,
         "title": "PRINCIPLES AND PRACTICES OF TAKAFUL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4437,7 +4670,7 @@
         "sect": 2,
         "title": "PRINCIPLES AND PRACTICES OF TAKAFUL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4459,7 +4692,7 @@
         "sect": 3,
         "title": "PRINCIPLES AND PRACTICES OF TAKAFUL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4481,7 +4714,7 @@
         "sect": 1,
         "title": "PRINCIPLES AND PRACTICES OF WAQF",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4503,7 +4736,7 @@
         "sect": 1,
         "title": "PERSONAL FINANCIAL PLANNING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4525,7 +4758,7 @@
         "sect": 2,
         "title": "PERSONAL FINANCIAL PLANNING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4547,7 +4780,7 @@
         "sect": 3,
         "title": "PERSONAL FINANCIAL PLANNING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4569,7 +4802,7 @@
         "sect": 4,
         "title": "PERSONAL FINANCIAL PLANNING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4591,7 +4824,7 @@
         "sect": 1,
         "title": "ISLAMIC CAPITAL MARKETS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4613,7 +4846,7 @@
         "sect": 2,
         "title": "ISLAMIC CAPITAL MARKETS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4635,7 +4868,7 @@
         "sect": 1,
         "title": "ISLAMIC WEALTH MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4657,7 +4890,7 @@
         "sect": 2,
         "title": "ISLAMIC WEALTH MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4679,7 +4912,7 @@
         "sect": 1,
         "title": "RISK MANAGEMENT OF ISLAMIC FINANCIAL INSTITUTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4701,7 +4934,7 @@
         "sect": 2,
         "title": "RISK MANAGEMENT OF ISLAMIC FINANCIAL INSTITUTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4723,7 +4956,7 @@
         "sect": 1,
         "title": "FINANCIAL STATEMENT ANALYSIS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.1 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4745,7 +4978,7 @@
         "sect": 1,
         "title": "INVESTMENTS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4767,7 +5000,7 @@
         "sect": 2,
         "title": "INVESTMENTS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4789,7 +5022,7 @@
         "sect": 3,
         "title": "INVESTMENTS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT1 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4811,7 +5044,7 @@
         "sect": 4,
         "title": "INVESTMENTS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4829,11 +5062,33 @@
         ]
     },
     {
+        "code": "FINC 3306",
+        "sect": 5,
+        "title": "INVESTMENTS",
+        "chr": 3.0,
+        "venue": "KENMS 4.1 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "FINC 3308",
         "sect": 1,
         "title": "FINANCIAL MARKETS AND INSTITUTIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4866,7 +5121,7 @@
         "sect": 1,
         "title": "QAWAID FIQHIYYAH FOR BANKING & FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4888,7 +5143,7 @@
         "sect": 2,
         "title": "QAWAID FIQHIYYAH FOR BANKING & FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4910,7 +5165,7 @@
         "sect": 1,
         "title": "BANK MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4932,7 +5187,7 @@
         "sect": 2,
         "title": "BANK MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4954,7 +5209,7 @@
         "sect": 1,
         "title": "CORPORATE FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4976,7 +5231,7 @@
         "sect": 2,
         "title": "CORPORATE FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4998,7 +5253,7 @@
         "sect": 3,
         "title": "CORPORATE FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5020,7 +5275,7 @@
         "sect": 1,
         "title": "INTERNATIONAL FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5042,7 +5297,7 @@
         "sect": 2,
         "title": "INTERNATIONAL FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5064,7 +5319,7 @@
         "sect": 3,
         "title": "INTERNATIONAL FINANCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5086,7 +5341,7 @@
         "sect": 1,
         "title": "FINANCIAL DERIVATIVES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5108,7 +5363,7 @@
         "sect": 1,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5130,7 +5385,7 @@
         "sect": 2,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5152,7 +5407,7 @@
         "sect": 3,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5174,7 +5429,7 @@
         "sect": 4,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS LT2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5196,7 +5451,7 @@
         "sect": 5,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5218,7 +5473,7 @@
         "sect": 6,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5240,7 +5495,7 @@
         "sect": 7,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5262,7 +5517,7 @@
         "sect": 8,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5284,7 +5539,7 @@
         "sect": 9,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5306,7 +5561,7 @@
         "sect": 10,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5328,7 +5583,7 @@
         "sect": 11,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5350,7 +5605,7 @@
         "sect": 12,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5372,7 +5627,7 @@
         "sect": 13,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5394,7 +5649,7 @@
         "sect": 14,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.6 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5416,7 +5671,7 @@
         "sect": 15,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5460,7 +5715,7 @@
         "sect": 1,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5482,7 +5737,7 @@
         "sect": 2,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5504,7 +5759,7 @@
         "sect": 3,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5526,7 +5781,7 @@
         "sect": 4,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5548,7 +5803,7 @@
         "sect": 5,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5570,7 +5825,7 @@
         "sect": 6,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5592,7 +5847,7 @@
         "sect": 7,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5614,7 +5869,7 @@
         "sect": 8,
         "title": "ORGANIZATIONAL BEHAVIOUR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5636,7 +5891,7 @@
         "sect": 1,
         "title": "BUSINESS ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5658,7 +5913,7 @@
         "sect": 2,
         "title": "BUSINESS ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5680,7 +5935,7 @@
         "sect": 3,
         "title": "BUSINESS ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5702,7 +5957,7 @@
         "sect": 4,
         "title": "BUSINESS ETHICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5724,7 +5979,7 @@
         "sect": 1,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5746,7 +6001,7 @@
         "sect": 2,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5768,7 +6023,7 @@
         "sect": 3,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5790,7 +6045,7 @@
         "sect": 4,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5812,7 +6067,7 @@
         "sect": 5,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5834,7 +6089,7 @@
         "sect": 6,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5856,7 +6111,7 @@
         "sect": 7,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5878,7 +6133,7 @@
         "sect": 8,
         "title": "BUSINESS COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5900,7 +6155,7 @@
         "sect": 1,
         "title": "DECISION SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5922,7 +6177,7 @@
         "sect": 2,
         "title": "DECISION SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.10 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5944,7 +6199,7 @@
         "sect": 3,
         "title": "DECISION SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5966,7 +6221,7 @@
         "sect": 4,
         "title": "DECISION SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5984,11 +6239,33 @@
         ]
     },
     {
+        "code": "MGMT 2305",
+        "sect": 5,
+        "title": "DECISION SCIENCE",
+        "chr": 3.0,
+        "venue": "KENMS 4.8 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "MGMT 3301",
         "sect": 1,
         "title": "OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6010,7 +6287,7 @@
         "sect": 2,
         "title": "OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6028,11 +6305,28 @@
         ]
     },
     {
+        "code": "MGMT 3301",
+        "sect": 600,
+        "title": "OPERATIONS MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 3302",
         "sect": 1,
         "title": "HUMAN RESOURCE MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6054,7 +6348,7 @@
         "sect": 2,
         "title": "HUMAN RESOURCE MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6076,7 +6370,7 @@
         "sect": 3,
         "title": "HUMAN RESOURCE MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.1 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6138,11 +6432,28 @@
         ]
     },
     {
+        "code": "MGMT 4301",
+        "sect": 600,
+        "title": "INTERNATIONAL BUSINESS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 4302",
         "sect": 1,
         "title": "STRATEGIC MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6164,7 +6475,7 @@
         "sect": 2,
         "title": "STRATEGIC MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6186,7 +6497,7 @@
         "sect": 3,
         "title": "STRATEGIC MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6208,7 +6519,7 @@
         "sect": 4,
         "title": "STRATEGIC MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6230,7 +6541,7 @@
         "sect": 1,
         "title": "TRAINING AND DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6252,7 +6563,7 @@
         "sect": 1,
         "title": "COMPENSATION MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6274,7 +6585,7 @@
         "sect": 1,
         "title": "INDUSTRIAL RELATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6296,7 +6607,7 @@
         "sect": 1,
         "title": "QUALITY MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6318,7 +6629,7 @@
         "sect": 1,
         "title": "MANAGEMENT FROM AN ISLAMIC PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.12 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6340,7 +6651,7 @@
         "sect": 2,
         "title": "MANAGEMENT FROM AN ISLAMIC PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.12 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6362,7 +6673,7 @@
         "sect": 3,
         "title": "MANAGEMENT FROM AN ISLAMIC PERSPECTIVE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6380,11 +6691,28 @@
         ]
     },
     {
+        "code": "MGMT 4307",
+        "sect": 600,
+        "title": "MANAGEMENT FROM AN ISLAMIC PERSPECTIVE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "MGMT 4308",
         "sect": 1,
         "title": "ORGANIZATIONAL CHANGE AND DEVELOPMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6402,11 +6730,22 @@
         ]
     },
     {
+        "code": "MGMT 4309",
+        "sect": 99,
+        "title": "BUSINESS PSYCHOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MGMT 4311",
         "sect": 1,
         "title": "SMALL BUSINESS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6461,7 +6800,7 @@
         "sect": 1,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 1.4 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6483,7 +6822,7 @@
         "sect": 2,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6505,7 +6844,7 @@
         "sect": 3,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6527,7 +6866,7 @@
         "sect": 4,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6549,7 +6888,7 @@
         "sect": 5,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6571,7 +6910,7 @@
         "sect": 6,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6593,7 +6932,7 @@
         "sect": 7,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6615,7 +6954,7 @@
         "sect": 8,
         "title": "MARKETING PRINCIPLES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6633,11 +6972,50 @@
         ]
     },
     {
+        "code": "MKTG 2301",
+        "sect": 9,
+        "title": "MARKETING PRINCIPLES",
+        "chr": 3.0,
+        "venue": "KENMS 4.2 LEVEL 4",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MKTG 4301",
+        "sect": 1,
+        "title": "STRATEGIC MARKETING",
+        "chr": 3.0,
+        "venue": "KENMS 2.2 LEVEL 2",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:30",
+                "endTime": "18:20"
+            }
+        ]
+    },
+    {
         "code": "MKTG 4302",
         "sect": 1,
         "title": "CONSUMER BEHAVIOR",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.1 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6655,11 +7033,28 @@
         ]
     },
     {
+        "code": "MKTG 4302",
+        "sect": 600,
+        "title": "CONSUMER BEHAVIOR",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "MKTG 4303",
         "sect": 1,
         "title": "INTEGRATED MARKETING COMMUNICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6681,7 +7076,7 @@
         "sect": 1,
         "title": "RETAIL MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6703,7 +7098,7 @@
         "sect": 1,
         "title": "MARKETING RESEARCH",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.6 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6725,7 +7120,7 @@
         "sect": 1,
         "title": "INTERNATIONAL MARKETING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -6747,7 +7142,7 @@
         "sect": 1,
         "title": "DIGITAL MARKETING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 2.5 LEVEL 2",
         "lect": [
             "TO BE DETERMINED"
         ],
