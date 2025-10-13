@@ -459,6 +459,24 @@
         ]
     },
     {
+        "code": "BTEN 3184",
+        "sect": 1,
+        "title": "BIOTECHNOLOGY ENGINEERING LAB IV",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN",
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "BTEN 3317",
         "sect": 1,
         "title": "REACTION ENGINEERING",
@@ -1412,7 +1430,7 @@
         "sect": 2,
         "title": "ENVIRONMENTAL ENGINEERING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-09",
         "lect": [
             "DR. HUSNA BINTI AHMAD TAJUDDIN"
         ],
@@ -8123,7 +8141,7 @@
         "sect": 2,
         "title": "DIGITAL SYSTEM DESIGN AND MICROPROCESSOR",
         "chr": 3.0,
-        "venue": "ENG LRM E1-5-4.3",
+        "venue": "ENG LRM E1-2-17",
         "lect": [
             "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH",
             "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF"
@@ -10214,7 +10232,7 @@
         "sect": 1,
         "title": "INSTRUMENTATION AND MEASUREMENTS",
         "chr": 2.0,
-        "venue": "ENG LRM E0-1-09",
+        "venue": "ENG LRM E0-1-15",
         "lect": [
             "DR. DWI PEBRIANTI"
         ],
@@ -10368,9 +10386,9 @@
         "sect": 2,
         "title": "FLUID MECHANICS",
         "chr": 3.0,
-        "venue": "ENG LRM E2-3-8",
+        "venue": "ENG LRM E1-3-19",
         "lect": [
-            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+            "PROF. DR. SHER AFGHAN KHAN"
         ],
         "dayTime": [
             {
@@ -12385,6 +12403,7 @@
         "chr": 2.0,
         "venue": "ENG LT1 E0-1",
         "lect": [
+            "DR. NUR IDAYU BINTI AYOB",
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
         ],
         "dayTime": [
