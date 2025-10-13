@@ -5247,6 +5247,23 @@
         ]
     },
     {
+        "code": "CCRN 1010",
+        "sect": 5,
+        "title": "RECREATION 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "ATIF AB. RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
         "code": "CCRN 2010",
         "sect": 1,
         "title": "RECREATION 2",
@@ -5271,23 +5288,6 @@
         "venue": null,
         "lect": [
             "AHMAD NAZERY SAMSUDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCRN 2010",
-        "sect": 3,
-        "title": "RECREATION 2",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -5343,6 +5343,23 @@
         "dayTime": [
             {
                 "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSB 1010",
+        "sect": 4,
+        "title": "SWIMMING SKILLS 1 (BROTHER)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "YUSUF ABDI ABUBAKAR HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -5768,6 +5785,23 @@
         "dayTime": [
             {
                 "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSL 1010",
+        "sect": 6,
+        "title": "MALAYSIAN SIGN LANGUAGE 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -6908,6 +6942,23 @@
     },
     {
         "code": "CCUB 1061",
+        "sect": 216,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
         "sect": 501,
         "title": "USRAH 1",
         "chr": 0.5,
@@ -7236,7 +7287,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SARAFDEEN AMINULLAHI"
         ],
         "dayTime": [
             {
