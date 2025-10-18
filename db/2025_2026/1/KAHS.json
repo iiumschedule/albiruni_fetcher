@@ -1073,7 +1073,13 @@
         "lect": [
             "DR. NOOR AFZARINI HASNITA BINTI ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "01:00"
+            }
+        ]
     },
     {
         "code": "AHMI 4131",
@@ -1084,7 +1090,13 @@
         "lect": [
             "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHMI 4224",
@@ -1095,7 +1107,13 @@
         "lect": [
             "DR. NORHANNA BINTI SOHAIMI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "01:00",
+                "endTime": "02:00"
+            }
+        ]
     },
     {
         "code": "AHMI 4325",
@@ -1106,7 +1124,13 @@
         "lect": [
             "DR. LIYANA BINTI MUSA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHMI 4621",
@@ -1117,7 +1141,13 @@
         "lect": [
             "DR. MOHD. ZAMZURI BIN CHE DAUD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "05:00",
+                "endTime": "06:00"
+            }
+        ]
     },
     {
         "code": "AHOV 3323",
@@ -1135,6 +1165,17 @@
                 "endTime": "09:00"
             }
         ]
+    },
+    {
+        "code": "AHOV 3431",
+        "sect": 1,
+        "title": "INDUSTRIAL PLACEMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
+        ],
+        "dayTime": []
     },
     {
         "code": "AHOV 4211",
@@ -1190,7 +1231,13 @@
         "lect": [
             "NOOR WAFIRAH BINTI SHAFEE"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "01:00"
+            }
+        ]
     },
     {
         "code": "AHOV 4313",
@@ -2010,7 +2057,13 @@
         "lect": [
             "ASSOC. PROF. DR. NORSHAM BT AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "02:00",
+                "endTime": "04:00"
+            }
+        ]
     },
     {
         "code": "AHVS 3311",
@@ -2021,7 +2074,13 @@
         "lect": [
             "DR. MOHD. HAFIDZ BIN ITHNIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "AHVS 3312",
@@ -2032,7 +2091,13 @@
         "lect": [
             "DR. MUHAMMAD AFZAM SHAH BIN ABDUL RAHIM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHVS 3315",
@@ -2349,7 +2414,13 @@
         "lect": [
             "DR. MOHD. ZAMZURI BIN CHE DAUD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "12:00",
+                "endTime": "01:00"
+            }
+        ]
     },
     {
         "code": "HSMI 2211",

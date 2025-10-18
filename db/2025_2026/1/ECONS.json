@@ -1921,6 +1921,28 @@
     },
     {
         "code": "BLAW 3301",
+        "sect": 4,
+        "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
+        "chr": 3.0,
+        "venue": "KENMS LT2 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "18:00",
+                "endTime": "19:20"
+            },
+            {
+                "day": 2,
+                "startTime": "18:00",
+                "endTime": "19:20"
+            }
+        ]
+    },
+    {
+        "code": "BLAW 3301",
         "sect": 5,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
         "chr": 3.0,
@@ -2772,7 +2794,7 @@
         "sect": 1,
         "title": "FIQH FOR ECONOMIST 1",
         "chr": 3.0,
-        "venue": "KENMS - IBNU TAYMIYYAH LEVEL 3",
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -4235,7 +4257,7 @@
         "sect": 1,
         "title": "FIQH MUAMALAT",
         "chr": 3.0,
-        "venue": "KENMS 4.12 LEVEL 4",
+        "venue": "KENMS 1.8 - AB LAB LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -5685,6 +5707,45 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 1301",
+        "sect": 16,
+        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
+        "chr": 3.0,
+        "venue": "KENMS 3.2 LEVEL 3",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 1301",
+        "sect": 17,
+        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
+        "chr": 3.0,
+        "venue": "KENMS 1.2 LEVEL 1",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
             }
         ]
     },

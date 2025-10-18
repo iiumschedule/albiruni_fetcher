@@ -26,7 +26,7 @@
         "sect": 2,
         "title": "Elements of Programming",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "MUHAMMAD AFIQ' AMAR BIN KAMARUZZAMAN"
         ],
@@ -70,7 +70,7 @@
         "sect": 4,
         "title": "Elements of Programming",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. TAKUMI SASE"
         ],
@@ -92,7 +92,7 @@
         "sect": 5,
         "title": "Elements of Programming",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 3 LEVEL 3C",
         "lect": [
             "TS. DR. DINI OKTARINA DWI HANDAYANI"
         ],
@@ -114,7 +114,7 @@
         "sect": 6,
         "title": "Elements of Programming",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. MOHD. SYARQAWY BIN HAMZAH"
         ],
@@ -136,7 +136,7 @@
         "sect": 7,
         "title": "Elements of Programming",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. MOHD. SYARQAWY BIN HAMZAH"
         ],
@@ -158,7 +158,7 @@
         "sect": 8,
         "title": "Elements of Programming",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TEACH LAB 3 LEVEL 3C",
         "lect": [
             "DR. MAZNAH BT AHMAD"
         ],
@@ -182,7 +182,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 3 LEVEL 3C",
         "lect": [
-            "TO BE DETERMINED"
+            "SAI CHONG YEH"
         ],
         "dayTime": [
             {
@@ -270,7 +270,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TO BE DETERMINED"
+            "YASIR MEHMOOD"
         ],
         "dayTime": [
             {
@@ -312,9 +312,9 @@
         "sect": 5,
         "title": "Introduction to Computer Organisation",
         "chr": 3.0,
-        "venue": "ICT CITA TRAINING ROOM LEVEL 1B",
+        "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
-            "TO BE DETERMINED"
+            "KHAIROL AMIN BIN MOHD SALLEH"
         ],
         "dayTime": [
             {
@@ -336,7 +336,7 @@
         "chr": 3.0,
         "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
-            "TO BE DETERMINED"
+            "SAI CHONG YEH"
         ],
         "dayTime": [
             {
@@ -512,7 +512,7 @@
         "chr": 3.0,
         "venue": "ICT ACM ICPC TL C4 03",
         "lect": [
-            "DANISH DARWIS BIN SHATHIBI",
+            "TUTOR",
             "PROF. DR. NORSAREMAH BT. SALLEH"
         ],
         "dayTime": [
@@ -541,7 +541,7 @@
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
             "PROF. DR. NORSAREMAH BT. SALLEH",
-            "DANISH DARWIS BIN SHATHIBI"
+            "TUTOR"
         ],
         "dayTime": [
             {
@@ -772,7 +772,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-03 LEVEL 5E",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMED SAIFUL ISLAM"
         ],
         "dayTime": [
             {
@@ -845,7 +845,7 @@
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
             "TS. DR. AHMAD ANWAR BIN ZAINUDDIN",
-            "MD SARIFUL ISLAM"
+            "TUTOR"
         ],
         "dayTime": [
             {
@@ -873,7 +873,7 @@
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
             "TS. DR. AHMAD ANWAR BIN ZAINUDDIN",
-            "MD SARIFUL ISLAM"
+            "TUTOR"
         ],
         "dayTime": [
             {
@@ -901,7 +901,7 @@
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
             "TS. DR. AHMAD ANWAR BIN ZAINUDDIN",
-            "NIK NOR MUHAMMAD SAIFUDIN BIN NIK MOHD KAMAL"
+            "TUTOR"
         ],
         "dayTime": [
             {
@@ -928,7 +928,7 @@
         "chr": 3.0,
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMED SAIFUL ISLAM"
         ],
         "dayTime": [
             {
@@ -1280,7 +1280,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
-            "TO BE DETERMINED"
+            "NADZURAH BINTI ZAINAL ABIDIN"
         ],
         "dayTime": [
             {
@@ -2840,10 +2840,9 @@
         "sect": 1,
         "title": "DIGITAL SYSTEMS FUNDAMENTAL",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": null,
         "lect": [
-            "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN",
-            "TUTOR"
+            "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -2855,11 +2854,6 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            },
-            {
-                "day": 5,
-                "startTime": "20:30",
-                "endTime": "05:00"
             }
         ]
     },
@@ -3303,9 +3297,9 @@
         "sect": 1,
         "title": "COMPUTATION AND COMPLEXITY",
         "chr": 3.0,
-        "venue": "ICT PBL LAB 2 LEVEL 3D",
+        "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TO BE DETERMINED"
+            "YASIR MEHMOOD"
         ],
         "dayTime": [
             {
@@ -4400,7 +4394,7 @@
         "sect": 3,
         "title": "PROJECT  MANAGEMENT IN IT",
         "chr": 3.0,
-        "venue": "ICT TL-D4-04 LEVEL 4D",
+        "venue": "ICT CITA STUDIO LEVEL 1B",
         "lect": [
             "PROF. DR. ROSE ALINDA ALIAS"
         ],
