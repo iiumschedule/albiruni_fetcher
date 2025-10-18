@@ -2246,15 +2246,15 @@
         "sect": 1,
         "title": "CIVIL ENGINEERING CONSTRUCTION 2",
         "chr": 3.0,
-        "venue": "KAED L1 LT1",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. IR. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2270,8 +2270,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2653,7 +2653,7 @@
         "sect": 1,
         "title": "PLANNING OF SOCIAL AND COMMUNITY",
         "chr": 2.0,
-        "venue": "KAED URBAN LAB LVL 2",
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "PROF. DR. MARIANA BT. MOHAMED OSMAN"
         ],
@@ -2899,13 +2899,13 @@
         "sect": 1,
         "title": "HISTORY OF INTERIOR ARCHITECTURE",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 7",
+        "venue": "KAED SR (L1) 2",
         "lect": [
             "DR. SITI NOORFAIRUS BINTI CHE ABDULLAH"
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:00"
             }
@@ -2916,13 +2916,13 @@
         "sect": 1,
         "title": "VISUAL COMMUNICATION",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 1",
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
             "DR. SITI NOORFAIRUS BINTI CHE ABDULLAH"
         ],
         "dayTime": [
             {
-                "day": 5,
+                "day": 3,
                 "startTime": "09:00",
                 "endTime": "12:00"
             }

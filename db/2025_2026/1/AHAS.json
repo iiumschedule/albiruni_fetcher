@@ -1995,7 +1995,7 @@
         "sect": 1,
         "title": "CORPORATE WRITING",
         "chr": 3.0,
-        "venue": "HSC SPEECH LAB 1.23",
+        "venue": "HSC M.MEDIA LAB 1.74",
         "lect": [
             "DR. HARMI TAAZIM BIN MOHAMAD"
         ],
@@ -2501,7 +2501,7 @@
         "sect": 4,
         "title": "LINGUISTICS IN THE HUMANITIES",
         "chr": 3.0,
-        "venue": "ADM LT 2 2.111",
+        "venue": "HSC LR 9 1.42",
         "lect": [
             "DR. SITI AFIFAH BINTI HASHIM"
         ],
@@ -3685,6 +3685,39 @@
         ]
     },
     {
+        "code": "ENGL 4998",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MD. MAHMUDUL HASAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4998",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI NURAISHAH BINTI AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ENGL 4998",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAIMUNAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "HART 1311",
         "sect": 1,
         "title": "INTRODUCTION TO HALAL SCIENCE",
@@ -3773,29 +3806,6 @@
                 "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "HART 1321",
-        "sect": 3,
-        "title": "ISLAMIC LAW OF CONSUMERISM",
-        "chr": 3.0,
-        "venue": "KICT TLD5-01",
-        "lect": [
-            "ASSOC. PROF. DR. BETANIA KARTIKA MUFLIH",
-            "PROF. DR. IRWANDI JASWIR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -4137,7 +4147,7 @@
         "sect": 2,
         "title": "HALAL ASSURANCE SYSTEM",
         "chr": 3.0,
-        "venue": null,
+        "venue": "IRKHS COMP. LAB 1",
         "lect": [
             "DR. MUHAMAD SHIRWAN BIN ABDULLAH SANI",
             "ASSOC. PROF. DR. NOOR FAIZUL HADRY BIN NORDIN"
@@ -4149,19 +4159,9 @@
                 "endTime": "18:20"
             },
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
                 "day": 3,
                 "startTime": "17:00",
                 "endTime": "18:20"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -6430,7 +6430,7 @@
         "chr": 3.0,
         "venue": "ADM LT 1 2.9",
         "lect": [
-            "TO BE DETERMINED"
+            "NURHAFIZAH BINTI IBRAHIM"
         ],
         "dayTime": [
             {
@@ -6452,7 +6452,7 @@
         "chr": 3.0,
         "venue": "ADM LT 1 2.9",
         "lect": [
-            "TO BE DETERMINED"
+            "NURHAFIZAH BINTI IBRAHIM"
         ],
         "dayTime": [
             {
@@ -6670,7 +6670,7 @@
         "sect": 1,
         "title": "HISTORY AND PHILOSOPHY OF PSYCHOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 30 (HS COMP LAB A) 3",
+        "venue": "ADM LT 2 2.111",
         "lect": [
             "SYED AHMAD MUHAJIR ALHADDAD BIN SYED ESA"
         ],
@@ -6692,7 +6692,7 @@
         "sect": 2,
         "title": "HISTORY AND PHILOSOPHY OF PSYCHOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 30 (HS COMP LAB A) 3",
+        "venue": "ADM LT 3 3.30",
         "lect": [
             "SYED AHMAD MUHAJIR ALHADDAD BIN SYED ESA"
         ],
@@ -6714,7 +6714,7 @@
         "sect": 3,
         "title": "HISTORY AND PHILOSOPHY OF PSYCHOLOGY",
         "chr": 3.0,
-        "venue": "HSC LR 30 (HS COMP LAB A) 3",
+        "venue": "HSC LR 2 1.37",
         "lect": [
             "NURUL IZZATI ASYIKIN BINTI ZULKIFLY"
         ],
@@ -7132,7 +7132,7 @@
         "sect": 1,
         "title": "SCIENCE OF THE SOUL I",
         "chr": 3.0,
-        "venue": "HSC LR 2 1.37",
+        "venue": "HSC LR 30 (HS COMP LAB A) 3",
         "lect": [
             "DR. USMAN JAFFER"
         ],
@@ -7223,6 +7223,17 @@
         "venue": null,
         "lect": [
             "DR. MAISARAH BINTI MOHD. TAIB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "PSYC 3031",
+        "sect": 99,
+        "title": "EXPERIMENTAL AND NON-EXPERIMENTAL DESIGN AND ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD TAUFIK BIN MOHAMMAD"
         ],
         "dayTime": []
     },
@@ -9827,7 +9838,7 @@
         "sect": 6,
         "title": "'ULUM AL-HADITH (SCIENCES OF HADITH)",
         "chr": 3.0,
-        "venue": "IRK LR 15 RK LVL 2",
+        "venue": "IRK LR 3 1.28",
         "lect": [
             "DR. NURUL JANNAH BT. ZAINAN NAZRI"
         ],
@@ -10289,7 +10300,7 @@
         "sect": 1,
         "title": "TARIKH AL-DIRASAT AL-HADITHIYYAH (HISTORY OF HADITH STUDIES)",
         "chr": 3.0,
-        "venue": "IRK LR 3 1.28",
+        "venue": "IRK LR 15 RK LVL 2",
         "lect": [
             "DR. ABU HAFIZ BIN SALLEH HUDIN"
         ],
@@ -10545,6 +10556,28 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "RKQS 4312",
+        "sect": 2,
+        "title": "ITTIJAHAT FI DIRASAT AL-SUNNAH AL-NABAWIYYAH (TRENDS IN THE STUDIES OF SUNNAH)",
+        "chr": 3.0,
+        "venue": "RKQS MEETING ROOM DEPT L3",
+        "lect": [
+            "DR. AMAR FETTANE"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -12100,6 +12133,72 @@
         ]
     },
     {
+        "code": "RKUD 4392",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AMILAH BT. AWANG ABD. RAHMAN @ JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4392",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DATO' DR. MUHAMMAD AYMAN AL-AKITI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4392",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHD MUMTAZ ALI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4392",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. THAMEEM USHAMA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4392",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HASLINA BINTI IBRAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "RKUD 4392",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. NOH BIN ABDUL JALIL"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "RKUD 4993",
         "sect": 1,
         "title": "FINAL YEAR PROJECT I",
@@ -12118,61 +12217,6 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. ABDUL SALAM @ ZULKIFLI B.MUHAMAD SHUKRI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKUD 4994",
-        "sect": 1,
-        "title": "INDUSTRIAL TRAINING",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. AMILAH BT. AWANG ABD. RAHMAN @ JUSOH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKUD 4994",
-        "sect": 2,
-        "title": "INDUSTRIAL TRAINING",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. HASLINA BINTI IBRAHIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKUD 4994",
-        "sect": 3,
-        "title": "INDUSTRIAL TRAINING",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "DR. MAJDAN BIN ALIAS"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKUD 4994",
-        "sect": 4,
-        "title": "INDUSTRIAL TRAINING",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "DR. MASITOH BINTI AHMAD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "RKUD 4994",
-        "sect": 5,
-        "title": "INDUSTRIAL TRAINING",
-        "chr": 6.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. MOHD MUMTAZ ALI"
         ],
         "dayTime": []
     },
@@ -13973,12 +14017,100 @@
     },
     {
         "code": "UNGS 1301",
+        "sect": 38,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": "HSC LR 21 2.48",
+        "lect": [
+            "DR. MOHAMMAD NAZMUS SAYADAT"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 39,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": "IRK LR 9 3.68",
+        "lect": [
+            "DATO' BAHARUDIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 40,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": "IRK LR 12 3.71",
+        "lect": [
+            "DATO' BAHARUDIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "13:50"
+            },
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "13:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 41,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": "IRK LR 14 RK LVL 1",
+        "lect": [
+            "DATO' BAHARUDIN AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:50"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
         "sect": 501,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH STUDIO 2A B4.2.18",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14000,7 +14132,7 @@
         "chr": 3.0,
         "venue": "PGH LECTURE THEATRE 1 B4.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -14020,9 +14152,9 @@
         "sect": 503,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH LECTURE HALL B3.1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -14042,9 +14174,9 @@
         "sect": 504,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH STUDIO 3 B4.2.26",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14064,7 +14196,7 @@
         "sect": 505,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH STUDIO 2A B4.2.18",
         "lect": [
             "SYAMSUL IDLAN BIN ABD NASIR"
         ],
@@ -14086,9 +14218,9 @@
         "sect": 506,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH STUDIO 2A B4.2.18",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14108,7 +14240,7 @@
         "sect": 507,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH STUDIO 2B B4.2.19",
         "lect": [
             "SYAMSUL IDLAN BIN ABD NASIR"
         ],
@@ -14130,9 +14262,9 @@
         "sect": 508,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14152,7 +14284,7 @@
         "sect": 509,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH SEMINAR ROOM 6 B3. 2.01",
         "lect": [
             "SYAMSUL IDLAN BIN ABD NASIR"
         ],
@@ -14174,9 +14306,9 @@
         "sect": 510,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH LECTURE HALL B3.1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -14196,9 +14328,9 @@
         "sect": 511,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH STUDIO 2A B4.2.18",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14218,9 +14350,9 @@
         "sect": 512,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH RESOURCE CENTRE B4.1.08",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -14240,9 +14372,9 @@
         "sect": 513,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH SEMINAR ROOM 2 B3.1.04",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14262,7 +14394,7 @@
         "sect": 514,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH SEMINAR ROOM 5 B3.2.03",
         "lect": [
             "SYAMSUL IDLAN BIN ABD NASIR"
         ],
@@ -14284,9 +14416,9 @@
         "sect": 515,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH SEMINAR ROOM 2 B3.1.04",
         "lect": [
-            "TO BE DETERMINED"
+            "HAMIM AZAD"
         ],
         "dayTime": [
             {
@@ -14301,9 +14433,9 @@
         "sect": 516,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -14520,28 +14652,6 @@
     {
         "code": "UNGS 1301",
         "sect": 840,
-        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
-        "chr": 3.0,
-        "venue": "LECTURE HALL 6, KOM L2",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:00"
-            }
-        ]
-    },
-    {
-        "code": "UNGS 1301",
-        "sect": 841,
         "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
         "chr": 3.0,
         "venue": "LECTURE HALL 6, KOM L2",
@@ -15201,7 +15311,7 @@
         "chr": 2.0,
         "venue": "PGH LECTURE THEATRE 1 B4.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -15218,7 +15328,7 @@
         "chr": 2.0,
         "venue": "PGH LECTURE THEATRE 1 B4.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -15235,7 +15345,7 @@
         "chr": 2.0,
         "venue": "PGH LECTURE THEATRE 1 B4.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KHAIRUDDIN BIN ABD LATIF"
         ],
         "dayTime": [
             {
@@ -16147,23 +16257,6 @@
     {
         "code": "UNGS 2380",
         "sect": 801,
-        "title": "ETHICS AND FIQH OF CONTEMPORARY ISSUES",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:30",
-                "endTime": "12:30"
-            }
-        ]
-    },
-    {
-        "code": "UNGS 2380",
-        "sect": 802,
         "title": "ETHICS AND FIQH OF CONTEMPORARY ISSUES",
         "chr": 3.0,
         "venue": "LECTURE HALL 2 KOP GF",

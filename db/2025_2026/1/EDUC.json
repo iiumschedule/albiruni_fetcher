@@ -166,7 +166,7 @@
         "sect": 4,
         "title": "CURRICULUM AND INSTRUCTION",
         "chr": 3.0,
-        "venue": "EDU TR 3 (LEVEL 3) 3.018",
+        "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
             "ASSOC. PROF. DR. MOHAMAD RIDHUAN BIN ABDULLAH"
         ],
@@ -678,7 +678,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING MORAL EDUCATION II",
         "chr": 3.0,
-        "venue": "EDU TR 3 (LEVEL 3) 3.018",
+        "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
             "DR. NAZATUL AKMAR BT MOKHTAR"
         ],
@@ -890,7 +890,7 @@
         "sect": 6,
         "title": "SOCIOLOGY OF EDUCATION",
         "chr": 2.0,
-        "venue": "EDU LR 36 1.0",
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "ASSOC. PROF. DR. ISMAIL HUSSEIN AMZAT"
         ],
@@ -1309,7 +1309,7 @@
         "sect": 1,
         "title": "ADOLESCENT DEVELOPMENT IN COUNSELING",
         "chr": 3.0,
-        "venue": "EDU TR 1 (LEVEL 3) 3.025",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. SITI RAFIAH ABD. HAMID"
         ],
@@ -1520,7 +1520,7 @@
         "sect": 1,
         "title": "QURANIC AND PROPHETIC TEXTS",
         "chr": 2.0,
-        "venue": "EDU TR 3 (LEVEL 3) 3.018",
+        "venue": "EDU TR 3-15 (LEVEL 3) 3.019",
         "lect": [
             "DR. NURUL AUJI BINTI HASBULLAH"
         ],
@@ -1828,6 +1828,28 @@
         ]
     },
     {
+        "code": "EDIE 2501",
+        "sect": 3,
+        "title": "FIQH AL-USRAH AND AL-MU'AMALAT",
+        "chr": 3.0,
+        "venue": "EDU 2.22 STUDIO",
+        "lect": [
+            "ASSOC. PROF. DR. ABDULHAMID MOHAMED ALI ZAROUM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "EDIE 2601",
         "sect": 1,
         "title": "INTRODUCTION TO 'ILM AL-MANTIQ",
@@ -1894,6 +1916,17 @@
                 "endTime": "15:50"
             }
         ]
+    },
+    {
+        "code": "EDIE 2701",
+        "sect": 3,
+        "title": "ETHICS IN EDUCATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
     },
     {
         "code": "EDIE 3399",
@@ -2357,7 +2390,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:50"
             }
@@ -2648,7 +2681,7 @@
         "sect": 2,
         "title": "ARABIC MORPHOLOGY I",
         "chr": 3.0,
-        "venue": "EDU TR 3-15 1.0",
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2780,7 +2813,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING ARABIC LANGUAGE I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LAB 1 2.44",
         "lect": [
             "DR. ERFAN ABDELDAIM MOHAMED AHMED ABDALLA"
         ],
@@ -2902,7 +2935,7 @@
         "sect": 2,
         "title": "ARABIC SYNTAX II",
         "chr": 3.0,
-        "venue": "EDU LR 19 1.0",
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK"
         ],
@@ -2924,7 +2957,7 @@
         "sect": 1,
         "title": "MODERN ARABIC LITERATURE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "EDU LR 22 3.69",
         "lect": [
             "DR. NURAZZELENA BINTI ABDULLAH"
         ],
@@ -2936,8 +2969,8 @@
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3012,7 +3045,7 @@
         "sect": 1,
         "title": "METHODS OF TEACHING ARABIC LANGUAGE II",
         "chr": 3.0,
-        "venue": "EDU LR 22 3.68",
+        "venue": "EDU LT 2 1.3",
         "lect": [
             "ASSOC. PROF. DR. ABDUL RAHMAN BIN CHIK"
         ],
@@ -3114,7 +3147,7 @@
         "chr": 3.0,
         "venue": "EDU LR 26 3.86",
         "lect": [
-            "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
+            "DR. MOHAMAD LUKMAN AL HAKIM BIN MD. NOOR"
         ],
         "dayTime": [
             {
@@ -3131,7 +3164,7 @@
         "chr": 3.0,
         "venue": "EDU LR 29 3.75",
         "lect": [
-            "DR. MOHAMAD LUKMAN AL HAKIM BIN MD. NOOR"
+            "PROF. DR. MUHAMMAD SABRI BIN SAHRIR"
         ],
         "dayTime": [
             {
@@ -3234,7 +3267,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO ELT METHODOLOGY",
         "chr": 3.0,
-        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "DR. MOHAIDA BINTI MOHIN"
         ],
@@ -3300,7 +3333,7 @@
         "sect": 2,
         "title": "INTRODUCTION TO ELT METHODS AND PRACTICES",
         "chr": 3.0,
-        "venue": "EDU LR 19 3.66",
+        "venue": "EDU LR 16 (PG SIDE LVL 2) 2.3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3537,7 +3570,7 @@
         "sect": 2,
         "title": "TEACHING READING IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": "EDU LR 20 3.67",
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "PROF. DR. ISMAIL B. SHEIKH AHMAD"
         ],
@@ -3559,7 +3592,7 @@
         "sect": 1,
         "title": "TEACHING LISTENING AND SPEAKING IN SECONDARY SCHOOLS",
         "chr": 3.0,
-        "venue": "EDU LR 21 3.68",
+        "venue": "EDU 2.22 STUDIO",
         "lect": [
             "PROF. DR. ISMAIL B. SHEIKH AHMAD"
         ],

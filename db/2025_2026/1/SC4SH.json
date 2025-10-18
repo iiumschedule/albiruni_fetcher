@@ -191,7 +191,7 @@
         "sect": 12,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "HSC LR 7 1.40",
         "lect": [
             "ASSOC. PROF. DR. MEHMET OZAY"
         ],
@@ -511,10 +511,44 @@
     },
     {
         "code": "SCSH 1201",
-        "sect": 501,
+        "sect": 31,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
         "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 32,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 501,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": "PGH LECTURE THEATRE 2 B4.1.16",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -531,7 +565,7 @@
         "sect": 502,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "BILIK AKTIVITI 5 SF",
         "lect": [
             "DR. SITI SALWA BTE MD SAWARI"
         ],
@@ -548,7 +582,7 @@
         "sect": 503,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "PGH LECTURE THEATRE 2 B4.1.16",
         "lect": [
             "MUHAMMAD ALI A. RAHMAN"
         ],
@@ -565,7 +599,7 @@
         "sect": 504,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "PGH STUDIO 1 B4.1.39",
         "lect": [
             "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
         ],
@@ -1111,6 +1145,56 @@
     },
     {
         "code": "SCSH 2163",
+        "sect": 32,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAIDEEN ABDUL KADER BIN MOHAMAD IKBAL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 50,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HANISAH BINTI MANSHOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 51,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HANISAH BINTI MANSHOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 52,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. HANISAH BINTI MANSHOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
         "sect": 501,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
@@ -1119,6 +1203,174 @@
             "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
         ],
         "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 511,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 512,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MISS SAIRA RIAZ"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 513,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR NABILAH BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 514,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. SAMSHUL AMRY BIN ABDUL LATIF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 515,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "NUR MASTURAH BINTI MOHAMAD ARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 516,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 517,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI YULIANDI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 518,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAHRUL NIZAM BIN MOHD BASARI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 519,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR HAFUZA BINTI MUHAMMAD ARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 520,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. USHA A/P NAGASUNDRAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 521,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. PAVITIRA A/P NAGARAJU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 522,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD SAIPUDDIN BIN SULIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -1303,8 +1555,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "20:00",
+                "endTime": "21:00"
             }
         ]
     },
@@ -1428,7 +1680,7 @@
         "sect": 20,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "HSC LR 11 1.44",
         "lect": [
             "MADAM MUNAWIZA JULIANA BINTI MOHD JASIN"
         ],
