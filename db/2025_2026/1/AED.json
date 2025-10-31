@@ -1,5 +1,39 @@
 [
     {
+        "code": "AAD 2112",
+        "sect": 1,
+        "title": "ISLAMIC GEOMETRIC PATTERN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAYA BT BANIYAMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "AAD 2210",
+        "sect": 1,
+        "title": "ISLAMIC CRAFTMANSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 1101",
         "sect": 1,
         "title": "APPLIED ARTS & DESIGN STUDIO 1",
@@ -368,7 +402,7 @@
         "sect": 1,
         "title": "BUILDING CONSTRUCTION & SERVICES",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "ISMAIL BIN JASMANI"
         ],
@@ -385,7 +419,7 @@
         "sect": 2,
         "title": "BUILDING CONSTRUCTION & SERVICES",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
@@ -536,7 +570,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 15",
         "lect": [
-            "DR. RAJA INTAN SUHAYLAH BINTI RAJA ABDUL RAHMAN"
+            "NOOR ROZIANA BINTI ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -598,7 +632,7 @@
         "sect": 1,
         "title": "STRUCTURAL DESIGN",
         "chr": 2.0,
-        "venue": "KAED LR (L1) 1",
+        "venue": "KAED MULTIMEDIA LAB 3",
         "lect": [
             "DR. FADZLI IRWAN BIN BAHRUDIN"
         ],
@@ -632,7 +666,7 @@
         "sect": 1,
         "title": "MATERIALS SPECIFICATION AND COSTING",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 2",
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "ISMAIL BIN JASMANI"
         ],
@@ -683,7 +717,7 @@
         "sect": 1,
         "title": "CONSERVATION SCIENCE",
         "chr": 3.0,
-        "venue": "KAED MULTIMEDIA LAB 3",
+        "venue": "KAED LR (L1) 1",
         "lect": [
             "DR. RAJABI BINTI ABDUL RAZAK"
         ],
@@ -1978,7 +2012,7 @@
         "chr": 2.0,
         "venue": "KAED SR (L2) 5",
         "lect": [
-            "DR. MASIDAH BINTI ABDUL MAJID"
+            "SR. DR. MASIDAH BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
@@ -2046,7 +2080,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. MASIDAH BINTI ABDUL MAJID"
+            "SR. DR. MASIDAH BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
@@ -2080,18 +2114,18 @@
         "chr": 4.0,
         "venue": "KAED STUDIO(L2) 4",
         "lect": [
-            "DR. MASIDAH BINTI ABDUL MAJID"
+            "SR. DR. MASIDAH BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "12:30"
+                "startTime": "14:30",
+                "endTime": "18:30"
             },
             {
                 "day": 5,
-                "startTime": "12:30",
-                "endTime": "18:30"
+                "startTime": "08:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -2107,7 +2141,7 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "12:30",
+                "startTime": "14:30",
                 "endTime": "18:30"
             },
             {
@@ -2122,14 +2156,14 @@
         "sect": 3,
         "title": "PRINCIPLES OF MEASUREMENT OF SERVICE AND ADVANCED BUILDING WORKS",
         "chr": 4.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "12:30",
+                "startTime": "14:30",
                 "endTime": "18:30"
             },
             {
@@ -2246,15 +2280,15 @@
         "sect": 1,
         "title": "CIVIL ENGINEERING CONSTRUCTION 2",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L1 LT1",
         "lect": [
             "ASSOC. PROF. IR. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "09:00",
-                "endTime": "12:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2270,8 +2304,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -2553,7 +2587,7 @@
         "sect": 1,
         "title": "SUSTAINABLE SITE AND LAND USE PLANNING",
         "chr": 3.0,
-        "venue": "KAED URBAN LAB LVL 2",
+        "venue": "KAED SR (L2) 7",
         "lect": [
             "PROF. DR. NORZAILAWATI BT. HJ. MOHD. NOOR"
         ],
@@ -3374,15 +3408,15 @@
         "sect": 1,
         "title": "LANDSCAPE PLANNING TECHNIQUES",
         "chr": 3.0,
-        "venue": "KAED SR (L1) 2",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. IZAWATI BT. TUKIMAN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:00",
-                "endTime": "18:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },

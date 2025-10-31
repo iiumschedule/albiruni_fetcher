@@ -1675,6 +1675,23 @@
         ]
     },
     {
+        "code": "CIVE 3221",
+        "sect": 1,
+        "title": "CONTRACT AND ESTIMATION",
+        "chr": 2.0,
+        "venue": "ENG LRM E0-1-16",
+        "lect": [
+            "PROF. DR. MAISARAH BT ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
         "code": "CIVE 3311",
         "sect": 1,
         "title": "STRUCTURAL ANALYSIS",
@@ -2171,7 +2188,7 @@
         "sect": 1,
         "title": "THEORY OF STRUCTURES",
         "chr": 3.0,
-        "venue": "ENG LRM E3-2-2",
+        "venue": "ENG LRM E2-1-2",
         "lect": [
             "IR. DR. NADIAH BINTI MD. HUSAIN"
         ],
@@ -3342,6 +3359,40 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "EECE 1311",
+        "sect": 100,
+        "title": "ELECTRIC CIRCUITS",
+        "chr": 3.0,
+        "venue": "ENG LRM E2-2-2",
+        "lect": [
+            "ASSOC. PROF. DR. AMELIA WONG BINTI AZMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            }
+        ]
+    },
+    {
+        "code": "EECE 1311",
+        "sect": 101,
+        "title": "ELECTRIC CIRCUITS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-20",
+        "lect": [
+            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "13:00",
+                "endTime": "13:50"
             }
         ]
     },
@@ -6285,6 +6336,23 @@
         ]
     },
     {
+        "code": "MANU 4399",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHAFIE BIN KAMARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
         "code": "MATH 1310",
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 1",
@@ -7921,8 +7989,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E3-3-2",
         "lect": [
-            "DR. FARAHIYAH BINTI JASNI",
-            "DR. AZNI NABELA BINTI WAHID"
+            "DR. FARAHIYAH BINTI JASNI"
         ],
         "dayTime": [
             {
@@ -7939,8 +8006,7 @@
         "chr": 2.0,
         "venue": "ENG LRM E1-2-17",
         "lect": [
-            "DR. FARAHIYAH BINTI JASNI",
-            "DR. AZNI NABELA BINTI WAHID"
+            "DR. FARAHIYAH BINTI JASNI"
         ],
         "dayTime": [
             {
@@ -9345,29 +9411,6 @@
         "venue": "ENG LRM E1-3-21",
         "lect": [
             "DR. MOHD ASYRAF BIN MOHD RAZIB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "MCTE 3372",
-        "sect": 1,
-        "title": "ENGINEERING SYSTEM RELIABILITY",
-        "chr": 3.0,
-        "venue": "ENG LRM E3-3-1",
-        "lect": [
-            "ASSOC. PROF. DR. ABD HALIM BIN EMBONG",
-            "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -12540,6 +12583,176 @@
         "lect": [
             "IR. DR. YANG CHUAN CHOONG",
             "IR. TS. DR. (CMILT M.I.E.M. ACPE) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAZWANI BINTI MOHD ZAKI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. IR. DR. MD YUSOF BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AFIFAH BINTI MOHD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILY BINTI MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ADIBAH BT. AMIR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "IR. TS. DR. SITI HARYANI BINTI TOMADI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 9,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. TASNIM FIRDAUS BT. MOHAMED ARIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ABD. MALEK BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 4400",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "IR. DR. YANG CHUAN CHOONG"
         ],
         "dayTime": [
             {

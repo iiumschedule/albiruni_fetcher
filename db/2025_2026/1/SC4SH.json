@@ -106,7 +106,7 @@
         "sect": 7,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -361,7 +361,7 @@
         "sect": 22,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LT 4 3.4",
         "lect": [
             "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
         ],
@@ -412,7 +412,7 @@
         "sect": 25,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED TR (L2) 15",
         "lect": [
             "DR. IRINA SAFITRI ZEN"
         ],
@@ -429,7 +429,7 @@
         "sect": 26,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU LR 25 3.85",
         "lect": [
             "DR. SITI ZUBAIDAH BINTI ANUAR"
         ],
@@ -446,7 +446,7 @@
         "sect": 27,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED TR (L2) 15",
         "lect": [
             "DR. IRINA SAFITRI ZEN"
         ],
@@ -463,7 +463,7 @@
         "sect": 28,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM LR 1B 2.133",
         "lect": [
             "WAN ZAHIRAH BINTI WAN ZULKIFLE"
         ],
@@ -540,6 +540,74 @@
                 "day": 5,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 33,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MAULANA AKBAR SHAH @ U TUN AUNG"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 34,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 35,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ZAID BIN KHALIQ"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 36,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "CHYFICA BINTI MOHAMED ZAMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -1123,28 +1191,6 @@
     },
     {
         "code": "SCSH 2163",
-        "sect": 1,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
-        "sect": 3,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
         "sect": 11,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
@@ -1154,9 +1200,340 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "18:30",
                 "endTime": "19:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 12,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ANIZA BINTI ABU BAKAR",
+            "DR. 'ATIAH BT. ABDULLAH SIDEK",
+            "DR. NUR LEYNI NILAM PUTRI BINTI JUNURHAM",
+            "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON",
+            "DR. SITI ZUBAIDAH BINTI ANUAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 13,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ANIZA BINTI ABU BAKAR",
+            "DR. 'ATIAH BT. ABDULLAH SIDEK",
+            "DR. NUR LEYNI NILAM PUTRI BINTI JUNURHAM",
+            "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON",
+            "DR. SITI ZUBAIDAH BINTI ANUAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 14,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAHID BIN ZAMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 15,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "21:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 16,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "21:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 17,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFIF BIN HUSMAN",
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 18,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 19,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "HUD BIN HJ.  SULAIMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 20,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DATO' HAMIDON BIN ABD HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 21,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN",
+            "PROF. IR. DR. SITI FAUZIAH BT. TOHA @ TOHARA",
+            "DR. SUHAILY BINTI MOKHTAR",
+            "ASSOC. PROF. IR. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF",
+            "DR. HASMAWATI BT. ANTONG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 22,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN",
+            "PROF. IR. DR. SITI FAUZIAH BT. TOHA @ TOHARA",
+            "DR. SUHAILY BINTI MOKHTAR",
+            "ASSOC. PROF. IR. DR. NOOR HAZRIN HANY BT MOHAMAD HANIF",
+            "DR. HASMAWATI BT. ANTONG"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 23,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD ZAHIRANI BIN AHMAD AZHAR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 24,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "21:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 25,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
+            "DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
+            "ROSLIMNA BINTI MOHMMED SAAD",
+            "M MASCITAH BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 26,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NORZALIFA BINTI ZAINAL ABIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:15",
+                "endTime": "18:15"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 27,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. SHAFIZAN BINTI MOHAMED",
+            "DR. NUR SHAKIRA BINTI MOHD NASIR",
+            "DR. MOHD HELMI BIN YUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 28,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
+            "DR. JASASIKIN BIN AB SANI",
+            "ASSOC. PROF. DR. IZAWATI BT. TUKIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 29,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMMAD ARIFF BIN RASHIDAN",
+            "DR. HASMAWATI BT. ANTONG",
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 30,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 31,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAIDEEN ABDUL KADER BIN MOHAMAD IKBAL"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -1179,11 +1556,297 @@
     },
     {
         "code": "SCSH 2163",
+        "sect": 33,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF",
+            "DR. HASMAWATI BT. ANTONG",
+            "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 34,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF",
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 35,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD IZZAT BIN ZAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 36,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMARANI BINTI AHMAD PUZI",
+            "DR. MOHAMMAD ARIFF BIN RASHIDAN",
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH",
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 37,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF",
+            "DR. HASMAWATI BT. ANTONG",
+            "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 38,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ATIKAH BINTI RAZALI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:15",
+                "endTime": "18:15"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 39,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. SUHAIMI BIN MHD. SARIF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 40,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 41,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MOHD KHAIRY BIN ZAINAL ABIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "21:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 42,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 43,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 44,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 45,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 46,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "18:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 47,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 48,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. SITI HAJAR BINTI YUSOFF"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 49,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
         "sect": 50,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "DR. NURIZAN BINTI OMAR",
+            "DR. KARTINI BINTI AHMAD",
+            "DR. ABDUL AZIZ BIN AHMAD",
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
+            "DR. NORHANIS AIDA BINTI MOHD NOR",
             "DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": []
@@ -1195,7 +1858,12 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. HANISAH BINTI MANSHOR"
+            "DR. NURIZAN BINTI OMAR",
+            "DR. KARTINI BINTI AHMAD",
+            "TO BE DETERMINED",
+            "DR. NORHANIS AIDA BINTI MOHD NOR",
+            "DR. ABDUL AZIZ BIN AHMAD",
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA"
         ],
         "dayTime": []
     },
@@ -1206,20 +1874,238 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "DR. NURIZAN BINTI OMAR",
+            "DR. KARTINI BINTI AHMAD",
+            "DR. ABDUL AZIZ BIN AHMAD",
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
+            "DR. NORHANIS AIDA BINTI MOHD NOR",
             "DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": []
     },
     {
         "code": "SCSH 2163",
-        "sect": 501,
+        "sect": 53,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 54,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 55,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NADZRIL BIN SULAIMAN"
         ],
         "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 56,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 57,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 58,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MOHD KHAIRY BIN ZAINAL ABIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "21:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 59,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 60,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
+            "M MASCITAH BINTI MANSOR",
+            "DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
+            "ROSLIMNA BINTI MOHMMED SAAD",
+            "M MASCITAH BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 61,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "HUD BIN HJ.  SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 62,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 63,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 64,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 65,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 66,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "21:00"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -1329,7 +2215,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. SHAHRUL NIZAM BIN MOHD BASARI"
+            "DR. SHAHRUL NIZAM BIN MOHD BASARI",
+            "SITTI AMINAH BINTI ABAS"
         ],
         "dayTime": []
     },
@@ -1506,9 +2393,16 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AMIRAH FATIN BINTI IBRAHIM",
+            "DR. W SOLIHATUL HAFIDZAH BT WAN MOHD ANNUAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -1517,18 +2411,193 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AMIRAH FATIN BINTI IBRAHIM",
+            "DR. W SOLIHATUL HAFIDZAH BT WAN MOHD ANNUAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "18:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 813,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. REDZUAN NUL HAKIM BIN ABDUL RAZAK"
         ],
         "dayTime": []
     },
     {
         "code": "SCSH 2163",
-        "sect": 830,
+        "sect": 814,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN",
+            "DR. NOR'AIN BINTI ABDUL RASHID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 815,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR'AIN BINTI ABDUL RASHID",
+            "DR. SITI NUR ILLIANI BINTI JAAFAR",
+            "DR. SITI HAJAR BINTI MOHAMED ZAIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 816,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 817,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD AIZUDDIN BIN ABD RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 818,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "SITI NORFITRAH BINTI MOHD SALIM",
+            "DR. MOHD AIZUDDIN BIN ABD RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 819,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ZALIKHA BINTI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:15",
+                "endTime": "18:15"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 820,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AKMA BINTI JAMIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 821,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "NUR FARRAH SYAZWANIE BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 822,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI MARIAM BINTI MUDA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 823,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MUHAMMAD LOKMAN BIN MD. ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 827,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD ZUBIR BIN YUSOF",
+            "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 828,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. RASITASAM@RAZITASHAM",
+            "DR. ROSELAWATI BINTI MAT YA"
         ],
         "dayTime": []
     },
@@ -2085,13 +3154,7 @@
         "lect": [
             "DR. AISHAH NAJIAH BT. DAHNEL"
         ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "12:00",
-                "endTime": "13:00"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "SCSH 3164",
@@ -2180,6 +3243,17 @@
         "lect": [
             "DATO' HAMIDON BIN ABD HAMID",
             "SHARIPAH SALMAH BT. MOHD. YUSOFF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 54,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN"
         ],
         "dayTime": []
     },

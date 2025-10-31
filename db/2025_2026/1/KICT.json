@@ -10,6 +10,11 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:20"
@@ -37,6 +42,11 @@
                 "endTime": "16:50"
             },
             {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
@@ -62,6 +72,11 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -84,6 +99,11 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -97,6 +117,11 @@
             "TS. DR. DINI OKTARINA DWI HANDAYANI"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
             {
                 "day": 2,
                 "startTime": "10:00",
@@ -125,6 +150,11 @@
                 "endTime": "09:50"
             },
             {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
@@ -145,6 +175,11 @@
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
             },
             {
                 "day": 4,
@@ -172,6 +207,11 @@
                 "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -512,7 +552,6 @@
         "chr": 3.0,
         "venue": "ICT ACM ICPC TL C4 03",
         "lect": [
-            "TUTOR",
             "PROF. DR. NORSAREMAH BT. SALLEH"
         ],
         "dayTime": [
@@ -540,8 +579,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "PROF. DR. NORSAREMAH BT. SALLEH",
-            "TUTOR"
+            "PROF. DR. NORSAREMAH BT. SALLEH"
         ],
         "dayTime": [
             {
@@ -568,7 +606,6 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TUTOR",
             "PROF. DR. NORSAREMAH BT. SALLEH"
         ],
         "dayTime": [
@@ -816,8 +853,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E4-02 LEVEL 4E",
         "lect": [
-            "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN",
-            "TUTOR"
+            "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -844,8 +880,7 @@
         "chr": 3.0,
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
-            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN",
-            "TUTOR"
+            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN"
         ],
         "dayTime": [
             {
@@ -872,8 +907,7 @@
         "chr": 3.0,
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
-            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN",
-            "TUTOR"
+            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN"
         ],
         "dayTime": [
             {
@@ -900,8 +934,7 @@
         "chr": 3.0,
         "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
-            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN",
-            "TUTOR"
+            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN"
         ],
         "dayTime": [
             {
@@ -1038,7 +1071,8 @@
         "chr": 3.0,
         "venue": "ICT LR 19 LEVEL 4C",
         "lect": [
-            "DR. MAZNAH BT AHMAD"
+            "DR. MAZNAH BT AHMAD",
+            "DR. AIZAL YUSRINA IDRIS"
         ],
         "dayTime": [
             {
@@ -1610,8 +1644,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH",
-            "TUTOR"
+            "DR. ZAINATUL SHIMA ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1643,8 +1676,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH",
-            "TUTOR"
+            "DR. ZAINATUL SHIMA ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1676,8 +1708,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "DR. NURHAFIZAH BINTI MAHRI",
-            "TUTOR"
+            "DR. NURHAFIZAH BINTI MAHRI"
         ],
         "dayTime": [
             {
@@ -1709,8 +1740,7 @@
         "chr": 3.0,
         "venue": "ICT ACM ICPC TL C4 03",
         "lect": [
-            "DR. NURHAFIZAH BINTI MAHRI",
-            "TUTOR"
+            "DR. NURHAFIZAH BINTI MAHRI"
         ],
         "dayTime": [
             {
@@ -1742,8 +1772,7 @@
         "chr": 3.0,
         "venue": "ICT ACM ICPC TL C4 03",
         "lect": [
-            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN",
-            "TUTOR"
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
         ],
         "dayTime": [
             {
@@ -1775,8 +1804,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN",
-            "TUTOR"
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
         ],
         "dayTime": [
             {
@@ -1808,8 +1836,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "DR. MIMI LIZA BINTI ABDUL MAJID",
-            "TUTOR"
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
@@ -1841,8 +1868,7 @@
         "chr": 3.0,
         "venue": "ICT CITA LAB LEVEL 1B",
         "lect": [
-            "DR. MIMI LIZA BINTI ABDUL MAJID",
-            "TUTOR"
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
@@ -2807,22 +2833,11 @@
         "sect": 1,
         "title": "DATA STRUCTURES AND ALGORITHMS I",
         "chr": 3.0,
-        "venue": "ICT CITA STUDIO LEVEL 1B",
+        "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AIZAL YUSRINA IDRIS"
         ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "CSCI 2301",
@@ -2840,7 +2855,7 @@
         "sect": 1,
         "title": "DIGITAL SYSTEMS FUNDAMENTAL",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
             "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN"
         ],
@@ -3227,7 +3242,6 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TUTOR",
             "DR. AKEEM OLOWOLAYEMO"
         ],
         "dayTime": [
@@ -4812,7 +4826,7 @@
         "sect": 1,
         "title": "DATA WAREHOUSING",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 7 LEVEL 3C",
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
         "lect": [
             "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
         ],
@@ -4834,7 +4848,7 @@
         "sect": 2,
         "title": "DATA WAREHOUSING",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 9 TL-D4-02",
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
             "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
         ],
@@ -5012,8 +5026,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
-            "DR. MUNA BINTI AZUDDIN",
-            "TUTOR"
+            "DR. MUNA BINTI AZUDDIN"
         ],
         "dayTime": [
             {
@@ -5172,8 +5185,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD KHAIRUL AZMI BIN HASSAN",
-            "TUTOR"
+            "DR. MOHD KHAIRUL AZMI BIN HASSAN"
         ],
         "dayTime": [
             {
