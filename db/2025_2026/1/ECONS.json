@@ -1238,6 +1238,28 @@
         ]
     },
     {
+        "code": "ACCT 1319",
+        "sect": 601,
+        "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
         "code": "ACCT 1321",
         "sect": 1,
         "title": "PRINCIPLES OF MANAGEMENT ACCOUNTING",
@@ -4099,6 +4121,28 @@
         ]
     },
     {
+        "code": "FINC 1301",
+        "sect": 600,
+        "title": "FOUNDATION OF ISLAMIC FINANCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "FINC 1302",
         "sect": 1,
         "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
@@ -4249,6 +4293,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "FINC 1302",
+        "sect": 600,
+        "title": "FUNDAMENTALS OF FINANCIAL MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -6806,7 +6872,7 @@
         "sect": 1,
         "title": "SMALL BUSINESS MANAGEMENT",
         "chr": 3.0,
-        "venue": "KENMS 4.6 LEVEL 4",
+        "venue": "KENMS 1.2 LEVEL 1",
         "lect": [
             "TO BE DETERMINED"
         ],
