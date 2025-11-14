@@ -224,7 +224,7 @@
         "sect": 501,
         "title": "MANDARIN LANGUAGE III",
         "chr": 2.0,
-        "venue": "PGH MULTIPURPOSE ROOM B1.1.02",
+        "venue": "PGH MULTIPURPOSE ROOM B1.2.05",
         "lect": [
             "MUHAMMAD NAZIRUL BIN MOHD NOOR"
         ],
@@ -1253,7 +1253,7 @@
         "venue": "CELPAD MEETING ROOM,OCD L1",
         "lect": [
             "NORHAYATI BINTI MOHD RASIP",
-            "TO BE DETERMINED",
+            "NUR MAISARAH BINTI ISMAIZAM",
             "NORHAYATI BINTI MOHD RASIP"
         ],
         "dayTime": [
@@ -1400,7 +1400,7 @@
         "sect": 4,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
-        "venue": null,
+        "venue": "ICT TL-C1-03 LEVEL 1C",
         "lect": [
             "FAZELINAH BINTI FAZELI KADER"
         ],
@@ -3590,14 +3590,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "11:30",
                 "endTime": "13:00"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -4199,7 +4199,7 @@
         "sect": 2,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (KENMS)",
         "chr": 3.0,
-        "venue": "KAED LR (L1) 2",
+        "venue": "CFL SOSDEL LAB 1",
         "lect": [
             "MRS. NOR HASNI BINTI YAAKOB"
         ],
@@ -4221,7 +4221,7 @@
         "sect": 3,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (KENMS)",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "NAHDATUL NAFILAH BTE MOHD. RADZI"
         ],
@@ -4450,6 +4450,28 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 1131",
+        "sect": 800,
+        "title": "BAHASA MELAYU I",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "NIK ZULAIHA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -8307,7 +8329,7 @@
         "sect": 821,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "PBL ROOM 10,  KON L2",
         "lect": [
             "MOHD. SHAFIEN BIN OTHMAN"
         ],
@@ -8324,7 +8346,7 @@
         "sect": 822,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 9/10, KON GF",
         "lect": [
             "MOHD. SHAFIEN BIN OTHMAN"
         ],
@@ -8470,6 +8492,23 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "TQB 2011E",
+        "sect": 1,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "RAMLEE BIN ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "11:50"
             }
         ]
     },

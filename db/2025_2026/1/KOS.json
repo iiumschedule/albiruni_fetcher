@@ -140,7 +140,7 @@
         "chr": 2.0,
         "venue": "BIOLOGICAL BUILDING L MAWAR",
         "lect": [
-            "DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
+            "ASSOC. PROF. DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
         ],
         "dayTime": [
             {
@@ -318,7 +318,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD SYAHMI BIN SALLEH"
+            "ASSOC. PROF. DR. MOHD SYAHMI BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -357,7 +357,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
+            "ASSOC. PROF. DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
         ],
         "dayTime": [
             {
@@ -486,7 +486,7 @@
         "chr": 2.0,
         "venue": "ADMIN BUILDING KOS A-1-21",
         "lect": [
-            "DR. MOHD SYAHMI BIN SALLEH"
+            "ASSOC. PROF. DR. MOHD SYAHMI BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -681,7 +681,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD SYAHMI BIN SALLEH"
+            "ASSOC. PROF. DR. MOHD SYAHMI BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -759,7 +759,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD SYAHMI BIN SALLEH"
+            "ASSOC. PROF. DR. MOHD SYAHMI BIN SALLEH"
         ],
         "dayTime": [
             {
@@ -1617,7 +1617,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD FIRDAUS BIN NAWI"
+            "ASSOC. PROF. DR. MOHD FIRDAUS BIN NAWI"
         ],
         "dayTime": [
             {
@@ -1639,7 +1639,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD FIRDAUS BIN NAWI"
+            "ASSOC. PROF. DR. MOHD FIRDAUS BIN NAWI"
         ],
         "dayTime": [
             {
@@ -2711,7 +2711,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SAIFUL 'ARIFIN BIN SHAFIEE"
+            "ASSOC. PROF. CHM. DR. SAIFUL 'ARIFIN BIN SHAFIEE"
         ],
         "dayTime": [
             {
@@ -2910,7 +2910,7 @@
         "chr": 3.0,
         "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
-            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+            "ASSOC. PROF. DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -3033,7 +3033,7 @@
         "chr": 3.0,
         "venue": "ADMIN BUILDING KOS A-1-28",
         "lect": [
-            "DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
+            "ASSOC. PROF. DR. MOHAMAD WAFIUDDIN BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -3100,7 +3100,7 @@
         "chr": 3.0,
         "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
-            "DR. SITI FATIMAH BINTI ZAKARIA"
+            "ASSOC. PROF. DR. SITI FATIMAH BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -3122,7 +3122,7 @@
         "chr": 3.0,
         "venue": "CTS BUILDING KOS C-1-03",
         "lect": [
-            "DR. SITI FATIMAH BINTI ZAKARIA"
+            "ASSOC. PROF. DR. SITI FATIMAH BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -3298,7 +3298,7 @@
         "chr": 3.0,
         "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": [
             {
@@ -3320,7 +3320,7 @@
         "chr": 3.0,
         "venue": "CTS BUILDING KOS C-1-02",
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": [
             {
@@ -3733,7 +3733,7 @@
         "chr": 3.0,
         "venue": "CTS BUILDING KOS C-1-01",
         "lect": [
-            "DR. SITI FATIMAH BINTI ZAKARIA"
+            "ASSOC. PROF. DR. SITI FATIMAH BINTI ZAKARIA"
         ],
         "dayTime": [
             {
@@ -4585,6 +4585,28 @@
                 "day": 3,
                 "startTime": "18:00",
                 "endTime": "20:00"
+            }
+        ]
+    },
+    {
+        "code": "SMS 2311",
+        "sect": 1,
+        "title": "ADVANCED MATHEMATICAL METHODS",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS C-1-02",
+        "lect": [
+            "DR. NOR AMIRAH BINTI MOHD BUSUL AKLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
             }
         ]
     },
