@@ -37,7 +37,7 @@
         "code": "LAWD 0443",
         "sect": 601,
         "title": "HUMAN RIGHTS APPROACH TO CORRECTIONAL MANAGEMENT",
-        "chr": 2.0,
+        "chr": 4.0,
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
@@ -644,6 +644,21 @@
                 "day": 1,
                 "startTime": "09:00",
                 "endTime": "10:00"
+            },
+            {
+                "day": 1,
+                "startTime": "17:30",
+                "endTime": "18:30"
+            },
+            {
+                "day": 1,
+                "startTime": "16:30",
+                "endTime": "17:30"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
             },
             {
                 "day": 3,
@@ -3751,7 +3766,7 @@
         "sect": 4,
         "title": "ALTERNATIVE DISPUTE RESOLUTION",
         "chr": 3.0,
-        "venue": "AIKOL MM 3.11 3.11",
+        "venue": "AIKOL MM 3.2 3.2",
         "lect": [
             "DR. SODIQ OMOOLA"
         ],
@@ -4070,7 +4085,7 @@
                 "endTime": "12:00"
             },
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "08:00",
                 "endTime": "09:40"
             },
@@ -4078,11 +4093,6 @@
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "12:40"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:40"
             },
             {
                 "day": 4,

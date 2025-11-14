@@ -426,6 +426,40 @@
     },
     {
         "code": "CCCA 1010",
+        "sect": 1,
+        "title": "CANVA 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. SYARQAWY BIN HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCA 1010",
+        "sect": 2,
+        "title": "CANVA 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. SYARQAWY BIN HAMZAH"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCA 1010",
         "sect": 801,
         "title": "CANVA 1",
         "chr": 0.5,
@@ -465,7 +499,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.2 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "DHALHERI MOHAMMAD SYARIF"
         ],
         "dayTime": [
             {
@@ -1126,9 +1160,9 @@
         "sect": 1,
         "title": "PRESENTATION & CRITICAL THINKING",
         "chr": 0.5,
-        "venue": "KENMS 2.3 LEVEL 2",
+        "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SARAH KHALID CHINOY"
         ],
         "dayTime": [
             {
@@ -1231,23 +1265,6 @@
         "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "RAZALI BIN SUDIN@ALIAS"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCEM 1010",
-        "sect": 3,
-        "title": "EVENT MANAGEMENT SKILL 1",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1400,7 +1417,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "SAFURA BT. ABD. RAHMAN"
+            "MOHD. SHAHRIMAN BIN GHAZALI"
         ],
         "dayTime": [
             {
@@ -1908,7 +1925,7 @@
         "sect": 13,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": "KENMS 4.11 LEVEL 4",
+        "venue": "AIKOL MM 2.2 2.2",
         "lect": [
             "DR. MOHAMAD ISMAIL BIN HJ MOHD YUNUS"
         ],
@@ -2333,7 +2350,7 @@
         "sect": 38,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": "KENMS 2.3 LEVEL 2",
+        "venue": "AIKOL MM 2.2 2.2",
         "lect": [
             "DR. MOHAMAD ISMAIL BIN HJ MOHD YUNUS"
         ],
@@ -2727,6 +2744,17 @@
         "venue": null,
         "lect": [
             "PROF. DR. NURUL FADZLIN BT HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 401,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
         ],
         "dayTime": []
     },
@@ -4148,7 +4176,7 @@
         "chr": 0.5,
         "venue": "PGH RESOURCE CENTRE B4.1.08",
         "lect": [
-            "DR. NUR NABILAH BINTI ABDULLAH"
+            "ASSOC. PROF. DR. NUR NABILAH BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -4282,15 +4310,15 @@
         "sect": 803,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": "SEMINAR ROOM (DBMS) L3",
+        "venue": "ADMIN BUILDING KOS A-G-02",
         "lect": [
             "DR. MOHD. YUSOF BIN MOHAMAD"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "17:00",
-                "endTime": "19:00"
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -5030,15 +5058,15 @@
         "sect": 1,
         "title": "KOR SISPA 1",
         "chr": 1.0,
-        "venue": "KENMS 3.5 LEVEL 3",
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 6,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "startTime": "23:00",
+                "endTime": "03:30"
             }
         ]
     },
@@ -5055,7 +5083,7 @@
             {
                 "day": 6,
                 "startTime": "11:00",
-                "endTime": "15:00"
+                "endTime": "15:30"
             }
         ]
     },
@@ -5387,7 +5415,7 @@
         "sect": 4,
         "title": "RECREATION 1",
         "chr": 0.5,
-        "venue": "ADM TR 18 4.12",
+        "venue": "KENMS 4.11 LEVEL 4",
         "lect": [
             "ATIF AB. RAHMAN"
         ],
@@ -5576,7 +5604,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD FAIZAL AMRI BIN SAFIE"
         ],
         "dayTime": [
             {
@@ -6324,7 +6352,7 @@
         "chr": 0.5,
         "venue": "MALE SPORT COM OD COURT",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMAD NAZIM BIN ISHAK"
         ],
         "dayTime": [
             {
@@ -6407,7 +6435,7 @@
         "sect": 5,
         "title": "SEWING SKILLS 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEWING ROOM WADIBUDI",
         "lect": [
             "FARIDATUL FARHAH ABD RAHMAN"
         ],
@@ -6748,21 +6776,26 @@
         ]
     },
     {
-        "code": "CCUB 1060",
-        "sect": 1,
-        "title": "USRAH AND FARD 'AIN ESSENTIALS",
+        "code": "CCTH 3021",
+        "sect": 401,
+        "title": "TAHFIZ CLASS 5",
         "chr": 0.5,
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
+        "dayTime": []
+    },
+    {
+        "code": "CCTH 3022",
+        "sect": 401,
+        "title": "TAHFIZ CLASS 6",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "CCUB 1060",
@@ -6805,7 +6838,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "MOHAMAD HANIF BIN HASWADY"
+            "MUHAMMAD ASYRAAF BIN MOHD ISMAIL FARHARI"
         ],
         "dayTime": [
             {
@@ -6890,7 +6923,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUKAFI ALI"
         ],
         "dayTime": [
             {
@@ -6924,11 +6957,45 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MD SHARIFUL ISLAM"
         ],
         "dayTime": [
             {
                 "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1060",
+        "sect": 111,
+        "title": "USRAH AND FARD 'AIN ESSENTIALS",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHAMMAD JAINUL ABEDEEN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1060",
+        "sect": 112,
+        "title": "USRAH AND FARD 'AIN ESSENTIALS",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MD HELEL UDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -6992,7 +7059,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AIN ATHIRAH BINTI RAZAIKI"
         ],
         "dayTime": [
             {
@@ -7009,7 +7076,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ALIYAH YASMIN BINTI ADZRIN DAHARIE"
         ],
         "dayTime": [
             {
@@ -7075,7 +7142,7 @@
         "sect": 209,
         "title": "USRAH AND FARD 'AIN ESSENTIALS",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "SANA AYAMON"
         ],
@@ -7109,17 +7176,28 @@
         "sect": 501,
         "title": "USRAH AND FARD 'AIN ESSENTIALS",
         "chr": 0.5,
-        "venue": null,
+        "venue": "PGH PBL ROOM 1 B3.1.16",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI SALWA BTE MD SAWARI"
         ],
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "08:30",
-                "endTime": "10:30"
+                "startTime": "15:00",
+                "endTime": "17:00"
             }
         ]
+    },
+    {
+        "code": "CCUB 1060",
+        "sect": 860,
+        "title": "USRAH AND FARD 'AIN ESSENTIALS",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "SITI AISYAH BINTI ROHANI"
+        ],
+        "dayTime": []
     },
     {
         "code": "CCUB 1061",
@@ -7411,7 +7489,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD KASHIF MAJEED"
         ],
         "dayTime": [
             {
@@ -7428,9 +7506,15 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMAD HANIF BIN HASWADY"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
     },
     {
         "code": "CCUB 1061",
@@ -7471,7 +7555,7 @@
         "sect": 203,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 7",
         "lect": [
             "IESYA BINTI JEFFRI"
         ],
@@ -7522,7 +7606,7 @@
         "sect": 206,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 2.3 LEVEL 2",
         "lect": [
             "NURADLINA IZZATI BINTI AHMAD"
         ],
@@ -7641,7 +7725,7 @@
         "sect": 213,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "AISYAH MADIHAH BINTI MUSTAFA"
         ],
@@ -7658,7 +7742,7 @@
         "sect": 214,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 7",
         "lect": [
             "ARISHA ZAHEEN SOFIA BINTI A.WIRAH"
         ],
@@ -7805,7 +7889,7 @@
         "sect": 223,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 6",
         "lect": [
             "SUMAIYYAH BINTI ITHNIN"
         ],
@@ -8377,7 +8461,7 @@
         "sect": 214,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 6",
         "lect": [
             "NURFARIHA AKMAL FAWWAZAH BINTI ABDULLAH FAUZI"
         ],
@@ -8456,6 +8540,28 @@
                 "endTime": "19:00"
             }
         ]
+    },
+    {
+        "code": "CCUB 3621",
+        "sect": 401,
+        "title": "USRAH BUDI 3",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 401,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD IZZAT NAJMI B ANNISA"
+        ],
+        "dayTime": []
     },
     {
         "code": "CCVL 1010",
