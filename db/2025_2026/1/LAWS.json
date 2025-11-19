@@ -1384,11 +1384,6 @@
                 "day": 3,
                 "startTime": "17:00",
                 "endTime": "18:00"
-            },
-            {
-                "day": 3,
-                "startTime": "16:00",
-                "endTime": "17:00"
             }
         ]
     },
@@ -5564,6 +5559,11 @@
             },
             {
                 "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }
@@ -5759,7 +5759,7 @@
         "sect": 1,
         "title": "TRANSACTION IN ISLAMIC LAW II",
         "chr": 3.0,
-        "venue": "AIKOL MM 2.2 2.2",
+        "venue": "AIKOL LR 3.5 3.5",
         "lect": [
             "DR. MOHAMED RASHID BIN AB RAZAK"
         ],

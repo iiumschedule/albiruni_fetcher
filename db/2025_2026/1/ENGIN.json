@@ -9008,6 +9008,40 @@
         ]
     },
     {
+        "code": "MECH 1301",
+        "sect": 100,
+        "title": "STATICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "DR. SYED NOH BIN SYED ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:50"
+            }
+        ]
+    },
+    {
+        "code": "MECH 1301",
+        "sect": 101,
+        "title": "STATICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-10",
+        "lect": [
+            "DR. SYED NOH BIN SYED ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:50"
+            }
+        ]
+    },
+    {
         "code": "MECH 1302",
         "sect": 1,
         "title": "DYNAMICS",
