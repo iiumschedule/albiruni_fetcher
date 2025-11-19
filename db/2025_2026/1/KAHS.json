@@ -1469,7 +1469,13 @@
         "lect": [
             "MOHAMAD ASYRAF BIN ADZHAR"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3543",
@@ -1480,7 +1486,13 @@
         "lect": [
             "DR. SITI SALWANA BINTI KAMSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHPT 3545",
@@ -1491,7 +1503,13 @@
         "lect": [
             "DR. MUNAYATI BINTI MUNAJAR @ MUNAJAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHPT 4232",
@@ -1553,7 +1571,13 @@
         "lect": [
             "DR. AHMAD FAHMI BIN HARUN @ ISMAIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "AHSC 1221",

@@ -3535,11 +3535,17 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT I",
         "chr": 3.0,
-        "venue": null,
+        "venue": "HSC WRITING LAB 1.27",
         "lect": [
             "ASSOC. PROF. DR. ADLINA BINTI HJ. ARIFFIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:30"
+            }
+        ]
     },
     {
         "code": "ENGL 4394",
@@ -15272,7 +15278,8 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "PROF. DR. JAMAL AHMED BASHIER BADI"
+            "PROF. DR. JAMAL AHMED BASHIER BADI",
+            "ASSOC. PROF. DR. KABUYE UTHMAN SULAIMAN"
         ],
         "dayTime": []
     },

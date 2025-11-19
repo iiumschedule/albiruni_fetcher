@@ -429,7 +429,7 @@
         "sect": 1,
         "title": "CANVA 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB2",
         "lect": [
             "DR. MOHD. SYARQAWY BIN HAMZAH"
         ],
@@ -448,7 +448,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. MOHD. SYARQAWY BIN HAMZAH"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -805,7 +805,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
-            "NORA HASLINA BINTI MOHD KAMA"
+            "MUHAMMAD IRFAN BIN MOHD ADAM"
         ],
         "dayTime": [
             {
@@ -905,7 +905,7 @@
         "sect": 8,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
-        "venue": "KENMS 2.2 LEVEL 2",
+        "venue": null,
         "lect": [
             "MUHAMMAD IRFAN BIN MOHD ADAM"
         ],
@@ -1458,23 +1458,6 @@
                 "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
-            }
-        ]
-    },
-    {
-        "code": "CCEN 3402",
-        "sect": 1,
-        "title": "ENTREPRENEUR 4 (NICHE AREA)",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
             }
         ]
     },
@@ -4803,7 +4786,7 @@
         "sect": 1,
         "title": "MOSQUE MANAGEMENT 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 WADIBUDI",
         "lect": [
             "AMIRUL IMRAN BIN AMIRRUDIN"
         ],
@@ -5143,7 +5126,7 @@
         "sect": 501,
         "title": "PHYSICAL FITNESS 1",
         "chr": 0.5,
-        "venue": "PGH STUDIO 4 B4.2.01",
+        "venue": "PGH STUDIO 3 B4.2.26",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -7848,7 +7831,13 @@
         "lect": [
             "YASMIN NADHIRAH BINTI MOHD FITRI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
     },
     {
         "code": "CCUB 1061",
@@ -7872,7 +7861,7 @@
         "sect": 222,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR 8",
         "lect": [
             "NIK AISYAH MADIHAH BINTI ISMAD HUSSAINI"
         ],
@@ -8427,7 +8416,7 @@
         "sect": 212,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR 8",
         "lect": [
             "SITI ANNISHA BINTI ANUAR"
         ],
