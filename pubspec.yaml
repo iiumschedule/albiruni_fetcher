@@ -1,7 +1,7 @@
 name: albiruni_fetcher
 description: Fetch albiruni data and store to DB
 version: 1.0.0
-repository: https://github.com/iqfareez/albiruni_fetcher
+repository: https://github.com/iiumschedule/albiruni_fetcher
 
 environment:
   sdk: ">=2.19.3 <3.0.0"
@@ -11,5 +11,5 @@ dependencies:
   albiruni: ^1.4.3
 
 dev_dependencies:
-  lints: ^3.0.0
+  lints: ^6.0.0
   test: ^1.21.0
