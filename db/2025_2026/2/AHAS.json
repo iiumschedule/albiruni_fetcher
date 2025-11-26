@@ -1,5 +1,885 @@
 [
     {
+        "code": "PSCI 1301",
+        "sect": 1,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. LAU ZHE WEI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 2,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. LEE PEI MAY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 3,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. ZAHID BIN ZAMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 4,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. MOHAMED FOUZ MOHAMED ZACKY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 5,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. MOHAMED FOUZ MOHAMED ZACKY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 7,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DATUK DR. MARZUKI BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 8,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DATUK DR. MARZUKI BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
+        "sect": 9,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1302",
+        "sect": 1,
+        "title": "ISLAMIC ADMINISTRATIVE SYSTEMS",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "ASSOC. PROF. DR. RABI'AH BINTI AMINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1302",
+        "sect": 2,
+        "title": "ISLAMIC ADMINISTRATIVE SYSTEMS",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "ASSOC. PROF. DR. RABI'AH BINTI AMINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2301",
+        "sect": 1,
+        "title": "MALAYSIAN GOVERNMENT AND POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. LAU ZHE WEI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2301",
+        "sect": 2,
+        "title": "MALAYSIAN GOVERNMENT AND POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. LAU ZHE WEI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2302",
+        "sect": 1,
+        "title": "COMPARATIVE POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "DR. ROHANA BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2302",
+        "sect": 2,
+        "title": "COMPARATIVE POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. ROHANA BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2302",
+        "sect": 3,
+        "title": "COMPARATIVE POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. ROHANA BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2303",
+        "sect": 1,
+        "title": "PUBLIC ADMINISTRATION",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. NORMALA BINTI MOHD ADNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2303",
+        "sect": 2,
+        "title": "PUBLIC ADMINISTRATION",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. NORMALA BINTI MOHD ADNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2303",
+        "sect": 3,
+        "title": "PUBLIC ADMINISTRATION",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "DR. NORMALA BINTI MOHD ADNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2304",
+        "sect": 1,
+        "title": "INTERNATIONAL RELATIONS",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. BENDEBKA RAMZI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2304",
+        "sect": 2,
+        "title": "INTERNATIONAL RELATIONS",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. BENDEBKA RAMZI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2305",
+        "sect": 2,
+        "title": "POLITICAL PHILOSOPHY",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "DR. NUR ADILLAH OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2306",
+        "sect": 1,
+        "title": "RESEARCH METHODOLOGY",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "ASSOC. PROF. DR. NORHASLINDA BT. JAMAIUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3301",
+        "sect": 1,
+        "title": "INTERNATIONAL POLITICAL ECONOMY",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. LEE PEI MAY"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3301",
+        "sect": 2,
+        "title": "INTERNATIONAL POLITICAL ECONOMY",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. LEE PEI MAY"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3313",
+        "sect": 1,
+        "title": "WESTERN POLITICAL THOUGHT",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. MEOR ALIF BIN MEOR AZALAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3314",
+        "sect": 1,
+        "title": "POLITICS OF POPULISM",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "ASSOC. PROF. DR. SYAZA FARHANA BINTI MOHAMAD SHUKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3315",
+        "sect": 1,
+        "title": "MALAYSIAN POLITICAL IDEAS AND EXPERIENCES",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. LAU ZHE WEI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3321",
+        "sect": 1,
+        "title": "GOVERNMENT AND POLITICS IN SOUTH ASIA",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DR. MOHAMED FOUZ MOHAMED ZACKY"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3325",
+        "sect": 1,
+        "title": "AMERICAN POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "ASSOC. PROF. DR. SYAZA FARHANA BINTI MOHAMAD SHUKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3325",
+        "sect": 2,
+        "title": "AMERICAN POLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "ASSOC. PROF. DR. SYAZA FARHANA BINTI MOHAMAD SHUKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3326",
+        "sect": 1,
+        "title": "GOVERNMENT AND POLITICS IN SOUTHEAST ASIA",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "DATUK DR. MARZUKI BIN MOHAMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3331",
+        "sect": 1,
+        "title": "INTERNATIONAL ORGANIZATIONS",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 3332",
+        "sect": 1,
+        "title": "FOREIGN POLICY DECISION-MAKING",
+        "chr": 3.0,
+        "venue": "HSC TR 18 1.53",
+        "lect": [
+            "PROF. DR. ALDALALA'A NATHEER"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4301",
+        "sect": 1,
+        "title": "GOVERNMENT FINANCE",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "ASSOC. PROF. DR. NORHASLINDA BT. JAMAIUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4312",
+        "sect": 1,
+        "title": "CONTEMPORARY ISLAMIC POLITICAL THOUGHT",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "DR. ZAHID BIN ZAMRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4320",
+        "sect": 1,
+        "title": "CYBERPOLITICS",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "DR. ROHANA BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4333",
+        "sect": 1,
+        "title": "POLITICAL ECON OF ENVIRONMENTAL SUSTAINABILITY",
+        "chr": 3.0,
+        "venue": "HSC LR 26 3.31",
+        "lect": [
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4334",
+        "sect": 1,
+        "title": "INTERNATIONAL LAW AND DIPLOMACY",
+        "chr": 3.0,
+        "venue": "HSC LR 31 3",
+        "lect": [
+            "ASSOC. PROF. DR. TUNKU MOHAR B TUNKU MOHD MOKHTAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4335",
+        "sect": 1,
+        "title": "BRICS IN INTERNATIONAL POLITICAL ECONOMY",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "DR. LEE PEI MAY"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4342",
+        "sect": 1,
+        "title": "INTERGOVERNMENTAL RELATIONS",
+        "chr": 3.0,
+        "venue": "HSC LR 28 LEVEL 2",
+        "lect": [
+            "ASSOC. PROF. DR. RABI'AH BINTI AMINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "RKFQ 1310",
         "sect": 1,
         "title": "INTRODUCTION TO ISLAMIC JURISPRUDENCE",
