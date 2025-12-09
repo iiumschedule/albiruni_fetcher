@@ -669,6 +669,19 @@
         ]
     },
     {
+        "code": "BTEN 4399",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CHEN 1210",
         "sect": 1,
         "title": "ORGANIC CHEMISTRY",
@@ -1531,6 +1544,41 @@
         ]
     },
     {
+        "code": "CHEN 4200",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "PROF. DR. FARIDAH BT. YUSOF",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN",
+            "PROF. DR. MAIZIRWAN MEL",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. IR. DR. AZLIN SUHAIDA BT. AZMI",
+            "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM",
+            "DR. MUNIRA BT. SHAHBUDDIN",
+            "ASSOC. PROF. IR. DR. FATHILAH BINTI ALI",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "ASSOC. PROF. DR. SARINA BT. SULAIMAN",
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "ASSOC. PROF. DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM",
+            "DR. RICCA RAHMAN BINTI NASARUDDIN",
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CHEN 4300",
         "sect": 1,
         "title": "INTEGRATED DESIGN PROJECT",
@@ -1551,6 +1599,24 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "CHEN 4300",
+        "sect": 2,
+        "title": "INTEGRATED DESIGN PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI",
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI"
+        ],
+        "dayTime": []
     },
     {
         "code": "CHEN 4352",
@@ -1636,6 +1702,35 @@
                 "endTime": "11:50"
             }
         ]
+    },
+    {
+        "code": "CHEN 4400",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "PROF. DR. FARIDAH BT. YUSOF",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN",
+            "PROF. DR. MAIZIRWAN MEL",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. IR. DR. AZLIN SUHAIDA BT. AZMI",
+            "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM",
+            "DR. MUNIRA BT. SHAHBUDDIN",
+            "ASSOC. PROF. IR. DR. FATHILAH BINTI ALI",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": []
     },
     {
         "code": "CIVE 3221",
@@ -2854,7 +2949,7 @@
         "sect": 1,
         "title": "OPERATING SYSTEM",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E1-2-17",
         "lect": [
             "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -2920,7 +3015,7 @@
         "sect": 1,
         "title": "PARALLEL COMPUTING",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -4813,7 +4908,7 @@
         "sect": 1,
         "title": "PARALLEL COMPUTING",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -4923,7 +5018,7 @@
         "sect": 1,
         "title": "OPERATING SYSTEMS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E1-2-17",
         "lect": [
             "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
         ],
@@ -4967,7 +5062,7 @@
         "sect": 1,
         "title": "ADVANCED DIGITAL DESIGN",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E1-2-17",
         "lect": [
             "PROF. DR. MUHAMMAD IBN IBRAHIMY"
         ],
@@ -8790,7 +8885,7 @@
         "sect": 1,
         "title": "ROBOTICS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "PROF. DR. MD. RAISUDDIN KHAN"
         ],
@@ -8868,7 +8963,7 @@
         "sect": 1,
         "title": "THERMAL SCIENCE",
         "chr": 2.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "DR. AZNI NABELA BINTI WAHID"
         ],
@@ -8885,7 +8980,7 @@
         "sect": 2,
         "title": "THERMAL SCIENCE",
         "chr": 2.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "DR. MOHD ASYRAF BIN MOHD RAZIB"
         ],
@@ -9391,7 +9486,7 @@
         "sect": 2,
         "title": "INSTRUMENTATION AND MEASUREMENTS",
         "chr": 2.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LRM E3-2-5",
         "lect": [
             "DR. DWI PEBRIANTI"
         ],
@@ -11906,7 +12001,7 @@
         "sect": 1,
         "title": "THERMODYNAMICS OF MATERIALS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
+        "venue": "ENG LT2 E0-1",
         "lect": [
             "DR. NUR AYUNI BINTI JAMAL",
             "DR. ALYA NAILI BINTI ROZHAN"

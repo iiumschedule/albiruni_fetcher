@@ -635,7 +635,7 @@
         "chr": 2.0,
         "venue": "KAED SR (L1) 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD HAFIDZ BIN MD SAMSUDI"
         ],
         "dayTime": [
             {
@@ -1445,7 +1445,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH"
+            "ASSOC. PROF. DR. YASIR BIN MOHD. MUSTAFAH",
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF"
         ],
         "dayTime": [
             {
@@ -1712,7 +1713,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM"
+            "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM",
+            "WAN MOHD AZLAN HAFIZ BIN WAN A.R AZIZUNASATIYON"
         ],
         "dayTime": [
             {
@@ -2116,7 +2118,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI",
+            "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF"
         ],
         "dayTime": [
             {
@@ -2261,11 +2264,17 @@
         "sect": 520,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "PGH PBL ROOM 7 B3.1.12",
         "lect": [
             "DR. USHA A/P NAGASUNDRAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -2863,6 +2872,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "WAN MOHD AZLAN HAFIZ BIN WAN A.R AZIZUNASATIYON",
             "ASSOC. PROF. DR. IZAWATI BT. TUKIMAN",
             "SR. DR. ROZIHA BINTI CHE HARON",
             "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM",
