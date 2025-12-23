@@ -72,7 +72,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SUZI FADHILAH BT ISMAIL"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -468,7 +468,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NUR ADLIN HANISAH BINTI SHAHUL IKRAM"
+            "ASSOC. PROF. DR. SUZI FADHILAH BT ISMAIL"
         ],
         "dayTime": [
             {
@@ -578,7 +578,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NUR ADLIN HANISAH BINTI SHAHUL IKRAM"
+            "ASSOC. PROF. DR. SUZI FADHILAH BT ISMAIL"
         ],
         "dayTime": [
             {
@@ -689,23 +689,6 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "16:00",
-                "endTime": "18:00"
-            }
-        ]
-    },
-    {
-        "code": "LAWS 2220",
-        "sect": 7,
-        "title": "COMPULSORY MOOTS",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "MADAM FATIMAWATI BINTI ISMAIL"
-        ],
-        "dayTime": [
-            {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:00"
@@ -714,7 +697,7 @@
     },
     {
         "code": "LAWS 2220",
-        "sect": 8,
+        "sect": 7,
         "title": "COMPULSORY MOOTS",
         "chr": 2.0,
         "venue": null,
@@ -731,7 +714,7 @@
     },
     {
         "code": "LAWS 2220",
-        "sect": 9,
+        "sect": 8,
         "title": "COMPULSORY MOOTS",
         "chr": 2.0,
         "venue": null,
@@ -845,14 +828,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
             },
             {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -867,14 +850,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
             },
             {
-                "day": 4,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -885,7 +868,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "PROF. DR. NORA BINTI ABDUL HAK"
         ],
         "dayTime": [
             {
@@ -894,9 +877,9 @@
                 "endTime": "11:00"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -907,18 +890,18 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD AMRULLAH BIN DRS NASRUL"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "13:00"
             },
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -951,7 +934,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "MR. IBRAHIM B. ISMAIL"
+            "DR. SHAMSHINA BT. MOHAMAD HANIFA"
         ],
         "dayTime": [
             {
@@ -1061,7 +1044,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SHAMSHINA BT. MOHAMAD HANIFA"
+            "DR. FARIZA MILAQURSHIAH BINTI MAHMUD"
         ],
         "dayTime": [
             {
@@ -1073,6 +1056,28 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "LAWS 2311",
+        "sect": 6,
+        "title": "CRIMINAL LAW II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1231,14 +1236,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
             },
             {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -1440,8 +1445,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "15:00",
-                "endTime": "17:00"
+                "startTime": "14:00",
+                "endTime": "16:00"
             }
         ]
     },
@@ -1469,7 +1474,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. AZMI BIN HARUN"
+            "PROF. TO' PUAN DR. NOR ASIAH BINTI MOHAMAD"
         ],
         "dayTime": [
             {
@@ -1535,7 +1540,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. TO' PUAN DR. NOR ASIAH BINTI MOHAMAD"
+            "DR. AZMI BIN HARUN"
         ],
         "dayTime": [
             {
@@ -1562,13 +1567,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "12:00",
+                "endTime": "13:00"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -2101,14 +2106,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2123,14 +2128,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2561,8 +2566,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2578,8 +2583,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -2788,13 +2793,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "10:00",
+                "endTime": "11:00"
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2805,7 +2810,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHAMED RASHID BIN AB RAZAK"
+            "DR. IZHAM HAKIMI BIN REDZAN"
         ],
         "dayTime": [
             {
@@ -3069,7 +3074,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. GHAZALI BIN JAAPAR"
+            "ASSOC. PROF. DR. MUHAMMAD LAEBA"
         ],
         "dayTime": [
             {
@@ -3157,7 +3162,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. IZHAM HAKIMI BIN REDZAN"
         ],
         "dayTime": [
             {
@@ -3179,7 +3184,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. TAJUL ARIS BIN AHMAD BUSTAMI"
         ],
         "dayTime": [
             {
@@ -3201,18 +3206,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMED RASHID BIN AB RAZAK"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -3477,29 +3482,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. TAJUL ARIS BIN AHMAD BUSTAMI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "09:00",
-                "endTime": "10:00"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
-        "code": "SHAS 2398",
-        "sect": 4,
-        "title": "USUL AL FIQH I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
+            "DR. GHAZALI BIN JAAPAR"
         ],
         "dayTime": [
             {
@@ -3568,13 +3551,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "startTime": "12:00",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:00"
+                "startTime": "12:00",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
@@ -3835,13 +3818,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "16:00",
+                "endTime": "17:00"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },

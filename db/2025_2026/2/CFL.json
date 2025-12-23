@@ -1,5 +1,269 @@
 [
     {
+        "code": "LCHD 1201",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 2,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 3,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 501,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MOHAMMAD SYAH'IZZAT BIN MD TAIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 502,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 1201",
+        "sect": 503,
+        "title": "MANDARIN LANGUAGE I",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 2202",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 2202",
+        "sect": 501,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MISS NUR FARRAH ATIQAH BINTI AMRAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 2202",
+        "sect": 502,
+        "title": "MANDARIN LANGUAGE II",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MISS NUR FARRAH ATIQAH BINTI AMRAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 3203",
+        "sect": 1,
+        "title": "MANDARIN LANGUAGE III",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. POEY TIANG PEOW"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:30",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 3203",
+        "sect": 501,
+        "title": "MANDARIN LANGUAGE III",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 3,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            }
+        ]
+    },
+    {
+        "code": "LCHD 3203",
+        "sect": 502,
+        "title": "MANDARIN LANGUAGE III",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            },
+            {
+                "day": 4,
+                "startTime": "23:30",
+                "endTime": "01:20"
+            }
+        ]
+    },
+    {
         "code": "LEED 1011",
         "sect": 1,
         "title": "ENGLISH IN FOCUS",
@@ -13,11 +277,6 @@
                 "day": 1,
                 "startTime": "08:00",
                 "endTime": "13:00"
-            },
-            {
-                "day": 1,
-                "startTime": "13:00",
-                "endTime": "14:00"
             },
             {
                 "day": 1,
@@ -814,11 +1073,6 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "13:00",
-                "endTime": "14:00"
-            },
-            {
-                "day": 1,
                 "startTime": "08:00",
                 "endTime": "13:00"
             },
@@ -1080,11 +1334,6 @@
                 "day": 1,
                 "startTime": "08:00",
                 "endTime": "10:30"
-            },
-            {
-                "day": 1,
-                "startTime": "13:00",
-                "endTime": "14:00"
             },
             {
                 "day": 2,
@@ -1465,11 +1714,6 @@
             "TO BE DETERMINED"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "13:00",
-                "endTime": "14:00"
-            },
             {
                 "day": 1,
                 "startTime": "08:30",
@@ -2975,6 +3219,516 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 801,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 802,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TEH JUNE LI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 803,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NUR AFIFAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 804,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR ELEENDA BINTI SHAHABUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 805,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NORHAYATI BINTI MOHD RASIP"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 806,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TEH JUNE LI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 807,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR ELEENDA BINTI SHAHABUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 808,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NORHAYATI BINTI MOHD RASIP"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 809,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NUR AFIFAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 810,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NUR AFIFAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 811,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR ELEENDA BINTI SHAHABUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 812,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NUR AFIFAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 813,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 814,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NORHAYATI BINTI MOHD RASIP"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 815,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TEH JUNE LI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 816,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TEH JUNE LI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 817,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NORHAYATI BINTI MOHD RASIP"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 818,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR ELEENDA BINTI SHAHABUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 819,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NUR AFIFAH BINTI ABD HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 820,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 821,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NORHAYATI BINTI MOHD RASIP"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 822,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 823,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TEH JUNE LI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 824,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHD SHARIFFUDIN BIN HJ. LOKMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 825,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOOR ELEENDA BINTI SHAHABUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 826,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "NOR ADURA BINTI MOHD. ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 827,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "AIMY SUHAILAH BINTI ABDUL SUKOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 828,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ARINAH BINTI OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 829,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "YULIATI BINTI ABDUL WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 830,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "KHADIJAH BINTI MOHD. RADZI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -5465,6 +6219,150 @@
         ]
     },
     {
+        "code": "LQAD 1003",
+        "sect": 501,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHAMAD KHAIDIR BIN SAHID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 502,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHAMAD KHAIDIR BIN SAHID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 820,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 821,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 830,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 860,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "LQAD 1011",
         "sect": 1,
         "title": "AL-LUGHAH AL-ARABIYAH AL-SHAMILAH",
@@ -5698,6 +6596,59 @@
         "venue": null,
         "lect": [
             "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1013",
+        "sect": 501,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK",
+            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
         ],
         "dayTime": [
             {
@@ -6709,6 +7660,226 @@
         ]
     },
     {
+        "code": "LQAD 2003",
+        "sect": 501,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 502,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 503,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 504,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 505,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 820,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 821,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 830,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 831,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:30"
+            },
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
         "code": "LQAD 2103",
         "sect": 1,
         "title": "ARABIC FOR COMMUNICATION  II",
@@ -6771,6 +7942,50 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 3003",
+        "sect": 501,
+        "title": "ADVANCED ARABIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHAMAD KHAIDIR BIN SAHID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 3003",
+        "sect": 502,
+        "title": "ADVANCED ARABIC WRITING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MOHAMAD KHAIDIR BIN SAHID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -6941,6 +8156,40 @@
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 501,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 551,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -7332,6 +8581,278 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 501,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 502,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 551,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 552,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 553,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 810,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 811,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 812,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 820,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 821,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 822,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 830,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 831,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 832,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 833,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1002",
+        "sect": 834,
+        "title": "TILAWAH AL-QURAN I",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -9304,6 +10825,771 @@
                 "day": 4,
                 "startTime": "15:00",
                 "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 501,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 502,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 551,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 552,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 553,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 554,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 555,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 556,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 557,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 558,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "10:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 559,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 801,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 810,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 811,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 812,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 813,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 814,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 815,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 816,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 817,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 818,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 819,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 820,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 821,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 822,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 823,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 824,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 825,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 830,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 831,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 832,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 833,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 834,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 835,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 836,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 837,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 838,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 839,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 840,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 841,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 842,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 860,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 870,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 871,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 872,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },

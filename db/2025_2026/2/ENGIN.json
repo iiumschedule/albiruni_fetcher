@@ -169,6 +169,23 @@
         ]
     },
     {
+        "code": "AERO 3220",
+        "sect": 1,
+        "title": "FLIGHT MECHANICS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOUMEN MOHAMMED MAHMOUD IDRES"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "AERO 3321",
         "sect": 1,
         "title": "AIRCRAFT STRUCTURE 1",
@@ -342,13 +359,13 @@
         "dayTime": []
     },
     {
-        "code": "AERO 4264",
+        "code": "AERO 4270",
         "sect": 1,
-        "title": "SPACECRAFT SYSTEM ENGINEERING",
+        "title": "AEROSPACE MANUFACTURING TECHNOLOGY",
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. DWI PEBRIANTI"
+            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -1083,14 +1100,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -1448,14 +1465,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -1470,14 +1487,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -1514,14 +1531,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -1580,14 +1597,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -1925,9 +1942,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "11:20"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
             }
         ]
     },
@@ -1965,7 +1982,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 2,
                 "startTime": "08:30",
                 "endTime": "11:20"
             },
@@ -2022,13 +2039,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -2109,14 +2126,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -2173,6 +2190,11 @@
                 "day": 1,
                 "startTime": "08:30",
                 "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "11:20"
             }
         ]
     },
@@ -2198,14 +2220,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:20"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -2276,28 +2298,6 @@
         ]
     },
     {
-        "code": "CVLE 4347",
-        "sect": 1,
-        "title": "COASTAL ENGINEERING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "CVLE 4353",
         "sect": 1,
         "title": "SOLID WASTE ENGINEERING",
@@ -2308,14 +2308,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -2421,8 +2421,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB",
-            "ASSOC. PROF. DR. MALIK ARMAN BIN MORSHIDI"
+            "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
         ],
         "dayTime": [
             {
@@ -2448,6 +2447,17 @@
                 "endTime": "17:50"
             }
         ]
+    },
+    {
+        "code": "ECIE 4399",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MALIK ARMAN BIN MORSHIDI"
+        ],
+        "dayTime": []
     },
     {
         "code": "ECOM 4399",
@@ -2694,7 +2704,7 @@
         "chr": 1.0,
         "venue": "ENG ECE ELEC&ELETNC LAB A E3-3",
         "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
+            "ASSOC. PROF. TS. DR. SARAH YASMIN BINTI MOHAMAD"
         ],
         "dayTime": [
             {
@@ -2745,7 +2755,7 @@
         "chr": 1.0,
         "venue": "ENG ECE ELEC&ELETNC LAB A E3-3",
         "lect": [
-            "ASSOC. PROF. TS. DR. SARAH YASMIN BINTI MOHAMAD"
+            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
         ],
         "dayTime": [
             {
@@ -2874,18 +2884,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD FAHMI BIN HUSSIN"
+            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -2896,7 +2906,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
+            "ASSOC. PROF. DR. AMELIA WONG BINTI AZMAN"
         ],
         "dayTime": [
             {
@@ -3114,7 +3124,7 @@
         "sect": 3,
         "title": "PROGRAMMING FOR ENGINEERS",
         "chr": 3.0,
-        "venue": "ENG ECE GEN PURPS COM LAB E0-3",
+        "venue": "ENG ECE SOFTWARE ENG LAB E0-3",
         "lect": [
             "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI"
         ],
@@ -3248,7 +3258,7 @@
         "chr": 3.0,
         "venue": "ENG ECE COMP TEACHG LAB E3-2",
         "lect": [
-            "DR. AHMAD FAIRUZABADI BIN MOHD MANSOR"
+            "ASSOC. PROF. DR. NOR FARAHIDAH BINTI ZA'BAH"
         ],
         "dayTime": [
             {
@@ -3312,20 +3322,20 @@
         "sect": 4,
         "title": "DATA STRUCTURE AND PROGRAMMING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG ECE GEN PURPS COM LAB E0-3",
         "lect": [
             "ASSOC. PROF. DR. AMELIA WONG BINTI AZMAN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -3362,14 +3372,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -4038,12 +4048,12 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "11:30",
                 "endTime": "12:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
             }
@@ -4171,14 +4181,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -4309,7 +4319,6 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MALIK ARMAN BIN MORSHIDI",
             "DR. FARIDAH BINTI ABD. RAHMAN",
             "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
         ],
@@ -4320,402 +4329,6 @@
                 "endTime": "17:50"
             }
         ]
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 2,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. AHMAD ZAMANI BIN JUSOH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 3,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 4,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. AMELIA WONG BINTI AZMAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 5,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 6,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. HASMAH BT MANSOR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 7,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. HUDA ADIBAH BT. MOHD. RAMLI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 8,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NOR FARAHIDAH BINTI ZA'BAH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 10,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 11,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 12,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NORUN FARIHAH BT. ABDUL MALEK"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 13,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 14,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. ROSMINAZUIN BT. AB. RAHIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 15,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. SARAH YASMIN BINTI MOHAMAD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 16,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. TS. DR. SITI HAJAR BINTI YUSOFF"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 17,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. SITI NOORJANNAH BT. IBRAHIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 18,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. SURIZA AHMAD ZABIDI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 19,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 20,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. IR. DR. KHAIZURAN BIN ABDULLAH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 21,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. AHMAD FAIRUZABADI BIN MOHD MANSOR"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 22,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. FARAH DIYANA BT. ABDUL RAHMAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 23,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. FARIDAH BINTI ABD. RAHMAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 24,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "IR. DR. YASSER ASRUL BIN AHMAD"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 25,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD FAHMI BIN HUSSIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 26,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD. SHAHNAN BIN ZAINAL ABIDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 27,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD SHAHRIN BIN ABU HANIFAH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 28,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. NADIRAH BINTI ABDUL RAHIM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 29,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. NUR SHAHIDA BINTI MIDI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 30,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 31,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. A. H. M. ZAHIRUL ALAM"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 32,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. ANIS NURASHIKIN BT. NORDIN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 33,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. MOHAMED HADI HABAEBI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 34,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. NURUL FADZLIN BT HASBULLAH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 35,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. OTHMAN OMRAN KHALIFA"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 36,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. S. M. A. MOTAKABBER"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 37,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "EECE 4200",
-        "sect": 39,
-        "title": "FINAL YEAR PROJECT 1",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "PROF. TS. IR. DR. AHMAD FADZIL BIN ISMAIL"
-        ],
-        "dayTime": []
     },
     {
         "code": "EECE 4211",
@@ -5149,6 +4762,413 @@
         ]
     },
     {
+        "code": "EECE 4400",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AHMAD ZAMANI BIN JUSOH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 4,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ALIZA 'AINI BINTI MD RALIB @ MD RAGHIB"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 5,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. AMELIA WONG BINTI AZMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 6,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ANI LIZA BT. ASNAWI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 7,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HASMAH BT MANSOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 8,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HUDA ADIBAH BT. MOHD. RAMLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 10,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOR FARAHIDAH BINTI ZA'BAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 11,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 12,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 13,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORUN FARIHAH BT. ABDUL MALEK"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 14,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURUL FARIZA BINTI ZULKURNAIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 15,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ROSMINAZUIN BT. AB. RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 16,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. SARAH YASMIN BINTI MOHAMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 17,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. SITI HAJAR BINTI YUSOFF"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 18,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI NOORJANNAH BT. IBRAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 19,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SURIZA AHMAD ZABIDI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 20,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 21,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. KHAIZURAN BIN ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 22,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FAIRUZABADI BIN MOHD MANSOR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 23,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. FARAH DIYANA BT. ABDUL RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 24,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. FARIDAH BINTI ABD. RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 25,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "IR. DR. YASSER ASRUL BIN AHMAD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 26,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD FAHMI BIN HUSSIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 27,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD. SHAHNAN BIN ZAINAL ABIDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 28,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD SHAHRIN BIN ABU HANIFAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 29,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NADIRAH BINTI ABDUL RAHIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 30,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHAHIDA BINTI MIDI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 31,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 32,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. A. H. M. ZAHIRUL ALAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 33,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ANIS NURASHIKIN BT. NORDIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 34,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHAMED HADI HABAEBI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 35,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. NURUL FADZLIN BT HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 36,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. OTHMAN OMRAN KHALIFA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 37,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. S. M. A. MOTAKABBER"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 38,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. IR. TS. DR. TEDDY SURYA GUNAWAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 39,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. TS. IR. DR. AHMAD FADZIL BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EECE 4400",
+        "sect": 40,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MALIK ARMAN BIN MORSHIDI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "GENE 4300",
         "sect": 1,
         "title": "ENGINEERING ETHICS FROM ISLAMIC PERSPECTIVE",
@@ -5532,6 +5552,75 @@
         ]
     },
     {
+        "code": "MANU 3314",
+        "sect": 2,
+        "title": "PROJECT & OPERATIONS MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
+            "DR. ABD. MALEK BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MANU 3314",
+        "sect": 3,
+        "title": "PROJECT & OPERATIONS MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
+            "DR. ABD. MALEK BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MANU 3314",
+        "sect": 4,
+        "title": "PROJECT & OPERATIONS MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
+            "DR. ABD. MALEK BIN ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "MANU 3318",
         "sect": 1,
         "title": "ENGINEERING ECONOMICS AND MANAGEMENT",
@@ -5787,13 +5876,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -5897,13 +5986,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -5941,13 +6030,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -5963,13 +6052,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -6051,13 +6140,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -6763,9 +6852,9 @@
         "venue": null,
         "lect": [
             "DR. MOHAMMAD ARIFF BIN RASHIDAN",
-            "DR. NOR HIDAYATI DIYANA BINTI NORDIN",
+            "DR. MOHD ASYRAF BIN MOHD RAZIB",
             "ASSOC. PROF. DR. ALI SOPHIAN",
-            "DR. HASMAWATI BT. ANTONG"
+            "ASSOC. PROF. DR. NORSINNIRA BT. ZAINUL AZLAN"
         ],
         "dayTime": [
             {
@@ -6783,6 +6872,7 @@
         "venue": null,
         "lect": [
             "DR. NADZRIL BIN SULAIMAN",
+            "DR. FARAHIYAH BINTI JASNI",
             "DR. AZNI NABELA BINTI WAHID",
             "DR. NOR HIDAYATI DIYANA BINTI NORDIN"
         ],
@@ -7423,16 +7513,17 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. AZHAR BIN MOHD IBRAHIM"
+            "ASSOC. PROF. DR. AZHAR BIN MOHD IBRAHIM",
+            "PROF. DR. AMIR AKRAMIN BIN SHAFIE"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "10:00",
                 "endTime": "11:20"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
             }
@@ -7445,6 +7536,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
+            "ASSOC. PROF. DR. AZHAR BIN MOHD IBRAHIM",
             "PROF. DR. AMIR AKRAMIN BIN SHAFIE"
         ],
         "dayTime": [
@@ -7652,14 +7744,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -7674,14 +7766,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -7892,6 +7984,28 @@
         ]
     },
     {
+        "code": "MCTE 3352",
+        "sect": 1,
+        "title": "DESIGN OF MACHINE ELEMENTS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ASYRAF BIN MOHD RAZIB"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "MCTE 3372",
         "sect": 1,
         "title": "ENGINEERING SYSTEM RELIABILITY",
@@ -7982,16 +8096,17 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. AZHAR BIN MOHD IBRAHIM"
+            "ASSOC. PROF. DR. AZHAR BIN MOHD IBRAHIM",
+            "PROF. DR. AMIR AKRAMIN BIN SHAFIE"
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 2,
                 "startTime": "10:00",
                 "endTime": "11:20"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
             }
@@ -8468,14 +8583,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -8714,6 +8829,28 @@
         ]
     },
     {
+        "code": "MECH 3310",
+        "sect": 1,
+        "title": "HEAT TRANSFER",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FADLY JASHI DARSIVAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "MECH 3311",
         "sect": 1,
         "title": "MECHANICAL VIBRATION",
@@ -8874,7 +9011,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. HAFIZ BIN IMAN"
+            "DR. DWI PEBRIANTI"
         ],
         "dayTime": [
             {
@@ -8886,6 +9023,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3340",
+        "sect": 2,
+        "title": "CONTROL SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZ BIN IMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -9008,7 +9167,8 @@
         "lect": [
             "DR. HANAN BT. MOKHTAR",
             "DR. TENGKU NORDAYANA AKMA BINTI TUAN KAMARUDDIN",
-            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
+            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM",
+            "DR. NABILAH BT. RAMLI"
         ],
         "dayTime": [
             {
@@ -10003,7 +10163,7 @@
         "venue": null,
         "lect": [
             "PROF. IR. DR. MD YUSOF BIN ISMAIL",
-            "DR. SITI AFIFAH BINTI HASHIM"
+            "DR. 'ATIAH BT. ABDULLAH SIDEK"
         ],
         "dayTime": [
             {
@@ -10182,7 +10342,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOR FARAH HUDA BINTI ABD HALIM"
+            "ASSOC. PROF. DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -10204,7 +10364,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOR FARAH HUDA BINTI ABD HALIM"
+            "ASSOC. PROF. DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -10639,7 +10799,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. SHARIFAH IMIHEZRI BT. SYED SHAHARUDDIN"
+            "ASSOC. PROF. DR. NOR KHAIRUSSHIMA BINTI MUHAMAD KHAIRUSSALEH"
         ],
         "dayTime": []
     },
@@ -10727,7 +10887,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. NOR FARAH HUDA BINTI ABD HALIM"
+            "ASSOC. PROF. DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
         "dayTime": []
     },
@@ -10760,7 +10920,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. SA'ADAH BINTI AHMAD @ AHMAD SOWI"
+            "DR. SYAZWANI BINTI MOHD ZAKI"
         ],
         "dayTime": []
     },

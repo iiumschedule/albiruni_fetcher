@@ -1,5 +1,27 @@
 [
     {
+        "code": "ACC 2171",
+        "sect": 1,
+        "title": "ACCOUNTING AND BUSINESS INFORMATION MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "ACC 2203",
         "sect": 1,
         "title": "FINANCIAL ACCOUNTING & REPORTING 3",
@@ -152,6 +174,17 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "ACC 3592",
+        "sect": 1,
+        "title": "PRACTICAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "ACC 4105",
@@ -1785,6 +1818,28 @@
         "code": "BLAW 3301",
         "sect": 5,
         "title": "MALAYSIAN BUSINESS LAW (FOR ENM)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BLAW 3302",
+        "sect": 1,
+        "title": "COMMERCIAL LAW (FOR ENM)",
         "chr": 3.0,
         "venue": null,
         "lect": [
@@ -3443,13 +3498,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -5390,13 +5445,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "03:30",
+                "endTime": "04:50"
             },
             {
                 "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "03:30",
+                "endTime": "04:50"
             }
         ]
     },
@@ -6050,13 +6105,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
                 "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -6391,13 +6446,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -6435,13 +6490,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -6508,28 +6563,6 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MKTG 4308",
-        "sect": 1,
-        "title": "BANK MARKETING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
