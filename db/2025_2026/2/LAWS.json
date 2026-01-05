@@ -160,7 +160,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "PROF. DR. FARID SUFIAN BIN SHUAIB"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -656,8 +656,8 @@
         "dayTime": [
             {
                 "day": 5,
-                "startTime": "15:00",
-                "endTime": "17:00"
+                "startTime": "10:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -1188,7 +1188,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NOR HAFIZAH BT MOHD BADROL AFANDI"
+            "PROF. DR. FARID SUFIAN BIN SHUAIB"
         ],
         "dayTime": [
             {
@@ -2238,14 +2238,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:00"
-            },
-            {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "15:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2782,6 +2777,23 @@
         ]
     },
     {
+        "code": "SHAA 2369",
+        "sect": 2,
+        "title": "AL-TASHRI' AL-JINA'I AL-ISLAMI II (ISLAMIC CRIMINAL LAW II)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD LAEBA"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
         "code": "SHAA 2389",
         "sect": 1,
         "title": "USUL AL FIQH I (PRINCIPLES OF ISLAMIC JURISPRUDENCE I)",
@@ -2880,14 +2892,14 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
             },
             {
-                "day": 3,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -2903,13 +2915,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "11:00",
+                "endTime": "12:00"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:00"
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -3260,13 +3272,13 @@
             },
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "16:00",
+                "endTime": "17:00"
             },
             {
                 "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:00"
+                "startTime": "16:00",
+                "endTime": "17:00"
             }
         ]
     },
