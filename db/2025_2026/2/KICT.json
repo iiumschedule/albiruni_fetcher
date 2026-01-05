@@ -116,7 +116,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -282,6 +282,50 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1303",
+        "sect": 4,
+        "title": "Computer Networking",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ATIKAH BALQIS BINTI BASRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1303",
+        "sect": 5,
+        "title": "Computer Networking",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ATIKAH BALQIS BINTI BASRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -600,7 +644,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORZARIYAH BINTI YAHYA"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1052,50 +1096,6 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "BICS 2302",
-        "sect": 7,
-        "title": "Data Structures and Algorithms",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "BICS 2302",
-        "sect": 8,
-        "title": "Data Structures and Algorithms",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
             }
         ]
     }

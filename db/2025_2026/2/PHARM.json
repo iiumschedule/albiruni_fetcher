@@ -1,1 +1,53 @@
-[]
+[
+    {
+        "code": "PHAB 1212",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF PHARMACOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMAD RUSDI BIN AHMAD RUSMILI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAB 1222",
+        "sect": 1,
+        "title": "PHARMACEUTICAL MICROBIOLOGY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ENGKU NURAISHAH HUDA BINTI E. ZAINUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 2322",
+        "sect": 1,
+        "title": "BODY SYSTEM & THERAPEUTICS II : RESPIRATORY & URINARY SYSTEM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HAMID FAUZI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    }
+]

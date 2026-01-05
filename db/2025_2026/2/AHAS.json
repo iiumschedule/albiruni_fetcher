@@ -2994,7 +2994,7 @@
     {
         "code": "ENGL 3342",
         "sect": 1,
-        "title": "FOREIGN LINGUISTICS",
+        "title": "FORENSIC LINGUISTICS",
         "chr": 3.0,
         "venue": "HSC LR 11 1.44",
         "lect": [
@@ -4106,6 +4106,50 @@
         ]
     },
     {
+        "code": "HIST 3313",
+        "sect": 1,
+        "title": "MODERN HISTORY OF JAPAN",
+        "chr": 3.0,
+        "venue": "HSC LR 7 1.40",
+        "lect": [
+            "ASSOC. PROF. DR. FAUZIAH BT. FATHIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "HIST 3316",
+        "sect": 1,
+        "title": "HISTORY OF OTTOMAN EMPIRE",
+        "chr": 3.0,
+        "venue": "HSC LR 7 1.40",
+        "lect": [
+            "DR. OLSI JAZEXHIU"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "HIST 4300",
         "sect": 1,
         "title": "MUSLIM NATIONS IN CONTEMPORARY HISTORY",
@@ -4124,6 +4168,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "HIST 4301",
+        "sect": 1,
+        "title": "HISTORY OF THE UNITED STATES",
+        "chr": 3.0,
+        "venue": "HSC LR 16 1.50",
+        "lect": [
+            "DR. OLSI JAZEXHIU"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -4327,6 +4393,28 @@
     },
     {
         "code": "PSCI 1301",
+        "sect": 6,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 21 2.48",
+        "lect": [
+            "DR. NUR ADILLAH OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 1301",
         "sect": 7,
         "title": "INTRODUCTION TO POLITICAL SCIENCE",
         "chr": 3.0,
@@ -4392,6 +4480,28 @@
         ]
     },
     {
+        "code": "PSCI 1301",
+        "sect": 10,
+        "title": "INTRODUCTION TO POLITICAL SCIENCE",
+        "chr": 3.0,
+        "venue": "HSC LR 16 1.50",
+        "lect": [
+            "DR. MEOR ALIF BIN MEOR AZALAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            }
+        ]
+    },
+    {
         "code": "PSCI 1302",
         "sect": 1,
         "title": "ISLAMIC ADMINISTRATIVE SYSTEMS",
@@ -4652,6 +4762,50 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2304",
+        "sect": 3,
+        "title": "INTERNATIONAL RELATIONS",
+        "chr": 3.0,
+        "venue": "HSC LR 16 1.50",
+        "lect": [
+            "DR. BENDEBKA RAMZI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2305",
+        "sect": 1,
+        "title": "POLITICAL PHILOSOPHY",
+        "chr": 3.0,
+        "venue": "HSC LR 21 2.48",
+        "lect": [
+            "DR. NUR ADILLAH OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4674,6 +4828,28 @@
                 "day": 4,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 2305",
+        "sect": 3,
+        "title": "POLITICAL PHILOSOPHY",
+        "chr": 3.0,
+        "venue": "HSC WRITING LAB 1.27",
+        "lect": [
+            "DR. NUR ADILLAH OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -4920,6 +5096,28 @@
         ]
     },
     {
+        "code": "PSCI 3331",
+        "sect": 2,
+        "title": "INTERNATIONAL ORGANIZATIONS",
+        "chr": 3.0,
+        "venue": "HSC TR 24 3.72",
+        "lect": [
+            "DR. AMELIA YULIANA BINTI ABD WAHAB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "PSCI 3332",
         "sect": 1,
         "title": "FOREIGN POLICY DECISION-MAKING",
@@ -5037,6 +5235,50 @@
         "venue": "HSC LR 28 LEVEL 2",
         "lect": [
             "DR. ROHANA BINTI ABDUL HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4331",
+        "sect": 1,
+        "title": "FOREIGN POLICY OF THE MAJOR POWERS",
+        "chr": 3.0,
+        "venue": "HSC TR 15 1.49",
+        "lect": [
+            "DR. BENDEBKA RAMZI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "PSCI 4332",
+        "sect": 1,
+        "title": "PEACE, CONFLICT AND WAR",
+        "chr": 3.0,
+        "venue": "HSC TR 15 1.49",
+        "lect": [
+            "DR. MEOR ALIF BIN MEOR AZALAN"
         ],
         "dayTime": [
             {
@@ -10336,7 +10578,7 @@
         "sect": 1,
         "title": "INTRODUCTION TO SOCIOLOGY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC SOCA LAB 2",
         "lect": [
             "DR. SZARIANNIE BINTI SULAIMAN"
         ],
@@ -10644,7 +10886,7 @@
         "sect": 1,
         "title": "SOCIOLOGICAL AND ANTHROPOLOGICAL THEORIES II",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC LR 19 1.54",
         "lect": [
             "DR. IYAD M. Y. EID"
         ],
@@ -10732,7 +10974,7 @@
         "sect": 1,
         "title": "SOCIAL STRAFICATION AND INEQUALITY",
         "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
         ],
@@ -10842,7 +11084,7 @@
         "sect": 1,
         "title": "WORK AND SOCIAL ORGANIZATION",
         "chr": 3.0,
-        "venue": "HSC SOCA LAB 2",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "ASSOC. PROF. DR. ROHAIZA BINTI ABD. ROKIS"
         ],
@@ -10948,6 +11190,28 @@
         ]
     },
     {
+        "code": "SOCA 3399",
+        "sect": 3,
+        "title": "SOCIAL RESEARCH METHODS II",
+        "chr": 3.0,
+        "venue": "HSC SOCA LAB 2",
+        "lect": [
+            "DR. SOHELA MUSTARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:20"
+            }
+        ]
+    },
+    {
         "code": "SOCA 4330",
         "sect": 1,
         "title": "RURAL AND URBAN SOCIETY",
@@ -11018,7 +11282,7 @@
         "sect": 1,
         "title": "LAW, CULTURE AND SOCIETY",
         "chr": 3.0,
-        "venue": "HSC LT 1 1.62",
+        "venue": "HSC SOCA LAB 2",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZLAN B. MOHD NOOR"
         ],
@@ -11128,7 +11392,7 @@
         "sect": 1,
         "title": "SOCIAL CHANGE AND SUSTAINABLE DEVELOPMENT",
         "chr": 3.0,
-        "venue": "HSC LR 19 1.54",
+        "venue": "HSC LT 1 1.62",
         "lect": [
             "DR. SZARIANNIE BINTI SULAIMAN"
         ],
@@ -11434,7 +11698,7 @@
         "chr": 3.0,
         "venue": "IRK LR 5 2.41",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMMAD NAZMUS SAYADAT"
         ],
         "dayTime": [
             {
@@ -12089,6 +12353,40 @@
     },
     {
         "code": "UNGS 2290",
+        "sect": 3,
+        "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
+        "chr": 2.0,
+        "venue": "IRK SR 2 1.12",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 2290",
+        "sect": 11,
+        "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
+        "chr": 2.0,
+        "venue": "IRK SR 2 1.12",
+        "lect": [
+            "DR. AHMAD EL-MUHAMMADY BIN MUHAMMAD UTHMAN EL-MUHAMMADY"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 2290",
         "sect": 12,
         "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
         "chr": 2.0,
@@ -12281,7 +12579,7 @@
         "chr": 2.0,
         "venue": "IRK LR 12 3.71",
         "lect": [
-            "DR. MOHAMMAD NAZMUS SAYADAT"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -12536,7 +12834,7 @@
         "chr": 2.0,
         "venue": "KENMS 4.12 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMMAD NAZMUS SAYADAT"
         ],
         "dayTime": [
             {
@@ -13197,7 +13495,7 @@
         "chr": 3.0,
         "venue": "IRK LR 14 RK LVL 1",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. BACHAR BAKOUR MOHAMAD"
         ],
         "dayTime": [
             {
@@ -13351,7 +13649,7 @@
         "chr": 3.0,
         "venue": "KENMS 3.13 LEVEL 3",
         "lect": [
-            "DR. MOHAMED SHEIKH ALIO"
+            "ASSOC. PROF. DR. BACHAR BAKOUR MOHAMAD"
         ],
         "dayTime": [
             {
@@ -13395,7 +13693,7 @@
         "chr": 3.0,
         "venue": "KENMS 3.13 LEVEL 3",
         "lect": [
-            "ASSOC. PROF. DR. BACHAR BAKOUR MOHAMAD"
+            "DR. MOHAMED SHEIKH ALIO"
         ],
         "dayTime": [
             {
