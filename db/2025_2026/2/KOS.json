@@ -106,7 +106,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MUHAMAD FAHMI BIN YUNUS"
+            "ASSOC. PROF. DR. MUHAMAD FAHMI BIN YUNUS"
         ],
         "dayTime": [
             {
@@ -486,7 +486,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. MUHAMAD FAHMI BIN YUNUS"
+            "ASSOC. PROF. DR. MUHAMAD FAHMI BIN YUNUS"
         ],
         "dayTime": [
             {
@@ -748,7 +748,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MUHAMAD FAHMI BIN YUNUS"
+            "ASSOC. PROF. DR. MUHAMAD FAHMI BIN YUNUS"
         ],
         "dayTime": [
             {
@@ -1050,7 +1050,7 @@
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:00"
             }
@@ -1947,9 +1947,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -4579,6 +4579,23 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "code": "BSPH 3391",
+        "sect": 1,
+        "title": "PHYSICS PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ISKANDAR BIN BAHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "13:00",
+                "endTime": "14:00"
             }
         ]
     },

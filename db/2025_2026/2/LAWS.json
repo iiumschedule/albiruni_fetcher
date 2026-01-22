@@ -1,5 +1,39 @@
 [
     {
+        "code": "LAWD 0421",
+        "sect": 601,
+        "title": "CONSTITUTIONAL AND ADMINISTRATION LAW",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LAWD 0422",
+        "sect": 601,
+        "title": "PRISON RELATED ACT AND REGULATION",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "LAWS 1310",
         "sect": 1,
         "title": "LAW OF CONTRACT I",
@@ -2667,6 +2701,40 @@
         ]
     },
     {
+        "code": "MGMT 0441",
+        "sect": 601,
+        "title": "MANAGING CORRECTIONAL CRISES",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PFTD 0224",
+        "sect": 601,
+        "title": "PRISON OFFICERS FIELD TRAINING - FIREARMS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "SHAA 1351",
         "sect": 1,
         "title": "NIZAM AL-TASHRI' AL-ISLAMI (ISLAMIC LEGAL SYSTEM)",
@@ -2727,6 +2795,28 @@
             },
             {
                 "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "SHAA 2339",
+        "sect": 2,
+        "title": "AL-MU'AMALAT AL-MALIYYAH FI AL-SHARI'AH AL-ISLAMIYYAH II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD NAIM BIN OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 4,
                 "startTime": "08:00",
                 "endTime": "09:00"
             }

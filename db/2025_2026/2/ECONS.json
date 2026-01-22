@@ -2101,6 +2101,50 @@
         ]
     },
     {
+        "code": "ECON 1301",
+        "sect": 9,
+        "title": "STATISTICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "ECON 1301",
+        "sect": 10,
+        "title": "STATISTICAL METHODS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "ECON 1302",
         "sect": 1,
         "title": "MATHEMATICS FOR ECONOMICS AND BUSINESS",
@@ -2669,6 +2713,23 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ECON 1321",
+        "sect": 10,
+        "title": "FOUNDATION OF ISLAMIC ECONOMICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "08:30",
+                "endTime": "11:20"
             }
         ]
     },
@@ -3505,6 +3566,23 @@
                 "day": 3,
                 "startTime": "08:30",
                 "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "ECON 4324",
+        "sect": 1,
+        "title": "COMPARATIVE ECONOMIC THOUGHT AND POLICY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
             }
         ]
     },
