@@ -1,5 +1,22 @@
 [
     {
+        "code": "IIMP 1001",
+        "sect": 1,
+        "title": "ADAB AND AKIDAH",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD IMAN BIN SAIFUL SUHARDI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ]
+    },
+    {
         "code": "MBBS 1308",
         "sect": 1,
         "title": "MEDICAL MICROBIOLOGY",
@@ -11,8 +28,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -28,8 +45,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:00"
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -489,6 +506,23 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "MBBS 5002",
+        "sect": 1,
+        "title": "ENTREPRENEURSHIP",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD SHAIFUL EHSAN BIN SHALIHIN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },

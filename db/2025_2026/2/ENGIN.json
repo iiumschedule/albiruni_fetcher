@@ -47,7 +47,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -341,7 +341,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH",
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH",
             "DR. DWI PEBRIANTI"
         ],
         "dayTime": []
@@ -409,7 +409,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -421,6 +421,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 4342",
+        "sect": 1,
+        "title": "SPACECRAFT DYNAMICS AND CONTROL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HAFIZ BIN IMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -470,6 +492,29 @@
         "dayTime": []
     },
     {
+        "code": "BTEN 3317",
+        "sect": 1,
+        "title": "REACTION ENGINEERING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "BTEN 4300",
         "sect": 1,
         "title": "Integrated Design Project",
@@ -488,6 +533,45 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4351",
+        "sect": 1,
+        "title": "BIOMASS ENERGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MAIZIRWAN MEL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4399",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MARIATUL FADZILLAH BT MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -518,7 +602,7 @@
         "sect": 1,
         "title": "THERMODYNAMICS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
             "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
@@ -541,7 +625,7 @@
         "sect": 2,
         "title": "THERMODYNAMICS",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
             "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN"
@@ -773,7 +857,7 @@
         "sect": 1,
         "title": "CHEMICAL THERMODYNAMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "DR. MOHD. FIRDAUS BIN ABD. WAHAB"
         ],
@@ -906,7 +990,7 @@
         "sect": 1,
         "title": "SEPARATION PROCESSES 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
         ],
@@ -1244,7 +1328,7 @@
         "sect": 1,
         "title": "BIONANOTECHNOLGY",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG SMART CLASSROOM E2-2-3",
         "lect": [
             "ASSOC. PROF. IR. DR. FATHILAH BINTI ALI",
             "DR. MOHD. FIRDAUS BIN ABD. WAHAB"
@@ -5534,7 +5618,7 @@
         "sect": 1,
         "title": "PROJECT & OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -5557,7 +5641,7 @@
         "sect": 2,
         "title": "PROJECT & OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -5580,7 +5664,7 @@
         "sect": 3,
         "title": "PROJECT & OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -5603,7 +5687,7 @@
         "sect": 4,
         "title": "PROJECT & OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -5894,7 +5978,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -6158,7 +6242,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -6180,7 +6264,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -6202,7 +6286,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -8713,7 +8797,7 @@
         "chr": 1.0,
         "venue": "ENG MEC GEN STRUC LAB E4-1",
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH",
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH",
             "DR. HANAN BT. MOKHTAR"
         ],
         "dayTime": [
@@ -9371,7 +9455,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -9821,7 +9905,7 @@
         "sect": 1,
         "title": "SAFETY, HEALTH, ENVIRONMENT AND ERGONOMICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-3-20",
         "lect": [
             "DR. ADIBAH BT. AMIR"
         ],
@@ -9866,7 +9950,7 @@
         "sect": 1,
         "title": "PROJECT AND OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -9889,7 +9973,7 @@
         "sect": 2,
         "title": "PROJECT AND OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -9912,7 +9996,7 @@
         "sect": 3,
         "title": "PROJECT AND OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -9935,7 +10019,7 @@
         "sect": 4,
         "title": "PROJECT AND OPERATIONS MANAGEMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. IR. DR. NORHASHIMAH BT. MOHD. SHAFFIAR",
             "DR. ABD. MALEK BIN ABDUL HAMID"
@@ -10492,7 +10576,7 @@
         "sect": 1,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
         ],
@@ -10514,7 +10598,7 @@
         "sect": 2,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD",
             "IR. TS. DR. (CMILT M.I.E.M. ACPE) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
@@ -10537,7 +10621,7 @@
         "sect": 3,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LT1 E0-1",
         "lect": [
             "PROF. DR. HAZLEEN BT. ANUAR",
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"

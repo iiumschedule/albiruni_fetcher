@@ -34,6 +34,74 @@
         ]
     },
     {
+        "code": "PHAC 1232",
+        "sect": 1,
+        "title": "BASIC PHARMACEUTICAL ANALYSIS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMED SUFIAN BIN MOHD. NAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAC 1252",
+        "sect": 1,
+        "title": "PHARMACEUTICAL ORGANIC CHEMISTRY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. SITI ZAITON BINTI MAT SO'AD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAT 1342",
+        "sect": 1,
+        "title": "PHYSICAL PHARMACY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. RUSHDI BIN HJ. ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 2312",
+        "sect": 1,
+        "title": "BODY SYSTEM & THERAPEUTICS I : CARDIOVASCULAR & HAEMATOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD EID AKKAWI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
         "code": "PPHK 2322",
         "sect": 1,
         "title": "BODY SYSTEM & THERAPEUTICS II : RESPIRATORY & URINARY SYSTEM",
@@ -44,9 +112,417 @@
         ],
         "dayTime": [
             {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPHK 3352",
+        "sect": 1,
+        "title": "BODY SYSTEM & THERAPEUTICS VI : CENTRAL NERVOUS SYSTEM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MOHAMAD HANIKI BIN NIK MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 1332",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF MEDICINAL CHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. IRNA ELINA BINTI RIDZWAN"
+        ],
+        "dayTime": [
+            {
                 "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 2282",
+        "sect": 1,
+        "title": "COMPUTER-AIDED DRUG DESIGN AND DISCOVERY",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. ZALIKHA BINTI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPC 3262",
+        "sect": 1,
+        "title": "PHARMACEUTICAL QUALITY CONTROL",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. A.B.M. HELAL UDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 2232",
+        "sect": 1,
+        "title": "PHARMACOEPIDEMIOLOGY AND PHARMACOECONOMICS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. CHE SURAYA BT. HJ. MOHD. ZIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
                 "startTime": "10:00",
                 "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3212",
+        "sect": 1,
+        "title": "PHARMACY MANAGEMENT AND ENTREPRENEURSHIP",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMED MOHAMED YEHIA NAGUIB AHMED OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3232",
+        "sect": 1,
+        "title": "PHARMACY ETHICS AND LAW",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI HADIJAH BINTI SHAMSUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3272",
+        "sect": 1,
+        "title": "DRUG ABUSE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR HIDAYAH BINTI MOHD TAUFEK"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3322",
+        "sect": 1,
+        "title": "BASIC AND CLINICAL PHARMACOKINETICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ABDUL RAHMAN FATA NAHAS"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 3342",
+        "sect": 1,
+        "title": "HOSPITAL  PHARMACY PRACTICE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR ELINA BINTI ALIAS"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4422",
+        "sect": 1,
+        "title": "PHARMACOTHERAPEUTICS ATTACHMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ZOHRA BHATTI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4422",
+        "sect": 2,
+        "title": "PHARMACOTHERAPEUTICS ATTACHMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOR ILYANI BINTI MOHAMED NAZAR"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4422",
+        "sect": 3,
+        "title": "PHARMACOTHERAPEUTICS ATTACHMENT",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "MOHAMMAD ADAM AL HAQIMY BIN MOHAMMAD YUNUS"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4432",
+        "sect": 1,
+        "title": "COMMUNITY PHARMACY POSTING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4432",
+        "sect": 2,
+        "title": "COMMUNITY PHARMACY POSTING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. SYAHRIR BIN ZAINI"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPP 4432",
+        "sect": 3,
+        "title": "COMMUNITY PHARMACY POSTING",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORNY SYAFINAZ BINTI AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 2252",
+        "sect": 1,
+        "title": "STERILE PROCESSES AND PRODUCTS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. JULIANA BT.  MD. JAFFRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 2262",
+        "sect": 1,
+        "title": "NUTRACEUTICAL",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. JULIANA BT.  MD. JAFFRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 2342",
+        "sect": 1,
+        "title": "PHARMACEUTICS III : SOLIDS AND OTHER DOSAGE FORMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD TAUFIQ BIN MOHD JAILANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 3271",
+        "sect": 1,
+        "title": "ADVANCED DRUG DELIVERY SYSTEM",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. M. TAHER BIN BAKHTIAR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 3282",
+        "sect": 1,
+        "title": "PHARMACEUTICAL QUALITY MANAGEMENT",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. RUSHDI BIN HJ. ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 4512",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. FARAHIDAH BINTI MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 4512",
+        "sect": 2,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. FARAHIDAH BINTI MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "PPPT 4512",
+        "sect": 3,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. FARAHIDAH BINTI MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     }

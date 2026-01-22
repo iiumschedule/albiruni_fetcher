@@ -72,7 +72,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. SURIANI BT. SULAIMAN"
+            "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
         ],
         "dayTime": [
             {
@@ -116,7 +116,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
         ],
         "dayTime": [
             {
@@ -330,6 +330,28 @@
         ]
     },
     {
+        "code": "BICS 1303",
+        "sect": 6,
+        "title": "Computer Networking",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ATIKAH BALQIS BINTI BASRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
         "code": "BICS 1304",
         "sect": 1,
         "title": "Object-Oriented Programming",
@@ -402,7 +424,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TS. DR. DINI OKTARINA DWI HANDAYANI"
+            "DR. NURUL NADHRAH BINTI KAMARUZAMAN"
         ],
         "dayTime": [
             {
@@ -502,28 +524,6 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BICS 1304",
-        "sect": 9,
-        "title": "Object-Oriented Programming",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. SHARYAR WANI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "15:30",
-                "endTime": "16:50"
             }
         ]
     },
@@ -661,28 +661,6 @@
     },
     {
         "code": "BICS 1305",
-        "sect": 4,
-        "title": "Discrete Structures",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AKEEM OLOWOLAYEMO"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "BICS 1305",
         "sect": 5,
         "title": "Discrete Structures",
         "chr": 3.0,
@@ -704,28 +682,6 @@
         ]
     },
     {
-        "code": "BICS 1305",
-        "sect": 6,
-        "title": "Discrete Structures",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AKEEM OLOWOLAYEMO"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "BICS 1306",
         "sect": 1,
         "title": "Digital & Embedded Systems",
@@ -1098,5 +1054,3879 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "BICS 2302",
+        "sect": 7,
+        "title": "Data Structures and Algorithms",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2302",
+        "sect": 8,
+        "title": "Data Structures and Algorithms",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 1,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIR 'AATIEFF BIN AMIR HUSSIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 2,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIR 'AATIEFF BIN AMIR HUSSIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 3,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. DINI OKTARINA DWI HANDAYANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 4,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. DINI OKTARINA DWI HANDAYANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 5,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 6,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 7,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR-ADIB MASPO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2303",
+        "sect": 8,
+        "title": "Intelligent Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AMIR 'AATIEFF BIN AMIR HUSSIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2304",
+        "sect": 1,
+        "title": "Computer Architecture & Assembly Language",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAFIZAH BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2304",
+        "sect": 2,
+        "title": "Computer Architecture & Assembly Language",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAFIZAH BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2304",
+        "sect": 3,
+        "title": "Computer Architecture & Assembly Language",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORLIA MD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2304",
+        "sect": 4,
+        "title": "Computer Architecture & Assembly Language",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORLIA MD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2304",
+        "sect": 5,
+        "title": "Computer Architecture & Assembly Language",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 1,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURAZLIN BINTI ZAINAL AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 2,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURAZLIN BINTI ZAINAL AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 3,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURAZLIN BINTI ZAINAL AZMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 4,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORLIA MD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 7,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORLIA MD YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 8,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2305",
+        "sect": 9,
+        "title": "Operating Systems",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2306",
+        "sect": 1,
+        "title": "Software Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZURA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2306",
+        "sect": 2,
+        "title": "Software Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZURA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2306",
+        "sect": 3,
+        "title": "Software Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2306",
+        "sect": 8,
+        "title": "Software Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 2306",
+        "sect": 10,
+        "title": "Software Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4330",
+        "sect": 1,
+        "title": "Project Management in Software Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:30",
+                "endTime": "21:50"
+            },
+            {
+                "day": 3,
+                "startTime": "20:30",
+                "endTime": "21:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4331",
+        "sect": 1,
+        "title": "Requirements Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZLIN BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4332",
+        "sect": 1,
+        "title": "Software Design and Architecture",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZURA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4333",
+        "sect": 1,
+        "title": "Software Testing",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. NORMI SHAM BT. AWANG ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4336",
+        "sect": 2,
+        "title": "BLOCKCHAIN AND APPLICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORZARIYAH BINTI YAHYA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BICS 4340",
+        "sect": 1,
+        "title": "Machine Learning",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. AMELIA RITAHANI BT. ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4341",
+        "sect": 1,
+        "title": "Natural Language Processing",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SURIANI BT. SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4350",
+        "sect": 1,
+        "title": "Privacy Engineering",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAFIZAH BINTI MANSOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4351",
+        "sect": 1,
+        "title": "Malware Analysis",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4355",
+        "sect": 1,
+        "title": "Applied Cryptography",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TAKUMI SASE"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4360",
+        "sect": 1,
+        "title": "Statistics for Data Science",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAINI BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4360",
+        "sect": 2,
+        "title": "Statistics for Data Science",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAINI BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4370",
+        "sect": 1,
+        "title": "Network and Systems Administration",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ADAMU ABUBAKAR IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4373",
+        "sect": 1,
+        "title": "Network Security",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 1,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINATUL SHIMA ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 2,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINATUL SHIMA ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 4,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAFIZAH BINTI MAHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 5,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1301",
+        "sect": 6,
+        "title": "Database Programming",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 1,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 2,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 3,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1302",
+        "sect": 4,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. AIDRINA BINTI MOHAMED SOFIADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 1,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 2,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 3,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ASYRAF BIN RODZOAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 4,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FATZILAH BIN MISMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 5,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 6,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MIMI LIZA BINTI ABDUL MAJID"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 7,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 8,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 9,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2301",
+        "sect": 1,
+        "title": "User Experience Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAFIDAH BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2301",
+        "sect": 2,
+        "title": "User Experience Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAFIDAH BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2301",
+        "sect": 3,
+        "title": "User Experience Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ELIN ELIANA BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2301",
+        "sect": 4,
+        "title": "User Experience Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ELIN ELIANA BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2301",
+        "sect": 5,
+        "title": "User Experience Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAZWANI BT MOHD MOHADIS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2301",
+        "sect": 6,
+        "title": "User Experience Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAFIDAH BINTI ISA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2302",
+        "sect": 1,
+        "title": "Management of Information Security",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. AKRAM M Z M KHEDHER"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2302",
+        "sect": 2,
+        "title": "Management of Information Security",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. AKRAM M Z M KHEDHER"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2302",
+        "sect": 4,
+        "title": "Management of Information Security",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2302",
+        "sect": 5,
+        "title": "Management of Information Security",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2302",
+        "sect": 6,
+        "title": "Management of Information Security",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ASYRAF BIN RODZOAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2303",
+        "sect": 2,
+        "title": "Network Infrastructure Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2303",
+        "sect": 3,
+        "title": "Network Infrastructure Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ATIKAH BALQIS BINTI BASRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2304",
+        "sect": 1,
+        "title": "Technopreneurship",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAFIZAH BINTI MAHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2304",
+        "sect": 2,
+        "title": "Technopreneurship",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAFIZAH BINTI MAHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2304",
+        "sect": 5,
+        "title": "Technopreneurship",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2305",
+        "sect": 1,
+        "title": "Web Application Development",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2305",
+        "sect": 2,
+        "title": "Web Application Development",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2305",
+        "sect": 3,
+        "title": "Web Application Development",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NAJHAN BIN MUHAMAD IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 2305",
+        "sect": 4,
+        "title": "Web Application Development",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR AZURA BINTI KAMARULZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 3304",
+        "sect": 1,
+        "title": "ICT and Islam",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNAN ZUHID BIN SAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 3304",
+        "sect": 3,
+        "title": "ICT and Islam",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MUHD. ROSYDI BIN MUHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 3304",
+        "sect": 4,
+        "title": "ICT and Islam",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MUHD. ROSYDI BIN MUHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4331",
+        "sect": 1,
+        "title": "Business Continuity and Disaster Recovery",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHUHAILI BT. TALIB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4353",
+        "sect": 1,
+        "title": "Visual Communication Technology",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. HAZWANI BT MOHD MOHADIS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4355",
+        "sect": 1,
+        "title": "Application Game Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUB BIN ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4360",
+        "sect": 1,
+        "title": "Business Intelligence and Data Modelling",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. TS. DR. MIRA KARTIWI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4361",
+        "sect": 1,
+        "title": "Data Mining in Business",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4362",
+        "sect": 1,
+        "title": "Business Data Analytics",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4363",
+        "sect": 1,
+        "title": "Data Visualisation",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MADIHAH BT. S. ABD. AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4363",
+        "sect": 2,
+        "title": "Data Visualisation",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MADIHAH BT. S. ABD. AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4370",
+        "sect": 1,
+        "title": "Digital Commerce Platform",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR AZIZAH BT. MOHAMADALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 4371",
+        "sect": 1,
+        "title": "Agile Project Management",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 2303",
+        "sect": 1,
+        "title": "PRINCIPLES OF IT SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 3302",
+        "sect": 1,
+        "title": "DATA STRUCTURES AND ALGORITHMS II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL NADHRAH BINTI KAMARUZAMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 3303",
+        "sect": 1,
+        "title": "MATHEMATICS FOR COMPUTING III",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4300",
+        "sect": 1,
+        "title": "COMPUTATION AND COMPLEXITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4300",
+        "sect": 2,
+        "title": "COMPUTATION AND COMPLEXITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4300",
+        "sect": 3,
+        "title": "COMPUTATION AND COMPLEXITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. EMERITUS DATO' TS. DR. TENGKU MOHD BIN TENGKU SEMBOK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4300",
+        "sect": 4,
+        "title": "COMPUTATION AND COMPLEXITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4310",
+        "sect": 1,
+        "title": "INTRODUCTION TO QUANTUM COMPUTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RIZAL BIN MOHD. NOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4311",
+        "sect": 1,
+        "title": "MOBILE APPLICATION DEVELOPMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MUHAMAD SADRY ABU SEMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4312",
+        "sect": 1,
+        "title": "BLOCKCHAIN AND APPLICATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORZARIYAH BINTI YAHYA"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4320",
+        "sect": 1,
+        "title": "SOFTWARE TESTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. NORMI SHAM BT. AWANG ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4321",
+        "sect": 1,
+        "title": "PROJECT MANAGEMENT IN SOFTWARE ENGINEERING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI ASMA BINTI MOHAMMED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4322",
+        "sect": 1,
+        "title": "SOFTWARE DESIGN AND ARCHITECTURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZURA BINTI ZAKARIA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4323",
+        "sect": 1,
+        "title": "REQUIREMENTS ENGINEERING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZLIN BINTI NORDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4330",
+        "sect": 1,
+        "title": "NETWORKING CONCEPTS AND PRACTICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4330",
+        "sect": 2,
+        "title": "NETWORKING CONCEPTS AND PRACTICES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4331",
+        "sect": 1,
+        "title": "ENTERPRISE NETWORK",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4331",
+        "sect": 2,
+        "title": "ENTERPRISE NETWORK",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ZAINAB SENAN MAHMOD ATTAR BASHI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4332",
+        "sect": 1,
+        "title": "DIGITAL EVIDENCE FORENSICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4332",
+        "sect": 2,
+        "title": "DIGITAL EVIDENCE FORENSICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4333",
+        "sect": 1,
+        "title": "CRYPTOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. TAKUMI SASE"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4334",
+        "sect": 1,
+        "title": "NETWORK AND SYSTEMS ADMINISTRATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ADAMU ABUBAKAR IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4336",
+        "sect": 1,
+        "title": "NETWORK SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4336",
+        "sect": 2,
+        "title": "NETWORK SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4340",
+        "sect": 1,
+        "title": "MACHINE LEARNING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. AMELIA RITAHANI BT. ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4341",
+        "sect": 1,
+        "title": "BIG DATA ANALYTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHARYAR WANI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4341",
+        "sect": 2,
+        "title": "BIG DATA ANALYTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHARYAR WANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4342",
+        "sect": 1,
+        "title": "NATURAL LANGUAGE PROCESSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SURIANI BT. SULAIMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4342",
+        "sect": 2,
+        "title": "NATURAL LANGUAGE PROCESSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. DINI OKTARINA DWI HANDAYANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4343",
+        "sect": 1,
+        "title": "DATA SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAINI BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4343",
+        "sect": 2,
+        "title": "DATA SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAINI BINTI HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4347",
+        "sect": 1,
+        "title": "BRAIN COMPUTATIONAL ANALYTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. HAMWIRA SAKTI BIN YAACOB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4401",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4402",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "CSCI 4901",
+        "sect": 2,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "INFO 2303",
+        "sect": 1,
+        "title": "DATABASE PROGRAMMING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3304",
+        "sect": 1,
+        "title": "E-COMMERCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR AZIZAH BT. MOHAMADALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3304",
+        "sect": 2,
+        "title": "E-COMMERCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR AZIZAH BT. MOHAMADALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3305",
+        "sect": 2,
+        "title": "WEB APPLICATION DEVELOPMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3307",
+        "sect": 1,
+        "title": "HUMAN COMPUTER INTERACTION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ELIN ELIANA BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3307",
+        "sect": 2,
+        "title": "HUMAN COMPUTER INTERACTION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ELIN ELIANA BINTI ABDUL RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3308",
+        "sect": 1,
+        "title": "PROJECT  MANAGEMENT IN IT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3308",
+        "sect": 2,
+        "title": "PROJECT  MANAGEMENT IN IT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3308",
+        "sect": 3,
+        "title": "PROJECT  MANAGEMENT IN IT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 3308",
+        "sect": 4,
+        "title": "PROJECT  MANAGEMENT IN IT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ROSE ALINDA ALIAS"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 1,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 2,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 3,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILA BINTI SAMSURI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 4,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 5,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILA BINTI SAMSURI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 6,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILA BINTI SAMSURI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4303",
+        "sect": 7,
+        "title": "TECHNOPRENEURSHIP",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURHAFIZAH BINTI MAHRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 1,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 2,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 3,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 4,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MUHD. ROSYDI BIN MUHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 5,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MUHD. ROSYDI BIN MUHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4305",
+        "sect": 1,
+        "title": "CYBER LAW AND ETHICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNAN ZUHID BIN SAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4305",
+        "sect": 2,
+        "title": "CYBER LAW AND ETHICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNAN ZUHID BIN SAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4311",
+        "sect": 1,
+        "title": "DATA WAREHOUSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4311",
+        "sect": 2,
+        "title": "DATA WAREHOUSING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4312",
+        "sect": 1,
+        "title": "INFORMATION VISUALIZATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MADIHAH BT. S. ABD. AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4312",
+        "sect": 2,
+        "title": "INFORMATION VISUALIZATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MADIHAH BT. S. ABD. AZIZ"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4313",
+        "sect": 1,
+        "title": "DATA MINING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4313",
+        "sect": 2,
+        "title": "DATA MINING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4314",
+        "sect": 1,
+        "title": "BUSINESS DATA ANALYTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4314",
+        "sect": 2,
+        "title": "BUSINESS DATA ANALYTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4320",
+        "sect": 1,
+        "title": "ANIMATION TECHNIQUE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FATZILAH BIN MISMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4321",
+        "sect": 1,
+        "title": "CREATIVE DESIGN TECHNIQUE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUB BIN ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4322",
+        "sect": 1,
+        "title": "DIGITAL CONTENT DESIGN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SUHAILA BINTI SAMSURI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4328",
+        "sect": 1,
+        "title": "GAME DESIGN AND DEVELOPMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUB BIN ABDUL RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4330",
+        "sect": 1,
+        "title": "CONTROL AND AUDIT OF INFORMATION SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. NOOR HAYANI BINTI ABD RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4330",
+        "sect": 2,
+        "title": "CONTROL AND AUDIT OF INFORMATION SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. NOOR HAYANI BINTI ABD RAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4333",
+        "sect": 1,
+        "title": "INTEGRATED BUSINESS PROCESS AND ERP SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNAN ZUHID BIN SAIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4335",
+        "sect": 1,
+        "title": "MOBILE APPLICATION DEVELOPMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD KHAIRUL AZMI BIN HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4335",
+        "sect": 2,
+        "title": "MOBILE APPLICATION DEVELOPMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD KHAIRUL AZMI BIN HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4340",
+        "sect": 1,
+        "title": "MANAGEMENT OF INFORMATION SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ASYRAF BIN RODZOAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4340",
+        "sect": 2,
+        "title": "MANAGEMENT OF INFORMATION SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ASYRAF BIN RODZOAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4341",
+        "sect": 3,
+        "title": "RISK MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURUL NUHA BINTI ABDUL MOLOK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4341",
+        "sect": 4,
+        "title": "RISK MANAGEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NURUL NUHA BINTI ABDUL MOLOK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4342",
+        "sect": 1,
+        "title": "BUSINESS CONTINUITY AND DISASTER RECOVERY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHUHAILI BT. TALIB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4342",
+        "sect": 2,
+        "title": "BUSINESS CONTINUITY AND DISASTER RECOVERY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. SHUHAILI BT. TALIB"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4345",
+        "sect": 1,
+        "title": "WEB APPLICATION SECURITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NAJHAN BIN MUHAMAD IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4401",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT I",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FATZILAH BIN MISMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4402",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT II",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AHMAD FATZILAH BIN MISMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4901",
+        "sect": 1,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUB BIN ABDUL RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "INFO 4901",
+        "sect": 3,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. AYUB BIN ABDUL RAHMAN"
+        ],
+        "dayTime": []
     }
 ]
