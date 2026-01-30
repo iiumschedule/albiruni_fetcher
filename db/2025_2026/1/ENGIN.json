@@ -42,7 +42,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-1-09",
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -382,7 +382,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-3-20",
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -6590,7 +6590,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-2-1",
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -6612,7 +6612,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-1-4",
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -6634,7 +6634,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E2-2-1",
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR"
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -9731,7 +9731,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH",
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH",
             "DR. HANAN BT. MOKHTAR"
         ],
         "dayTime": [
@@ -9767,7 +9767,9 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SANISAH BT. SAHARIN",
+            "DR. MUHAMMAD BIN ABDULLAH",
+            "DR. TENGKU NORDAYANA AKMA BINTI TUAN KAMARUDDIN"
         ],
         "dayTime": []
     },
@@ -9806,6 +9808,28 @@
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3300",
+        "sect": 1,
+        "title": "INTEGRATED DESIGN PROJECT (IDP)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -10248,7 +10272,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-3-20",
         "lect": [
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH"
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -10396,6 +10420,28 @@
         ]
     },
     {
+        "code": "MECH 4384",
+        "sect": 1,
+        "title": "RENEWABLE ENERGY",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-19",
+        "lect": [
+            "DR. TENGKU NORDAYANA AKMA BINTI TUAN KAMARUDDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "MECH 4386",
         "sect": 1,
         "title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
@@ -10479,7 +10525,7 @@
             "PROF. DATO' DR. AHMAD FARIS BIN ISMAIL",
             "PROF. DR. MEFTAH HRAIRI",
             "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID",
-            "ASSOC. PROF. IR. TS. DR. NUR AZAM BIN ABDULLAH",
+            "ASSOC. PROF. IR. DR. NUR AZAM BIN ABDULLAH",
             "ASSOC. PROF. IR. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
         ],
         "dayTime": []
@@ -11300,7 +11346,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-1-09",
         "lect": [
-            "DR. NOR FARAH HUDA BINTI ABD HALIM"
+            "ASSOC. PROF. DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
         "dayTime": [
             {
@@ -11322,7 +11368,7 @@
         "chr": 3.0,
         "venue": "ENG LRM E0-3-20",
         "lect": [
-            "DR. NOR FARAH HUDA BINTI ABD HALIM"
+            "ASSOC. PROF. DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
         "dayTime": [
             {

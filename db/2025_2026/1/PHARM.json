@@ -17,23 +17,6 @@
         ]
     },
     {
-        "code": "PHAB 1231",
-        "sect": 1,
-        "title": "FUNDAMENTALS OF BIOCHEMISTRY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. MAY KHIN SOE"
-        ],
-        "dayTime": [
-            {
-                "day": 6,
-                "startTime": "20:00",
-                "endTime": "05:00"
-            }
-        ]
-    },
-    {
         "code": "PHAB 1321",
         "sect": 1,
         "title": "FUNDAMENTALS OF PHYSIOLOGY",
@@ -47,6 +30,23 @@
                 "day": 1,
                 "startTime": "09:00",
                 "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "PHAB 1331",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF BIOCHEMISTRY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MAY KHIN SOE"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "12:00",
+                "endTime": "13:00"
             }
         ]
     },

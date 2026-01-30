@@ -1638,6 +1638,28 @@
         ]
     },
     {
+        "code": "BICS 4332",
+        "sect": 1,
+        "title": "Software Design and Architecture",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR AZURA BINTI ZAKARIA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BICS 4361",
+        "sect": 1,
+        "title": "Data Science",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. RAINI BINTI HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BIIT 1301",
         "sect": 1,
         "title": "Database Programming",
@@ -3207,7 +3229,7 @@
         "sect": 6,
         "title": "DATA STRUCTURES AND ALGORITHMS II",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-01",
+        "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
             "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
         ],
@@ -3366,7 +3388,7 @@
         "sect": 4,
         "title": "COMPUTATION AND COMPLEXITY",
         "chr": 3.0,
-        "venue": "ICT PBL LAB 2 LEVEL 3D",
+        "venue": "ICT LR 19 LEVEL 4C",
         "lect": [
             "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
         ],
@@ -3388,7 +3410,7 @@
         "sect": 5,
         "title": "COMPUTATION AND COMPLEXITY",
         "chr": 3.0,
-        "venue": "ICT PBL LAB 2 LEVEL 3D",
+        "venue": "ICT LR 19 LEVEL 4C",
         "lect": [
             "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
         ],
@@ -3548,7 +3570,7 @@
         "sect": 1,
         "title": "REQUIREMENTS ENGINEERING",
         "chr": 3.0,
-        "venue": "ICT TL-E5-01 LEVEL 5D",
+        "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
             "DR. AZLIN BINTI NORDIN"
         ],
@@ -4925,7 +4947,7 @@
         "sect": 1,
         "title": "DATA MINING",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 9 TL-D4-02",
+        "venue": "ICT PBL LAB 2 LEVEL 3D",
         "lect": [
             "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
         ],
@@ -4947,7 +4969,7 @@
         "sect": 2,
         "title": "DATA MINING",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-03",
+        "venue": "ICT PBL LAB 2 LEVEL 3D",
         "lect": [
             "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
         ],
@@ -5196,8 +5218,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 6 LEVEL 3C",
         "lect": [
-            "DR. MOHD KHAIRUL AZMI BIN HASSAN",
-            "TUTOR"
+            "DR. MOHD KHAIRUL AZMI BIN HASSAN"
         ],
         "dayTime": [
             {
