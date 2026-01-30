@@ -469,7 +469,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. WIRAWANI BINTI KAMARULZAMAN"
+            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
         "dayTime": [
             {
@@ -893,7 +893,7 @@
         "chr": 2.0,
         "venue": "EDU TR 1 (LEVEL 3) 3.025",
         "lect": [
-            "DR. SUZANA SUHAILAWATY BINTI MD. SIDEK"
+            "DR. SAIDATUL MADIHA BINTI ABD. RAHIM"
         ],
         "dayTime": [
             {
@@ -1071,7 +1071,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NORWATI BINTI MANSOR"
+            "DR. MOHD HATTA BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -1601,6 +1601,28 @@
         ]
     },
     {
+        "code": "EDIE 1310",
+        "sect": 1,
+        "title": "ARABIC AND JAWI SCRIPT",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "17:50"
+            }
+        ]
+    },
+    {
         "code": "EDIE 1501",
         "sect": 1,
         "title": "FIQH IBADAT",
@@ -1759,15 +1781,15 @@
         "sect": 1,
         "title": "PHILOSOPHY OF ISLAMIC EDUCATION",
         "chr": 2.0,
-        "venue": "EDU TR 2 (LEVEL 3) 3.024",
+        "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "17:00",
+                "endTime": "18:50"
             }
         ]
     },
@@ -1776,15 +1798,15 @@
         "sect": 3,
         "title": "PHILOSOPHY OF ISLAMIC EDUCATION",
         "chr": 2.0,
-        "venue": "EDU TR 1 (LEVEL 3) 3.025",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:50"
             }
         ]
     },
@@ -1793,15 +1815,15 @@
         "sect": 4,
         "title": "PHILOSOPHY OF ISLAMIC EDUCATION",
         "chr": 2.0,
-        "venue": "EDU TR 2 (LEVEL 3) 3.024",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "20:30",
-                "endTime": "22:20"
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "18:50"
             }
         ]
     },
@@ -1812,7 +1834,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. ABDULHAMID MOHAMED ALI ZAROUM"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1834,7 +1856,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. ABDULHAMID MOHAMED ALI ZAROUM"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1858,7 +1880,18 @@
         "lect": [
             "TO BE DETERMINED"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
     },
     {
         "code": "EDIE 2601",
@@ -1899,15 +1932,15 @@
         "sect": 1,
         "title": "ETHICS IN EDUCATION",
         "chr": 2.0,
-        "venue": "EDU TR 1 (LEVEL 3) 3.025",
+        "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -1918,13 +1951,30 @@
         "chr": 2.0,
         "venue": "EDU LR 34 1.0",
         "lect": [
-            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "EDIE 2701",
+        "sect": 3,
+        "title": "ETHICS IN EDUCATION",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "17:20"
             }
         ]
     },
@@ -2195,7 +2245,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+            "TO BE DETERMINED"
         ],
         "dayTime": [
             {

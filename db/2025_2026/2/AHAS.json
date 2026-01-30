@@ -3307,7 +3307,7 @@
         "venue": "KICT TLD5-01",
         "lect": [
             "DR. NOOR YUSLIDA BINTI HAZAHARI",
-            "DR. NURRULHIDAYAH BINTI AHMAD FADZILLAH"
+            "PROF. DR. IRWANDI JASWIR"
         ],
         "dayTime": [
             {
@@ -3330,7 +3330,7 @@
         "venue": "KICT TLD5-01",
         "lect": [
             "DR. NOOR YUSLIDA BINTI HAZAHARI",
-            "DR. NURRULHIDAYAH BINTI AHMAD FADZILLAH"
+            "PROF. DR. IRWANDI JASWIR"
         ],
         "dayTime": [
             {
@@ -3363,6 +3363,75 @@
             },
             {
                 "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "HART 1312",
+        "sect": 2,
+        "title": "HALAL AGROINDUSTRY",
+        "chr": 3.0,
+        "venue": "KICT TLD5-02",
+        "lect": [
+            "DR. NURHIDAYU AL-SAARI",
+            "DR. NURHUSNA BINTI SAMSUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "HART 1321",
+        "sect": 1,
+        "title": "ISLAMIC LAW OF CONSUMERISM",
+        "chr": 3.0,
+        "venue": "KICT TLD5-02",
+        "lect": [
+            "DR. NURRULHIDAYAH BINTI AHMAD FADZILLAH",
+            "ASSOC. PROF. DR. BETANIA KARTIKA MUFLIH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "HART 1321",
+        "sect": 2,
+        "title": "ISLAMIC LAW OF CONSUMERISM",
+        "chr": 3.0,
+        "venue": "KICT TLD5-02",
+        "lect": [
+            "DR. NURRULHIDAYAH BINTI AHMAD FADZILLAH",
+            "ASSOC. PROF. DR. BETANIA KARTIKA MUFLIH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:20"
             }
@@ -3434,6 +3503,29 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "HART 1341",
+        "sect": 2,
+        "title": "HALAL STANDARD AND REGULATION",
+        "chr": 3.0,
+        "venue": "KICT TLD5-01",
+        "lect": [
+            "DR. NUR HANIE BINTI MOHD LATIFF",
+            "DR. NUR AZIRA BINTI TUKIRAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
