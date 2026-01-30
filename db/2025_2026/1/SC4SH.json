@@ -140,7 +140,7 @@
         "sect": 9,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": "EDU TR 3 (LEVEL 3) 3.018",
+        "venue": "EDU LT 2 1.3",
         "lect": [
             "KHAIRANI BINTI CHE IBRAHIM"
         ],
@@ -715,6 +715,28 @@
     },
     {
         "code": "SCSH 1201",
+        "sect": 612,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 1201",
         "sect": 801,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
@@ -737,7 +759,7 @@
         "chr": 2.0,
         "venue": "LECTURER HALL 1, KOM GF",
         "lect": [
-            "PROF. DR. SIRAJUDEEN KUTTULEBBAI NAINA MOHAMED SALAM"
+            "ASSOC. PROF. DR. ROSLINA BINTI ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -822,7 +844,7 @@
         "chr": 2.0,
         "venue": "LECTURER HALL 1, KOM GF",
         "lect": [
-            "PROF. DR. SIRAJUDEEN KUTTULEBBAI NAINA MOHAMED SALAM"
+            "ASSOC. PROF. DR. ROSLINA BINTI ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -907,7 +929,7 @@
         "chr": 2.0,
         "venue": "LECTURER HALL 1, KOM GF",
         "lect": [
-            "PROF. DR. SIRAJUDEEN KUTTULEBBAI NAINA MOHAMED SALAM"
+            "ASSOC. PROF. DR. ROSLINA BINTI ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -1247,7 +1269,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. ANIZA BINTI ABU BAKAR",
+            "ASSOC. PROF. DR. ANIZA BINTI ABU BAKAR",
             "DR. 'ATIAH BT. ABDULLAH SIDEK",
             "DR. NUR LEYNI NILAM PUTRI BINTI JUNURHAM",
             "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON",
@@ -1268,7 +1290,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. ANIZA BINTI ABU BAKAR",
+            "ASSOC. PROF. DR. ANIZA BINTI ABU BAKAR",
             "DR. 'ATIAH BT. ABDULLAH SIDEK",
             "DR. NUR LEYNI NILAM PUTRI BINTI JUNURHAM",
             "ASSOC. PROF. IR. DR. KHAIRAYU BT. BADRON",
@@ -1898,6 +1920,7 @@
         "lect": [
             "DR. NURIZAN BINTI OMAR",
             "DR. KARTINI BINTI AHMAD",
+            "DR. HANISAH BINTI MANSHOR",
             "TO BE DETERMINED",
             "DR. NORHANIS AIDA BINTI MOHD NOR",
             "DR. ABDUL AZIZ BIN AHMAD",
@@ -1913,11 +1936,11 @@
         "venue": null,
         "lect": [
             "DR. NURIZAN BINTI OMAR",
-            "DR. KARTINI BINTI AHMAD",
+            "ASSOC. PROF. DR. RAIHAN BIN OTHMAN",
             "DR. ABDUL AZIZ BIN AHMAD",
             "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
             "DR. NORHANIS AIDA BINTI MOHD NOR",
-            "DR. HANISAH BINTI MANSHOR"
+            "DR. KARTINI BINTI AHMAD"
         ],
         "dayTime": []
     },
@@ -2092,7 +2115,13 @@
         "lect": [
             "FAROUK AZMI BIN ABD RAHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:30"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -2126,6 +2155,23 @@
                 "day": 5,
                 "startTime": "20:00",
                 "endTime": "21:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 67,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "FAROUK AZMI BIN ABD RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "18:00",
+                "endTime": "19:00"
             }
         ]
     },
@@ -2300,7 +2346,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. MOHD SAIPUDDIN BIN SULIMAN"
+            "TS. DR. MOHD SAIPUDDIN BIN SULIMAN"
         ],
         "dayTime": [
             {
@@ -2395,8 +2441,9 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "MISS NURUL HIDAYAH BINTI ABDULLAH",
             "DR. ZALIKHA BINTI IBRAHIM",
-            "MISS NURUL HIDAYAH BINTI ABDULLAH"
+            "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
         ],
         "dayTime": []
     },
@@ -2407,8 +2454,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. ZALIKHA BINTI IBRAHIM",
-            "ASSOC. PROF. DR. NOR ILYANI BINTI MOHAMED NAZAR"
+            "DR. MOHD AIZUDDIN BIN ABD RAHMAN"
         ],
         "dayTime": []
     },
@@ -2461,7 +2507,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "NUR FARRAH SYAZWANIE BINTI ISMAIL"
+            "NUR FARRAH SYAZWANIE BINTI ISMAIL",
+            "NURHAFIZAH BINTI SAIDIN"
         ],
         "dayTime": [
             {
@@ -2515,7 +2562,7 @@
             "NUR ADIBAH BINTI ABDUL RAZAK",
             "DR. NOR ELINA BINTI ALIAS",
             "MISS NURUL HIDAYAH BINTI ABDULLAH",
-            "ASSOC. PROF. DR. NOR ILYANI BINTI MOHAMED NAZAR"
+            "ASSOC. PROF. DR. NORNY SYAFINAZ BINTI AB RAHMAN"
         ],
         "dayTime": []
     },
@@ -2526,6 +2573,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "MISS NURUL HIDAYAH BINTI ABDULLAH",
             "DR. ZALIKHA BINTI IBRAHIM",
             "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
         ],
@@ -2552,6 +2600,20 @@
         "lect": [
             "PROF. DR. RASITASAM@RAZITASHAM",
             "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 829,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "UMI NADRAH BINTI AMRAN",
+            "FATIHAH SYAFINAZ BINTI KAMARUL ZAMAN",
+            "DR. UMMI FARHANA BINTI HASHIM",
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
         ],
         "dayTime": []
     },
@@ -2675,6 +2737,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "ASSOC. PROF. DR. KHAIRUL AZAMI BIN SIDEK",
             "ASSOC. PROF. DR. HASMAH BT MANSOR"
         ],
         "dayTime": []
@@ -3181,7 +3244,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR",
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR",
             "DR. NURIZAN BINTI OMAR"
         ],
         "dayTime": []
@@ -3193,7 +3256,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. NORAINI BT MOHAMED NOOR",
+            "ASSOC. PROF. DR. NORAINI BT MOHAMED NOOR",
             "DR. NURIZAN BINTI OMAR"
         ],
         "dayTime": []
@@ -3686,6 +3749,20 @@
     },
     {
         "code": "SCSH 3164",
+        "sect": 829,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "UMI NADRAH BINTI AMRAN",
+            "DR. UMMI FARHANA BINTI HASHIM",
+            "DR. FARAH WAHIDA BINTI AHMAD ZAIKI",
+            "FATIHAH SYAFINAZ BINTI KAMARUL ZAMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
         "sect": 870,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
@@ -3804,7 +3881,13 @@
         "lect": [
             "DR. JULIANA AMINAH BINTI MARHABAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
     },
     {
         "code": "SCSH 3164",

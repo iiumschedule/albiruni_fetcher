@@ -3489,7 +3489,7 @@
     {
         "code": "ENGL 4331",
         "sect": 1,
-        "title": "MODERNISM/ POST MODERNISM",
+        "title": "MODERNISM / POSTMODERNISM",
         "chr": 3.0,
         "venue": "HSC ENGLISH LAB 3",
         "lect": [
@@ -7206,7 +7206,7 @@
         "chr": 3.0,
         "venue": "HSC LR 30 (HS COMP LAB A) 3",
         "lect": [
-            "DR. MAISARAH BINTI MOHD. TAIB"
+            "DR. MOHD FERDAUS BIN HARUN"
         ],
         "dayTime": [
             {
@@ -7338,7 +7338,7 @@
         "chr": 3.0,
         "venue": "HSC LR 30 (HS COMP LAB A) 3",
         "lect": [
-            "DR. MAISARAH BINTI MOHD. TAIB"
+            "DR. MOHD FERDAUS BIN HARUN"
         ],
         "dayTime": [
             {
@@ -10676,6 +10676,28 @@
         ]
     },
     {
+        "code": "RKQS 2314",
+        "sect": 612,
+        "title": "REFLECTIONS ON THE SIRAH OF THE PROPHET",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOOR MOHAMMAD OSMANI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
         "code": "RKQS 2322",
         "sect": 1,
         "title": "DIRASAT FI AL-TAJWID WA AL-QIRA'AT (QURANIC ELOCUTION AND VARIANT READINGS)",
@@ -11475,6 +11497,28 @@
                 "day": 4,
                 "startTime": "17:00",
                 "endTime": "18:20"
+            }
+        ]
+    },
+    {
+        "code": "RKUD 1321",
+        "sect": 612,
+        "title": "ISLAMIC 'AQIDAH",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ABDUL SALAM @ ZULKIFLI B.MUHAMAD SHUKRI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
             }
         ]
     },
@@ -14861,6 +14905,28 @@
                 "day": 5,
                 "startTime": "20:30",
                 "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "UNGS 1301",
+        "sect": 612,
+        "title": "BASIC PHILOSOPHY AND ISLAMIC WORLDVIEW",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. CHE' RAZI BIN JUSOH"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
             }
         ]
     },
