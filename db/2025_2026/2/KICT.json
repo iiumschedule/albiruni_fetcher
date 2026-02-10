@@ -1742,7 +1742,7 @@
         "sect": 2,
         "title": "BLOCKCHAIN AND APPLICATION",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT TL-C2-06 LEVEL 2C",
         "lect": [
             "DR. NORZARIYAH BINTI YAHYA"
         ],
@@ -1830,7 +1830,7 @@
         "sect": 1,
         "title": "Malware Analysis",
         "chr": 3.0,
-        "venue": "ICT ACM-ICPC LAB TL-C4-02",
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
             "DR. ANDI FITRIAH BINTI ABDUL KADIR"
         ],
@@ -1995,7 +1995,7 @@
         "sect": 2,
         "title": "Database Programming",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "venue": "ICT TL-D5-03 LEVEL 5D",
         "lect": [
             "DR. ZAINATUL SHIMA ABDULLAH"
         ],
@@ -2061,7 +2061,7 @@
         "sect": 6,
         "title": "Database Programming",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-02",
+        "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
             "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
         ],
@@ -3623,7 +3623,7 @@
         "sect": 1,
         "title": "NETWORK SECURITY",
         "chr": 3.0,
-        "venue": "ICT CISCO LAB2 TL-E4-01",
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
             "DR. ANDI FITRIAH BINTI ABDUL KADIR"
         ],
@@ -3645,7 +3645,7 @@
         "sect": 2,
         "title": "NETWORK SECURITY",
         "chr": 3.0,
-        "venue": "ICT CISCO LAB2 TL-E4-01",
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
             "DR. ANDI FITRIAH BINTI ABDUL KADIR"
         ],
@@ -3884,6 +3884,28 @@
         "dayTime": []
     },
     {
+        "code": "INFO 1303",
+        "sect": 1,
+        "title": "DATABASE SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "INFO 2303",
         "sect": 1,
         "title": "DATABASE PROGRAMMING",
@@ -3902,6 +3924,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "INFO 2306",
+        "sect": 1,
+        "title": "MANAGEMENT INFORMATION SYSTEMS",
+        "chr": 3.0,
+        "venue": "ICT LR 11 LEVEL 2C",
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },

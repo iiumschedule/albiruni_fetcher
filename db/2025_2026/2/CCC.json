@@ -1411,6 +1411,23 @@
         ]
     },
     {
+        "code": "CCFL 1010",
+        "sect": 802,
+        "title": "FUTSAL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
         "code": "CCFM 2061",
         "sect": 1,
         "title": "FAMILY MANAGEMENT",
@@ -5589,13 +5606,7 @@
         "lect": [
             "TO BE DETERMINED"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "CCUB 1061",
@@ -5611,6 +5622,39 @@
     {
         "code": "CCUB 1061",
         "sect": 110,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 111,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 112,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 113,
         "title": "USRAH 1",
         "chr": 0.5,
         "venue": null,
@@ -5814,6 +5858,28 @@
     {
         "code": "CCUB 1061",
         "sect": 213,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 214,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 215,
         "title": "USRAH 1",
         "chr": 0.5,
         "venue": null,
@@ -6120,7 +6186,13 @@
         "lect": [
             "TO BE DETERMINED"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
     },
     {
         "code": "CCUB 1062",

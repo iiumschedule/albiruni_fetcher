@@ -239,18 +239,7 @@
         "lect": [
             "TO BE DETERMINED"
         ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "ACC 4162",
@@ -291,6 +280,28 @@
             },
             {
                 "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "ACC 4233",
+        "sect": 1,
+        "title": "INTERNAL AUDIT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
             }
@@ -385,6 +396,28 @@
         ]
     },
     {
+        "code": "ACC 4263",
+        "sect": 2,
+        "title": "ZAKAT ACCOUNTING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "ACC 4272",
         "sect": 1,
         "title": "ANALYSIS AND DESIGN OF ACCOUNTING INFORMATION SYSTEMS",
@@ -425,28 +458,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4272",
-        "sect": 3,
-        "title": "ANALYSIS AND DESIGN OF ACCOUNTING INFORMATION SYSTEMS",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -491,28 +502,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "ACC 4291",
-        "sect": 2,
-        "title": "INTEGRATED CASE STUDY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
             }
         ]
     },

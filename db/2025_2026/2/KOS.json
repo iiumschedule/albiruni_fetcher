@@ -1948,8 +1948,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:30",
-                "endTime": "12:30"
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3172,7 +3172,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "ASSOC. PROF. DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
         "dayTime": [
             {
@@ -3194,7 +3194,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "ASSOC. PROF. DR. NUR ZATUL AKMAR BTE HAMZAH"
         ],
         "dayTime": [
             {
@@ -3292,30 +3292,8 @@
             },
             {
                 "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:30"
-            }
-        ]
-    },
-    {
-        "code": "BSMS 2307",
-        "sect": 1,
-        "title": "LINEAR ALGEBRA",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. SUPIAN BIN MAT SALLEH"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "10:30"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "10:00"
+                "startTime": "15:30",
+                "endTime": "17:00"
             }
         ]
     },
@@ -3326,7 +3304,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. NUR ZATUL AKMAR BTE HAMZAH"
+            "ASSOC. PROF. DR. PAH CHIN HEE"
         ],
         "dayTime": [
             {
@@ -3418,9 +3396,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:30",
-                "endTime": "12:00"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:30"
             },
             {
                 "day": 4,
@@ -3568,18 +3546,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "DR. SUPIAN BIN MAT SALLEH"
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 2,
                 "startTime": "15:30",
                 "endTime": "17:00"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
             }
         ]
     },
@@ -4606,18 +4584,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. MOHD. HIRZIE BIN MOHD. RODZHAN"
+            "DR. SUPIAN BIN MAT SALLEH"
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 2,
                 "startTime": "15:30",
                 "endTime": "17:00"
             },
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "17:00"
             }
         ]
     },
