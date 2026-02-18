@@ -644,7 +644,7 @@
         "chr": 3.0,
         "venue": "ICT TL-D5-03 LEVEL 5D",
         "lect": [
-            "TO BE DETERMINED"
+            "TS. DR. AHMAD ANWAR BIN ZAINUDDIN"
         ],
         "dayTime": [
             {
@@ -1148,7 +1148,7 @@
         "sect": 3,
         "title": "Intelligent Systems",
         "chr": 3.0,
-        "venue": "ICT TL-E5-02 LEVEL 5E",
+        "venue": "ICT CISCO LAB2 TL-E4-01",
         "lect": [
             "TS. DR. DINI OKTARINA DWI HANDAYANI"
         ],
@@ -1368,20 +1368,20 @@
         "sect": 5,
         "title": "Computer Architecture & Assembly Language",
         "chr": 3.0,
-        "venue": "ICT LR 14A LEVEL 2D",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
             },
             {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -1456,7 +1456,7 @@
         "sect": 4,
         "title": "Operating Systems",
         "chr": 3.0,
-        "venue": "ICT LR 10 LEVEL 2C",
+        "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
             "DR. NORLIA MD YUSOF"
         ],
@@ -1478,7 +1478,7 @@
         "sect": 7,
         "title": "Operating Systems",
         "chr": 3.0,
-        "venue": "ICT LR 10 LEVEL 2C",
+        "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
             "DR. NORLIA MD YUSOF"
         ],
@@ -1500,7 +1500,7 @@
         "sect": 8,
         "title": "Operating Systems",
         "chr": 3.0,
-        "venue": "ICT LR 10 LEVEL 2C",
+        "venue": "ICT TEACH LAB 7 TL-D4-01",
         "lect": [
             "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
         ],
@@ -1522,7 +1522,7 @@
         "sect": 9,
         "title": "Operating Systems",
         "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
+        "venue": "ICT TL-D5-03 LEVEL 5D",
         "lect": [
             "DR. MUHAMMAD AFIQ AMMAR BIN KAMARUZZAMAN"
         ],
@@ -1654,20 +1654,20 @@
         "sect": 1,
         "title": "Project Management in Software Engineering",
         "chr": 3.0,
-        "venue": "ICT TL-E5-01 LEVEL 5E",
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. SITI ASMA BINTI MOHAMMED"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:30",
-                "endTime": "21:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             },
             {
                 "day": 3,
-                "startTime": "20:30",
-                "endTime": "21:50"
+                "startTime": "08:30",
+                "endTime": "09:50"
             }
         ]
     },
@@ -1874,7 +1874,7 @@
         "sect": 1,
         "title": "Statistics for Data Science",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. RAINI BINTI HASSAN"
         ],
@@ -1896,7 +1896,7 @@
         "sect": 2,
         "title": "Statistics for Data Science",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
             "DR. RAINI BINTI HASSAN"
         ],
@@ -2655,7 +2655,7 @@
         "sect": 1,
         "title": "Technopreneurship",
         "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "venue": "ICT LR 11 LEVEL 2C",
         "lect": [
             "DR. NURHAFIZAH BINTI MAHRI"
         ],
@@ -2677,7 +2677,7 @@
         "sect": 2,
         "title": "Technopreneurship",
         "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "venue": "ICT LR 11 LEVEL 2C",
         "lect": [
             "DR. NURHAFIZAH BINTI MAHRI"
         ],
@@ -3073,7 +3073,7 @@
         "sect": 1,
         "title": "Digital Commerce Platform",
         "chr": 3.0,
-        "venue": "ICT TL-E5-03 LEVEL 5E",
+        "venue": "ICT LR 10 LEVEL 2C",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZIZAH BT. MOHAMADALI"
         ],
@@ -3641,28 +3641,6 @@
         ]
     },
     {
-        "code": "CSCI 4336",
-        "sect": 2,
-        "title": "NETWORK SECURITY",
-        "chr": 3.0,
-        "venue": "ICT TEACH LAB 8 TL-D4-02",
-        "lect": [
-            "DR. ANDI FITRIAH BINTI ABDUL KADIR"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "CSCI 4340",
         "sect": 1,
         "title": "MACHINE LEARNING",
@@ -3689,7 +3667,7 @@
         "sect": 1,
         "title": "BIG DATA ANALYTICS",
         "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
+        "venue": "ICT LR 14A LEVEL 2D",
         "lect": [
             "DR. SHARYAR WANI"
         ],
@@ -3711,7 +3689,7 @@
         "sect": 2,
         "title": "BIG DATA ANALYTICS",
         "chr": 3.0,
-        "venue": "ICT LR 9 LEVEL 2C",
+        "venue": "ICT LR 14A LEVEL 2D",
         "lect": [
             "DR. SHARYAR WANI"
         ],
@@ -3777,7 +3755,7 @@
         "sect": 1,
         "title": "DATA SCIENCE",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
             "DR. RAINI BINTI HASSAN"
         ],
@@ -3799,7 +3777,7 @@
         "sect": 2,
         "title": "DATA SCIENCE",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
             "DR. RAINI BINTI HASSAN"
         ],
@@ -3954,7 +3932,7 @@
         "sect": 1,
         "title": "E-COMMERCE",
         "chr": 3.0,
-        "venue": "ICT PBL LAB 2 LEVEL 3D",
+        "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZIZAH BT. MOHAMADALI"
         ],
@@ -3976,7 +3954,7 @@
         "sect": 2,
         "title": "E-COMMERCE",
         "chr": 3.0,
-        "venue": "ICT LR 19 LEVEL 4C",
+        "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
             "ASSOC. PROF. DR. NOOR AZIZAH BT. MOHAMADALI"
         ],
@@ -4020,7 +3998,7 @@
         "sect": 1,
         "title": "HUMAN COMPUTER INTERACTION",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 4 LEVEL 3C",
+        "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
             "DR. ELIN ELIANA BINTI ABDUL RAHIM"
         ],
@@ -4152,7 +4130,7 @@
         "sect": 1,
         "title": "TECHNOPRENEURSHIP",
         "chr": 3.0,
-        "venue": "ICT LR 11 LEVEL 2C",
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
             "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
         ],
@@ -4174,7 +4152,7 @@
         "sect": 2,
         "title": "TECHNOPRENEURSHIP",
         "chr": 3.0,
-        "venue": "ICT LR 11 LEVEL 2C",
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
             "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
         ],
@@ -4218,7 +4196,7 @@
         "sect": 4,
         "title": "TECHNOPRENEURSHIP",
         "chr": 3.0,
-        "venue": "ICT LT 1 LEVEL 4D",
+        "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
             "TS. ABDUL RAHMAN BIN AHMAD DAHLAN"
         ],
@@ -4570,7 +4548,7 @@
         "sect": 2,
         "title": "DATA MINING",
         "chr": 3.0,
-        "venue": "ICT TL-E5-02 LEVEL 5E",
+        "venue": "ICT LT 2 LEVEL 4D",
         "lect": [
             "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
         ],
@@ -4680,7 +4658,7 @@
         "sect": 1,
         "title": "DIGITAL CONTENT DESIGN",
         "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "venue": "ICT LT 1 LEVEL 4D",
         "lect": [
             "DR. SUHAILA BINTI SAMSURI"
         ],

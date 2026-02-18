@@ -1128,7 +1128,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. AMINNUDIN BIN SAIMON"
+            "DR. AZEAN IDRUWANI BINTI IDRUS"
         ],
         "dayTime": [
             {
@@ -1292,6 +1292,50 @@
             },
             {
                 "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 2101",
+        "sect": 3,
+        "title": "KOMUNIKASI ANTARA BUDAYA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ARINA BINTI JOHARI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 2101",
+        "sect": 4,
+        "title": "KOMUNIKASI ANTARA BUDAYA",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ADRIANA SANTA ANAK TINGGOM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
             }
@@ -1524,7 +1568,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. AZEAN IDRUWANI BINTI IDRUS"
+            "DR. AMINNUDIN BIN SAIMON"
         ],
         "dayTime": [
             {
@@ -1628,6 +1672,28 @@
         ]
     },
     {
+        "code": "BMCO 2999",
+        "sect": 4,
+        "title": "KAEDAH PENYELIDIKAN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FARIDAH BINTI NAZIR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "BMCO 3101",
         "sect": 1,
         "title": "SEMANTIK DAN LEKSIKOLOGI",
@@ -1690,6 +1756,28 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "BMCO 3101",
+        "sect": 4,
+        "title": "SEMANTIK DAN LEKSIKOLOGI",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NOR HAFUZA BINTI MUHAMMAD ARIF"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -4980,6 +5068,28 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "TMGT 2322",
+        "sect": 4,
+        "title": "SERVICE MARKETING IN TOURISM AND HOSPITALITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
