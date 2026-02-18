@@ -3765,14 +3765,36 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "15:30",
                 "endTime": "17:00"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "15:30",
                 "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 3302",
+        "sect": 2,
+        "title": "ENGLISH FOR EMPLOYMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -6400,6 +6422,11 @@
                 "day": 2,
                 "startTime": "16:00",
                 "endTime": "17:30"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -8273,23 +8300,6 @@
     },
     {
         "code": "TQTD 1001",
-        "sect": 105,
-        "title": "PRE-TILAWAH AL-QURAN",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "ABDUL KHAIR BIN JALIL"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "12:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1001",
         "sect": 501,
         "title": "PRE-TILAWAH AL-QURAN",
         "chr": 0.5,
@@ -8327,7 +8337,7 @@
         "sect": 1,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -8361,7 +8371,7 @@
         "sect": 3,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "HAFIZ ANUAR BIN ABDULLAH"
         ],
@@ -8514,7 +8524,7 @@
         "sect": 101,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -8599,7 +8609,7 @@
         "sect": 106,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "AHMAD AMIRUL ASHRAF BIN MOHD RUSDAN"
         ],
@@ -8616,7 +8626,7 @@
         "sect": 107,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -8710,23 +8720,6 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
-        "sect": 113,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "MUHAMMAD BIN AB RAHMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "09:50"
             }
         ]
     },
@@ -9058,7 +9051,7 @@
         "sect": 4,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 3",
         "lect": [
             "SA'ID HAWWA BIN ELIAS"
         ],
@@ -9092,7 +9085,7 @@
         "sect": 6,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "ZULKHAIRI BIN M. FADZLILLAH"
         ],
@@ -9194,7 +9187,7 @@
         "sect": 13,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
         ],
@@ -9211,7 +9204,7 @@
         "sect": 14,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
         ],
@@ -9568,7 +9561,7 @@
         "sect": 35,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -9602,7 +9595,7 @@
         "sect": 37,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "MOSQUE LVL 3",
         "lect": [
             "RAMLEE BIN ABDULLAH"
         ],
@@ -10163,7 +10156,7 @@
         "sect": 116,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "ADM TR 14 4.7",
+        "venue": "CFL AUDIO LAB L1 (1.1)",
         "lect": [
             "ZAID MUHAMMAD B. MOHD. RAIS"
         ],
@@ -10248,7 +10241,7 @@
         "sect": 121,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -10421,23 +10414,6 @@
         "venue": "ADM TR 18 4.12",
         "lect": [
             "MUHAMMAD ASFANDYAR DILAWAR KHAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 2002",
-        "sect": 132,
-        "title": "TILAWAH AL-QURAN II",
-        "chr": 0.5,
-        "venue": "ADM TR 16 4.9",
-        "lect": [
-            "MOHD. SHUKRI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -10758,7 +10734,7 @@
         "sect": 151,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -10792,7 +10768,7 @@
         "sect": 153,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "RAMLEE BIN ABDULLAH"
         ],
@@ -11798,7 +11774,7 @@
         "sect": 5,
         "title": "ADVANCED TILAWAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "HAFIZ ANUAR BIN ABDULLAH"
         ],
@@ -11842,7 +11818,7 @@
         "sect": 7,
         "title": "ADVANCED TILAWAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 4",
         "lect": [
             "MUJAHID BIN AHMAD LUTFI"
         ],
@@ -11908,7 +11884,7 @@
         "sect": 10,
         "title": "ADVANCED TILAWAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -11974,7 +11950,7 @@
         "sect": 13,
         "title": "ADVANCED TILAWAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 18 4.12",
         "lect": [
             "MUHAMMAD ASFANDYAR DILAWAR KHAN"
         ],
@@ -12018,9 +11994,9 @@
         "sect": 1,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 8 3.102",
         "lect": [
-            "TO BE DETERMINED"
+            "ZULKHAIRI BIN M. FADZLILLAH"
         ],
         "dayTime": [
             {
@@ -12040,9 +12016,9 @@
         "sect": 2,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 16 4.9",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. SHUKRI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -12062,9 +12038,9 @@
         "sect": 3,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 4",
         "lect": [
-            "TO BE DETERMINED"
+            "MUJAHID BIN AHMAD LUTFI"
         ],
         "dayTime": [
             {
@@ -12086,7 +12062,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AHMAD AMIRUL ASHRAF BIN MOHD RUSDAN"
         ],
         "dayTime": [
             {
@@ -12106,9 +12082,9 @@
         "sect": 5,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 8 3.102",
         "lect": [
-            "TO BE DETERMINED"
+            "RAMLEE BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -12128,9 +12104,9 @@
         "sect": 6,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 17 4.10",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. MUHAMMAD HARIZ SYAZWAN BIN MOHD ARIFIN"
         ],
         "dayTime": [
             {
@@ -12150,9 +12126,9 @@
         "sect": 7,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 14 4.7",
         "lect": [
-            "TO BE DETERMINED"
+            "HAFIZ ANUAR BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -12172,9 +12148,9 @@
         "sect": 8,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 8 3.102",
         "lect": [
-            "TO BE DETERMINED"
+            "ABDULLAH BUKHARI B ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -12194,9 +12170,9 @@
         "sect": 9,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL AUDIO LAB L1 (1.1)",
         "lect": [
-            "TO BE DETERMINED"
+            "ZAID MUHAMMAD B. MOHD. RAIS"
         ],
         "dayTime": [
             {
@@ -12216,9 +12192,9 @@
         "sect": 10,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL AUDIO LAB L1 (1.1)",
         "lect": [
-            "TO BE DETERMINED"
+            "SA'ID HAWWA BIN ELIAS"
         ],
         "dayTime": [
             {
@@ -12238,9 +12214,9 @@
         "sect": 11,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 18 4.12",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD ASFANDYAR DILAWAR KHAN"
         ],
         "dayTime": [
             {
@@ -12260,9 +12236,9 @@
         "sect": 12,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD BIN AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -12282,9 +12258,9 @@
         "sect": 13,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL AUDIO LAB L1 (1.1)",
         "lect": [
-            "TO BE DETERMINED"
+            "ABDUL KHAIR BIN JALIL"
         ],
         "dayTime": [
             {
@@ -12304,9 +12280,9 @@
         "sect": 14,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL AUDIO LAB L1 (1.2)",
         "lect": [
-            "TO BE DETERMINED"
+            "SIRIAUPA BT. SALLEH"
         ],
         "dayTime": [
             {
@@ -12326,9 +12302,9 @@
         "sect": 15,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 15 4.8",
         "lect": [
-            "TO BE DETERMINED"
+            "W. MD. FADZLI BIN HAMZAH @ WAN HAMZAH"
         ],
         "dayTime": [
             {

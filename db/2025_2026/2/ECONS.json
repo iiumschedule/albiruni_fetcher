@@ -554,7 +554,7 @@
         "sect": 1,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -576,7 +576,7 @@
         "sect": 2,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -598,7 +598,7 @@
         "sect": 3,
         "title": "PRINCIPLES OF FINANCIAL ACCOUNTING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -2866,13 +2866,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },
@@ -5282,51 +5282,7 @@
     },
     {
         "code": "MGMT 1301",
-        "sect": 8,
-        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "MGMT 1301",
         "sect": 9,
-        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MGMT 1301",
-        "sect": 10,
         "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
         "chr": 3.0,
         "venue": null,
@@ -5981,6 +5937,28 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 2305",
+        "sect": 6,
+        "title": "DECISION SCIENCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
             }
         ]
     },

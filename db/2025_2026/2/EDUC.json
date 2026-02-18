@@ -519,7 +519,7 @@
         "chr": 3.0,
         "venue": "EDU LR 20 3.67",
         "lect": [
-            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
+            "DR. WIRAWANI BINTI KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -960,7 +960,7 @@
         "chr": 3.0,
         "venue": "EDU LR 18 2.6",
         "lect": [
-            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
+            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
         ],
         "dayTime": [
             {
@@ -1092,7 +1092,7 @@
         "chr": 3.0,
         "venue": "EDU LR 20 3.67",
         "lect": [
-            "ASSOC. PROF. DR. HANIZA BINTI RAIS"
+            "MRS. NUR SYUHADA BINTI MOHD MUNIR"
         ],
         "dayTime": [
             {
@@ -1507,6 +1507,28 @@
         "venue": null,
         "lect": [
             "DR. SITI KHOLIJAH BINTI KASSIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 4904",
+        "sect": 4,
+        "title": "COUNSELING INTERNSHIP",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. NURSYAHIDAH BINTI KHALID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EDGC 4904",
+        "sect": 5,
+        "title": "COUNSELING INTERNSHIP",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. SYARIFAH ROHANIAH BT SYED MAHMOOD"
         ],
         "dayTime": []
     },
@@ -3386,9 +3408,9 @@
         "sect": 1,
         "title": "THE SYNTAX OF ENGLISH LANGUAGE",
         "chr": 3.0,
-        "venue": "EDU LR 26 3.86",
+        "venue": "EDU LT 4 3.4",
         "lect": [
-            "DR. MOHAMAD ATEFF BIN MD YUSOF"
+            "DR. MOHAMMAD AZANNEE SAAD"
         ],
         "dayTime": [
             {
@@ -3400,28 +3422,6 @@
                 "day": 3,
                 "startTime": "11:30",
                 "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "EDLE 1208",
-        "sect": 2,
-        "title": "THE SYNTAX OF ENGLISH LANGUAGE",
-        "chr": 3.0,
-        "venue": "EDU LR 26 3.86",
-        "lect": [
-            "DR. MOHAMAD ATEFF BIN MD YUSOF"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
             }
         ]
     },
@@ -3454,7 +3454,7 @@
         "chr": 3.0,
         "venue": "EDU LR 25 3.85",
         "lect": [
-            "DR. HAZIQAH ZULAIKHA BINTI ARIS"
+            "DR. MOHAMAD ATEFF BIN MD YUSOF"
         ],
         "dayTime": [
             {
@@ -3520,7 +3520,7 @@
         "chr": 3.0,
         "venue": "EDU LR 27 3.87",
         "lect": [
-            "DR. MOHAMMAD AZANNEE SAAD"
+            "DR. MOHAMAD ATEFF BIN MD YUSOF"
         ],
         "dayTime": [
             {
@@ -3608,7 +3608,7 @@
         "chr": 3.0,
         "venue": "EDU LR 29 3.75",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD HUZAIFA SIDDIQUI"
         ],
         "dayTime": [
             {
@@ -3837,5 +3837,412 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 1,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 2,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 3,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 4,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1001",
+        "sect": 5,
+        "title": "HAFAZAN 1",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 1,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 2,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AUJI BINTI HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 3,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 4,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AUJI BINTI HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 5,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AUJI BINTI HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 6,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 7,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 8,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AUJI BINTI HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 1002",
+        "sect": 9,
+        "title": "HAFAZAN 2",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 1,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 2,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 3,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 4,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2001",
+        "sect": 5,
+        "title": "HAFAZAN 3",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL GAFUR ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 1,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 2,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 3,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 4,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 5,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL GAFUR ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 6,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL AUJI BINTI HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 2002",
+        "sect": 7,
+        "title": "HAFAZAN 4",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3001",
+        "sect": 1,
+        "title": "HAFAZAN 5",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3001",
+        "sect": 2,
+        "title": "HAFAZAN 5",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3001",
+        "sect": 3,
+        "title": "HAFAZAN 5",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3001",
+        "sect": 4,
+        "title": "HAFAZAN 5",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3002",
+        "sect": 1,
+        "title": "HAFAZAN 6",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NIK MD. SAIFUL AZIZI BIN NIK ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3002",
+        "sect": 2,
+        "title": "HAFAZAN 6",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3002",
+        "sect": 3,
+        "title": "HAFAZAN 6",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. HALIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3002",
+        "sect": 4,
+        "title": "HAFAZAN 6",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 3002",
+        "sect": 5,
+        "title": "HAFAZAN 6",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL GAFUR ARIFIN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 4001",
+        "sect": 1,
+        "title": "HAFAZAN 7",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD IKRAM BIN ABU HASSAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "HEDU 4001",
+        "sect": 2,
+        "title": "HAFAZAN 7",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ARIFIN B. MAMAT"
+        ],
+        "dayTime": []
     }
 ]
