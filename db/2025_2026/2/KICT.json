@@ -202,7 +202,7 @@
         "sect": 4,
         "title": "Introduction to Computer Organisation",
         "chr": 3.0,
-        "venue": "ICT TL-D5-04 LEVEL 5D",
+        "venue": "ICT LR 13 LEVEL 2D",
         "lect": [
             "DR. MARINI BINTI OTHMAN"
         ],
@@ -352,6 +352,72 @@
         ]
     },
     {
+        "code": "BICS 1303",
+        "sect": 7,
+        "title": "Computer Networking",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1303",
+        "sect": 8,
+        "title": "Computer Networking",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 1303",
+        "sect": 9,
+        "title": "Computer Networking",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            },
+            {
+                "day": 4,
+                "startTime": "15:30",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
         "code": "BICS 1304",
         "sect": 1,
         "title": "Object-Oriented Programming",
@@ -402,7 +468,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 6 LEVEL 3C",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ANIS ASMA BINTI SULAIMAN"
         ],
         "dayTime": [
             {
@@ -578,7 +644,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 6 LEVEL 3C",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ANIS ASMA BINTI SULAIMAN"
         ],
         "dayTime": [
             {
@@ -774,7 +840,7 @@
         "sect": 5,
         "title": "Digital & Embedded Systems",
         "chr": 3.0,
-        "venue": "ICT LT 1 LEVEL 4D",
+        "venue": "ICT E4-04 LEVEL 42",
         "lect": [
             "DR. ASMARANI BINTI AHMAD PUZI"
         ],
@@ -796,7 +862,7 @@
         "sect": 6,
         "title": "Digital & Embedded Systems",
         "chr": 3.0,
-        "venue": "ICT LT 1 LEVEL 4D",
+        "venue": "ICT E4-04 LEVEL 42",
         "lect": [
             "DR. ASMARANI BINTI AHMAD PUZI"
         ],
@@ -1062,7 +1128,7 @@
         "chr": 3.0,
         "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ANIS ASMA BINTI SULAIMAN"
         ],
         "dayTime": [
             {
@@ -1084,7 +1150,7 @@
         "chr": 3.0,
         "venue": "ICT LR 9 LEVEL 2C",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ANIS ASMA BINTI SULAIMAN"
         ],
         "dayTime": [
             {
@@ -1368,20 +1434,20 @@
         "sect": 5,
         "title": "Computer Architecture & Assembly Language",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ICT LR 14 LEVEL 2D",
         "lect": [
-            "TO BE DETERMINED"
+            "TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -1456,7 +1522,7 @@
         "sect": 4,
         "title": "Operating Systems",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT LR 10 LEVEL 2C",
         "lect": [
             "DR. NORLIA MD YUSOF"
         ],
@@ -1478,7 +1544,7 @@
         "sect": 7,
         "title": "Operating Systems",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT CITA RESOURCE ROOM LEVEL 2B",
         "lect": [
             "DR. NORLIA MD YUSOF"
         ],
@@ -1800,6 +1866,28 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "BICS 4341",
+        "sect": 2,
+        "title": "Natural Language Processing",
+        "chr": 3.0,
+        "venue": "ICT LR 11 LEVEL 2C",
+        "lect": [
+            "TS. DR. DINI OKTARINA DWI HANDAYANI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },
@@ -2167,6 +2255,28 @@
         ]
     },
     {
+        "code": "BIIT 1302",
+        "sect": 5,
+        "title": "Organisational Informatics",
+        "chr": 3.0,
+        "venue": "ICT LR 14 LEVEL 2D",
+        "lect": [
+            "PROF. DR. ASADULLAH SHAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "BIIT 1303",
         "sect": 1,
         "title": "System Analysis and Design",
@@ -2350,6 +2460,28 @@
         "venue": "ICT TEACH LAB 3 LEVEL 3C",
         "lect": [
             "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 10,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": "ICT CITA EXEC LR LEVEL 1B",
+        "lect": [
+            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
         ],
         "dayTime": [
             {
@@ -2809,18 +2941,18 @@
         "sect": 5,
         "title": "Web Application Development",
         "chr": 3.0,
-        "venue": "ICT TEACH LAB 4 LEVEL 3C",
+        "venue": "ICT TL-C2-06 LEVEL 2C",
         "lect": [
             "DR. NAJHAN BIN MUHAMAD IBRAHIM"
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 1,
                 "startTime": "10:00",
                 "endTime": "11:20"
             },
             {
-                "day": 4,
+                "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
             }
@@ -2831,7 +2963,7 @@
         "sect": 1,
         "title": "ICT and Islam",
         "chr": 3.0,
-        "venue": "ICT LT 1 LEVEL 4D",
+        "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
             "DR. AZNAN ZUHID BIN SAIDIN"
         ],
@@ -2875,7 +3007,7 @@
         "sect": 4,
         "title": "ICT and Islam",
         "chr": 3.0,
-        "venue": "ICT LT 1 LEVEL 4D",
+        "venue": "ICT LR 19 LEVEL 4C",
         "lect": [
             "MUHD. ROSYDI BIN MUHAMMAD"
         ],
@@ -3113,6 +3245,39 @@
         ]
     },
     {
+        "code": "CSCI 2300",
+        "sect": 1,
+        "title": "DATA STRUCTURES AND ALGORITHMS I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. AIZAL YUSRINA IDRIS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CSCI 2301",
+        "sect": 1,
+        "title": "COMPUTER NETWORKING",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CSCI 2302",
+        "sect": 1,
+        "title": "DIGITAL SYSTEMS FUNDAMENTAL",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMARANI BINTI AHMAD PUZI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CSCI 2303",
         "sect": 1,
         "title": "PRINCIPLES OF IT SECURITY",
@@ -3135,11 +3300,22 @@
         ]
     },
     {
+        "code": "CSCI 3300",
+        "sect": 1,
+        "title": "OPERATING SYSTEMS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURAZLIN BINTI ZAINAL AZMI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CSCI 3301",
         "sect": 1,
         "title": "COMPUTER ARCHITECTURE AND ASSEMBLY LANGUAGE",
         "chr": 3.0,
-        "venue": "ICT LR 14 LEVEL 2D",
+        "venue": null,
         "lect": [
             "TO BE DETERMINED"
         ],
@@ -3359,7 +3535,7 @@
         "sect": 1,
         "title": "SOFTWARE TESTING",
         "chr": 3.0,
-        "venue": "ICT LR 13 LEVEL 2D",
+        "venue": "ICT TL-D5-04 LEVEL 5D",
         "lect": [
             "ASSOC. PROF. TS. DR. NORMI SHAM BT. AWANG ABU BAKAR"
         ],
@@ -3729,28 +3905,6 @@
         ]
     },
     {
-        "code": "CSCI 4342",
-        "sect": 2,
-        "title": "NATURAL LANGUAGE PROCESSING",
-        "chr": 3.0,
-        "venue": "ICT LR 11 LEVEL 2C",
-        "lect": [
-            "TS. DR. DINI OKTARINA DWI HANDAYANI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
         "code": "CSCI 4343",
         "sect": 1,
         "title": "DATA SCIENCE",
@@ -3849,6 +4003,17 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "CSCI 4901",
+        "sect": 1,
+        "title": "INDUSTRIAL ATTACHMENT",
+        "chr": 9.0,
+        "venue": null,
+        "lect": [
+            "DR. NURUL LIYANA BINTI MOHAMAD ZULKUFLI"
+        ],
+        "dayTime": []
     },
     {
         "code": "CSCI 4901",
@@ -4034,28 +4199,6 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "INFO 3308",
-        "sect": 1,
-        "title": "PROJECT  MANAGEMENT IN IT",
-        "chr": 3.0,
-        "venue": "ICT TL-D5-03 LEVEL 5D",
-        "lect": [
-            "MADAM NOOR AZIAN BT. MOHAMAD ALI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
             }
         ]
     },
@@ -4284,7 +4427,7 @@
         "sect": 1,
         "title": "ICT AND ISLAM",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
             "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
         ],
@@ -4306,7 +4449,7 @@
         "sect": 2,
         "title": "ICT AND ISLAM",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
             "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
         ],
@@ -4328,7 +4471,7 @@
         "sect": 3,
         "title": "ICT AND ISLAM",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
             "DR. NOOR HASRUL NIZAN BIN MOHAMMAD NOOR"
         ],
@@ -4375,6 +4518,28 @@
         "venue": "ICT TL-E5-03 LEVEL 5E",
         "lect": [
             "MUHD. ROSYDI BIN MUHAMMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "INFO 4304",
+        "sect": 6,
+        "title": "ICT AND ISLAM",
+        "chr": 3.0,
+        "venue": "ICT TEACH LAB 4 LEVEL 3C",
+        "lect": [
+            "DR. NUR LEYNI NILAM PUTRI BINTI JUNURHAM"
         ],
         "dayTime": [
             {
@@ -4548,7 +4713,7 @@
         "sect": 2,
         "title": "DATA MINING",
         "chr": 3.0,
-        "venue": "ICT LT 2 LEVEL 4D",
+        "venue": "ICT CITA RESOURCE ROOM LEVEL 2B",
         "lect": [
             "DR. ABDUL RAFIEZ BIN ABDUL RAZIFF"
         ],
@@ -4616,7 +4781,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 4 LEVEL 3C",
         "lect": [
-            "DR. AHMAD FATZILAH BIN MISMAN"
+            "DR. AYUB BIN ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -4638,7 +4803,7 @@
         "chr": 3.0,
         "venue": "ICT CITA PBL LAB LEVEL 1B",
         "lect": [
-            "DR. AYUB BIN ABDUL RAHMAN"
+            "DR. AHMAD FATZILAH BIN MISMAN"
         ],
         "dayTime": [
             {
@@ -4658,7 +4823,7 @@
         "sect": 1,
         "title": "DIGITAL CONTENT DESIGN",
         "chr": 3.0,
-        "venue": "ICT LT 1 LEVEL 4D",
+        "venue": "ICT E4-04 LEVEL 42",
         "lect": [
             "DR. SUHAILA BINTI SAMSURI"
         ],

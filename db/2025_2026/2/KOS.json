@@ -1,39 +1,5 @@
 [
     {
-        "code": "BAPS 1112",
-        "sect": 1,
-        "title": "PRINCIPLES OF MICROBIOLOGY",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "DR. MD HOIRUL AZRI BIN PONARI"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
-        "code": "BAPS 1211",
-        "sect": 1,
-        "title": "PRINCIPLES OF CELL BIOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
         "code": "BAPS 1313",
         "sect": 1,
         "title": "GENERAL CHEMISTRY",
@@ -190,12 +156,7 @@
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "15:00"
-            },
-            {
-                "day": 3,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "endTime": "16:00"
             }
         ]
     },
@@ -210,14 +171,19 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:30",
-                "endTime": "15:30"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:00"
             },
             {
                 "day": 4,
-                "startTime": "23:00",
-                "endTime": "02:00"
+                "startTime": "11:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "15:00"
             }
         ]
     },
@@ -232,9 +198,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -249,9 +215,9 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -288,9 +254,9 @@
         ],
         "dayTime": [
             {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "16:30"
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
@@ -306,13 +272,13 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. MAIZATUL AKMA BINTI IBRAHIM"
+            "DR. ABDUL LATIF BIN NOH"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "12:00",
-                "endTime": "13:00"
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
             }
         ]
     },
@@ -384,13 +350,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "10:30",
+                "startTime": "10:00",
                 "endTime": "13:00"
             },
             {
                 "day": 2,
                 "startTime": "08:30",
-                "endTime": "10:30"
+                "endTime": "09:30"
             }
         ]
     },
@@ -423,8 +389,8 @@
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "14:30",
-                "endTime": "16:30"
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -439,9 +405,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -490,43 +456,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "BAPS 3232",
-        "sect": 1,
-        "title": "ADVANCES IN PLANT BIOTECHNOLOGY",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "DR. ABDUL LATIF BIN NOH"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "BAPS 3233",
-        "sect": 1,
-        "title": "QUANTITATIVE GENETICS IN PLANT BREEDING",
-        "chr": 2.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. MOHD SYAHMI BIN SALLEH"
-        ],
-        "dayTime": [
-            {
                 "day": 1,
-                "startTime": "14:30",
-                "endTime": "16:30"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -558,7 +490,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "08:30",
                 "endTime": "10:30"
             }
@@ -629,49 +561,11 @@
         "lect": [
             "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
         ],
-        "dayTime": []
-    },
-    {
-        "code": "BAPS 3331",
-        "sect": 1,
-        "title": "PLANT SYSTEM BIOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. NURUL HIDAYAH BINTI SAMSULRIZAL"
-        ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "BAPS 3334",
-        "sect": 1,
-        "title": "SELECTION METHODS IN PLANT BREEDING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. HALIMATON SAADIAH BINTI OTHMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -709,13 +603,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "14:30",
+                "endTime": "16:30"
             },
             {
                 "day": 2,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "08:30",
+                "endTime": "12:30"
             }
         ]
     },
@@ -735,9 +629,9 @@
                 "endTime": "17:00"
             },
             {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -809,13 +703,13 @@
         ]
     },
     {
-        "code": "BAPS 4345",
+        "code": "BAPS 4346",
         "sect": 1,
-        "title": "SOIL AND PLANT ANALYSIS",
+        "title": "PLANT, SOIL AND CLIMATE CHANGE",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. NUR SHUHADA BINTI MUHAMAD TAJUDIN"
+            "DR. MOHD FAUZIHAN BIN KARIM"
         ],
         "dayTime": [
             {
@@ -842,13 +736,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "08:30",
-                "endTime": "11:00"
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -864,13 +758,13 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "08:30",
+                "endTime": "10:30"
             },
             {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -949,14 +843,20 @@
         "lect": [
             "DR. TAMIL CHELVAN S/O MEENAKSHI SUNDRAM"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "11:20",
+                "endTime": "12:30"
+            }
+        ]
     },
     {
         "code": "BKOS 1301",
         "sect": 1,
         "title": "ISLAM AND SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-39",
         "lect": [
             "PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -978,7 +878,7 @@
         "sect": 1,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 2",
         "lect": [
             "PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -1000,7 +900,7 @@
         "sect": 2,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 2",
         "lect": [
             "PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -1022,7 +922,7 @@
         "sect": 3,
         "title": "PHILOSOPHY OF SCIENCE",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS ALT 2",
         "lect": [
             "PROF. DR. IBRAHIM ADAM AHMED SHOGAR"
         ],
@@ -1044,7 +944,7 @@
         "sect": 1,
         "title": "OVERVIEW OF COMPUTATIONAL TOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
             "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
@@ -1061,7 +961,7 @@
         "sect": 2,
         "title": "OVERVIEW OF COMPUTATIONAL TOOLS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
             "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
@@ -1070,6 +970,45 @@
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1311",
+        "sect": 1,
+        "title": "INTRODUCTION TO MARINE SCIENCE AND TECHNOLOGY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NORMAWATY BINTI MOHAMMAD NOOR"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BMST 1312",
+        "sect": 1,
+        "title": "CALCULUS OCEANOGRAPHY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD AKRAM RAMADHAN BIN IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:30"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:30"
             }
         ]
     },
@@ -1084,9 +1023,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
             },
             {
                 "day": 5,
@@ -1102,18 +1041,18 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. MOHD FUAD BIN MISKON"
+            "PROF. DR. KAMARUZZAMAN BIN YUNUS"
         ],
         "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            },
             {
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
             }
         ]
     },
@@ -1128,14 +1067,14 @@
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:00"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "12:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1150,7 +1089,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "09:00",
                 "endTime": "11:00"
             },
@@ -1233,7 +1172,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 5,
                 "startTime": "08:00",
                 "endTime": "11:00"
             }
@@ -1250,7 +1189,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 1,
                 "startTime": "08:00",
                 "endTime": "11:00"
             },
@@ -1273,47 +1212,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 2,
                 "startTime": "14:00",
                 "endTime": "17:00"
-            }
-        ]
-    },
-    {
-        "code": "BMST 3352",
-        "sect": 1,
-        "title": "OCEAN LAW AND POLICY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. JULIANA BT MOHAMED"
-        ],
-        "dayTime": [
+            },
             {
-                "day": 5,
+                "day": 1,
                 "startTime": "08:00",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "BMST 3353",
-        "sect": 1,
-        "title": "MARINE BIOGEOCHEMISTRY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. ASNOR AZRIN BIN SABUTI"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "11:00"
+                "endTime": "10:00"
             }
         ]
     },
@@ -1340,52 +1245,13 @@
         ]
     },
     {
-        "code": "BMST 3355",
-        "sect": 1,
-        "title": "RESEARCH METHODOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "11:00"
-            }
-        ]
-    },
-    {
-        "code": "BMST 3356",
-        "sect": 1,
-        "title": "MARINE ECOTOXICOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. KAMARUZZAMAN BIN YUNUS"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
         "code": "BMST 4090",
         "sect": 1,
         "title": "INDUSTRIAL TRAINING",
         "chr": 12.0,
         "venue": null,
         "lect": [
-            "DR. AHMAD AZFAR BIN MOHAMED"
+            "DR. AIMIMULIANI BINTI ADAM"
         ],
         "dayTime": []
     },
@@ -1423,8 +1289,8 @@
             },
             {
                 "day": 2,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -1440,8 +1306,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             },
             {
                 "day": 3,
@@ -1506,13 +1372,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "12:00",
+                "startTime": "11:00",
                 "endTime": "13:00"
             },
             {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:00"
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
             }
         ]
     },
@@ -1572,12 +1438,12 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
+                "startTime": "08:00",
+                "endTime": "10:00"
             },
             {
                 "day": 3,
-                "startTime": "11:00",
+                "startTime": "10:00",
                 "endTime": "13:00"
             }
         ]
@@ -1725,7 +1591,7 @@
                 "endTime": "17:00"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "11:00",
                 "endTime": "13:00"
             }
@@ -1747,7 +1613,7 @@
                 "endTime": "17:00"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "11:00",
                 "endTime": "13:00"
             }
@@ -1765,8 +1631,8 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "09:00",
-                "endTime": "11:00"
+                "startTime": "11:00",
+                "endTime": "13:00"
             },
             {
                 "day": 3,
@@ -2252,8 +2118,8 @@
             },
             {
                 "day": 4,
-                "startTime": "11:00",
-                "endTime": "13:00"
+                "startTime": "09:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -2376,7 +2242,7 @@
             {
                 "day": 3,
                 "startTime": "08:00",
-                "endTime": "11:00"
+                "endTime": "10:00"
             },
             {
                 "day": 4,
@@ -2627,7 +2493,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. ROSLIZA BINTI MOHD. SALIM"
+            "DR. WAN ZURINA SAMAD"
         ],
         "dayTime": [
             {
@@ -2812,7 +2678,13 @@
         "lect": [
             "DR. NURUL IMAN AMINUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "BSCH 3225",
@@ -3075,7 +2947,13 @@
         "lect": [
             "DR. NURUL IMAN AMINUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
     },
     {
         "code": "BSMS 1301",
@@ -3258,20 +3136,20 @@
         "sect": 1,
         "title": "INTRODUCTION TO DATA ANALYTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CTS BUILDING KOS L TRATAI",
         "lect": [
             "DR. NOR RAIHAN BINTI MOHAMAD ASIMONI"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "day": 1,
+                "startTime": "15:30",
+                "endTime": "17:00"
             },
             {
-                "day": 5,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "day": 3,
+                "startTime": "03:30",
+                "endTime": "05:00"
             }
         ]
     },
@@ -3927,8 +3805,8 @@
             },
             {
                 "day": 4,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -3949,8 +3827,8 @@
             },
             {
                 "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:30"
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -3988,8 +3866,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "03:30",
+                "endTime": "05:00"
             }
         ]
     },
@@ -4010,8 +3888,8 @@
             },
             {
                 "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -4027,13 +3905,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "day": 2,
+                "startTime": "03:30",
+                "endTime": "05:00"
             }
         ]
     },
@@ -4159,8 +4037,8 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             }
         ]
     },
@@ -4203,8 +4081,8 @@
             },
             {
                 "day": 3,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -4219,14 +4097,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "17:00"
-            },
-            {
                 "day": 3,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             }
         ]
     },
@@ -4263,14 +4136,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:30"
-            },
-            {
                 "day": 3,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -4286,8 +4154,8 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             },
             {
                 "day": 3,
@@ -4307,14 +4175,14 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "day": 1,
+                "startTime": "03:30",
+                "endTime": "05:00"
             },
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:30"
             }
         ]
     },
@@ -4329,14 +4197,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:30"
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "11:30"
             }
         ]
     },
@@ -4395,12 +4258,12 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "day": 3,
+                "startTime": "09:30",
+                "endTime": "11:00"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "09:30",
                 "endTime": "11:00"
             }
@@ -4737,8 +4600,8 @@
             },
             {
                 "day": 4,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "startTime": "15:30",
+                "endTime": "17:00"
             }
         ]
     },
@@ -4754,13 +4617,13 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:30"
+                "startTime": "08:30",
+                "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "day": 2,
+                "startTime": "15:30",
+                "endTime": "17:00"
             }
         ]
     },
@@ -4780,9 +4643,9 @@
                 "endTime": "15:30"
             },
             {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "13:00"
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:30"
             }
         ]
     },
@@ -4797,14 +4660,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:30"
-            },
-            {
-                "day": 3,
+                "day": 4,
                 "startTime": "08:00",
-                "endTime": "09:30"
+                "endTime": "11:00"
             }
         ]
     },
@@ -4824,9 +4682,9 @@
                 "endTime": "11:00"
             },
             {
-                "day": 3,
-                "startTime": "09:30",
-                "endTime": "11:00"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -4841,14 +4699,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "15:30",
-                "endTime": "17:00"
-            },
-            {
                 "day": 3,
                 "startTime": "09:30",
-                "endTime": "11:00"
+                "endTime": "12:30"
             }
         ]
     },
