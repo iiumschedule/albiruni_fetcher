@@ -3559,6 +3559,23 @@
     },
     {
         "code": "CCLM 2020",
+        "sect": 511,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
         "sect": 801,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
@@ -3951,6 +3968,23 @@
     {
         "code": "CCMT 1010",
         "sect": 801,
+        "title": "TAE KWAN DO 1 (THEORY & PRACTICAL)",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCMT 1010",
+        "sect": 802,
         "title": "TAE KWAN DO 1 (THEORY & PRACTICAL)",
         "chr": 0.5,
         "venue": null,
@@ -4953,6 +4987,23 @@
     },
     {
         "code": "CCSM 1010",
+        "sect": 501,
+        "title": "SMART MONEY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "CCSM 1010",
         "sect": 801,
         "title": "SMART MONEY MANAGEMENT",
         "chr": 0.5,
@@ -5387,7 +5438,7 @@
         ],
         "dayTime": [
             {
-                "day": 1,
+                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -5404,7 +5455,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 1,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -5455,7 +5506,7 @@
         ],
         "dayTime": [
             {
-                "day": 3,
+                "day": 2,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
