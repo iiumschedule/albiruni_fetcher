@@ -1,5 +1,22 @@
 [
     {
+        "code": "BAAD 1111",
+        "sect": 1,
+        "title": "GRAPHICS COMMUNICATION & PRESENTATION",
+        "chr": 2.0,
+        "venue": "KAED TR(L3) 18",
+        "lect": [
+            "TS. ISMAIL BIN JASMANI"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            }
+        ]
+    },
+    {
         "code": "BAAD 1201",
         "sect": 1,
         "title": "APPLIED ARTS & DESIGN STUDIO 2",
@@ -12,7 +29,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "18:00"
             },
             {
                 "day": 1,
@@ -34,7 +51,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "18:00"
             },
             {
                 "day": 1,
@@ -150,7 +167,7 @@
         "sect": 1,
         "title": "APPLIED ARTS & DESIGN STUDIO 4",
         "chr": 5.0,
-        "venue": null,
+        "venue": "KAED AIR FLOW LAB 1",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -182,9 +199,9 @@
         "sect": 2,
         "title": "APPLIED ARTS & DESIGN STUDIO 4",
         "chr": 5.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 15",
         "lect": [
-            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
+            "NURUL HUSNA BINTI AMIRUZAN"
         ],
         "dayTime": [
             {
@@ -214,41 +231,9 @@
         "sect": 3,
         "title": "APPLIED ARTS & DESIGN STUDIO 4",
         "chr": 5.0,
-        "venue": null,
+        "venue": "KAED ERGONOMIC LAB 1",
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:00"
-            },
-            {
-                "day": 5,
-                "startTime": "14:30",
-                "endTime": "16:30"
-            },
-            {
-                "day": 5,
-                "startTime": "09:30",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAD 2201",
-        "sect": 4,
-        "title": "APPLIED ARTS & DESIGN STUDIO 4",
-        "chr": 5.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
         "dayTime": [
             {
@@ -382,7 +367,7 @@
         "chr": 3.0,
         "venue": "KAED (L1) CAD LAB2",
         "lect": [
-            "DR. NURLELAWATI BT. AB JALIL"
+            "MUHAMMAD AMIRRUDDIN SHAH BIN AHMAD NIZAM"
         ],
         "dayTime": [
             {
@@ -414,7 +399,7 @@
         "sect": 1,
         "title": "APPLIED ARTS AND DESIGN STUDIO 6",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED CRIT ROOM 1",
         "lect": [
             "DR. NURLELAWATI BT. AB JALIL"
         ],
@@ -446,9 +431,9 @@
         "sect": 1,
         "title": "APPLIED ARTS & DESIGN STUDIO 6",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 14",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD AMIRRUDDIN SHAH BIN AHMAD NIZAM"
         ],
         "dayTime": [
             {
@@ -478,7 +463,7 @@
         "sect": 2,
         "title": "APPLIED ARTS & DESIGN STUDIO 6",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 14",
         "lect": [
             "DR. ARITA HANIM BT. AWANG"
         ],
@@ -510,9 +495,9 @@
         "sect": 3,
         "title": "APPLIED ARTS & DESIGN STUDIO 6",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 15",
         "lect": [
-            "TO BE DETERMINED"
+            "MIOR RAZALI BIN ABDULLAH SANI"
         ],
         "dayTime": [
             {
@@ -542,7 +527,7 @@
         "sect": 4,
         "title": "APPLIED ARTS & DESIGN STUDIO 6",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED CRIT ROOM 1",
         "lect": [
             "DR. NURLELAWATI BT. AB JALIL"
         ],
@@ -582,7 +567,7 @@
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "16:00"
             }
         ]
     },
@@ -644,7 +629,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
         "dayTime": [
             {
@@ -676,7 +661,7 @@
         "sect": 1,
         "title": "SUSTAINABLE HERITAGE PRACTICES",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 6",
+        "venue": "KAED (L1) GIS LAB",
         "lect": [
             "ASSOC. PROF. DR. SHAMZANI AFFENDY BIN MOHD. DIN"
         ],
@@ -695,7 +680,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. JULAILA BINTI ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -718,7 +703,7 @@
             {
                 "day": 4,
                 "startTime": "14:00",
-                "endTime": "16:00"
+                "endTime": "18:00"
             }
         ]
     },
@@ -727,7 +712,7 @@
         "sect": 1,
         "title": "DEGREE PROJECT",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 13",
         "lect": [
             "TS. ISMAIL BIN JASMANI"
         ],
@@ -759,7 +744,7 @@
         "sect": 2,
         "title": "DEGREE PROJECT",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 13",
         "lect": [
             "DR. NURHAYA BT BANIYAMIN"
         ],
@@ -791,7 +776,7 @@
         "sect": 3,
         "title": "DEGREE PROJECT",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 13",
         "lect": [
             "DR. FADZLI IRWAN BIN BAHRUDIN"
         ],
@@ -823,7 +808,7 @@
         "sect": 4,
         "title": "DEGREE PROJECT",
         "chr": 6.0,
-        "venue": null,
+        "venue": "KAED PG ROOOM (L3) 2",
         "lect": [
             "TS. DR. RAJABI BINTI ABDUL RAZAK"
         ],
@@ -929,9 +914,9 @@
         ],
         "dayTime": [
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "13:00"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -1121,7 +1106,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "KHAIRUL MUNAUWIR BIN ABDUL WAHAB"
         ],
         "dayTime": [
             {
@@ -1153,7 +1138,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "ASRA LAILY BINTI SHAKOR RAMAT"
         ],
         "dayTime": [
             {
@@ -1493,7 +1478,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 9",
         "lect": [
-            "TO BE DETERMINED"
+            "DATIN NORWINA BT. MOHD. NAWAWI"
         ],
         "dayTime": [
             {
@@ -1525,7 +1510,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 9",
         "lect": [
-            "TO BE DETERMINED"
+            "NUUR LIYANA BINTI KHAIRUDDIN"
         ],
         "dayTime": [
             {
@@ -1609,23 +1594,6 @@
         "venue": "KAED L2 LT2",
         "lect": [
             "MUHAMMAD IHSAN BIN SHAHARIL"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
-        "code": "BAAR 2203",
-        "sect": 5,
-        "title": "WORKING DRAWING AND SPECIFICATION",
-        "chr": 3.0,
-        "venue": "KAED L2 LT2",
-        "lect": [
-            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1806,7 +1774,7 @@
         "chr": 6.0,
         "venue": "KAED STUDIO(L3) 12",
         "lect": [
-            "TO BE DETERMINED"
+            "ADIB BIN MARUZIKI"
         ],
         "dayTime": [
             {
@@ -1838,7 +1806,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "MR. ADLI HADI BIN ABDUL HADI"
+            "MUHAMMAD IHSAN BIN SHAHARIL"
         ],
         "dayTime": [
             {
@@ -1993,7 +1961,7 @@
         ],
         "dayTime": [
             {
-                "day": 2,
+                "day": 4,
                 "startTime": "14:30",
                 "endTime": "17:30"
             }
@@ -2010,7 +1978,7 @@
         ],
         "dayTime": [
             {
-                "day": 4,
+                "day": 2,
                 "startTime": "14:30",
                 "endTime": "17:30"
             }
@@ -2021,15 +1989,15 @@
         "sect": 1,
         "title": "PRINCIPLES OF STRUCTURES",
         "chr": 2.0,
-        "venue": "KAED L4 LT4",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. IR. DR. MOHD FAIRULLAZI BIN AYOB"
         ],
         "dayTime": [
             {
-                "day": 4,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2044,9 +2012,9 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2089,15 +2057,15 @@
         "sect": 1,
         "title": "PRINCIPLES OF BUILDING CONSTRUCTION 2",
         "chr": 3.0,
-        "venue": "KAED L4 LT4",
+        "venue": null,
         "lect": [
-            "DR. NOR HAZWANI BINTI AHMAD @ SHAFEI"
+            "DR. KHAIRUSY SYAKIRIN HAS-YUN BIN HASHIM"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2184,15 +2152,15 @@
         "sect": 1,
         "title": "PRE-CONTRACT ADMINISTRATION FOR QUANTITY SURVEYORS",
         "chr": 3.0,
-        "venue": "KAED SR (L2) 7",
+        "venue": null,
         "lect": [
             "SR. DR. ROZIHA BINTI CHE HARON"
         ],
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2201,15 +2169,15 @@
         "sect": 1,
         "title": "BUILDING AND ENGINEERING SERVICES",
         "chr": 3.0,
-        "venue": "KAED L2 LT2",
+        "venue": null,
         "lect": [
             "DR. NOR HAZWANI BINTI AHMAD @ SHAFEI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2335,15 +2303,15 @@
         "sect": 1,
         "title": "BUSINESS ADMINISTRATION FOR QUANTITY SURVEYORS",
         "chr": 2.0,
-        "venue": "KAED L3 LT3",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. SR. DR. TAN CHIN KENG"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2352,15 +2320,15 @@
         "sect": 2,
         "title": "BUSINESS ADMINISTRATION FOR QUANTITY SURVEYORS",
         "chr": 2.0,
-        "venue": "KAED L3 LT3",
+        "venue": null,
         "lect": [
             "DR. NUR AFFAH BT. MOHYIN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2403,15 +2371,15 @@
         "sect": 1,
         "title": "PRINCIPLES OF ESTIMATING FOR BUILDING SERVICES AND EXTERNAL WORKS",
         "chr": 3.0,
-        "venue": "KAED L1 LT1",
+        "venue": null,
         "lect": [
             "ASSOC. PROF. DR. SH MAZLINA BT. SYED KHUZZAN ALHABSHI"
         ],
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2420,15 +2388,15 @@
         "sect": 2,
         "title": "PRINCIPLES OF ESTIMATING FOR BUILDING SERVICES AND EXTERNAL WORKS",
         "chr": 3.0,
-        "venue": "KAED L1 LT1",
+        "venue": null,
         "lect": [
             "SR. DR. MASIDAH BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
                 "day": 4,
-                "startTime": "14:30",
-                "endTime": "17:30"
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },
@@ -2625,7 +2593,7 @@
         "chr": 3.0,
         "venue": "KAED COMP GRAPHICS DESIGN L2",
         "lect": [
-            "ASSOC. PROF. TPR. DR. M. ZAINORA BT. ASMAWI"
+            "ASSOC. PROF. TPR. DR. SYAHRIAH BT. BACHOK"
         ],
         "dayTime": [
             {
@@ -2747,6 +2715,23 @@
         "dayTime": [
             {
                 "day": 2,
+                "startTime": "14:30",
+                "endTime": "16:30"
+            }
+        ]
+    },
+    {
+        "code": "BAUP 4170",
+        "sect": 1,
+        "title": "PROJECT PAPER",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MARIANA BT. MOHAMED OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
                 "startTime": "09:00",
                 "endTime": "11:00"
             }
@@ -2824,7 +2809,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "18:00"
             }
         ]
     },
@@ -2846,7 +2831,7 @@
             {
                 "day": 1,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "18:00"
             }
         ]
     },
@@ -3174,7 +3159,7 @@
             {
                 "day": 3,
                 "startTime": "14:00",
-                "endTime": "17:00"
+                "endTime": "16:00"
             }
         ]
     },
@@ -3217,7 +3202,7 @@
         "sect": 1,
         "title": "TOPICAL RESEARCH",
         "chr": 4.0,
-        "venue": "KAED STUDIO(L4) 23",
+        "venue": "KAED TR 6 L1",
         "lect": [
             "PROF. DR. RASHIDI BIN OTHMAN"
         ],
@@ -3249,7 +3234,7 @@
         "sect": 2,
         "title": "TOPICAL RESEARCH",
         "chr": 4.0,
-        "venue": "KAED STUDIO(L4) 23",
+        "venue": "KAED TR 6 L1",
         "lect": [
             "ASSOC. PROF. DR. MAZLINA BINTI MANSOR"
         ],
@@ -3281,7 +3266,7 @@
         "sect": 3,
         "title": "TOPICAL RESEARCH",
         "chr": 4.0,
-        "venue": "KAED STUDIO(L4) 23",
+        "venue": "KAED TR 6 L1",
         "lect": [
             "ASSOC. PROF. LAR. DR. PUTRI HARYATI BINTI IBRAHIM"
         ],
