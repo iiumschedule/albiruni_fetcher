@@ -94,7 +94,7 @@
         "chr": 2.0,
         "venue": "PGH PBL ROOM 1 B4.1.27",
         "lect": [
-            "TO BE DETERMINED"
+            "NIK HANIDA BINTI NIK KAMARUZAMAN"
         ],
         "dayTime": [
             {
@@ -116,7 +116,7 @@
         "chr": 2.0,
         "venue": "PGH PBL ROOM 1 B4.1.27",
         "lect": [
-            "TO BE DETERMINED"
+            "AZIRA NUR NADIAH BINTI MD ESA"
         ],
         "dayTime": [
             {
@@ -224,7 +224,7 @@
         "sect": 501,
         "title": "MANDARIN LANGUAGE III",
         "chr": 2.0,
-        "venue": "PGH FRENCH ROOM B4.1.32",
+        "venue": "PGH PBL ROOM 1 B3.1.16",
         "lect": [
             "MUHAMMAD NAZIRUL BIN MOHD NOOR"
         ],
@@ -382,7 +382,7 @@
         "sect": 3,
         "title": "ENGLISH IN FOCUS",
         "chr": 0.0,
-        "venue": "ICT LR 2 LEVEL 1D",
+        "venue": "ICT LR 1 LEVEL 1C",
         "lect": [
             "HARLINDA BINTI DALDIRI"
         ],
@@ -390,41 +390,81 @@
             {
                 "day": 1,
                 "startTime": "08:00",
-                "endTime": "13:00"
+                "endTime": "10:30"
             },
             {
                 "day": 1,
                 "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 1,
+                "startTime": "10:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 1,
+                "startTime": "16:30",
                 "endTime": "18:00"
             },
             {
                 "day": 2,
                 "startTime": "08:00",
-                "endTime": "13:00"
+                "endTime": "10:30"
             },
             {
                 "day": 2,
                 "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 2,
+                "startTime": "10:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 2,
+                "startTime": "16:30",
                 "endTime": "18:00"
             },
             {
                 "day": 3,
                 "startTime": "08:00",
-                "endTime": "13:00"
+                "endTime": "10:30"
             },
             {
                 "day": 3,
                 "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 3,
+                "startTime": "10:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "16:30",
                 "endTime": "18:00"
             },
             {
                 "day": 4,
                 "startTime": "08:00",
-                "endTime": "13:00"
+                "endTime": "10:30"
             },
             {
                 "day": 4,
                 "startTime": "14:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": 4,
+                "startTime": "10:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "16:30",
                 "endTime": "18:00"
             },
             {
@@ -610,9 +650,9 @@
         "sect": 7,
         "title": "ENGLISH IN FOCUS",
         "chr": 0.0,
-        "venue": "ICT LR 1 LEVEL 1C",
+        "venue": "ENG TR E0-2-22",
         "lect": [
-            "TO BE DETERMINED"
+            "NATASHA BINTI AYUB"
         ],
         "dayTime": [
             {
@@ -658,7 +698,7 @@
             {
                 "day": 5,
                 "startTime": "08:00",
-                "endTime": "12:00"
+                "endTime": "13:00"
             }
         ]
     },
@@ -667,9 +707,9 @@
         "sect": 8,
         "title": "ENGLISH IN FOCUS",
         "chr": 0.0,
-        "venue": "KAED TR (L1) 4",
+        "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORAMIZAH BT HAJI MOHD YUSOFF"
         ],
         "dayTime": [
             {
@@ -715,7 +755,7 @@
             {
                 "day": 5,
                 "startTime": "08:00",
-                "endTime": "12:00"
+                "endTime": "13:00"
             }
         ]
     },
@@ -838,7 +878,7 @@
         "sect": 3,
         "title": "ENGLISH ON TRACK",
         "chr": 0.0,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 3",
         "lect": [
             "NURSHIDAH ABDUL WAHAB"
         ],
@@ -895,123 +935,9 @@
         "sect": 4,
         "title": "ENGLISH ON TRACK",
         "chr": 0.0,
-        "venue": null,
+        "venue": "KENMS 4.5 LEVEL 4",
         "lect": [
             "YANTE ALEEZA BINTI APISAH"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1012",
-        "sect": 5,
-        "title": "ENGLISH ON TRACK",
-        "chr": 0.0,
-        "venue": "ENG TR E0-2-22",
-        "lect": [
-            "NORAMIZAH BT HAJI MOHD YUSOFF"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "10:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1012",
-        "sect": 6,
-        "title": "ENGLISH ON TRACK",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
         ],
         "dayTime": [
             {
@@ -1177,7 +1103,7 @@
         "sect": 4,
         "title": "ENGLISH ON THE GO",
         "chr": 0.0,
-        "venue": null,
+        "venue": "ENG TR E0-2-46",
         "lect": [
             "FARHANA BINTI ABDUL KARIM"
         ],
@@ -1201,117 +1127,6 @@
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1013",
-        "sect": 5,
-        "title": "ENGLISH ON THE GO",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "SHAHRUL ANNUAR BIN OTHMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1013",
-        "sect": 6,
-        "title": "ENGLISH ON THE GO",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 5,
-                "startTime": "08:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1013",
-        "sect": 501,
-        "title": "ENGLISH ON THE GO",
-        "chr": 0.0,
-        "venue": "PGH PBL ROOM 2 B4.1.28",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "18:00"
             },
             {
                 "day": 5,
@@ -1450,102 +1265,6 @@
     },
     {
         "code": "LEED 1014",
-        "sect": 5,
-        "title": "ENGLISH IN ACTION",
-        "chr": 0.0,
-        "venue": "KAED TR (L2) 15",
-        "lect": [
-            "WAN NARMI AZIANA BINTI WAN ABDULLAH"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:30"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:30"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1014",
-        "sect": 6,
-        "title": "ENGLISH IN ACTION",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "SUHAILA BINTI MUHAMAD"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 2,
-                "startTime": "10:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 4,
-                "startTime": "10:30",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1014",
-        "sect": 7,
-        "title": "ENGLISH IN ACTION",
-        "chr": 0.0,
-        "venue": "HSC TR 20 1.55",
-        "lect": [
-            "NATASHA BINTI AYUB"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:30"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:30"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:30"
-            }
-        ]
-    },
-    {
-        "code": "LEED 1014",
         "sect": 8,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
@@ -1581,7 +1300,7 @@
         "sect": 9,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
-        "venue": null,
+        "venue": "KAED TR (L1) 3",
         "lect": [
             "NOOR AMILI BT. HJ. ABDUL GHANI"
         ],
@@ -1613,7 +1332,7 @@
         "sect": 10,
         "title": "ENGLISH IN ACTION",
         "chr": 0.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
             "CATHRINE BERNADETTE BOUDVILLE"
         ],
@@ -1679,7 +1398,7 @@
         "chr": 0.0,
         "venue": "PGH PBL ROOM 2 B4.1.28",
         "lect": [
-            "TO BE DETERMINED"
+            "BALQIS BINTI NIZAR"
         ],
         "dayTime": [
             {
@@ -1711,7 +1430,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HASNOR EILINA BINTI HASSIM"
         ],
         "dayTime": [
             {
@@ -1733,7 +1452,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SUHAILA BINTI MUHAMAD"
         ],
         "dayTime": [
             {
@@ -1755,7 +1474,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "TO BE DETERMINED"
+            "SUHAILA BINTI MUHAMAD"
         ],
         "dayTime": [
             {
@@ -1775,9 +1494,9 @@
         "sect": 4,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR HAYATI BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1799,7 +1518,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORAZAH BINTI. MD. IDRUS"
         ],
         "dayTime": [
             {
@@ -1821,7 +1540,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "FARHANA BINTI ABDUL KARIM"
         ],
         "dayTime": [
             {
@@ -1843,7 +1562,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NARMI AZIANA BINTI WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1865,7 +1584,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ADURA BINTI MOHD. ALI"
         ],
         "dayTime": [
             {
@@ -1887,7 +1606,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "ARNIE NARTIKA NAHARUDIN"
         ],
         "dayTime": [
             {
@@ -1909,7 +1628,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ZURAIDAH BINTI ISMAIL"
         ],
         "dayTime": [
             {
@@ -1931,7 +1650,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SURAYA BEGUM BINTI MAT TAZIN"
         ],
         "dayTime": [
             {
@@ -1951,9 +1670,9 @@
         "sect": 12,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "ARNIE NARTIKA NAHARUDIN"
         ],
         "dayTime": [
             {
@@ -1975,7 +1694,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "BALJIT KAUR D/O SANTAKH SINGH"
         ],
         "dayTime": [
             {
@@ -1997,7 +1716,7 @@
         "chr": 3.0,
         "venue": "CFL IBN ALJAUZI LAB LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "SUHAILA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2019,7 +1738,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AZIERA BINTI MOHD. RAMLI"
         ],
         "dayTime": [
             {
@@ -2041,7 +1760,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD DANIAL BIN BAHARUDIN"
         ],
         "dayTime": [
             {
@@ -2063,7 +1782,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MONA MAZLINDA BT. MOKHTAR"
         ],
         "dayTime": [
             {
@@ -2085,7 +1804,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MS. ARLINA ZURA BINTI ZUBER"
         ],
         "dayTime": [
             {
@@ -2105,9 +1824,9 @@
         "sect": 19,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "NATASHA BINTI AYUB"
         ],
         "dayTime": [
             {
@@ -2129,7 +1848,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HARLINDA BINTI DALDIRI"
         ],
         "dayTime": [
             {
@@ -2149,9 +1868,9 @@
         "sect": 21,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "KENMS 4.10 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "ALINA FAZILAH BINTI FAZI"
         ],
         "dayTime": [
             {
@@ -2173,7 +1892,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HASNI BT MUSTAPHA"
         ],
         "dayTime": [
             {
@@ -2193,9 +1912,9 @@
         "sect": 23,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "HAZLINAH BINTI AB. RAHMAN"
         ],
         "dayTime": [
             {
@@ -2217,7 +1936,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. KULWANT KAUR A/P KARTAR SINGH"
         ],
         "dayTime": [
             {
@@ -2237,9 +1956,9 @@
         "sect": 25,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.10 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "ARINAH BINTI OTHMAN"
         ],
         "dayTime": [
             {
@@ -2261,7 +1980,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR HAYATI BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2283,7 +2002,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "AZURA BINTI ABDUL RAZAK"
         ],
         "dayTime": [
             {
@@ -2305,7 +2024,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. KULWANT KAUR A/P KARTAR SINGH"
         ],
         "dayTime": [
             {
@@ -2327,7 +2046,7 @@
         "chr": 3.0,
         "venue": "CFL IBN ALJAUZI LAB LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD DANIAL BIN BAHARUDIN"
         ],
         "dayTime": [
             {
@@ -2349,7 +2068,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AZURA BINTI ABDUL RAZAK"
         ],
         "dayTime": [
             {
@@ -2371,7 +2090,7 @@
         "chr": 3.0,
         "venue": "KENMS 4.10 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "HARTINI BINTI HJ. JAMIL"
         ],
         "dayTime": [
             {
@@ -2393,7 +2112,7 @@
         "chr": 3.0,
         "venue": "CFL IBN ALJAUZI LAB LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MS. ARLINA ZURA BINTI ZUBER"
         ],
         "dayTime": [
             {
@@ -2415,7 +2134,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HARTINI BINTI HJ. JAMIL"
         ],
         "dayTime": [
             {
@@ -2437,7 +2156,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN ZETI BINTI WAN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -2459,7 +2178,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RUZAI SYARILILI AIYU BINTI ABD. RASHID"
         ],
         "dayTime": [
             {
@@ -2479,9 +2198,9 @@
         "sect": 36,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN INTAN AZRINNA BINTI WAN ABDUL WAHAB"
         ],
         "dayTime": [
             {
@@ -2501,9 +2220,9 @@
         "sect": 37,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "ALINA FAZILAH BINTI FAZI"
         ],
         "dayTime": [
             {
@@ -2525,7 +2244,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN ZETI BINTI WAN IBRAHIM"
         ],
         "dayTime": [
             {
@@ -2547,7 +2266,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "HARLINDA BINTI DALDIRI"
         ],
         "dayTime": [
             {
@@ -2569,7 +2288,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "TO BE DETERMINED"
+            "HASNI BT MUSTAPHA"
         ],
         "dayTime": [
             {
@@ -2591,7 +2310,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "KHADIJAH BINTI MOHD. RADZI"
         ],
         "dayTime": [
             {
@@ -2611,9 +2330,9 @@
         "sect": 42,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "KENMS 4.5 LEVEL 4",
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "RUZAI SYARILILI AIYU BINTI ABD. RASHID"
         ],
         "dayTime": [
             {
@@ -2635,7 +2354,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. KHAIRUL BIN ABU SUFI"
         ],
         "dayTime": [
             {
@@ -2657,7 +2376,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR HAIMIAKHTAR BT. ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -2679,7 +2398,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "TO BE DETERMINED"
+            "BUKHARI BIN SHAFIE"
         ],
         "dayTime": [
             {
@@ -2701,7 +2420,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "KHADIJAH BINTI MOHD. RADZI"
         ],
         "dayTime": [
             {
@@ -2723,7 +2442,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR HAIMIAKHTAR BT. ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -2743,9 +2462,9 @@
         "sect": 48,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "CFL 1 IBN ASAKIR 4.21",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI ZUBAIDAH BINTI ANUAR"
         ],
         "dayTime": [
             {
@@ -2767,7 +2486,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI ZUBAIDAH BINTI ANUAR"
         ],
         "dayTime": [
             {
@@ -2789,7 +2508,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ZURAIYA BINTI HJ. KHAIRUDDIN"
         ],
         "dayTime": [
             {
@@ -2811,7 +2530,7 @@
         "chr": 3.0,
         "venue": "KENMS 4.10 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "NORZILAWATI BINTI ISHAK"
         ],
         "dayTime": [
             {
@@ -2833,7 +2552,7 @@
         "chr": 3.0,
         "venue": "CFL IBN ALJAUZI LAB LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NATASHA BINTI AYUB"
         ],
         "dayTime": [
             {
@@ -2855,7 +2574,7 @@
         "chr": 3.0,
         "venue": "KENMS 4.10 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "NORZILAWATI BINTI ISHAK"
         ],
         "dayTime": [
             {
@@ -2877,7 +2596,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AHMAD ASHAARI BIN ALIAS"
         ],
         "dayTime": [
             {
@@ -2899,7 +2618,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN PUTRI ZAHRA BINTI WAN YUSOF"
         ],
         "dayTime": [
             {
@@ -2921,7 +2640,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NURZIDA BINTI MOHAMED KALAM"
         ],
         "dayTime": [
             {
@@ -2943,7 +2662,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 2",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR ZURAIYA BINTI HJ. KHAIRUDDIN"
         ],
         "dayTime": [
             {
@@ -2965,7 +2684,7 @@
         "chr": 3.0,
         "venue": "KENMS 4.10 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "NURZAHIYAH BINTI ABU HASSAN"
         ],
         "dayTime": [
             {
@@ -2987,7 +2706,7 @@
         "chr": 3.0,
         "venue": "CFL 7 AL MUBARRID 4.27",
         "lect": [
-            "TO BE DETERMINED"
+            "HAZLINAH BINTI AB. RAHMAN"
         ],
         "dayTime": [
             {
@@ -3009,7 +2728,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NURZIDA BINTI MOHAMED KALAM"
         ],
         "dayTime": [
             {
@@ -3031,7 +2750,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN PUTRI ZAHRA BINTI WAN YUSOF"
         ],
         "dayTime": [
             {
@@ -3053,7 +2772,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "TO BE DETERMINED"
+            "SUHAILA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -3075,7 +2794,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AMIRAH RAIHANA BINTI ABDUL RAHMAN"
         ],
         "dayTime": [
             {
@@ -3097,7 +2816,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NURZAHIYAH BINTI ABU HASSAN"
         ],
         "dayTime": [
             {
@@ -3119,7 +2838,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SURAYA BEGUM BINTI MAT TAZIN"
         ],
         "dayTime": [
             {
@@ -3141,7 +2860,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 2",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR AZIERA BINTI MOHD. RAMLI"
         ],
         "dayTime": [
             {
@@ -3163,7 +2882,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LIZA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -3185,7 +2904,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LIZA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -3207,7 +2926,7 @@
         "chr": 3.0,
         "venue": "CFL SOSDEL LAB 1",
         "lect": [
-            "TO BE DETERMINED"
+            "SHAHRUL ANNUAR BIN OTHMAN"
         ],
         "dayTime": [
             {
@@ -3229,7 +2948,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAZIA BINTI MOHAMED IBRAHIM"
         ],
         "dayTime": [
             {
@@ -3251,7 +2970,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NORAMIZAH BT HAJI MOHD YUSOFF"
         ],
         "dayTime": [
             {
@@ -3273,7 +2992,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
         ],
         "dayTime": [
             {
@@ -3293,9 +3012,9 @@
         "sect": 73,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "CFL SOSDEL LAB 2",
+        "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "FOZIAH BINTI RAHMAN"
         ],
         "dayTime": [
             {
@@ -3317,7 +3036,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "FOZIAH BINTI RAHMAN"
         ],
         "dayTime": [
             {
@@ -3339,18 +3058,62 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. LILISURIANI BINTI ABDUL LATIF @ BAPOO"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 76,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": "ICT LR 2 LEVEL 1D",
+        "lect": [
+            "DR. MOHD. KHAIRUL BIN ABU SUFI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 77,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": "KENMS 4.10 LEVEL 4",
+        "lect": [
+            "MRS. NOR HASNI BINTI YAAKOB"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             },
             {
                 "day": 4,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "startTime": "11:30",
+                "endTime": "13:00"
             }
         ]
     },
@@ -3361,7 +3124,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 1 B4.1.27",
         "lect": [
-            "TO BE DETERMINED"
+            "IMAN AMEERA BALQIS BINTI MOHD MAHZAN"
         ],
         "dayTime": [
             {
@@ -3383,7 +3146,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 3 B4.1.15",
         "lect": [
-            "TO BE DETERMINED"
+            "NURUL HUSNA BINTI SHUKOR"
         ],
         "dayTime": [
             {
@@ -3405,7 +3168,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 1 B4.1.27",
         "lect": [
-            "TO BE DETERMINED"
+            "IMAN AMEERA BALQIS BINTI MOHD MAHZAN"
         ],
         "dayTime": [
             {
@@ -3427,7 +3190,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 3 B4.1.15",
         "lect": [
-            "TO BE DETERMINED"
+            "NURUL HUSNA BINTI SHUKOR"
         ],
         "dayTime": [
             {
@@ -3449,7 +3212,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 1 B4.1.27",
         "lect": [
-            "TO BE DETERMINED"
+            "IMAN AMEERA BALQIS BINTI MOHD MAHZAN"
         ],
         "dayTime": [
             {
@@ -3471,7 +3234,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 3 B4.1.15",
         "lect": [
-            "TO BE DETERMINED"
+            "NOVI MA'RIFATU DAYYANA BINTI ISKANDAR"
         ],
         "dayTime": [
             {
@@ -3493,7 +3256,7 @@
         "chr": 3.0,
         "venue": "PGH PBL ROOM 1 B4.1.27",
         "lect": [
-            "TO BE DETERMINED"
+            "NURUL HUSNA BINTI SHUKOR"
         ],
         "dayTime": [
             {
@@ -3513,9 +3276,9 @@
         "sect": 508,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": "PGH PBL ROOM 7 B3.1.12",
+        "venue": "PGH SEMINAR ROOM 1 B3.1.05",
         "lect": [
-            "TO BE DETERMINED"
+            "NOVI MA'RIFATU DAYYANA BINTI ISKANDAR"
         ],
         "dayTime": [
             {
@@ -3535,9 +3298,9 @@
         "sect": 509,
         "title": "ENGLISH FOR ACADEMIC WRITING",
         "chr": 3.0,
-        "venue": null,
+        "venue": "PGH PBL ROOM 3 B3.1.18",
         "lect": [
-            "TO BE DETERMINED"
+            "NOVI MA'RIFATU DAYYANA BINTI ISKANDAR"
         ],
         "dayTime": [
             {
@@ -3547,6 +3310,72 @@
             },
             {
                 "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 510,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": "PGH MICROTEACHING LAB B3.2.16",
+        "lect": [
+            "CHE SARAH RAIHANA BINTI SUHAIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 511,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": "PGH MICROTEACHING LAB B3.2.16",
+        "lect": [
+            "CHE SARAH RAIHANA BINTI SUHAIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "10:00"
+            }
+        ]
+    },
+    {
+        "code": "LEED 1301",
+        "sect": 512,
+        "title": "ENGLISH FOR ACADEMIC WRITING",
+        "chr": 3.0,
+        "venue": "PGH PBL ROOM 6 B3.1.22",
+        "lect": [
+            "CHE SARAH RAIHANA BINTI SUHAIMI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
                 "startTime": "11:30",
                 "endTime": "13:00"
             }
@@ -4063,50 +3892,6 @@
         ]
     },
     {
-        "code": "LEED 3301",
-        "sect": 1,
-        "title": "SPEAKOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "MRS. NOR HASNI BINTI YAAKOB"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "13:00"
-            }
-        ]
-    },
-    {
-        "code": "LEED 3302",
-        "sect": 1,
-        "title": "ENGLISH FOR EMPLOYMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "AHMAD ASHAARI BIN ALIAS"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "15:30",
-                "endTime": "17:00"
-            },
-            {
-                "day": 3,
-                "startTime": "15:30",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
         "code": "LEED 4301",
         "sect": 1,
         "title": "ENGLISH FOR OCCUPATIONAL PURPOSES (KENMS)",
@@ -4303,7 +4088,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "SITI BAIDURA BINTI KASIRAN"
+            "AKHMAL HAKIM BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -4325,7 +4110,7 @@
         "chr": 1.0,
         "venue": "KENMS 4.11 LEVEL 4",
         "lect": [
-            "ROSLIMNA BINTI MOHMMED SAAD"
+            "AINUL IZZAH AZREEN BINTI ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -4369,7 +4154,7 @@
         "chr": 1.0,
         "venue": "KENMS 4.11 LEVEL 4",
         "lect": [
-            "NIK NOOR ASIAH BINTI NIK MUSTAFA"
+            "AINUL IZZAH AZREEN BINTI ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -4435,7 +4220,7 @@
         "chr": 1.0,
         "venue": "KENMS 4.11 LEVEL 4",
         "lect": [
-            "ROSLIMNA BINTI MOHMMED SAAD"
+            "AINUL IZZAH AZREEN BINTI ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -4587,7 +4372,7 @@
         "sect": 5,
         "title": "BAHASA MELAYU II",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ENG LR E0-3-24",
         "lect": [
             "NURMA ABD. KARIM"
         ],
@@ -4655,7 +4440,7 @@
         "chr": 1.0,
         "venue": "KENMS 4.11 LEVEL 4",
         "lect": [
-            "SITI ZAFIRA BINTI ZAINAL ABIDIN"
+            "NIK NOOR ASIAH BINTI NIK MUSTAFA"
         ],
         "dayTime": [
             {
@@ -4719,7 +4504,7 @@
         "sect": 2,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LR E0-3-24",
         "lect": [
             "NIK NOOR ASIAH BINTI NIK MUSTAFA"
         ],
@@ -4743,7 +4528,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "AKHMAL HAKIM BIN MOHAMAD"
+            "SITI BAIDURA BINTI KASIRAN"
         ],
         "dayTime": [
             {
@@ -4763,7 +4548,7 @@
         "sect": 4,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ICT LR 2 LEVEL 1D",
         "lect": [
             "NIK NOOR ASIAH BINTI NIK MUSTAFA"
         ],
@@ -4807,7 +4592,7 @@
         "sect": 6,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LR E0-3-24",
         "lect": [
             "SITI BAIDURA BINTI KASIRAN"
         ],
@@ -4873,7 +4658,7 @@
         "sect": 9,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LR E0-3-24",
         "lect": [
             "NIK NOOR ASIAH BINTI NIK MUSTAFA"
         ],
@@ -4939,7 +4724,7 @@
         "sect": 502,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": "PGH MICROTEACHING LAB B3.2.16",
+        "venue": "PGH SEMINAR ROOM 3 B3.1.29",
         "lect": [
             "MOHD SHAHDAN BIN SADIN"
         ],
@@ -5027,7 +4812,7 @@
         "sect": 506,
         "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
         "chr": 2.0,
-        "venue": "PGH MICROTEACHING LAB B3.2.16",
+        "venue": "PGH PBL ROOM 5 B3.1.21",
         "lect": [
             "MOHD SHAHDAN BIN SADIN"
         ],
@@ -5073,7 +4858,7 @@
         "chr": 2.0,
         "venue": "PGH PBL ROOM 4 B3.1.19",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD DANIEL BIN MOHD TAJUDIN"
         ],
         "dayTime": [
             {
@@ -5117,7 +4902,7 @@
         "chr": 2.0,
         "venue": "PGH PBL ROOM 4 B3.1.19",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD DANIEL BIN MOHD TAJUDIN"
         ],
         "dayTime": [
             {
@@ -5159,7 +4944,7 @@
         "sect": 2,
         "title": "BAHASA  MELAYU KERJAYA (PERUNDANGAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED TR (L1) 11",
         "lect": [
             "NURMA ABD. KARIM"
         ],
@@ -5247,7 +5032,7 @@
         "sect": 6,
         "title": "BAHASA  MELAYU KERJAYA (PERUNDANGAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 14 4.7",
         "lect": [
             "NUR JANNAH BINTI AB RAHMAN"
         ],
@@ -5269,7 +5054,7 @@
         "sect": 7,
         "title": "BAHASA  MELAYU KERJAYA (PERUNDANGAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ICT LR 2 LEVEL 1D",
         "lect": [
             "NURMA ABD. KARIM"
         ],
@@ -5291,7 +5076,7 @@
         "sect": 8,
         "title": "BAHASA  MELAYU KERJAYA (PERUNDANGAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 15 4.8",
         "lect": [
             "NURMA ABD. KARIM"
         ],
@@ -5335,7 +5120,7 @@
         "sect": 10,
         "title": "BAHASA  MELAYU KERJAYA (PERUNDANGAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 15 4.8",
         "lect": [
             "NURMA ABD. KARIM"
         ],
@@ -5379,7 +5164,7 @@
         "sect": 2,
         "title": "BAHASA  MELAYU KERJAYA (PERNIAGAAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
             "RAZMAN BIN MOHAMAD"
         ],
@@ -5401,7 +5186,7 @@
         "sect": 3,
         "title": "BAHASA  MELAYU KERJAYA (PERNIAGAAN)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
             "RAZMAN BIN MOHAMAD"
         ],
@@ -5533,7 +5318,7 @@
         "sect": 1,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
             "AMIRULHAKIM BIN JALIL"
         ],
@@ -5555,7 +5340,7 @@
         "sect": 2,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 14 4.7",
         "lect": [
             "SITI ZAFIRA BINTI ZAINAL ABIDIN"
         ],
@@ -5577,7 +5362,7 @@
         "sect": 3,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 2",
         "lect": [
             "NUR FARHANA BINTI MOHD NASIR"
         ],
@@ -5599,7 +5384,7 @@
         "sect": 4,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
             "SITI ZAFIRA BINTI ZAINAL ABIDIN"
         ],
@@ -5621,7 +5406,7 @@
         "sect": 5,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "HSC TR 20 1.55",
         "lect": [
             "NUR FARHANA BINTI MOHD NASIR"
         ],
@@ -5645,7 +5430,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "'AINI SURAYA BINTI MASURI"
         ],
         "dayTime": [
             {
@@ -5667,7 +5452,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "'AINI SURAYA BINTI MASURI"
         ],
         "dayTime": [
             {
@@ -5687,7 +5472,7 @@
         "sect": 8,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 17 4.10",
         "lect": [
             "AMIRULHAKIM BIN JALIL"
         ],
@@ -5709,7 +5494,7 @@
         "sect": 9,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 14 4.7",
         "lect": [
             "NUR FARHANA BINTI MOHD NASIR"
         ],
@@ -5775,7 +5560,7 @@
         "sect": 12,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 17 4.10",
         "lect": [
             "AMIRULHAKIM BIN JALIL"
         ],
@@ -5797,7 +5582,7 @@
         "sect": 13,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM TR 8 3.102",
         "lect": [
             "NUR FARHANA BINTI MOHD NASIR"
         ],
@@ -5863,9 +5648,9 @@
         "sect": 16,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
-            "TO BE DETERMINED"
+            "ROSLIMNA BINTI MOHMMED SAAD"
         ],
         "dayTime": [
             {
@@ -5885,9 +5670,9 @@
         "sect": 17,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
-            "TO BE DETERMINED"
+            "ROSLIMNA BINTI MOHMMED SAAD"
         ],
         "dayTime": [
             {
@@ -5904,12 +5689,34 @@
     },
     {
         "code": "LMBD 2204",
+        "sect": 18,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
+        "chr": 2.0,
+        "venue": "ADM TR 17 4.10",
+        "lect": [
+            "SITI ZAFIRA BINTI ZAINAL ABIDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2204",
         "sect": 801,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EXAM HALL 1, KOP L1",
         "lect": [
-            "TO BE DETERMINED"
+            "UMMI KHALILAH BINTI AZMAN"
         ],
         "dayTime": [
             {
@@ -5929,7 +5736,7 @@
         "sect": 802,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "LECTURE HALL 2 KOP GF",
         "lect": [
             "NIK ZULAIHA BINTI ZAKARIA"
         ],
@@ -5951,7 +5758,7 @@
         "sect": 803,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "PG HALL KOP L5",
         "lect": [
             "MUHAMMAD SYAFIK BIN AB RAHMAN"
         ],
@@ -5973,7 +5780,7 @@
         "sect": 810,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM 3 (DDIR) L1",
         "lect": [
             "NIK ZULAIHA BINTI ZAKARIA"
         ],
@@ -5995,9 +5802,9 @@
         "sect": 811,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "SEMINAR ROOM 4 (DDIR) L1",
         "lect": [
-            "TO BE DETERMINED"
+            "UMMI KHALILAH BINTI AZMAN"
         ],
         "dayTime": [
             {
@@ -6017,7 +5824,7 @@
         "sect": 812,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "TUTORIAL ROOM (DBMS) L2",
         "lect": [
             "NIK ZULAIHA BINTI ZAKARIA"
         ],
@@ -6039,7 +5846,7 @@
         "sect": 813,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 6 (DPRS) L3",
         "lect": [
             "MUHAMMAD SYAFIK BIN AB RAHMAN"
         ],
@@ -6061,20 +5868,20 @@
         "sect": 830,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-23",
         "lect": [
             "MUHAMMAD SYAFIK BIN AB RAHMAN"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:50"
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
             },
             {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:50"
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
             }
         ]
     },
@@ -6083,7 +5890,7 @@
         "sect": 831,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-G-07",
         "lect": [
             "MUHAMMAD SYAFIK BIN AB RAHMAN"
         ],
@@ -6105,20 +5912,20 @@
         "sect": 832,
         "title": "BAHASA  MELAYU KERJAYA (SAINS DAN TEKNOLOGI)",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-23",
         "lect": [
             "NIK ZULAIHA BINTI ZAKARIA"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:50"
             },
             {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:50"
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:50"
             }
         ]
     },
@@ -6129,7 +5936,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MUNIRAH BINTI RAJA SULAIMAN"
         ],
         "dayTime": [
             {
@@ -6149,9 +5956,9 @@
         "sect": 2,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ENG TR E0-2-46",
         "lect": [
-            "TO BE DETERMINED"
+            "ZETI AKHTAR BINTI MUHAMMAD RAFAAI"
         ],
         "dayTime": [
             {
@@ -6173,7 +5980,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ZETI AKHTAR BINTI MUHAMMAD RAFAAI"
         ],
         "dayTime": [
             {
@@ -6193,9 +6000,9 @@
         "sect": 4,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ENG TR E0-2-36",
         "lect": [
-            "TO BE DETERMINED"
+            "DATIN SABARIAH BINTI BAKRI"
         ],
         "dayTime": [
             {
@@ -6217,7 +6024,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAJMIAH BINTI HASHIM"
         ],
         "dayTime": [
             {
@@ -6239,7 +6046,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MD. ZAMAKHSYARI BIN JUSOH"
         ],
         "dayTime": [
             {
@@ -6261,7 +6068,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ZETI AKHTAR BINTI MUHAMMAD RAFAAI"
         ],
         "dayTime": [
             {
@@ -6281,9 +6088,9 @@
         "sect": 8,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ENG TR E0-2-46",
         "lect": [
-            "TO BE DETERMINED"
+            "DATIN SABARIAH BINTI BAKRI"
         ],
         "dayTime": [
             {
@@ -6305,7 +6112,7 @@
         "chr": 0.5,
         "venue": "HSC TR 12 1.46",
         "lect": [
-            "TO BE DETERMINED"
+            "MD. ZAMAKHSYARI BIN JUSOH"
         ],
         "dayTime": [
             {
@@ -6327,7 +6134,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DATIN SABARIAH BINTI BAKRI"
         ],
         "dayTime": [
             {
@@ -6349,7 +6156,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NAJMUDDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -6371,7 +6178,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "KHALID BIN MOHAMED ZAIN"
         ],
         "dayTime": [
             {
@@ -6393,7 +6200,7 @@
         "chr": 0.5,
         "venue": "HSC TR 12 1.46",
         "lect": [
-            "TO BE DETERMINED"
+            "KHALID BIN MOHAMED ZAIN"
         ],
         "dayTime": [
             {
@@ -6413,9 +6220,9 @@
         "sect": 14,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ENG TR E0-2-46",
         "lect": [
-            "TO BE DETERMINED"
+            "KHALID BIN MOHAMED ZAIN"
         ],
         "dayTime": [
             {
@@ -6435,9 +6242,9 @@
         "sect": 15,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ENG TR E0-2-46",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NORHANA BINTI WAN AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -6459,7 +6266,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NAJMUDDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -6479,9 +6286,9 @@
         "sect": 17,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": "CFL SOSDEL LAB 3",
+        "venue": "ENG TR E0-2-36",
         "lect": [
-            "TO BE DETERMINED"
+            "KHALID BIN MOHAMED ZAIN"
         ],
         "dayTime": [
             {
@@ -6501,9 +6308,9 @@
         "sect": 18,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": "CFL SOSDEL LAB 3",
+        "venue": "ENG TR E0-2-36",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NORHANA BINTI WAN AB RAHMAN"
         ],
         "dayTime": [
             {
@@ -6523,9 +6330,9 @@
         "sect": 19,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ENG TR E0-2-46",
         "lect": [
-            "TO BE DETERMINED"
+            "MD. ZAMAKHSYARI BIN JUSOH"
         ],
         "dayTime": [
             {
@@ -6547,7 +6354,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DATIN SABARIAH BINTI BAKRI"
         ],
         "dayTime": [
             {
@@ -6569,7 +6376,7 @@
         "chr": 0.5,
         "venue": "PGH PBL ROOM 5 B4.2.09",
         "lect": [
-            "MOHAMAD KHAIDIR BIN SAHID"
+            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
         ],
         "dayTime": [
             {
@@ -6608,10 +6415,98 @@
     },
     {
         "code": "LQAD 1003",
+        "sect": 503,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": "PGH PBL ROOM 2 B4.1.28",
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 504,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": "PGH PBL ROOM 2 B4.1.28",
+        "lect": [
+            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 505,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": "PGH PBL ROOM 2 B4.1.28",
+        "lect": [
+            "NURUL NAHIRAH BINTI RASIDIK"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
+        "sect": 506,
+        "title": "ARABIC FOR IBADAH I",
+        "chr": 0.5,
+        "venue": "PGH PBL ROOM 2 B4.1.28",
+        "lect": [
+            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1003",
         "sect": 810,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "SEMINAR ROOM 13 DPRS KAHS L2",
         "lect": [
             "MOHD AZAM BIN AB RAHMAN"
         ],
@@ -6640,13 +6535,8 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "16:00",
-                "endTime": "17:30"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "15:30"
+                "startTime": "15:00",
+                "endTime": "18:00"
             }
         ]
     },
@@ -6689,8 +6579,8 @@
             },
             {
                 "day": 5,
-                "startTime": "15:30",
-                "endTime": "17:00"
+                "startTime": "15:00",
+                "endTime": "16:30"
             }
         ]
     },
@@ -6699,7 +6589,7 @@
         "sect": 860,
         "title": "ARABIC FOR IBADAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM Y1, DENT GF",
         "lect": [
             "MOHD. SHAFIEN BIN OTHMAN"
         ],
@@ -6723,7 +6613,7 @@
         "chr": 0.0,
         "venue": "CFL J94 LEVEL 4",
         "lect": [
-            "DR. MARSUFAH BINTI JALIL"
+            "DR. JAMSURI BIN MOHD. SHAMSUDIN"
         ],
         "dayTime": [
             {
@@ -6819,13 +6709,115 @@
         ]
     },
     {
+        "code": "LQAD 1011",
+        "sect": 2,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-SHAMILAH",
+        "chr": 0.0,
+        "venue": "ADM TR 18 4.12",
+        "lect": [
+            "AIMAN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 2,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "16:00",
+                "endTime": "17:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:50"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
         "code": "LQAD 1012",
         "sect": 1,
         "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
         "chr": 0.0,
         "venue": "ENG LR E0-3-22",
         "lect": [
-            "TO BE DETERMINED"
+            "ROKIAH BINTI ABU TALIB"
         ],
         "dayTime": [
             {
@@ -6882,6 +6874,78 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 1012",
+        "sect": 2,
+        "title": "AL-LUGHAH AL-ARABIYAH AL-WAFIYAH",
+        "chr": 0.0,
+        "venue": null,
+        "lect": [
+            "RABIATUL ADAWIAH BINTI SAADON"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "10:50"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "16:50"
             },
             {
                 "day": 4,
@@ -6895,9 +6959,9 @@
         "sect": 1,
         "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
         "chr": 0.0,
-        "venue": "KAED TR (L2) 15",
+        "venue": "KAED TR (L1) 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHD. FAIRUZ BIN ABDUL TALIB"
         ],
         "dayTime": [
             {
@@ -6939,58 +7003,6 @@
                 "day": 4,
                 "startTime": "08:00",
                 "endTime": "10:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 1013",
-        "sect": 2,
-        "title": "AL-LUGHAH AL-ARABIYAH AL-MUTAKAMILAH",
-        "chr": 0.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "14:00",
-                "endTime": "16:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:50"
             }
         ]
     },
@@ -7001,19 +7013,18 @@
         "chr": 0.0,
         "venue": "PGH PBL ROOM 4 B4.1.14",
         "lect": [
-            "NURUL NAHIRAH BINTI RASIDIK",
-            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
+            "MOHD. FAIRUZ BIN ABDUL TALIB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "08:00",
-                "endTime": "10:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             },
             {
                 "day": 1,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "08:00",
+                "endTime": "10:50"
             },
             {
                 "day": 2,
@@ -7027,13 +7038,13 @@
             },
             {
                 "day": 3,
-                "startTime": "08:00",
-                "endTime": "10:50"
+                "startTime": "11:00",
+                "endTime": "12:50"
             },
             {
                 "day": 3,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "startTime": "08:00",
+                "endTime": "10:50"
             },
             {
                 "day": 4,
@@ -7054,7 +7065,7 @@
         "chr": 0.0,
         "venue": "HSC TR 1 1.38",
         "lect": [
-            "TO BE DETERMINED"
+            "NIK FATHIYAH NIK SOH"
         ],
         "dayTime": [
             {
@@ -7086,7 +7097,7 @@
         "chr": 0.0,
         "venue": "HSC TR 1 1.38",
         "lect": [
-            "TO BE DETERMINED"
+            "IBRAHIM AHMED FARES MOHAMED"
         ],
         "dayTime": [
             {
@@ -7118,7 +7129,7 @@
         "chr": 1.0,
         "venue": "HSC TR 12 1.46",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAJMIAH BINTI HASHIM"
         ],
         "dayTime": [
             {
@@ -7140,7 +7151,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ILYANI SYIHAM BINTI MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -7162,7 +7173,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MARZIDAH BTE. HASHIM"
         ],
         "dayTime": [
             {
@@ -7184,7 +7195,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ILYANI SYIHAM BINTI MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -7206,7 +7217,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD. PUZHI BIN USOP"
         ],
         "dayTime": [
             {
@@ -7228,7 +7239,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOR AZLINA BINTI JAAFAR"
         ],
         "dayTime": [
             {
@@ -7250,7 +7261,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURULHUDA BINTI OSMAN"
         ],
         "dayTime": [
             {
@@ -7272,7 +7283,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOR SYAHIDA BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -7294,7 +7305,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
         ],
         "dayTime": [
             {
@@ -7316,7 +7327,7 @@
         "chr": 0.5,
         "venue": "HSC TR 8 1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
         ],
         "dayTime": [
             {
@@ -7338,7 +7349,7 @@
         "chr": 0.5,
         "venue": "HSC TR 8 1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURULHUDA BINTI OSMAN"
         ],
         "dayTime": [
             {
@@ -7360,7 +7371,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURULHUDA BINTI OSMAN"
         ],
         "dayTime": [
             {
@@ -7382,7 +7393,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MARZIDAH BTE. HASHIM"
         ],
         "dayTime": [
             {
@@ -7404,7 +7415,7 @@
         "chr": 0.5,
         "venue": "HSC TR 12 1.46",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NORDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -7421,34 +7432,12 @@
     },
     {
         "code": "LQAD 2003",
-        "sect": 14,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
         "sect": 15,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
         "venue": "HSC TR 8 1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MARSUFAH BINTI JALIL"
         ],
         "dayTime": [
             {
@@ -7468,9 +7457,9 @@
         "sect": 16,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": "HSC TR 8 1.41",
+        "venue": "ADM TR 14 4.7",
         "lect": [
-            "TO BE DETERMINED"
+            "HALIZA MAIMUNA BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -7490,9 +7479,9 @@
         "sect": 17,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": "HSC TR 8 1.41",
+        "venue": "ADM TR 14 4.7",
         "lect": [
-            "TO BE DETERMINED"
+            "HALIZA MAIMUNA BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -7512,9 +7501,9 @@
         "sect": 18,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": "HSC TR 8 1.41",
+        "venue": "ADM TR 16 4.9",
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NORDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -7534,9 +7523,9 @@
         "sect": 19,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": "HSC TR 8 1.41",
+        "venue": "ADM TR 14 4.7",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MUNIRAH BINTI RAJA SULAIMAN"
         ],
         "dayTime": [
             {
@@ -7556,9 +7545,9 @@
         "sect": 20,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": "HSC TR 8 1.41",
+        "venue": "ADM TR 14 4.7",
         "lect": [
-            "TO BE DETERMINED"
+            "ILYANI SYIHAM BINTI MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -7570,50 +7559,6 @@
                 "day": 3,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 21,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 22,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": "HSC TR 12 1.46",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:20"
             }
         ]
     },
@@ -7624,7 +7569,7 @@
         "chr": 0.5,
         "venue": "HSC TR 8 1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MARSUFAH BINTI JALIL"
         ],
         "dayTime": [
             {
@@ -7646,7 +7591,7 @@
         "chr": 0.5,
         "venue": "HSC TR 8 1.41",
         "lect": [
-            "TO BE DETERMINED"
+            "RAJA MUNIRAH BINTI RAJA SULAIMAN"
         ],
         "dayTime": [
             {
@@ -7668,7 +7613,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HALIZA MAIMUNA BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -7690,7 +7635,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HALIZA MAIMUNA BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -7700,28 +7645,6 @@
             },
             {
                 "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 27,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": "CFL SOSDEL LAB 3",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            },
-            {
-                "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:20"
             }
@@ -7734,117 +7657,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 29,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 30,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": "HSC TR 12 1.46",
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 31,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 32,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            },
-            {
-                "day": 3,
-                "startTime": "08:00",
-                "endTime": "09:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
-        "sect": 33,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": "HSC TR 12 1.46",
-        "lect": [
-            "TO BE DETERMINED"
+            "KHALID BIN MOHAMED ZAIN"
         ],
         "dayTime": [
             {
@@ -7866,7 +7679,7 @@
         "chr": 0.5,
         "venue": "HSC TR 12 1.46",
         "lect": [
-            "TO BE DETERMINED"
+            "HALIZA MAIMUNA BINTI OMAR"
         ],
         "dayTime": [
             {
@@ -7888,7 +7701,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ILYANI SYIHAM BINTI MUHAMMAD"
         ],
         "dayTime": [
             {
@@ -7910,7 +7723,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN MOHD ZAHARI BIN WAN ABU BAKAR"
         ],
         "dayTime": [
             {
@@ -7932,7 +7745,7 @@
         "chr": 0.5,
         "venue": "HSC TR 12 1.46",
         "lect": [
-            "TO BE DETERMINED"
+            "NOR AZLINA BINTI JAAFAR"
         ],
         "dayTime": [
             {
@@ -7954,7 +7767,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MARSUFAH BINTI JALIL"
         ],
         "dayTime": [
             {
@@ -7976,7 +7789,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NORDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -7998,7 +7811,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "WAN NORDIN BIN WAN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -8108,7 +7921,7 @@
         "chr": 0.5,
         "venue": "PGH PBL ROOM 5 B4.2.09",
         "lect": [
-            "NURUL NAHIRAH BINTI RASIDIK"
+            "MUHAMMAD SYAZWAN HAKIM BIN JAMIL"
         ],
         "dayTime": [
             {
@@ -8125,10 +7938,49 @@
     },
     {
         "code": "LQAD 2003",
-        "sect": 810,
+        "sect": 600,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
         "venue": null,
+        "lect": [
+            "AIMAN BIN ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 7,
+                "startTime": "09:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 801,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
+        "lect": [
+            "MOHD. SHAFIEN BIN OTHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "code": "LQAD 2003",
+        "sect": 810,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "SEMINAR ROOM 8 (DASLP) L1",
         "lect": [
             "MOHD. SHAFIEN BIN OTHMAN"
         ],
@@ -8139,7 +7991,7 @@
                 "endTime": "15:00"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "14:00",
                 "endTime": "16:00"
             }
@@ -8150,7 +8002,7 @@
         "sect": 820,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 3/4, KON GF",
         "lect": [
             "MOHD AZAM BIN AB RAHMAN"
         ],
@@ -8191,32 +8043,10 @@
     },
     {
         "code": "LQAD 2003",
-        "sect": 822,
-        "title": "ARABIC FOR IBADAH II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "MOHD. SHAFIEN BIN OTHMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:30"
-            },
-            {
-                "day": 4,
-                "startTime": "09:00",
-                "endTime": "10:30"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 2003",
         "sect": 830,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "MOHD. SHAFIEN BIN OTHMAN"
         ],
@@ -8238,7 +8068,7 @@
         "sect": 831,
         "title": "ARABIC FOR IBADAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS 1-1-17",
         "lect": [
             "MOHD AZAM BIN AB RAHMAN"
         ],
@@ -8256,13 +8086,30 @@
         ]
     },
     {
+        "code": "LQAD 2003",
+        "sect": 860,
+        "title": "ARABIC FOR IBADAH II",
+        "chr": 0.5,
+        "venue": "CELPAD MEETING ROOM,OCD L1",
+        "lect": [
+            "MOHD AZAM BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "23:00",
+                "endTime": "02:00"
+            }
+        ]
+    },
+    {
         "code": "LQAD 2103",
         "sect": 1,
         "title": "ARABIC FOR COMMUNICATION  II",
         "chr": 1.0,
-        "venue": null,
+        "venue": "ADM TR 17 4.10",
         "lect": [
-            "TO BE DETERMINED"
+            "ADIBAH KAMILAH BINTI MOHD SUHAIMI"
         ],
         "dayTime": [
             {
@@ -8279,45 +8126,18 @@
     },
     {
         "code": "LQAD 3003",
-        "sect": 1,
+        "sect": 3,
         "title": "ADVANCED ARABIC WRITING",
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "IBRAHIM AHMED FARES MOHAMED"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            },
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "15:20"
-            }
-        ]
-    },
-    {
-        "code": "LQAD 3003",
-        "sect": 2,
-        "title": "ADVANCED ARABIC WRITING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 4,
-                "startTime": "11:00",
-                "endTime": "12:50"
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "10:50"
             }
         ]
     },
@@ -8520,6 +8340,23 @@
     },
     {
         "code": "TQTD 1001",
+        "sect": 105,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": "CLASSROOM 1 MOSQUE",
+        "lect": [
+            "MUHAMMAD BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
         "sect": 501,
         "title": "PRE-TILAWAH AL-QURAN",
         "chr": 0.5,
@@ -8547,8 +8384,42 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "15:00",
-                "endTime": "15:50"
+                "startTime": "17:00",
+                "endTime": "17:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 801,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": "ADMIN BUILDING KOS A-1-12",
+        "lect": [
+            "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 1001",
+        "sect": 802,
+        "title": "PRE-TILAWAH AL-QURAN",
+        "chr": 0.5,
+        "venue": "ADMIN BUILDING KOS A-1-11",
+        "lect": [
+            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -8642,9 +8513,9 @@
         "sect": 6,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": "CFL AUDIO LAB L1 (1.1)",
+        "venue": "MOSQUE LEV 3",
         "lect": [
-            "ABDUL KHAIR BIN JALIL"
+            "ZULKHAIRI BIN M. FADZLILLAH"
         ],
         "dayTime": [
             {
@@ -8710,7 +8581,7 @@
         "sect": 10,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": "MOSQUE LVL 3",
+        "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
             "MUHAMMAD BIN AB RAHMAN"
         ],
@@ -8778,7 +8649,7 @@
         "sect": 103,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": "CFL SOSDEL LAB 4",
+        "venue": null,
         "lect": [
             "MUJAHID BIN AHMAD LUTFI"
         ],
@@ -8829,7 +8700,7 @@
         "sect": 106,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": "CLASSROOM 1 MOSQUE",
+        "venue": "ADM TR 8 3.102",
         "lect": [
             "AHMAD AMIRUL ASHRAF BIN MOHD RUSDAN"
         ],
@@ -8863,7 +8734,7 @@
         "sect": 108,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": "CFL SOSDEL LAB 4",
+        "venue": null,
         "lect": [
             "MUJAHID BIN AHMAD LUTFI"
         ],
@@ -8945,23 +8816,6 @@
     },
     {
         "code": "TQTD 1002",
-        "sect": 501,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": "PGH CLASSROOM 5 B3.1.37",
-        "lect": [
-            "MUHAMMAD HARITH BIN OSMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
         "sect": 502,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
@@ -8979,23 +8833,6 @@
     },
     {
         "code": "TQTD 1002",
-        "sect": 551,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": "PGH CLASSROOM 5 B3.1.37",
-        "lect": [
-            "MUHAMMAD HARITH BIN OSMAN"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
         "sect": 552,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
@@ -9005,9 +8842,9 @@
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "11:00",
-                "endTime": "11:50"
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "17:50"
             }
         ]
     },
@@ -9030,44 +8867,10 @@
     },
     {
         "code": "TQTD 1002",
-        "sect": 810,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:00"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
-        "sect": 811,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "14:00",
-                "endTime": "15:00"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
         "sect": 812,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1 (DNS) L1",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -9084,7 +8887,7 @@
         "sect": 820,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURER HALL 2 KON L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9101,7 +8904,7 @@
         "sect": 821,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 7/8, KON GF",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -9118,7 +8921,7 @@
         "sect": 822,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 11/12, KON GF",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -9135,7 +8938,7 @@
         "sect": 830,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9152,7 +8955,7 @@
         "sect": 831,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -9166,27 +8969,10 @@
     },
     {
         "code": "TQTD 1002",
-        "sect": 832,
-        "title": "TILAWAH AL-QURAN I",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 1002",
         "sect": 833,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -9203,7 +8989,7 @@
         "sect": 834,
         "title": "TILAWAH AL-QURAN I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -9324,7 +9110,7 @@
         "chr": 0.5,
         "venue": "ADM TR 15 4.8",
         "lect": [
-            "W. MD. FADZLI BIN HAMZAH @ WAN HAMZAH"
+            "MOHD. SHUKRI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -9509,7 +9295,7 @@
         "sect": 19,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "CFL SOSDEL LAB 4",
+        "venue": "MOSQUE LEV 3",
         "lect": [
             "MUJAHID BIN AHMAD LUTFI"
         ],
@@ -9866,9 +9652,9 @@
         "sect": 40,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "ADM TR 16 4.9",
+        "venue": "MOSQUE LEV 3",
         "lect": [
-            "MOHD. SHUKRI BIN ABDULLAH"
+            "ZULKHAIRI BIN M. FADZLILLAH"
         ],
         "dayTime": [
             {
@@ -9883,9 +9669,9 @@
         "sect": 41,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "ADM TR 18 4.12",
+        "venue": "MOSQUE LEV 3",
         "lect": [
-            "MUHAMMAD ASFANDYAR DILAWAR KHAN"
+            "ABDULLAH BUKHARI B ABDUL RAHIM"
         ],
         "dayTime": [
             {
@@ -10002,7 +9788,7 @@
         "sect": 49,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "CFL AUDIO LAB L1 (1.1)",
+        "venue": "MOSQUE LEV 3",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
         ],
@@ -10478,7 +10264,7 @@
         "sect": 122,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": "CFL AUDIO LAB L1 (1.1)",
+        "venue": "CFL SOSDEL LAB 4",
         "lect": [
             "ABDUL KHAIR BIN JALIL"
         ],
@@ -10563,9 +10349,9 @@
         "sect": 127,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL AUDIO LAB L1 (1.1)",
         "lect": [
-            "ZULKHAIRI BIN M. FADZLILLAH"
+            "ABDUL KHAIR BIN JALIL"
         ],
         "dayTime": [
             {
@@ -10767,9 +10553,9 @@
         "sect": 141,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 18 4.12",
         "lect": [
-            "ABDULLAH BUKHARI B ABDUL RAHIM"
+            "MUHAMMAD ASFANDYAR DILAWAR KHAN"
         ],
         "dayTime": [
             {
@@ -10818,9 +10604,9 @@
         "sect": 144,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADM TR 16 4.9",
         "lect": [
-            "ZULKHAIRI BIN M. FADZLILLAH"
+            "MOHD. SHUKRI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -10871,7 +10657,7 @@
         "chr": 0.5,
         "venue": "ADM TR 15 4.8",
         "lect": [
-            "W. MD. FADZLI BIN HAMZAH @ WAN HAMZAH"
+            "MOHD. SHUKRI BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -10939,7 +10725,7 @@
         "chr": 0.5,
         "venue": "CLASSROOM 1 MOSQUE",
         "lect": [
-            "TO BE DETERMINED"
+            "HAFIZ ANUAR BIN ABDULLAH"
         ],
         "dayTime": [
             {
@@ -11325,10 +11111,61 @@
     },
     {
         "code": "TQTD 2002",
-        "sect": 801,
+        "sect": 560,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "PGH CLASSROOM 5 B3.1.37",
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 561,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "PGH CLASSROOM 5 B3.1.37",
+        "lect": [
+            "MUHAMMAD HARITH BIN OSMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 600,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
         "venue": null,
+        "lect": [
+            "MUHAMMAD BIN AB RAHMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
+        "sect": 801,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "TUTORIAL ROOM 2,KOP 1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11345,7 +11182,7 @@
         "sect": 810,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1 (DNS) L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11362,7 +11199,7 @@
         "sect": 811,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 4 (DOVS) L2",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11379,7 +11216,7 @@
         "sect": 812,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 5 (DOVS) L2",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -11396,7 +11233,7 @@
         "sect": 813,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 1 (DNS) L1",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11413,7 +11250,7 @@
         "sect": 814,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 4 (DOVS) L2",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11430,7 +11267,7 @@
         "sect": 815,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 5 (DOVS) L2",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -11444,27 +11281,10 @@
     },
     {
         "code": "TQTD 2002",
-        "sect": 816,
-        "title": "TILAWAH AL-QURAN II",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "DR. FELZA ZULHIBRI BIN ABD. HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "15:00",
-                "endTime": "16:00"
-            }
-        ]
-    },
-    {
-        "code": "TQTD 2002",
         "sect": 817,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 4 (DOVS) L2",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11481,7 +11301,7 @@
         "sect": 818,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 5 (DOVS) L2",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11498,7 +11318,7 @@
         "sect": 819,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "TUTORIAL ROOM 6 (DPRS) L3",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -11515,7 +11335,7 @@
         "sect": 820,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURER HALL 2 KON L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11532,7 +11352,7 @@
         "sect": 821,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 7/8, KON GF",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11549,7 +11369,7 @@
         "sect": 822,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 11/12, KON GF",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11566,7 +11386,7 @@
         "sect": 823,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURER HALL 2 KON L1",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11583,7 +11403,7 @@
         "sect": 824,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 7/8, KON GF",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11600,7 +11420,7 @@
         "sect": 825,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "LECTURE ROOM 11/12, KON GF",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11614,10 +11434,27 @@
     },
     {
         "code": "TQTD 2002",
+        "sect": 826,
+        "title": "TILAWAH AL-QURAN II",
+        "chr": 0.5,
+        "venue": "LECTURE ROOM 3/4, KON GF",
+        "lect": [
+            "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "12:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "TQTD 2002",
         "sect": 830,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11634,7 +11471,7 @@
         "sect": 831,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -11651,7 +11488,7 @@
         "sect": 832,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11668,7 +11505,7 @@
         "sect": 833,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11685,7 +11522,7 @@
         "sect": 834,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11702,7 +11539,7 @@
         "sect": 835,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11719,7 +11556,7 @@
         "sect": 836,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -11736,7 +11573,7 @@
         "sect": 837,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11753,7 +11590,7 @@
         "sect": 838,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11770,7 +11607,7 @@
         "sect": 839,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-12",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -11838,7 +11675,7 @@
         "sect": 860,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CLASSROOM Y1, DENT GF",
         "lect": [
             "MUHAMMADUN AMIN BIN MOHAMAD ZAKI"
         ],
@@ -11855,7 +11692,7 @@
         "sect": 870,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "AHMAD ASY-SYATHIBIE BIN FELZA ZULHIBRI"
         ],
@@ -11872,7 +11709,7 @@
         "sect": 871,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-11",
         "lect": [
             "DR. FELZA ZULHIBRI BIN ABD. HAMID"
         ],
@@ -11889,7 +11726,7 @@
         "sect": 872,
         "title": "TILAWAH AL-QURAN II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "ADMIN BUILDING KOS A-1-14",
         "lect": [
             "ABDUL WAFI ANWAR BIN RAMLI"
         ],
@@ -12018,7 +11855,7 @@
         "chr": 0.5,
         "venue": "ADM TR 16 4.9",
         "lect": [
-            "MOHD. SHUKRI BIN ABDULLAH"
+            "W. MD. FADZLI BIN HAMZAH @ WAN HAMZAH"
         ],
         "dayTime": [
             {
@@ -12148,7 +11985,7 @@
         "sect": 12,
         "title": "ADVANCED TILAWAH I",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL AUDIO LAB L1 (1.1)",
         "lect": [
             "SA'ID HAWWA BIN ELIAS"
         ],
@@ -12280,7 +12117,7 @@
         "sect": 4,
         "title": "ADVANCED TILAWAH II",
         "chr": 0.5,
-        "venue": null,
+        "venue": "CFL SOSDEL LAB 4",
         "lect": [
             "AHMAD AMIRUL ASHRAF BIN MOHD RUSDAN"
         ],
