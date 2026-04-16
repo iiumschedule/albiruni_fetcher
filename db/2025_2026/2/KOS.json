@@ -1767,7 +1767,13 @@
         "lect": [
             "DR. NOR FAEZAH BINTI ANSARI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
     },
     {
         "code": "BSBT 3312",
@@ -2255,7 +2261,13 @@
         "lect": [
             "ASSOC. PROF. DR. NORASLINDA BINTI MUHAMAD BUNNORI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
     },
     {
         "code": "BSCH 1222",

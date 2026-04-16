@@ -6,13 +6,19 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 5 LEVEL 3C",
         "lect": [
-            "DR. SURIANI BT. SULAIMAN"
+            "DR. SURIANI BT. SULAIMAN",
+            "TUTOR"
         ],
         "dayTime": [
             {
                 "day": 2,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            },
+            {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:50"
             },
             {
                 "day": 4,
@@ -28,7 +34,8 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 5 LEVEL 3C",
         "lect": [
-            "DR. TAKUMI SASE"
+            "DR. TAKUMI SASE",
+            "TUTOR"
         ],
         "dayTime": [
             {
@@ -40,6 +47,11 @@
                 "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:50"
             }
         ]
     },
@@ -1786,9 +1798,9 @@
         "sect": 1,
         "title": "Advance Routing and Switching",
         "chr": 3.0,
-        "venue": "ICT CITA PBL LAB LEVEL 1B",
+        "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "LUHUR BAYUAJI"
         ],
         "dayTime": [
             {
@@ -1810,7 +1822,7 @@
         "chr": 3.0,
         "venue": "ICT ACM-ICPC LAB TL-C4-02",
         "lect": [
-            "TO BE DETERMINED"
+            "LUHUR BAYUAJI"
         ],
         "dayTime": [
             {
@@ -2244,6 +2256,17 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "BIIT 1303",
+        "sect": 9,
+        "title": "System Analysis and Design",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. ZAHIDAH BINTI ZULKIFLI"
+        ],
+        "dayTime": []
     },
     {
         "code": "BIIT 1303",
