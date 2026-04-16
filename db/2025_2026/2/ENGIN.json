@@ -8342,43 +8342,20 @@
         "sect": 1,
         "title": "DESIGN OF MACHINE ELEMENTS",
         "chr": 3.0,
-        "venue": "ENG LRM E3-3-1",
+        "venue": "ENG LRM E1-3-4",
         "lect": [
             "DR. MOHD ASYRAF BIN MOHD RAZIB"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:30"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            }
-        ]
-    },
-    {
-        "code": "MCTE 3372",
-        "sect": 1,
-        "title": "ENGINEERING SYSTEM RELIABILITY",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-20",
-        "lect": [
-            "ASSOC. PROF. DR. ABD HALIM BIN EMBONG",
-            "ASSOC. PROF. DR. SYAMSUL BAHRIN BIN ABDUL HAMID"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 4,
-                "startTime": "08:30",
-                "endTime": "09:50"
+                "startTime": "14:00",
+                "endTime": "15:30"
             }
         ]
     },
@@ -9256,6 +9233,17 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MECH 3314",
+        "sect": 1,
+        "title": "VEHICLES STRUCTURE DESIGN",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ADIB HAMDANI BIN ROSLI"
+        ],
+        "dayTime": []
     },
     {
         "code": "MECH 3321",

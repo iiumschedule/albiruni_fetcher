@@ -535,7 +535,7 @@
         "sect": 9,
         "title": "LEGAL METHOD",
         "chr": 3.0,
-        "venue": "AIKOL MM 2.2 2.2",
+        "venue": "AIKOL MM 2.7 2.7",
         "lect": [
             "DR. NUR ADLIN HANISAH BINTI SHAHUL IKRAM"
         ],
@@ -750,6 +750,21 @@
                 "endTime": "11:00"
             },
             {
+                "day": 2,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 3,
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:00"
@@ -933,7 +948,7 @@
         "sect": 4,
         "title": "COMPULSORY MOOTS",
         "chr": 2.0,
-        "venue": "AIKOL MC 2.1 2.1",
+        "venue": "AIKOL MC 3.4 3.4",
         "lect": [
             "SITI ALIZA BINTI ALIAS"
         ],
@@ -3125,34 +3140,19 @@
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:00"
-            },
-            {
-                "day": 2,
-                "startTime": "11:00",
-                "endTime": "12:00"
-            },
-            {
                 "day": 3,
                 "startTime": "09:00",
                 "endTime": "10:00"
             },
             {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:00"
-            },
-            {
-                "day": 3,
-                "startTime": "18:00",
-                "endTime": "19:00"
-            },
-            {
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "11:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },

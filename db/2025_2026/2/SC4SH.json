@@ -72,7 +72,7 @@
         "sect": 5,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "EDU TR 3 (LEVEL 3) 3.018",
         "lect": [
             "DR. IRINA SAFITRI ZEN"
         ],
@@ -276,7 +276,7 @@
         "sect": 17,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "MOHD HAFIDZ BIN MD SAMSUDI"
         ],
@@ -293,7 +293,7 @@
         "sect": 18,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "NADIA NUR SYAFIQAH BINTI NAZAR"
         ],
@@ -344,7 +344,7 @@
         "sect": 22,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "MUHAMMAD JEFFERSON EMPALING BIN JONATHAN JANA"
         ],
@@ -646,6 +646,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "ASSOC. PROF. DR. KHAIRUL AZAMI BIN SIDEK",
             "ASSOC. PROF. DR. HASMAH BT MANSOR"
         ],
         "dayTime": []
@@ -677,7 +678,7 @@
         "sect": 17,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -694,7 +695,7 @@
         "sect": 18,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. NORZALIFA BINTI ZAINAL ABIDIN"
         ],
@@ -735,6 +736,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "ASSOC. PROF. DR. IZAWATI BT. TUKIMAN",
             "ASSOC. PROF. DR. SUHAILAH BINTI HUSSIEN"
         ],
         "dayTime": [
@@ -837,6 +839,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "DR. MOHAMMAD ARIFF BIN RASHIDAN",
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
             "ASSOC. PROF. DR. HAZLINA BT. MD. YUSOF"
         ],
         "dayTime": [
@@ -852,7 +856,7 @@
         "sect": 30,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "MADAM MUNAWIZA JULIANA BINTI MOHD JASIN"
         ],
@@ -965,15 +969,15 @@
         "sect": 37,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "EDU LR 27 3.87",
         "lect": [
             "DR. MOHAMAD ATEFF BIN MD YUSOF"
         ],
         "dayTime": [
             {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "12:30"
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -982,7 +986,7 @@
         "sect": 38,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
-        "venue": null,
+        "venue": "EDU LR 19 3.66",
         "lect": [
             "DR. MOHAMAD ATEFF BIN MD YUSOF"
         ],
@@ -1057,6 +1061,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "MUHAMMAD NAZIRUL BIN MOHD NOOR",
             "MISS NUR FARRAH ATIQAH BINTI AMRAN"
         ],
         "dayTime": []
@@ -1152,7 +1157,9 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. NOR AIN BINTI RABAIEE"
+            "DR. NOR AIN BINTI RABAIEE",
+            "DR. NOOR ARTIKA BINTI HASSAN",
+            "DR. ZAKUAN AZIZI BIN SHAMSUL HARUMAIN"
         ],
         "dayTime": []
     },
@@ -1163,6 +1170,8 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
+            "PROF. DR. A.B.M. HELAL UDDIN",
+            "PROF. DR. MUHAMMAD MUZAFFAR ALI KHAN KHATTAK",
             "PROF. DR. QAMAR UDDIN AHMED"
         ],
         "dayTime": []
@@ -1174,7 +1183,9 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "PROF. DR. A.B.M. HELAL UDDIN"
+            "PROF. DR. A.B.M. HELAL UDDIN",
+            "PROF. DR. MUHAMMAD MUZAFFAR ALI KHAN KHATTAK",
+            "PROF. DR. QAMAR UDDIN AHMED"
         ],
         "dayTime": []
     },
@@ -1203,6 +1214,28 @@
         "venue": null,
         "lect": [
             "DR. FARAH WAHIDA BINTI AHMAD ZAIKI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 830,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ZURAINIE BINTI ABLLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 831,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. ZURAINIE BINTI ABLLAH"
         ],
         "dayTime": []
     },
@@ -1724,7 +1757,7 @@
         "sect": 30,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
@@ -1944,7 +1977,7 @@
         "sect": 43,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KENMS 1.5 LEVEL 1",
         "lect": [
             "SAIMA ALI"
         ],
@@ -2013,7 +2046,7 @@
         "sect": 47,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KENMS 3.3 LEVEL 3",
         "lect": [
             "PHOO NGONE NEW LIN",
             "MUHAMMAD ISLAM BIN MUSTAFA YAHAYA"
@@ -2139,7 +2172,7 @@
         "sect": 56,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
-        "venue": null,
+        "venue": "KENMS 2.2 LEVEL 2",
         "lect": [
             "MILANIE MOHD NOR"
         ],
@@ -2517,6 +2550,17 @@
                 "endTime": "18:30"
             }
         ]
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 523,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHUHADAH BINTI MOHD"
+        ],
+        "dayTime": []
     },
     {
         "code": "SCSH 3164",

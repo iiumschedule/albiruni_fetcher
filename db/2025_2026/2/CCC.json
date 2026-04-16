@@ -766,6 +766,17 @@
     },
     {
         "code": "CCCS 1010",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCCS 1010",
         "sect": 501,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
@@ -1033,6 +1044,23 @@
                 "day": 3,
                 "startTime": "17:00",
                 "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCDS 2010",
+        "sect": 1,
+        "title": "PUBLIC SPEAKING & CONTEMPORARY ISSUES",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "SARAH KHALID CHINOY"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "22:00"
             }
         ]
     },
@@ -1925,7 +1953,7 @@
         "sect": 26,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "DR. SAOUDI OUAHIBA"
         ],
@@ -3171,7 +3199,7 @@
         "sect": 8,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "ARAFAH ZAHARAH VITHIAH BINTI PUNUSAMY"
         ],
@@ -3205,7 +3233,7 @@
         "sect": 10,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 5",
         "lect": [
             "MUHAMMAD BIN HUSIN"
         ],
@@ -3222,7 +3250,7 @@
         "sect": 11,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 6",
         "lect": [
             "AZIZUDDIN HUSAIRI"
         ],
@@ -3239,7 +3267,7 @@
         "sect": 12,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 7",
         "lect": [
             "RS AZIRA BINTI SULAIMAN"
         ],
@@ -3256,7 +3284,7 @@
         "sect": 13,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L2) 8",
         "lect": [
             "KHADIJAH BINTI MOHD. RADZI"
         ],
@@ -3273,7 +3301,7 @@
         "sect": 14,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "SURIANA BINTI ARIFIN"
         ],
@@ -3290,7 +3318,7 @@
         "sect": 15,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED SR (L1) 2",
         "lect": [
             "MUHAMMAD AFIQ DANIAL BIN MOHD AMIR"
         ],
@@ -3919,7 +3947,7 @@
         "sect": 1,
         "title": "MOSQUE MANAGEMENT 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED LR (L1) 3",
         "lect": [
             "AMIRUL IMRAN BIN AMIRRUDIN"
         ],
@@ -5705,7 +5733,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.4 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMED LAFIR MOHAMED RAMJAN"
         ],
         "dayTime": [
             {
@@ -5722,7 +5750,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.7 LEVEL 4",
         "lect": [
-            "MOHAMAD ZULHAZMI BIN MAZNAN"
+            "REAZUL ISLAM"
         ],
         "dayTime": [
             {
@@ -5739,7 +5767,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "ZHANG LONG"
         ],
         "dayTime": [
             {
@@ -5756,7 +5784,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "LIU JIANGTAO"
         ],
         "dayTime": [
             {
@@ -5773,7 +5801,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MA XIAOQIANG"
         ],
         "dayTime": [
             {
@@ -5824,7 +5852,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.10 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "QI HUIJUAN"
         ],
         "dayTime": [
             {
@@ -5841,7 +5869,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.3 LEVEL 4",
         "lect": [
-            "TO BE DETERMINED"
+            "MAI YUQI"
         ],
         "dayTime": [
             {
@@ -5858,7 +5886,7 @@
         "chr": 0.5,
         "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "QI HUIJUAN"
         ],
         "dayTime": [
             {
@@ -5943,7 +5971,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ABDUL ARIFF BIN ABDUL KARIM"
         ],
         "dayTime": [
             {
@@ -5960,7 +5988,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IKHWAN HAZIQ BIN HASRULLIZAM"
         ],
         "dayTime": [
             {
@@ -5977,7 +6005,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ABDULLAH ZAHIRUDDIN BIN ZAINUDDIN"
         ],
         "dayTime": [
             {
@@ -7125,6 +7153,28 @@
                 "endTime": "19:00"
             }
         ]
+    },
+    {
+        "code": "CCUB 3621",
+        "sect": 401,
+        "title": "USRAH BUDI 3",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 4621",
+        "sect": 401,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "CCVL 1010",

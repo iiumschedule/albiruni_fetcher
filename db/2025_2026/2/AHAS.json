@@ -70,7 +70,7 @@
         "sect": 1,
         "title": "TARIKH AL-ADAB AL-ARABI (HISTORY OF ARABIC LITERATURE)",
         "chr": 3.0,
-        "venue": "ADM LT 5 4.2",
+        "venue": "HSC LR 11 1.44",
         "lect": [
             "ASSOC. PROF. DR. ADLI BIN YAACOB"
         ],
@@ -1272,6 +1272,28 @@
         "venue": null,
         "lect": [
             "DR. ABDULRAHMAN ALOSMAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARAB 4394",
+        "sect": 3,
+        "title": "MASHRU BAHTH AL-TAKHRRUJ 2 (FINAL YEAR PROJECT 2)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL HALIM BIN SALLEH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "ARAB 4394",
+        "sect": 4,
+        "title": "MASHRU BAHTH AL-TAKHRRUJ 2 (FINAL YEAR PROJECT 2)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD ANWAR BIN AHMAD"
         ],
         "dayTime": []
     },
@@ -2743,7 +2765,7 @@
         "sect": 3,
         "title": "INTRODUCTION TO TEXT, THEORY AND CRITICISM",
         "chr": 3.0,
-        "venue": "HSC LR 11 1.44",
+        "venue": "HSC LR 32 L3",
         "lect": [
             "DR. TANJA JONID"
         ],
@@ -2757,28 +2779,6 @@
                 "day": 4,
                 "startTime": "15:30",
                 "endTime": "16:50"
-            }
-        ]
-    },
-    {
-        "code": "ENGL 2330",
-        "sect": 4,
-        "title": "INTRODUCTION TO TEXT, THEORY AND CRITICISM",
-        "chr": 3.0,
-        "venue": "HSC LR 11 1.44",
-        "lect": [
-            "DR. TANJA JONID"
-        ],
-        "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "18:20"
-            },
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "18:20"
             }
         ]
     },
@@ -2897,7 +2897,7 @@
         "sect": 1,
         "title": "SHAKESPEARE IN HIS AGE AND IN THE CONTEMPORARY CONTEXT",
         "chr": 3.0,
-        "venue": "HSC LR 11 1.44",
+        "venue": "HSC LR 32 L3",
         "lect": [
             "DR. TANJA JONID"
         ],
@@ -3635,7 +3635,7 @@
         "sect": 1,
         "title": "FINAL YEAR PROJECT II",
         "chr": 3.0,
-        "venue": "HSC ENGLISH LAB 3",
+        "venue": "HSC TR 13 1.47",
         "lect": [
             "ASSOC. PROF. DR. ADLINA BINTI HJ. ARIFFIN"
         ],
@@ -3785,11 +3785,17 @@
         "sect": 13,
         "title": "FINAL YEAR PROJECT II",
         "chr": 3.0,
-        "venue": null,
+        "venue": "HSC TR 12 1.46",
         "lect": [
             "DR. WAN NUR MADIHA BINTI RAMLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
     },
     {
         "code": "ENGL 4398",
@@ -5139,6 +5145,17 @@
         "venue": null,
         "lect": [
             "DR. MUHAMMAD IZZUDDIN BIN JAAFAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MPU 3122",
+        "sect": 99,
+        "title": "TAMADUN ISLAM DAN TAMADUN ASIA (TITAS)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ALIZA BIN ELIAS @ MAYAH"
         ],
         "dayTime": []
     },
@@ -14753,23 +14770,6 @@
         "dayTime": [
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:50"
-            }
-        ]
-    },
-    {
-        "code": "UNGS 2290",
-        "sect": 40,
-        "title": "KNOWLEDGE & CIVILIZATION IN ISLAM",
-        "chr": 2.0,
-        "venue": "ENG LRM E1-5-4.3",
-        "lect": [
-            "DR. NOR'ASYIKIN BINTI HAMZAH"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:50"
             }
