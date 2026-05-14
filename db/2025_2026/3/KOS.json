@@ -1,0 +1,79 @@
+[
+    {
+        "code": "BAPS 4122",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "DR. NOOR SYAHEERA BINTI MOHD YUNUS"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BMST 4090",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. AIMIMULIANI BINTI ADAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4122",
+        "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. TAN TENG JU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSCH 4122",
+        "sect": 1,
+        "title": "Industrial Training",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. MARYAM BINTI ZAHABA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SMS 4342",
+        "sect": 1,
+        "title": "DYNAMIC PROGRAMMING",
+        "chr": 3.0,
+        "venue": "CTS BUILDING KOS C-1-01",
+        "lect": [
+            "DR. NORFAIEQAH BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3212",
+        "sect": 1,
+        "title": "INDUSTRIAL TRAINING",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. SITI SHAFIQAH BINTI AHMAD SHAHARUDDIN"
+        ],
+        "dayTime": []
+    }
+]
