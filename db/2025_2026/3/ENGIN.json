@@ -1,0 +1,340 @@
+[
+    {
+        "code": "CVLE 3322",
+        "sect": 9,
+        "title": "REINFORCED CONCRETE DESIGN 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. SITI ALIYYAH BINTI MASJUKI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CVLE 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. MUHAMMAD ZAHIR BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "EECE 1311",
+        "sect": 1,
+        "title": "ELECTRIC CIRCUITS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-10",
+        "lect": [
+            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "EECE 1313",
+        "sect": 1,
+        "title": "PROGRAMMING FOR ENGINEERS",
+        "chr": 3.0,
+        "venue": "ENG ECE COMP TEACHG LAB E3-2",
+        "lect": [
+            "ASSOC. PROF. DR. NOREHA BT. ABDUL MALIK"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "22:00",
+                "endTime": "03:30"
+            }
+        ]
+    },
+    {
+        "code": "EECE 1316",
+        "sect": 1,
+        "title": "FUNDAMENTALS OF ELECTRICAL AND ELECTRONIC",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-10",
+        "lect": [
+            "ASSOC. PROF. IR. DR. KHAIZURAN BIN ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "MATH 1321",
+        "sect": 1,
+        "title": "ENGINEERING MATHEMATICS 2",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-4-6",
+        "lect": [
+            "ASSOC. PROF. DR. JAMAL I. DAOUD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MATH 2311",
+        "sect": 1,
+        "title": "DIFFERENTIAL EQUATIONS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-4-6",
+        "lect": [
+            "DR. NURIZAN BINTI OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MATH 2311",
+        "sect": 2,
+        "title": "DIFFERENTIAL EQUATIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. KARTINI BINTI AHMAD"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MATH 2330",
+        "sect": 1,
+        "title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-19",
+        "lect": [
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MATH 2330",
+        "sect": 2,
+        "title": "COMPUTATIONAL METHODS AND STATISTICS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. HANISAH BINTI MANSHOR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MCTA 4200",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHD ASYRAF BIN MOHD RAZIB",
+            "ASSOC. PROF. DR. ABD HALIM BIN EMBONG"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
+            }
+        ]
+    },
+    {
+        "code": "MCTA 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. HASMAWATI BT. ANTONG"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "14:00",
+                "endTime": "16:50"
+            }
+        ]
+    },
+    {
+        "code": "MFGA 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "IR. TS. DR. SITI HARYANI BINTI TOMADI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MFGA 4210",
+        "sect": 1,
+        "title": "TECHNOLOGY ENTREPRENEURSHIP",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "08:30",
+                "endTime": "11:20"
+            }
+        ]
+    }
+]
