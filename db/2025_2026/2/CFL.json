@@ -988,6 +988,58 @@
         ]
     },
     {
+        "code": "LEED 1012",
+        "sect": 5,
+        "title": "ENGLISH ON TRACK",
+        "chr": 0.0,
+        "venue": "ICT LR 2 LEVEL 1D",
+        "lect": [
+            "NURUL FUADAH BINTI MOHAMAD HASSAN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 4,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
+    },
+    {
         "code": "LEED 1013",
         "sect": 1,
         "title": "ENGLISH ON THE GO",
@@ -6713,7 +6765,7 @@
         "sect": 2,
         "title": "AL-LUGHAH AL-ARABIYAH AL-SHAMILAH",
         "chr": 0.0,
-        "venue": "ADM TR 18 4.12",
+        "venue": "CFL 6 IBN MALIK 4.26",
         "lect": [
             "AIMAN BIN ISMAIL"
         ],
