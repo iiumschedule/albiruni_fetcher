@@ -766,17 +766,6 @@
     },
     {
         "code": "CCCS 1010",
-        "sect": 401,
-        "title": "BASIC COUNSELING SKILLS 1",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "CCCS 1010",
         "sect": 501,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
@@ -930,6 +919,17 @@
     },
     {
         "code": "CCCS 2010",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MOHD NORHAFIFI ZOLKIAPLY"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCCS 2010",
         "sect": 501,
         "title": "BASIC COUNSELING SKILLS 2",
         "chr": 0.5,
@@ -1052,7 +1052,7 @@
         "sect": 1,
         "title": "PUBLIC SPEAKING & CONTEMPORARY ISSUES",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED LR (L1) 4",
         "lect": [
             "SARAH KHALID CHINOY"
         ],
@@ -1069,7 +1069,7 @@
         "sect": 2,
         "title": "PUBLIC SPEAKING & CONTEMPORARY ISSUES",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KAED LR (L1) 2",
         "lect": [
             "DR. RIASAT AMIN IMON"
         ],
@@ -2273,23 +2273,6 @@
     },
     {
         "code": "CCFM 2061",
-        "sect": 45,
-        "title": "FAMILY MANAGEMENT",
-        "chr": 0.5,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 4,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            }
-        ]
-    },
-    {
-        "code": "CCFM 2061",
         "sect": 55,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
@@ -2872,6 +2855,28 @@
         ]
     },
     {
+        "code": "CCFM 2061",
+        "sect": 870,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MOHD NABIL BIN HALIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 871,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. RIF'ATUNNAILAH BINTI MAT ISA"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CCGN 2142",
         "sect": 1,
         "title": "GAMELAN COURSE 2 (NICHE AREA)",
@@ -3318,7 +3323,7 @@
         "sect": 15,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": "KAED SR (L1) 2",
+        "venue": null,
         "lect": [
             "MUHAMMAD AFIQ DANIAL BIN MOHD AMIR"
         ],
@@ -4045,23 +4050,6 @@
         ]
     },
     {
-        "code": "CCMK 2010",
-        "sect": 2,
-        "title": "KARATE SKILLS 2 (RULES FOR TOURNAMENT)",
-        "chr": 0.5,
-        "venue": "MALE SPORT COM SQUASH A",
-        "lect": [
-            "MUHAMMAD DANIAL BIN BAHARUDIN"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            }
-        ]
-    },
-    {
         "code": "CCMT 1010",
         "sect": 1,
         "title": "TAE KWAN DO 1 (THEORY & PRACTICAL)",
@@ -4204,7 +4192,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NOOR SHAIRAZY BIN MOHD NOOR"
         ],
         "dayTime": [
             {
@@ -4221,7 +4209,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "LT (PA) AMAZUL BIN MATNOR"
         ],
         "dayTime": [
             {
@@ -4238,7 +4226,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "HALIZA BINTI HAMID"
         ],
         "dayTime": [
             {
@@ -4644,7 +4632,7 @@
         "sect": 3,
         "title": "SWIMMING SKILLS 1 (BROTHER)",
         "chr": 0.5,
-        "venue": "SWIM. POOL, BR 0",
+        "venue": null,
         "lect": [
             "YUSUF ABDI ABUBAKAR HASSAN"
         ],
@@ -5218,7 +5206,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NAQIUDDIN BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -5235,7 +5223,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ZULATUL HARYATI BINTI ZULKEFLI"
         ],
         "dayTime": [
             {
@@ -5631,6 +5619,17 @@
         "dayTime": []
     },
     {
+        "code": "CCTH 1021",
+        "sect": 56,
+        "title": "TAHFIZ CLASS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CCTH 1022",
         "sect": 55,
         "title": "TAHFIZ CLASS 2",
@@ -5638,6 +5637,17 @@
         "venue": null,
         "lect": [
             "PROF. DR. NURUL FADZLIN BT HASBULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCTH 1022",
+        "sect": 56,
+        "title": "TAHFIZ CLASS 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
         ],
         "dayTime": []
     },
@@ -5767,7 +5777,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.9 LEVEL 4",
         "lect": [
-            "ZHANG LONG"
+            "DR. MAI JIANJUN"
         ],
         "dayTime": [
             {
@@ -5912,6 +5922,28 @@
                 "endTime": "19:00"
             }
         ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 55,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 56,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "PROF. DR. NURUL FADZLIN BT HASBULLAH"
+        ],
+        "dayTime": []
     },
     {
         "code": "CCUB 1061",
@@ -6235,6 +6267,17 @@
                 "endTime": "19:00"
             }
         ]
+    },
+    {
+        "code": "CCUB 1062",
+        "sect": 55,
+        "title": "USRAH 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
     },
     {
         "code": "CCUB 1062",
@@ -7161,7 +7204,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD IZZAT NAJMI B ANNISA"
         ],
         "dayTime": []
     },
@@ -7172,7 +7215,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
         "dayTime": []
     },
@@ -7268,7 +7311,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "YUSRIN B MOHD YONUS"
         ],
         "dayTime": [
             {
@@ -7285,7 +7328,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MAHFUZAH  BINTI YAHAYA"
         ],
         "dayTime": [
             {
@@ -7302,7 +7345,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMAD FADZIL BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -7319,7 +7362,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD AZIM BIN ABD GHAFAR"
         ],
         "dayTime": [
             {
@@ -7336,7 +7379,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD ARIF HAIKAL BIN AZAHARI"
         ],
         "dayTime": [
             {
@@ -7353,7 +7396,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "AMIRRUL HAKIM BIN ABD JAMAL"
         ],
         "dayTime": [
             {

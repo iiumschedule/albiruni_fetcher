@@ -637,10 +637,9 @@
         "sect": 1,
         "title": "WATER TREATMENT PLANT DESIGN",
         "chr": 3.0,
-        "venue": "ENG LRM E2-1-4",
+        "venue": "ENG LRM E1-4-19",
         "lect": [
-            "DR. HUSNA BINTI AHMAD TAJUDDIN",
-            "PROF. IR. DR. MOHAMMED SAEDI JAMI"
+            "DR. HUSNA BINTI AHMAD TAJUDDIN"
         ],
         "dayTime": [
             {
@@ -1204,6 +1203,24 @@
         ]
     },
     {
+        "code": "CHEN 3200",
+        "sect": 2,
+        "title": "CONCEPTUAL DESIGN PROJECT",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI",
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "ASSOC. PROF. DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CHEN 3210",
         "sect": 1,
         "title": "SEPARATION PROCESSES 2",
@@ -1399,6 +1416,36 @@
         ]
     },
     {
+        "code": "CHEN 4200",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "PROF. DR. FARIDAH BT. YUSOF",
+            "ASSOC. PROF. DR. NOR FADHILLAH BT. MOHAMED AZMIN",
+            "PROF. DR. MAIZIRWAN MEL",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
+            "ASSOC. PROF. IR. DR. AZLIN SUHAIDA BT. AZMI",
+            "DR. MUNIRA BT. SHAHBUDDIN",
+            "ASSOC. PROF. IR. DR. FATHILAH BINTI ALI",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "DR. CHE ANUAR BIN CHE MOHAMAD",
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "ASSOC. PROF. DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD",
+            "DR. RICCA RAHMAN BINTI NASARUDDIN",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CHEN 4300",
         "sect": 1,
         "title": "INTEGRATED DESIGN PROJECT",
@@ -1419,6 +1466,23 @@
                 "endTime": "12:50"
             }
         ]
+    },
+    {
+        "code": "CHEN 4300",
+        "sect": 2,
+        "title": "INTEGRATED DESIGN PROJECT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MAIZIRWAN MEL",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM",
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD",
+            "DR. RICCA RAHMAN BINTI NASARUDDIN",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB"
+        ],
+        "dayTime": []
     },
     {
         "code": "CHEN 4351",
@@ -1573,6 +1637,39 @@
                 "endTime": "11:50"
             }
         ]
+    },
+    {
+        "code": "CHEN 4400",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. NIK RASHIDA BINTI NIK ABDUL GHANI",
+            "PROF. DR. FARIDAH BT. YUSOF",
+            "PROF. DR. MAIZIRWAN MEL",
+            "PROF. DR. MD ZAHANGIR ALAM",
+            "PROF. DR. NASSERELDEEN AHMED KABBASHI",
+            "DR. MOHD. FIRDAUS BIN ABD. WAHAB",
+            "ASSOC. PROF. IR. DR. AZLIN SUHAIDA BT. AZMI",
+            "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM",
+            "DR. MUNIRA BT. SHAHBUDDIN",
+            "ASSOC. PROF. IR. DR. FATHILAH BINTI ALI",
+            "ASSOC. PROF. DR. NOOR ILLI BINTI MOHAMAD PUAD",
+            "PROF. IR. DR. MOHAMMED SAEDI JAMI",
+            "PROF. DR. MA'AN FAHMI RASHID AL-KHATIB",
+            "ASSOC. PROF. DR. SARINA BT. SULAIMAN",
+            "ASSOC. PROF. DR. FAZIA ADYANI BINTI AHMAD FUAD",
+            "DR. HUSNA BINTI AHMAD TAJUDDIN",
+            "DR. MARIATUL FADZILLAH BT MANSOR",
+            "ASSOC. PROF. DR. WAN MOHD FAZLI BIN WAN NAWAWI",
+            "DR. YUSILAWATI BINTI AHMAD NOR",
+            "ASSOC. PROF. DR. FARAH BINTI AHMAD",
+            "DR. RICCA RAHMAN BINTI NASARUDDIN",
+            "DR. NURUL SAKINAH BINTI ENGLIMAN",
+            "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": []
     },
     {
         "code": "CIVE 3122",
@@ -9551,6 +9648,28 @@
                 "day": 4,
                 "startTime": "11:30",
                 "endTime": "12:20"
+            }
+        ]
+    },
+    {
+        "code": "MECH 4224",
+        "sect": 1,
+        "title": "SPACECRAFT DYNAMICS AND CONTROL",
+        "chr": 2.0,
+        "venue": "ENG LRM E1-3-19",
+        "lect": [
+            "DR. HAFIZ BIN IMAN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
             }
         ]
     },

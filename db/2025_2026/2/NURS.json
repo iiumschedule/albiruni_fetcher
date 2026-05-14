@@ -275,7 +275,13 @@
         "lect": [
             "DR. NUR AIN BINTI MAHAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURA 3321",
@@ -286,7 +292,13 @@
         "lect": [
             "ASSOC. PROF. DR. WAN HASLIZA BINTI WAN MAMAT"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURA 3321",
@@ -297,7 +309,13 @@
         "lect": [
             "ASSOC. PROF. DR. SITI NOORKHAIRINA BINTI SOWTALI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURA 3321",
@@ -308,7 +326,13 @@
         "lect": [
             "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
     },
     {
         "code": "NURB 1213",
