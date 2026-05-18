@@ -5606,28 +5606,6 @@
         ]
     },
     {
-        "code": "MGMT 1301",
-        "sect": 501,
-        "title": "PRINCIPLES AND PRACTICE OF MANAGEMENT",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
         "code": "MGMT 2301",
         "sect": 1,
         "title": "ORGANIZATIONAL BEHAVIOUR",
@@ -6765,6 +6743,23 @@
                 "day": 6,
                 "startTime": "14:00",
                 "endTime": "18:00"
+            }
+        ]
+    },
+    {
+        "code": "MGMT 4901",
+        "sect": 600,
+        "title": "PROJECT PAPER",
+        "chr": 10.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "17:00",
+                "endTime": "21:00"
             }
         ]
     },
