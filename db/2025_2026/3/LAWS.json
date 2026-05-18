@@ -1,5 +1,39 @@
 [
     {
+        "code": "LAWD 0432",
+        "sect": 601,
+        "title": "PRINCIPLE OF CRIMINAL LAW",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MAZLENA BINTI MOHAMAD HUSSAIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "20:30",
+                "endTime": "01:00"
+            }
+        ]
+    },
+    {
+        "code": "LAWD 0433",
+        "sect": 601,
+        "title": "CRIMINAL PROCEDURE",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ABDUL RANI BIN KAMARUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:30"
+            }
+        ]
+    },
+    {
         "code": "LAWS 3400",
         "sect": 1,
         "title": "LAW ATTACHMENT PROGRAMME",
@@ -9,5 +43,22 @@
             "DR. KHADIJAH BINTI MOHD NAJID"
         ],
         "dayTime": []
+    },
+    {
+        "code": "PFTD 0234",
+        "sect": 601,
+        "title": "PRISON OFFICERS FILED TRAINING - SELF DEFENSE",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:00"
+            }
+        ]
     }
 ]
