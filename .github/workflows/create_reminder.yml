@@ -6,7 +6,7 @@ on:
 
 jobs:
   reminder:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
       - name: check for reminder
