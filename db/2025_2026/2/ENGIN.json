@@ -611,6 +611,28 @@
         ]
     },
     {
+        "code": "BTEN 4324",
+        "sect": 1,
+        "title": "BIOLOGICAL REACTOR DESIGN AND ANALYSIS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MD ZAHANGIR ALAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "BTEN 4351",
         "sect": 1,
         "title": "BIOMASS ENERGY",
@@ -674,6 +696,23 @@
                 "day": 3,
                 "startTime": "14:00",
                 "endTime": "15:20"
+            }
+        ]
+    },
+    {
+        "code": "BTEN 4398",
+        "sect": 1,
+        "title": "PROJECT I",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. AMANATUZZAKIAH ABDUL HALIM"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "09:00",
+                "endTime": "11:50"
             }
         ]
     },
@@ -1668,6 +1707,18 @@
             "DR. RICCA RAHMAN BINTI NASARUDDIN",
             "DR. NURUL SAKINAH BINTI ENGLIMAN",
             "ASSOC. PROF. DR. DZUN NORAINI BINTI JIMAT"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CHEN 4400",
+        "sect": 3,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
+            "IR. TS. DR. SUAZLAN BIN MT AZNAM"
         ],
         "dayTime": []
     },
