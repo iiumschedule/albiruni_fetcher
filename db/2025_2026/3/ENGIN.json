@@ -1,5 +1,16 @@
 [
     {
+        "code": "AERO 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CVLE 3322",
         "sect": 9,
         "title": "REINFORCED CONCRETE DESIGN 2",
@@ -71,8 +82,13 @@
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "22:00",
-                "endTime": "03:30"
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "12:50"
             }
         ]
     },
@@ -335,6 +351,17 @@
                 "endTime": "16:50"
             }
         ]
+    },
+    {
+        "code": "MECH 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD BIN ABDULLAH"
+        ],
+        "dayTime": []
     },
     {
         "code": "MFGA 3500",

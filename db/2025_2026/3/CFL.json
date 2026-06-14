@@ -227,12 +227,17 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "13:00"
+            },
+            {
                 "day": 2,
                 "startTime": "11:00",
                 "endTime": "16:00"
             },
             {
-                "day": 2,
+                "day": 3,
                 "startTime": "08:00",
                 "endTime": "13:00"
             },
@@ -240,11 +245,6 @@
                 "day": 4,
                 "startTime": "11:00",
                 "endTime": "16:00"
-            },
-            {
-                "day": 4,
-                "startTime": "08:00",
-                "endTime": "13:00"
             }
         ]
     },
@@ -1738,6 +1738,38 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "15:50"
+            }
+        ]
+    },
+    {
+        "code": "LMBD 2201",
+        "sect": 503,
+        "title": "BAHASA  MELAYU KERJAYA (SAINS SOSIAL)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MOHD SHAHDAN BIN SADIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:50"
             }
         ]
     },
