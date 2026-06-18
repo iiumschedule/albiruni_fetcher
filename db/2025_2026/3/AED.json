@@ -1,5 +1,39 @@
 [
     {
+        "code": "BAAD 2350",
+        "sect": 1,
+        "title": "HERITAGE AND CONTEMPORARY STUDIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAD 2350",
+        "sect": 2,
+        "title": "HERITAGE AND CONTEMPORARY STUDIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "13:00"
+            }
+        ]
+    },
+    {
         "code": "BAAR 1230",
         "sect": 1,
         "title": "QUR'AN, SUNNAH & BUILT ENVIRONMENT",
@@ -256,6 +290,40 @@
                 "day": 4,
                 "startTime": "09:00",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "BINA 1303",
+        "sect": 1,
+        "title": "WORKING DRAWING FOR INTERIOR ARCHITECTURE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BINA 1304",
+        "sect": 1,
+        "title": "COMPUTER AIDED INTERIOR DESIGN 2 (CAD 2)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "09:00",
+                "endTime": "12:00"
             }
         ]
     },
