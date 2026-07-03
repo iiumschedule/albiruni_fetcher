@@ -43,7 +43,7 @@
         "sect": 1,
         "title": "ELECTRIC CIRCUITS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-10",
+        "venue": "ENG LRM E2-2-2",
         "lect": [
             "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
         ],
@@ -51,22 +51,12 @@
             {
                 "day": 1,
                 "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "endTime": "12:50"
             },
             {
                 "day": 3,
                 "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
-                "day": 4,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "endTime": "12:50"
             }
         ]
     },
@@ -157,11 +147,22 @@
         ]
     },
     {
+        "code": "GENE 4301",
+        "sect": 9,
+        "title": "ENGINEERING ETHICS, SAFETY AND SUSTAINABILITY",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR LIYANA BINTI AZMI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MATH 1321",
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 2",
         "chr": 3.0,
-        "venue": "ENG LRM E1-4-6",
+        "venue": "ENG LRM E1-3-9",
         "lect": [
             "ASSOC. PROF. DR. JAMAL I. DAOUD"
         ],
@@ -291,7 +292,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "DR. HANISAH BINTI MANSHOR"
+            "ASSOC. PROF. DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": [
             {
@@ -353,13 +354,35 @@
         ]
     },
     {
+        "code": "MECH 3242",
+        "sect": 1,
+        "title": "IOT AND APPLICATIONS",
+        "chr": 2.0,
+        "venue": "ENG MEC COMPUTER LAB E4-2",
+        "lect": [
+            "DR. MOHD AZAN BIN MOHAMMED SAPARDI"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
         "code": "MECH 4400",
         "sect": 1,
         "title": "FINAL YEAR PROJECT 2",
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. MUHAMMAD BIN ABDULLAH"
+            "ASSOC. PROF. DR. MUHAMMAD BIN ABDULLAH"
         ],
         "dayTime": []
     },
@@ -379,7 +402,7 @@
         "sect": 1,
         "title": "TECHNOLOGY ENTREPRENEURSHIP",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ENG LRM E0-1-10",
         "lect": [
             "ASSOC. PROF. DR. MOHD RADZI B CHE DAUD"
         ],
@@ -395,5 +418,16 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MTRE 4400",
+        "sect": 1,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ALYA NAILI BINTI ROZHAN"
+        ],
+        "dayTime": []
     }
 ]
