@@ -266,7 +266,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
+            "ASSOC. PROF. TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -288,7 +288,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
+            "ASSOC. PROF. TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -851,7 +851,7 @@
         "sect": 1,
         "title": "Digital & Embedded Systems",
         "chr": 3.0,
-        "venue": "ICT TL-E4-02 LEVEL 4E",
+        "venue": null,
         "lect": [
             "PROF. DR. ABDUL WAHAB BIN ABDUL RAHMAN"
         ],
@@ -1490,7 +1490,7 @@
         "chr": 3.0,
         "venue": "ICT TL-D5-03 LEVEL 5D",
         "lect": [
-            "DR. AZLIN BINTI NORDIN"
+            "ASSOC. PROF. DR. AZLIN BINTI NORDIN"
         ],
         "dayTime": [
             {
@@ -1636,28 +1636,6 @@
                 "endTime": "16:50"
             }
         ]
-    },
-    {
-        "code": "BICS 4332",
-        "sect": 1,
-        "title": "Software Design and Architecture",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. NOOR AZURA BINTI ZAKARIA"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "BICS 4361",
-        "sect": 1,
-        "title": "Data Science",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. RAINI BINTI HASSAN"
-        ],
-        "dayTime": []
     },
     {
         "code": "BIIT 1301",
@@ -2252,7 +2230,7 @@
         "chr": 3.0,
         "venue": "ICT LR 11 LEVEL 2C",
         "lect": [
-            "TS. DR. HAZWANI BT MOHD MOHADIS"
+            "ASSOC. PROF. TS. DR. HAZWANI BT MOHD MOHADIS"
         ],
         "dayTime": [
             {
@@ -2797,17 +2775,6 @@
     },
     {
         "code": "CSCI 1300",
-        "sect": 6,
-        "title": "ELEMENTS OF PROGRAMMING",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. MOHD. SYARQAWY BIN HAMZAH"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "CSCI 1300",
         "sect": 7,
         "title": "ELEMENTS OF PROGRAMMING",
         "chr": 3.0,
@@ -2835,7 +2802,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
+            "ASSOC. PROF. TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": []
     },
@@ -2846,7 +2813,7 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
+            "ASSOC. PROF. TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": []
     },
@@ -2980,7 +2947,18 @@
         "lect": [
             "DR. AKEEM OLOWOLAYEMO"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            },
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:50"
+            }
+        ]
     },
     {
         "code": "CSCI 3300",
@@ -3033,7 +3011,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
+            "ASSOC. PROF. TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -3055,7 +3033,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-02 LEVEL 5E",
         "lect": [
-            "TS. DR. HAFIZAH BINTI MANSOR"
+            "ASSOC. PROF. TS. DR. HAFIZAH BINTI MANSOR"
         ],
         "dayTime": [
             {
@@ -3572,7 +3550,7 @@
         "chr": 3.0,
         "venue": "ICT TL-E5-01 LEVEL 5E",
         "lect": [
-            "DR. AZLIN BINTI NORDIN"
+            "ASSOC. PROF. DR. AZLIN BINTI NORDIN"
         ],
         "dayTime": [
             {

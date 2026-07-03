@@ -919,6 +919,23 @@
     },
     {
         "code": "CCCS 1010",
+        "sect": 600,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "SAIFUL REDZA BIN MOHAMED"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "20:00",
+                "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCCS 1010",
         "sect": 801,
         "title": "BASIC COUNSELING SKILLS 1",
         "chr": 0.5,
@@ -1808,7 +1825,7 @@
         "chr": 0.5,
         "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
-            "SUHAILA BINTI ABDULLAH"
+            "DR. SUHAILA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1944,7 +1961,7 @@
         "chr": 0.5,
         "venue": "KENMS 4.8 LEVEL 4",
         "lect": [
-            "DR. HARUNA BABATUNDE JAIYEOBA"
+            "ASSOC. PROF. DR. HARUNA BABATUNDE JAIYEOBA"
         ],
         "dayTime": [
             {
@@ -2029,7 +2046,7 @@
         "chr": 0.5,
         "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
-            "SUHAILA BINTI ABDULLAH"
+            "DR. SUHAILA BINTI ABDULLAH"
         ],
         "dayTime": [
             {
@@ -2165,7 +2182,7 @@
         "chr": 0.5,
         "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
-            "WAN NOHAJARATUL NURIN BIN WAN RAMELI"
+            "WAN NORHAJARATUL NURIN BIN WAN RAMELI"
         ],
         "dayTime": [
             {
@@ -2952,7 +2969,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
+            "ASSOC. PROF. DR. SITI HAZARIAH BINTI ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -2969,7 +2986,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. SITI HAZARIAH BINTI ABDUL HAMID"
+            "ASSOC. PROF. DR. SITI HAZARIAH BINTI ABDUL HAMID"
         ],
         "dayTime": [
             {
@@ -4261,7 +4278,7 @@
         "chr": 0.5,
         "venue": "ADMIN BUILDING KOS A-G-02",
         "lect": [
-            "DR. MOHD. YUSOF BIN MOHAMAD"
+            "ASSOC. PROF. DR. MOHD. YUSOF BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -4278,7 +4295,7 @@
         "chr": 0.5,
         "venue": "SEMINAR ROOM (DBMS) L3",
         "lect": [
-            "DR. MOHD. YUSOF BIN MOHAMAD"
+            "ASSOC. PROF. DR. MOHD. YUSOF BIN MOHAMAD"
         ],
         "dayTime": [
             {
@@ -4448,7 +4465,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. SITI NUR ILLIANI BINTI JAAFAR"
+            "ASSOC. PROF. DR. SITI NUR ILLIANI BINTI JAAFAR"
         ],
         "dayTime": [
             {
@@ -4465,7 +4482,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "DR. SITI NUR ILLIANI BINTI JAAFAR"
+            "ASSOC. PROF. DR. SITI NUR ILLIANI BINTI JAAFAR"
         ],
         "dayTime": [
             {
@@ -6140,17 +6157,6 @@
                 "endTime": "10:00"
             }
         ]
-    },
-    {
-        "code": "CCSP 3522",
-        "sect": 1,
-        "title": "SUKSIS 6",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "MUHAMAD RIZAL KAMARUDDIN"
-        ],
-        "dayTime": []
     },
     {
         "code": "CCSQ 1010",
@@ -7987,7 +7993,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "NOR BIDAYATUL HUDA BINTI ALIAS"
+            "NUR BIDAYATUL HUDA BINTI ALIAS"
         ],
         "dayTime": [
             {
@@ -8004,7 +8010,7 @@
         "chr": 0.5,
         "venue": null,
         "lect": [
-            "NOR BIDAYATUL HUDA BINTI ALIAS"
+            "NUR BIDAYATUL HUDA BINTI ALIAS"
         ],
         "dayTime": [
             {
