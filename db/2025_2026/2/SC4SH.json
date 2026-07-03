@@ -312,7 +312,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. NOR RAZINAH BINTI MOHD. ZAIN"
+            "ASSOC. PROF. DR. NOR RAZINAH BINTI MOHD. ZAIN"
         ],
         "dayTime": [
             {
@@ -329,7 +329,7 @@
         "chr": 2.0,
         "venue": "KENMS 3.5 LEVEL 3",
         "lect": [
-            "DR. NOR RAZINAH BINTI MOHD. ZAIN"
+            "ASSOC. PROF. DR. NOR RAZINAH BINTI MOHD. ZAIN"
         ],
         "dayTime": [
             {
@@ -533,7 +533,7 @@
         "chr": 2.0,
         "venue": "PGH LECTURE THEATRE 2 B4.1.16",
         "lect": [
-            "MUHAMMAD FADHLULLAH BIN NAJIMUDIN"
+            "DR. MUHAMMAD FADHLULLAH BIN NAJIMUDIN"
         ],
         "dayTime": [
             {
@@ -1119,17 +1119,6 @@
     },
     {
         "code": "SCSH 2163",
-        "sect": 801,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
         "sect": 808,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
@@ -1241,7 +1230,7 @@
             "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM",
             "DR. SYARIFAH HAIZAN BINTI SAYED KAMAR",
             "DR. SALWANA BINTI SUPA'AT",
-            "DR. MUHD FIRDAUS BIN CHE MUSA",
+            "ASSOC. PROF. DR. MUHD FIRDAUS BIN CHE MUSA",
             "ASSOC. PROF. DR. NOORHAZAYTI BINTI AB HALIM"
         ],
         "dayTime": []
@@ -1258,7 +1247,7 @@
             "ASSOC. PROF. DR. NOORHAZAYTI BINTI AB HALIM",
             "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM",
             "DR. SALWANA BINTI SUPA'AT",
-            "DR. MUHD FIRDAUS BIN CHE MUSA",
+            "ASSOC. PROF. DR. MUHD FIRDAUS BIN CHE MUSA",
             "DR. SYARIFAH HAIZAN BINTI SAYED KAMAR"
         ],
         "dayTime": []
@@ -1415,7 +1404,13 @@
         "lect": [
             "DR. MUHAMMAD ZAKI BIN RAMLI"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -1702,7 +1697,7 @@
         "venue": null,
         "lect": [
             "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
-            "DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
+            "ASSOC. PROF. DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
             "ROSLIMNA BINTI MOHMMED SAAD",
             "M MASCITAH BINTI MANSOR"
         ],
@@ -2127,7 +2122,7 @@
             "DR. ABDUL AZIZ BIN AHMAD",
             "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
             "DR. NORHANIS AIDA BINTI MOHD NOR",
-            "DR. HANISAH BINTI MANSHOR"
+            "ASSOC. PROF. DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": []
     },
@@ -2143,7 +2138,7 @@
             "DR. ABDUL AZIZ BIN AHMAD",
             "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
             "DR. NORHANIS AIDA BINTI MOHD NOR",
-            "DR. HANISAH BINTI MANSHOR"
+            "ASSOC. PROF. DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": []
     },
@@ -2261,7 +2256,7 @@
         "venue": null,
         "lect": [
             "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
-            "DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
+            "ASSOC. PROF. DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
             "ROSLIMNA BINTI MOHMMED SAAD",
             "M MASCITAH BINTI MANSOR"
         ],
@@ -2612,7 +2607,13 @@
         "lect": [
             "DR. NOOR ARTIKA BINTI HASSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "16:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "SCSH 3164",
@@ -2905,7 +2906,7 @@
             "ASSOC. PROF. DR. NOORHAZAYTI BINTI AB HALIM",
             "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM",
             "DR. SALWANA BINTI SUPA'AT",
-            "DR. MUHD FIRDAUS BIN CHE MUSA",
+            "ASSOC. PROF. DR. MUHD FIRDAUS BIN CHE MUSA",
             "DR. SYARIFAH HAIZAN BINTI SAYED KAMAR"
         ],
         "dayTime": []
@@ -2921,7 +2922,7 @@
             "ASSOC. PROF. DR. ZURAINIE BINTI ABLLAH",
             "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM",
             "DR. SALWANA BINTI SUPA'AT",
-            "DR. MUHD FIRDAUS BIN CHE MUSA",
+            "ASSOC. PROF. DR. MUHD FIRDAUS BIN CHE MUSA",
             "DR. SYARIFAH HAIZAN BINTI SAYED KAMAR"
         ],
         "dayTime": []
