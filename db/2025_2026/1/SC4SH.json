@@ -1486,7 +1486,7 @@
         "venue": null,
         "lect": [
             "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
-            "DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
+            "ASSOC. PROF. DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
             "ROSLIMNA BINTI MOHMMED SAAD",
             "M MASCITAH BINTI MANSOR"
         ],
@@ -1907,7 +1907,7 @@
             "DR. ABDUL AZIZ BIN AHMAD",
             "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA",
             "DR. NORHANIS AIDA BINTI MOHD NOR",
-            "DR. HANISAH BINTI MANSHOR"
+            "ASSOC. PROF. DR. HANISAH BINTI MANSHOR"
         ],
         "dayTime": []
     },
@@ -1920,7 +1920,7 @@
         "lect": [
             "DR. NURIZAN BINTI OMAR",
             "DR. KARTINI BINTI AHMAD",
-            "DR. HANISAH BINTI MANSHOR",
+            "ASSOC. PROF. DR. HANISAH BINTI MANSHOR",
             "TO BE DETERMINED",
             "DR. NORHANIS AIDA BINTI MOHD NOR",
             "DR. ABDUL AZIZ BIN AHMAD",
@@ -2043,7 +2043,7 @@
         "lect": [
             "DR. ZAINUL MUKRIM BIN HJ. BAHARUDDIN",
             "M MASCITAH BINTI MANSOR",
-            "DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
+            "ASSOC. PROF. DR. NAN NOORHIDAYU BT MEGAT LAKSANA",
             "ROSLIMNA BINTI MOHMMED SAAD",
             "M MASCITAH BINTI MANSOR"
         ],
@@ -2429,7 +2429,7 @@
         "venue": null,
         "lect": [
             "DR. NOR'AIN BINTI ABDUL RASHID",
-            "DR. SITI NUR ILLIANI BINTI JAAFAR",
+            "ASSOC. PROF. DR. SITI NUR ILLIANI BINTI JAAFAR",
             "DR. SITI HAJAR BINTI MOHAMED ZAIN"
         ],
         "dayTime": []
@@ -3549,23 +3549,6 @@
     },
     {
         "code": "SCSH 3164",
-        "sect": 600,
-        "title": "USRAH IN ACTION 2",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "DR. AL AMIRUL EIMER BIN RAMDZAN ALI"
-        ],
-        "dayTime": [
-            {
-                "day": 7,
-                "startTime": "14:00",
-                "endTime": "18:00"
-            }
-        ]
-    },
-    {
-        "code": "SCSH 3164",
         "sect": 811,
         "title": "USRAH IN ACTION 2",
         "chr": 1.0,
@@ -3674,7 +3657,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "DR. HALIZA HASAN"
+            "ASSOC. PROF. DR. HALIZA HASAN"
         ],
         "dayTime": [
             {
@@ -3743,6 +3726,30 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. WAN AZDIE BIN MOHD. ABU BAKAR",
+            "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 827,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD ZUBIR BIN YUSOF",
+            "DR. ROSELAWATI BINTI MAT YA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 828,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. RASITASAM@RAZITASHAM",
             "DR. ROSELAWATI BINTI MAT YA"
         ],
         "dayTime": []

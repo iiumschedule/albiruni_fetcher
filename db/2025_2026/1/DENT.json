@@ -34,6 +34,40 @@
         ]
     },
     {
+        "code": "DENS 1103",
+        "sect": 1,
+        "title": "NORMAL RESPONSE TO DISEASED STATE & BASIC PHARMACOLOGY",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. HAMAD ABDULSALAM HAMAD ALFARISI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
+        "code": "DENS 1104",
+        "sect": 1,
+        "title": "CRANIOFACIAL & HUMAN BIOLOGY",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. ASMAK BT. ABDUL SAMAT"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
         "code": "DENS 1115",
         "sect": 1,
         "title": "ORAL BIOLOGY",
@@ -43,6 +77,11 @@
             "DR. SAMIYA RIAZ"
         ],
         "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
             {
                 "day": 3,
                 "startTime": "11:00",
@@ -85,6 +124,23 @@
         ]
     },
     {
+        "code": "DENS 2203",
+        "sect": 1,
+        "title": "ENDOCRINE, GENITOURINARY, LOCOMOTOR SYSTEMS",
+        "chr": 6.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD ZAKI BIN RAMLI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            }
+        ]
+    },
+    {
         "code": "DENS 2204",
         "sect": 1,
         "title": "DENTAL MATERIALS SCIENCE",
@@ -95,9 +151,31 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENS 2205",
+        "sect": 1,
+        "title": "HEAD & NECK AND NERVOUS SYSTEMS",
+        "chr": 8.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. TS. DR. AZLINI BINTI ISMAIL"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -115,6 +193,11 @@
                 "day": 4,
                 "startTime": "14:00",
                 "endTime": "17:00"
+            },
+            {
+                "day": 5,
+                "startTime": "10:00",
+                "endTime": "11:00"
             }
         ]
     },
@@ -129,9 +212,31 @@
         ],
         "dayTime": [
             {
+                "day": 4,
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
                 "day": 5,
                 "startTime": "09:00",
                 "endTime": "12:00"
+            }
+        ]
+    },
+    {
+        "code": "DENS 2432",
+        "sect": 1,
+        "title": "DENTAL PUBLIC HEALTH YEAR 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "09:00",
+                "endTime": "10:00"
             }
         ]
     },
@@ -180,6 +285,11 @@
         ],
         "dayTime": [
             {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
                 "day": 2,
                 "startTime": "10:00",
                 "endTime": "13:00"
@@ -196,6 +306,11 @@
             "DR. HIKMAH BINTI MOHD. NOR"
         ],
         "dayTime": [
+            {
+                "day": 2,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
             {
                 "day": 2,
                 "startTime": "09:00",
@@ -232,6 +347,11 @@
         "dayTime": [
             {
                 "day": 3,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
+            {
+                "day": 3,
                 "startTime": "10:00",
                 "endTime": "11:00"
             }
@@ -251,6 +371,11 @@
                 "day": 3,
                 "startTime": "08:00",
                 "endTime": "09:00"
+            },
+            {
+                "day": 5,
+                "startTime": "08:00",
+                "endTime": "09:00"
             }
         ]
     },
@@ -264,6 +389,11 @@
             "ASSOC. PROF. DR. NAZIYAH SHABAN MUSTAFA"
         ],
         "dayTime": [
+            {
+                "day": 4,
+                "startTime": "08:00",
+                "endTime": "09:00"
+            },
             {
                 "day": 4,
                 "startTime": "12:00",
@@ -298,6 +428,11 @@
             "DR. SYARIFAH HAIZAN BINTI SAYED KAMAR"
         ],
         "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
             {
                 "day": 3,
                 "startTime": "09:00",
@@ -482,7 +617,7 @@
         "chr": 7.0,
         "venue": null,
         "lect": [
-            "DR. NORFAEZAH BINTI AHMAD"
+            "ASSOC. PROF. DR. NORFAEZAH BINTI AHMAD"
         ],
         "dayTime": [
             {
@@ -584,7 +719,7 @@
         "chr": 10.0,
         "venue": null,
         "lect": [
-            "DR. MUHD FIRDAUS BIN CHE MUSA"
+            "ASSOC. PROF. DR. MUHD FIRDAUS BIN CHE MUSA"
         ],
         "dayTime": [
             {
