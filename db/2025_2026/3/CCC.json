@@ -1,21 +1,38 @@
 [
     {
+        "code": "CCEM 1010",
+        "sect": 612,
+        "title": "EVENT MANAGEMENT SKILL 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "SHAHRIZAD BT. SA-IDUL HAJ"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
         "code": "CCFM 2061",
         "sect": 1,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMED INSAF MOHAMMED GHOUS"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 3,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -26,18 +43,13 @@
         "sect": 2,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "HALIMATUN SAADIAH BINTI ABDUL MANAP"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 3,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -48,18 +60,13 @@
         "sect": 3,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHAMAD ISMAIL BIN HJ MOHD YUNUS"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 3,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -70,16 +77,11 @@
         "sect": 4,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NAZIFAH BINTI MOHD ANNUAR"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 3,
                 "startTime": "17:00",
@@ -92,16 +94,11 @@
         "sect": 5,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "SEKKAL ABDERRAOUF"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 3,
                 "startTime": "17:00",
@@ -114,16 +111,11 @@
         "sect": 6,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "FAUZI BIN MUDA"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 3,
                 "startTime": "17:00",
@@ -136,16 +128,11 @@
         "sect": 7,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "FOZIAH BINTI RAHMAN"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 3,
                 "startTime": "17:00",
@@ -154,22 +141,73 @@
         ]
     },
     {
+        "code": "CCFM 2061",
+        "sect": 8,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": "KENMS 3.8 LEVEL 3",
+        "lect": [
+            "DR. SUHAILA BINTI ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 9,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": "KENMS 3.7 LEVEL 3",
+        "lect": [
+            "WAN PUTRI ZAHRA BINTI WAN YUSOF"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCFM 2061",
+        "sect": 612,
+        "title": "FAMILY MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "RUZAI SYARILILI AIYU BINTI ABD. RASHID"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
         "code": "CCLM 2020",
         "sect": 1,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MAZBAHUR RAHMAN KHAN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -180,18 +218,13 @@
         "sect": 2,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MOHAMMAD RIDHWAN BIN ROSLI"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -202,18 +235,13 @@
         "sect": 3,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "AISYAH MADIHAH BINTI MUSTAFA"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -224,18 +252,13 @@
         "sect": 4,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "RS AZIRA BINTI SULAIMAN"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -246,18 +269,13 @@
         "sect": 5,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "AKINBODE ABDULAKEEM OLUWATUNMISE"
         ],
         "dayTime": [
             {
                 "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
-            {
-                "day": 4,
                 "startTime": "17:00",
                 "endTime": "19:00"
             }
@@ -268,16 +286,11 @@
         "sect": 6,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "RAUDOH BINTI MOHAMAD HELMI"
         ],
         "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 4,
                 "startTime": "17:00",
@@ -290,16 +303,11 @@
         "sect": 7,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUSTAPHA TOYYIB ABIODUN"
         ],
         "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 4,
                 "startTime": "17:00",
@@ -312,16 +320,11 @@
         "sect": 8,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "AISHAH BINTI HUSSAIN"
         ],
         "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 4,
                 "startTime": "17:00",
@@ -334,16 +337,11 @@
         "sect": 9,
         "title": "LEADERSHIP AND MANAGEMENT",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD AZIM FADZIL BIN AB MANAN"
         ],
         "dayTime": [
-            {
-                "day": 2,
-                "startTime": "17:00",
-                "endTime": "19:00"
-            },
             {
                 "day": 4,
                 "startTime": "17:00",
@@ -352,22 +350,95 @@
         ]
     },
     {
+        "code": "CCLM 2020",
+        "sect": 10,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": "KENMS 3.11 LEVEL 3",
+        "lect": [
+            "AISYAH MADIHAH BINTI MUSTAFA"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 11,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": "KENMS 3.12 LEVEL 3",
+        "lect": [
+            "MAZBAHUR RAHMAN KHAN"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "17:00",
+                "endTime": "19:00"
+            }
+        ]
+    },
+    {
+        "code": "CCLM 2020",
+        "sect": 612,
+        "title": "LEADERSHIP AND MANAGEMENT",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "DR. HAZIQAH ZULAIKHA BINTI ARIS"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
+        "code": "CCMG 2010",
+        "sect": 611,
+        "title": "MOSQUE MANAGEMENT 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
         "code": "CCUB 1061",
         "sect": 101,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMAD ALIF HAIKAL BIN SUKERI"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
-            {
-                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -378,18 +449,13 @@
         "sect": 102,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "ALAKHALI FAISAL MUSHEER GAMAL FAREA"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
-            {
-                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -400,18 +466,13 @@
         "sect": 201,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR SYAHMINA HUMAIRA BINTI HISHAMUDDIN"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
-            {
-                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -422,20 +483,37 @@
         "sect": 202,
         "title": "USRAH 1",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.10 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "NUR SYAIDATUL ANISA BINTI CANDRA"
         ],
         "dayTime": [
             {
                 "day": 1,
                 "startTime": "20:00",
                 "endTime": "22:00"
+            }
+        ]
+    },
+    {
+        "code": "CCUB 1061",
+        "sect": 612,
+        "title": "USRAH 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MR. MOHAMMAD BAIHAQI BIN MD YUSNAN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
             },
             {
-                "day": 3,
-                "startTime": "20:00",
-                "endTime": "22:00"
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
             }
         ]
     },
@@ -444,16 +522,11 @@
         "sect": 101,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD AMMAR BIN RASID"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
             {
                 "day": 3,
                 "startTime": "20:00",
@@ -466,16 +539,11 @@
         "sect": 102,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.7 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
             {
                 "day": 3,
                 "startTime": "20:00",
@@ -488,16 +556,11 @@
         "sect": 103,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.8 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD AIMAN BIN ISA"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
             {
                 "day": 3,
                 "startTime": "20:00",
@@ -510,18 +573,13 @@
         "sect": 201,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.6 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "HANI SUHAILAH BINTI SIDEK"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
-            {
-                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -532,18 +590,13 @@
         "sect": 202,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "AFZA IWANI BINTI AZHAR"
         ],
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
-            {
-                "day": 3,
                 "startTime": "20:00",
                 "endTime": "22:00"
             }
@@ -554,16 +607,11 @@
         "sect": 203,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "UMMU SULAIM AL WARIDAH BINTI FAJAR NINA PURNAMA ALAM"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
             {
                 "day": 3,
                 "startTime": "20:00",
@@ -576,16 +624,11 @@
         "sect": 204,
         "title": "USRAH 2",
         "chr": 0.5,
-        "venue": null,
+        "venue": "KENMS 3.9 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "AUNI SYAZWANI BINTI AHMAD HAFIZULLAH"
         ],
         "dayTime": [
-            {
-                "day": 1,
-                "startTime": "20:00",
-                "endTime": "22:00"
-            },
             {
                 "day": 3,
                 "startTime": "20:00",
@@ -598,9 +641,9 @@
         "sect": 1,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KENMS 3.11 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "CHYFICA BINTI MOHAMED ZAMRI"
         ],
         "dayTime": [
             {
@@ -620,9 +663,9 @@
         "sect": 2,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KENMS 3.12 LEVEL 3",
         "lect": [
-            "TO BE DETERMINED"
+            "KHAIRANI BINTI CHE IBRAHIM"
         ],
         "dayTime": [
             {
@@ -644,7 +687,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "NADIA NUR SYAFIQAH BINTI NAZAR"
         ],
         "dayTime": [
             {
@@ -666,7 +709,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD JEFFERSON EMPALING BIN JONATHAN JANA"
         ],
         "dayTime": [
             {
@@ -688,7 +731,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
         "dayTime": [
             {
@@ -710,7 +753,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "SITI RAUDHAH BINTI RAMLI"
         ],
         "dayTime": [
             {
@@ -732,7 +775,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ADIBAH BT. AMIR"
         ],
         "dayTime": [
             {
@@ -754,7 +797,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. RICCA RAHMAN BINTI NASARUDDIN"
         ],
         "dayTime": [
             {
@@ -768,5 +811,82 @@
                 "endTime": "19:00"
             }
         ]
+    },
+    {
+        "code": "SCSH 1201",
+        "sect": 9,
+        "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "IR. TS. DR. (CMILT M.I.E.M. ACPE) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": 4,
+                "startTime": "15:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 611,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+        ],
+        "dayTime": [
+            {
+                "day": 5,
+                "startTime": "18:30",
+                "endTime": "22:30"
+            },
+            {
+                "day": 6,
+                "startTime": "14:30",
+                "endTime": "22:30"
+            }
+        ]
+    },
+    {
+        "code": "SCSH 2163",
+        "sect": 831,
+        "title": "USRAH IN ACTION 1",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOORHAZAYTI BINTI AB HALIM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 1,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 831,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. NOORHAZAYTI BINTI AB HALIM"
+        ],
+        "dayTime": []
     }
 ]

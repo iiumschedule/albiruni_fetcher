@@ -1,5 +1,70 @@
 [
     {
+        "code": "AERO 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AERO 4262",
+        "sect": 1,
+        "title": "ROCKET PROPULSION",
+        "chr": 2.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 2,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            },
+            {
+                "day": 3,
+                "startTime": "08:30",
+                "endTime": "09:50"
+            }
+        ]
+    },
+    {
+        "code": "AERO 4286",
+        "sect": 1,
+        "title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
+        "chr": 2.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
         "code": "AERO 4400",
         "sect": 1,
         "title": "FINAL YEAR PROJECT 2",
@@ -11,6 +76,17 @@
         "dayTime": []
     },
     {
+        "code": "CHEN 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MUNIRA BT. SHAHBUDDIN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CVLE 3322",
         "sect": 9,
         "title": "REINFORCED CONCRETE DESIGN 2",
@@ -18,6 +94,17 @@
         "venue": null,
         "lect": [
             "TS. DR. SITI ALIYYAH BINTI MASJUKI"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CVLE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
         ],
         "dayTime": []
     },
@@ -39,28 +126,6 @@
         ]
     },
     {
-        "code": "EECE 1311",
-        "sect": 1,
-        "title": "ELECTRIC CIRCUITS",
-        "chr": 3.0,
-        "venue": "ENG LRM E2-2-2",
-        "lect": [
-            "DR. NURUL ARFAH BINTI CHE MUSTAPHA"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            },
-            {
-                "day": 3,
-                "startTime": "10:00",
-                "endTime": "12:50"
-            }
-        ]
-    },
-    {
         "code": "EECE 1313",
         "sect": 1,
         "title": "PROGRAMMING FOR ENGINEERS",
@@ -76,75 +141,82 @@
                 "endTime": "12:50"
             },
             {
-                "day": 3,
+                "day": 4,
                 "startTime": "10:00",
                 "endTime": "12:50"
             }
         ]
     },
     {
-        "code": "EECE 1316",
+        "code": "EECE 3500",
         "sect": 1,
-        "title": "FUNDAMENTALS OF ELECTRICAL AND ELECTRONIC",
-        "chr": 3.0,
-        "venue": "ENG LRM E1-3-10",
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
         "lect": [
-            "ASSOC. PROF. IR. DR. KHAIZURAN BIN ABDULLAH"
+            "TO BE DETERMINED"
         ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "11:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 2,
-                "startTime": "11:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 3,
-                "startTime": "11:30",
-                "endTime": "13:00"
-            },
-            {
-                "day": 4,
-                "startTime": "11:30",
-                "endTime": "13:00"
-            }
-        ]
+        "dayTime": []
     },
     {
         "code": "EECE 4319",
         "sect": 1,
         "title": "OPTICAL COMMUNICATIONS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-21",
+        "venue": "ENG LRM E1-3-10",
         "lect": [
             "ASSOC. PROF. DR. NORAZLINA BINTI SAIDIN"
         ],
         "dayTime": [
             {
-                "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
-            },
-            {
                 "day": 2,
-                "startTime": "10:00",
+                "startTime": "09:30",
                 "endTime": "11:20"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
+                "startTime": "09:30",
                 "endTime": "11:20"
             },
             {
                 "day": 4,
-                "startTime": "10:00",
+                "startTime": "09:30",
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "EITR 3511",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. WAN LUQMAN HAKIM BIN WAN ABDUL HAMID"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3512",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3541",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "TO BE DETERMINED"
+        ],
+        "dayTime": []
     },
     {
         "code": "GENE 4301",
@@ -162,7 +234,7 @@
         "sect": 1,
         "title": "ENGINEERING MATHEMATICS 2",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-9",
+        "venue": "ENG LRM E1-3-24",
         "lect": [
             "ASSOC. PROF. DR. JAMAL I. DAOUD"
         ],
@@ -186,6 +258,23 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MATH 1321",
+        "sect": 2,
+        "title": "ENGINEERING MATHEMATICS 2",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-24",
+        "lect": [
+            "ASSOC. PROF. DR. JAMAL I. DAOUD"
+        ],
+        "dayTime": [
+            {
+                "day": 4,
+                "startTime": "12:00",
+                "endTime": "01:20"
             }
         ]
     },
@@ -226,7 +315,7 @@
         "sect": 2,
         "title": "DIFFERENTIAL EQUATIONS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-16",
         "lect": [
             "DR. KARTINI BINTI AHMAD"
         ],
@@ -258,7 +347,7 @@
         "sect": 1,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": "ENG LRM E1-3-19",
+        "venue": "ENG LRM E1-4-6",
         "lect": [
             "ASSOC. PROF. DR. MAZIATI AKMAL BT MAT HARTTAR @ MOHD HATTA"
         ],
@@ -290,7 +379,7 @@
         "sect": 2,
         "title": "COMPUTATIONAL METHODS AND STATISTICS",
         "chr": 3.0,
-        "venue": null,
+        "venue": "ENG LRM E1-4-16",
         "lect": [
             "ASSOC. PROF. DR. HANISAH BINTI MANSHOR"
         ],
@@ -316,6 +405,17 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MCTA 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR LIYANA BINTI AZMI"
+        ],
+        "dayTime": []
     },
     {
         "code": "MCTA 4200",
@@ -376,6 +476,120 @@
         ]
     },
     {
+        "code": "MECH 3342",
+        "sect": 1,
+        "title": "COMPUTATIONAL MECHANICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E0-1-15",
+        "lect": [
+            "DR. ADIB HAMDANI BIN ROSLI",
+            "DR. SYED NOH BIN SYED ABU BAKAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 4,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MECH 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. MUHAMMAD SAIFUDDIN BIN MOHAMED REHAN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 4314",
+        "sect": 1,
+        "title": "APPLIED THERMODYNAMICS",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-3-10",
+        "lect": [
+            "DR. SANISAH BT. SAHARIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            }
+        ]
+    },
+    {
+        "code": "MECH 4386",
+        "sect": 1,
+        "title": "NONDESTRUCTIVE EVALUATION OF STRUCTURES",
+        "chr": 3.0,
+        "venue": "ENG LRM E1-2-17",
+        "lect": [
+            "DR. NORFAZRINA HAYATI BINTI MOHD YATIM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 2,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            },
+            {
+                "day": 3,
+                "startTime": "10:00",
+                "endTime": "11:20"
+            }
+        ]
+    },
+    {
+        "code": "MECH 4399",
+        "sect": 1,
+        "title": "PROJECT II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "MECH 4400",
         "sect": 1,
         "title": "FINAL YEAR PROJECT 2",
@@ -383,6 +597,17 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. MUHAMMAD BIN ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MFGA 3312",
+        "sect": 9,
+        "title": "QUALITY CONTROL AND IMPROVEMENT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMED BIN ABD. RAHMAN"
         ],
         "dayTime": []
     },
@@ -418,6 +643,28 @@
                 "endTime": "11:20"
             }
         ]
+    },
+    {
+        "code": "MTRE 2301",
+        "sect": 9,
+        "title": "THERMODYNAMICS OF MATERIALS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR AYUNI BINTI JAMAL"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MTRE 3500",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR IDAYU BINTI AYOB"
+        ],
+        "dayTime": []
     },
     {
         "code": "MTRE 4400",
