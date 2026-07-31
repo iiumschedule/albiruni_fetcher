@@ -6,8 +6,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 5 LEVEL 3C",
         "lect": [
-            "DR. SURIANI BT. SULAIMAN",
-            "TUTOR"
+            "DR. SURIANI BT. SULAIMAN"
         ],
         "dayTime": [
             {
@@ -34,8 +33,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 5 LEVEL 3C",
         "lect": [
-            "DR. TAKUMI SASE",
-            "TUTOR"
+            "DR. TAKUMI SASE"
         ],
         "dayTime": [
             {
@@ -1844,8 +1842,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 8 TL-D4-02",
         "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH",
-            "TUTOR"
+            "DR. ZAINATUL SHIMA ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1872,8 +1869,7 @@
         "chr": 3.0,
         "venue": "ICT TL-D5-03 LEVEL 5D",
         "lect": [
-            "DR. ZAINATUL SHIMA ABDULLAH",
-            "TUTOR"
+            "DR. ZAINATUL SHIMA ABDULLAH"
         ],
         "dayTime": [
             {
@@ -1900,8 +1896,7 @@
         "chr": 3.0,
         "venue": "ICT TEACH LAB 9 TL-D4-03",
         "lect": [
-            "DR. NURHAFIZAH BINTI MAHRI",
-            "TUTOR"
+            "DR. NURHAFIZAH BINTI MAHRI"
         ],
         "dayTime": [
             {
@@ -1928,7 +1923,6 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TUTOR",
             "TS. DR. MOHD. IZZUDDIN BIN MOHD. TAMRIN"
         ],
         "dayTime": [
@@ -3070,17 +3064,6 @@
                 "endTime": "16:50"
             }
         ]
-    },
-    {
-        "code": "CSCI 2300",
-        "sect": 2,
-        "title": "DATA STRUCTURES AND ALGORITHMS I",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "DR. AIZAL YUSRINA IDRIS"
-        ],
-        "dayTime": []
     },
     {
         "code": "CSCI 2301",
@@ -4789,28 +4772,6 @@
         ]
     },
     {
-        "code": "INFO 4314",
-        "sect": 2,
-        "title": "BUSINESS DATA ANALYTICS",
-        "chr": 3.0,
-        "venue": "ICT PBL LAB 2 LEVEL 3D",
-        "lect": [
-            "ASSOC. PROF. DR. LILI MARZIANA BT. ABDULLAH"
-        ],
-        "dayTime": [
-            {
-                "day": 1,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            },
-            {
-                "day": 3,
-                "startTime": "08:30",
-                "endTime": "09:50"
-            }
-        ]
-    },
-    {
         "code": "INFO 4320",
         "sect": 1,
         "title": "ANIMATION TECHNIQUE",
@@ -5210,17 +5171,6 @@
     {
         "code": "INFO 4901",
         "sect": 2,
-        "title": "INDUSTRIAL ATTACHMENT",
-        "chr": 9.0,
-        "venue": null,
-        "lect": [
-            "DR. AYUB BIN ABDUL RAHMAN"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "INFO 4901",
-        "sect": 3,
         "title": "INDUSTRIAL ATTACHMENT",
         "chr": 9.0,
         "venue": null,

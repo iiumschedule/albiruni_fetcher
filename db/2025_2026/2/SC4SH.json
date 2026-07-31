@@ -562,17 +562,6 @@
     },
     {
         "code": "SCSH 2163",
-        "sect": 1,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
         "sect": 10,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
@@ -646,7 +635,6 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ASSOC. PROF. DR. KHAIRUL AZAMI BIN SIDEK",
             "ASSOC. PROF. DR. HASMAH BT MANSOR"
         ],
         "dayTime": []
@@ -1000,17 +988,6 @@
     },
     {
         "code": "SCSH 2163",
-        "sect": 501,
-        "title": "USRAH IN ACTION 1",
-        "chr": 1.0,
-        "venue": null,
-        "lect": [
-            "PROF. DR. ZAINAL ABIDIN BIN SANUSI"
-        ],
-        "dayTime": []
-    },
-    {
-        "code": "SCSH 2163",
         "sect": 511,
         "title": "USRAH IN ACTION 1",
         "chr": 1.0,
@@ -1126,7 +1103,13 @@
         "lect": [
             "DR. NOOR ARTIKA BINTI HASSAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -1137,7 +1120,13 @@
         "lect": [
             "DR. ROSELAWATI BINTI MAT YA"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "09:00",
+                "endTime": "11:00"
+            }
+        ]
     },
     {
         "code": "SCSH 2163",
@@ -2106,7 +2095,7 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "ATHIRAH IZZATI BINTI AKMAL"
+            "ASSOC. PROF. DR. NOR FARAH HUDA BINTI ABD HALIM"
         ],
         "dayTime": []
     },
@@ -2388,6 +2377,17 @@
                 "endTime": "19:00"
             }
         ]
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 68,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+        ],
+        "dayTime": []
     },
     {
         "code": "SCSH 3164",
@@ -2722,11 +2722,15 @@
         "chr": 1.0,
         "venue": null,
         "lect": [
-            "MISS NURUL HIDAYAH BINTI ABDULLAH",
-            "DR. ZALIKHA BINTI IBRAHIM",
             "DR. TENGKU KARMILA BINTI TENGKU MOHD. KAMIL"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 6,
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "SCSH 3164",
@@ -2920,6 +2924,7 @@
         "lect": [
             "DR. TENGKU MUHAMMAD ASYRAF BIN TENGKU AZMI",
             "ASSOC. PROF. DR. ZURAINIE BINTI ABLLAH",
+            "ASSOC. PROF. DR. NOORHAZAYTI BINTI AB HALIM",
             "DR. MOHAMAD SHAFIQ BIN MOHD IBRAHIM",
             "DR. SALWANA BINTI SUPA'AT",
             "ASSOC. PROF. DR. MUHD FIRDAUS BIN CHE MUSA",
