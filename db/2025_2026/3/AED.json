@@ -1,12 +1,23 @@
 [
     {
+        "code": "BAAD 1240",
+        "sect": 1,
+        "title": "CONSERVATION AND RESTORATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "TS. DR. RAJABI BINTI ABDUL RAZAK"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAAD 2350",
         "sect": 1,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 16",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHARIFAH TAHIRAH BINTI SYED KAMARULZAMAN"
         ],
         "dayTime": [
             {
@@ -21,9 +32,9 @@
         "sect": 2,
         "title": "HERITAGE AND CONTEMPORARY STUDIES",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L3) 16",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. ARITA HANIM BT. AWANG"
         ],
         "dayTime": [
             {
@@ -34,13 +45,24 @@
         ]
     },
     {
+        "code": "BAAD 3191",
+        "sect": 1,
+        "title": "INTRODUCTION TO BUILDING INFORMATION MODELLING (BIM)",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NURLELAWATI BT. AB JALIL"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAAR 1230",
         "sect": 1,
         "title": "QUR'AN, SUNNAH & BUILT ENVIRONMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. TPR. DR. LUKMAN HAKIM BIN MAHAMOD"
         ],
         "dayTime": [
             {
@@ -60,9 +82,9 @@
         "sect": 2,
         "title": "QUR'AN, SUNNAH & BUILT ENVIRONMENT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED L2 LT2",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. TPR. DR. LUKMAN HAKIM BIN MAHAMOD"
         ],
         "dayTime": [
             {
@@ -78,13 +100,24 @@
         ]
     },
     {
+        "code": "BAAR 1295",
+        "sect": 1,
+        "title": "BUILDING CONSTRUCTION & MATERIALS 2",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. FADZIDAH BINTI ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BAAR 1397",
         "sect": 1,
         "title": "COMPUTER AIDED DESIGN 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD NOORIZHAR BIN ISMAIL"
         ],
         "dayTime": [
             {
@@ -104,9 +137,9 @@
         "sect": 2,
         "title": "COMPUTER AIDED DESIGN 1",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB2",
         "lect": [
-            "TO BE DETERMINED"
+            "MUHAMMAD SYUKRAN BIN MUHAIYUDDIN"
         ],
         "dayTime": [
             {
@@ -122,13 +155,79 @@
         ]
     },
     {
+        "code": "BAAR 2302",
+        "sect": 1,
+        "title": "COLLABORATIVE COMMUNITY PROJECT",
+        "chr": 3.0,
+        "venue": "KAED STUDIO(L3) 10",
+        "lect": [
+            "DR. ALIYAH NUR ZAFIRAH BT. SANUSI"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "21:00",
+                "endTime": "04:00"
+            },
+            {
+                "day": 4,
+                "startTime": "21:00",
+                "endTime": "04:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAR 2302",
+        "sect": 2,
+        "title": "COLLABORATIVE COMMUNITY PROJECT",
+        "chr": 3.0,
+        "venue": "KAED STUDIO(L3) 11",
+        "lect": [
+            "ASSOC. PROF. TS. DR. NURUL HAMIRUDDIN BIN SALLEH"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "21:00",
+                "endTime": "04:00"
+            },
+            {
+                "day": 4,
+                "startTime": "21:00",
+                "endTime": "04:00"
+            }
+        ]
+    },
+    {
+        "code": "BAAR 2302",
+        "sect": 3,
+        "title": "COLLABORATIVE COMMUNITY PROJECT",
+        "chr": 3.0,
+        "venue": "KAED STUDIO(L3) 12",
+        "lect": [
+            "DR. AIDA KESUMA BINTI AZMIN"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "21:00",
+                "endTime": "04:00"
+            },
+            {
+                "day": 4,
+                "startTime": "21:00",
+                "endTime": "04:00"
+            }
+        ]
+    },
+    {
         "code": "BAAR 2396",
         "sect": 1,
         "title": "COMPUTER AIDED DESIGN 2 ",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB1",
         "lect": [
-            "TO BE DETERMINED"
+            "MR. ADLI HADI BIN ABDUL HADI"
         ],
         "dayTime": [
             {
@@ -148,9 +247,9 @@
         "sect": 2,
         "title": "COMPUTER AIDED DESIGN 2 ",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED (L1) CAD LAB2",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NAYEEM ASIF"
         ],
         "dayTime": [
             {
@@ -164,15 +263,26 @@
                 "endTime": "12:00"
             }
         ]
+    },
+    {
+        "code": "BAQS 1281",
+        "sect": 1,
+        "title": "PRINCIPLES OF STRUCTURES",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. IR. DR. MOHD FAIRULLAZI BIN AYOB"
+        ],
+        "dayTime": []
     },
     {
         "code": "BAQS 2300",
         "sect": 1,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 7",
         "lect": [
-            "TO BE DETERMINED"
+            "SR. DR. NORSYAKILAH BINTI ROMELI"
         ],
         "dayTime": [
             {
@@ -202,9 +312,9 @@
         "sect": 2,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 8",
         "lect": [
-            "TO BE DETERMINED"
+            "SR. DR. MASIDAH BINTI ABDUL MAJID"
         ],
         "dayTime": [
             {
@@ -234,9 +344,9 @@
         "sect": 3,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 3",
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. SH MAZLINA BT. SYED KHUZZAN ALHABSHI"
         ],
         "dayTime": [
             {
@@ -266,9 +376,9 @@
         "sect": 4,
         "title": "INTEGRATED MULTI-DISCIPLINARY PROJECT",
         "chr": 3.0,
-        "venue": null,
+        "venue": "KAED STUDIO(L2) 4",
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUFIAN BIN HAMAT"
         ],
         "dayTime": [
             {
@@ -294,47 +404,13 @@
         ]
     },
     {
-        "code": "BINA 1303",
+        "code": "BAQS 4271",
         "sect": 1,
-        "title": "WORKING DRAWING FOR INTERIOR ARCHITECTURE",
-        "chr": 3.0,
+        "title": "PRACTICAL TRAINING",
+        "chr": 12.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "14:00",
-                "endTime": "17:00"
-            }
-        ]
-    },
-    {
-        "code": "BINA 1304",
-        "sect": 1,
-        "title": "COMPUTER AIDED INTERIOR DESIGN 2 (CAD 2)",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": [
-            {
-                "day": 3,
-                "startTime": "09:00",
-                "endTime": "12:00"
-            }
-        ]
-    },
-    {
-        "code": "BLAR 3311",
-        "sect": 1,
-        "title": "LANDSCAPE HERITAGE AND CULTURAL STUDIES",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
+            "SR. DR. NORSYAKILAH BINTI ROMELI"
         ],
         "dayTime": [
             {
@@ -360,6 +436,68 @@
             {
                 "day": 5,
                 "startTime": "20:00",
+                "endTime": "05:00"
+            }
+        ]
+    },
+    {
+        "code": "BAUP 3265",
+        "sect": 1,
+        "title": "PUBLIC ADMINISTRATION AND GOVERNANCE",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "PROF. DATO' TPR. DR. ALIAS BIN ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BINA 1303",
+        "sect": 1,
+        "title": "WORKING DRAWING FOR INTERIOR ARCHITECTURE",
+        "chr": 3.0,
+        "venue": "KAED (L1) CAD LAB2",
+        "lect": [
+            "DR. SITI NOORFAIRUS BINTI CHE ABDULLAH"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BINA 1304",
+        "sect": 1,
+        "title": "COMPUTER AIDED INTERIOR DESIGN 2 (CAD 2)",
+        "chr": 3.0,
+        "venue": "KAED (L1) CAD LAB2",
+        "lect": [
+            "IDR. TS. MUHAMMAD AMIRRUDDIN SHAH BIN AHMAD NIZAM"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "BLAR 3311",
+        "sect": 1,
+        "title": "LANDSCAPE HERITAGE AND CULTURAL STUDIES",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. LAR. DR. PUTRI HARYATI BINTI IBRAHIM"
+        ],
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "21:00",
                 "endTime": "05:00"
             }
         ]

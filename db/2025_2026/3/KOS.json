@@ -22,8 +22,30 @@
         "dayTime": []
     },
     {
+        "code": "BMST 4373",
+        "sect": 1,
+        "title": "AQUACULTURE NUTRITION AND FEED FORMULATION",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MOHAMMAD MUSTAFIZUR RAHMAN"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "BSBT 4122",
         "sect": 1,
+        "title": "INTERNSHIP",
+        "chr": 12.0,
+        "venue": null,
+        "lect": [
+            "DR. TAN TENG JU"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "BSBT 4122",
+        "sect": 2,
         "title": "INTERNSHIP",
         "chr": 12.0,
         "venue": null,
@@ -44,6 +66,23 @@
         "dayTime": []
     },
     {
+        "code": "BSPH 2307",
+        "sect": 1,
+        "title": "ELECTRICITY AND MAGNETISM II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
         "code": "SMS 4342",
         "sect": 1,
         "title": "DYNAMIC PROGRAMMING",
@@ -62,6 +101,23 @@
                 "day": 4,
                 "startTime": "10:00",
                 "endTime": "13:00"
+            }
+        ]
+    },
+    {
+        "code": "SPS 3133",
+        "sect": 1,
+        "title": "ELECTRICITY AND MAGNETISM II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. KAVINTHERAN A/L THAMBIRATNAM"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "17:00"
             }
         ]
     },

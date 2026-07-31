@@ -6,9 +6,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORFADZILAH BINTI AHMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURA 1412",
@@ -17,9 +23,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AIRUL AZIZAN BIN ZAINUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURA 3327",
@@ -28,20 +40,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MUZAITUL AKMA BINTI MUSTAPA KAMAL BASHA"
         ],
-        "dayTime": []
-    },
-    {
-        "code": "NURA 3327",
-        "sect": 2,
-        "title": "BIOSTATISTICS AND EPIDEMIOLOGY",
-        "chr": 3.0,
-        "venue": null,
-        "lect": [
-            "TO BE DETERMINED"
-        ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURB 1213",
@@ -50,9 +57,32 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NORLINDA BINTI ABD. RASHID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
+    },
+    {
+        "code": "NURB 1213",
+        "sect": 2,
+        "title": "ANATOMY AND PHYSIOLOGY 1",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "DR. NORLINDA BINTI ABD. RASHID"
+        ],
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     },
     {
         "code": "NURB 1214",
@@ -61,9 +91,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURB 1214",
@@ -72,9 +108,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. NURHAZIRAH BINTI ZAINUL AZLAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURB 1315",
@@ -83,9 +125,15 @@
         "chr": 3.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. DR. NORATIKAH BT. OTHMAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 2,
+                "startTime": "09:00",
+                "endTime": "12:00"
+            }
+        ]
     },
     {
         "code": "NURB 2215",
@@ -94,9 +142,15 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SHIDQIYYAH BINTI ABD HAMID"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "NURC 2411",
@@ -105,9 +159,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SITI ZUHAIDAH BINTI SHAHADAN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "14:00",
+                "endTime": "16:00"
+            }
+        ]
     },
     {
         "code": "NURC 2412",
@@ -116,9 +176,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUHANA BINTI MUHAMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "NURC 2412",
@@ -127,9 +193,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. SUHANA BINTI MUHAMAD"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "08:00",
+                "endTime": "10:00"
+            }
+        ]
     },
     {
         "code": "NURC 2413",
@@ -138,9 +210,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. THANDAR SOE @ SUMAIYAH JAMALUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:00",
+                "endTime": "13:00"
+            }
+        ]
     },
     {
         "code": "NURC 2414",
@@ -149,9 +227,15 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. AYUNI ASMA' BINTI BAHARUDIN"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "16:00",
+                "endTime": "18:00"
+            }
+        ]
     },
     {
         "code": "NURD 3415",
@@ -160,8 +244,14 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. HARLINNA BINTI ABU"
         ],
-        "dayTime": []
+        "dayTime": [
+            {
+                "day": 3,
+                "startTime": "14:00",
+                "endTime": "17:00"
+            }
+        ]
     }
 ]

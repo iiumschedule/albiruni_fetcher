@@ -45,6 +45,17 @@
         "dayTime": []
     },
     {
+        "code": "LAWS 4250",
+        "sect": 1,
+        "title": "PROFESSIONAL ETHICS",
+        "chr": 2.0,
+        "venue": null,
+        "lect": [
+            "MR. IBRAHIM BIN ISMAIL"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "PFTD 0234",
         "sect": 601,
         "title": "PRISON OFFICERS FILED TRAINING - SELF DEFENSE",
@@ -60,5 +71,49 @@
                 "endTime": "12:00"
             }
         ]
+    },
+    {
+        "code": "SHAA 3338",
+        "sect": 1,
+        "title": "USUL AL FIQH III (PRINCIPLES OF ISLAMIC JURISPRUDENCE III)",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "ASSOC. PROF. DR. MUHAMMAD LAEBA"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SHAA 3388",
+        "sect": 1,
+        "title": "QANUN AL-DUSTURI AL-ISLAMI (ISLAMIC CONSTITUTIONAL LAW (A) )",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. GHAZALI BIN JAAPAR"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SHAS 3378",
+        "sect": 1,
+        "title": "USUL AL FIQH II",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. MOHAMED RASHID BIN AB RAZAK"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SHAS 4320",
+        "sect": 1,
+        "title": "EVIDENCE OF SHARI'AH COURT",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "MADAM FATIMAWATI BINTI ISMAIL"
+        ],
+        "dayTime": []
     }
 ]
