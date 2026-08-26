@@ -1,5 +1,27 @@
 [
     {
+        "code": "CCCS 1010",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 1",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD IRFAN BIN MOHD ADAM"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "CCCS 2010",
+        "sect": 401,
+        "title": "BASIC COUNSELING SKILLS 2",
+        "chr": 0.5,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NAZHAN BIN WAZIRI"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "CCEM 1010",
         "sect": 612,
         "title": "EVENT MANAGEMENT SKILL 1",
@@ -60,7 +82,7 @@
         "sect": 3,
         "title": "FAMILY MANAGEMENT",
         "chr": 0.5,
-        "venue": "KENMS 3.8 LEVEL 3",
+        "venue": "AIKOL MM 1.9 1.9",
         "lect": [
             "DR. MOHAMAD ISMAIL BIN HJ MOHD YUNUS"
         ],
@@ -637,6 +659,17 @@
         ]
     },
     {
+        "code": "CCUB 4621",
+        "sect": 401,
+        "title": "USRAH BUDI 4",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "MUHAMMAD NASRUL BIN MOHAMED NOOR"
+        ],
+        "dayTime": []
+    },
+    {
         "code": "SCSH 1201",
         "sect": 1,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
@@ -685,7 +718,7 @@
         "sect": 3,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "NADIA NUR SYAFIQAH BINTI NAZAR"
         ],
@@ -707,7 +740,7 @@
         "sect": 4,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 1",
         "lect": [
             "MUHAMMAD JEFFERSON EMPALING BIN JONATHAN JANA"
         ],
@@ -729,7 +762,7 @@
         "sect": 5,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 2",
         "lect": [
             "MUHAMMAD NASRUL BIN MOHAMED NOOR"
         ],
@@ -751,7 +784,7 @@
         "sect": 6,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 3",
         "lect": [
             "SITI RAUDHAH BINTI RAMLI"
         ],
@@ -773,7 +806,7 @@
         "sect": 7,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. ADIBAH BT. AMIR"
         ],
@@ -795,7 +828,7 @@
         "sect": 8,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "KAED SR (L1) 4",
         "lect": [
             "DR. RICCA RAHMAN BINTI NASARUDDIN"
         ],
@@ -817,7 +850,7 @@
         "sect": 9,
         "title": "SUSTAINABLE DEVELOPMENT: ISSUES, PRINCIPLES AND PRACTICES",
         "chr": 2.0,
-        "venue": null,
+        "venue": "ADM LR 1B 2.133",
         "lect": [
             "IR. TS. DR. (CMILT M.I.E.M. ACPE) MUHAMMAD MUKHTAR BIN NOOR AWALLUDIN"
         ],
@@ -875,6 +908,17 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. IR. TS. DR. AHMAD JAZLAN BIN HAJA MOHIDEEN"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "SCSH 3164",
+        "sect": 501,
+        "title": "USRAH IN ACTION 2",
+        "chr": 1.0,
+        "venue": null,
+        "lect": [
+            "DR. NUR SHUHADAH BINTI MOHD"
         ],
         "dayTime": []
     },

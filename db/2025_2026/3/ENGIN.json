@@ -49,18 +49,18 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -72,6 +72,20 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. MOHD. SULTAN IBRAHIM BIN SHAIK DAWOOD"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "AERO 4400",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "DR. DWI PEBRIANTI",
+            "DR. MOHAMMED ABDULMALEK MOHAMMED ALDHEEB",
+            "ASSOC. PROF. DR. AMELDA DIANNE BINTI ANDAN",
+            "ASSOC. PROF. IR. TS. DR. MUHAMMAD HANAFI BIN AZAMI"
         ],
         "dayTime": []
     },
@@ -104,7 +118,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "DR. WAN NUR FIRDAUS BINTI WAN HASSAN"
+            "DR. SITI NORATIKAH BINTI CHE DERAMAN"
         ],
         "dayTime": []
     },
@@ -154,7 +168,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "ASSOC. PROF. TS. DR. SARAH YASMIN BINTI MOHAMAD"
         ],
         "dayTime": []
     },
@@ -214,7 +228,18 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "TO BE DETERMINED"
+            "DR. MOHD SHAHRIN BIN ABU HANIFAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "EITR 3561",
+        "sect": 1,
+        "title": "ENGINEERING INDUSTRIAL TRAINING",
+        "chr": 5.0,
+        "venue": null,
+        "lect": [
+            "DR. AZNI NABELA BINTI WAHID"
         ],
         "dayTime": []
     },
@@ -275,6 +300,38 @@
                 "day": 4,
                 "startTime": "12:00",
                 "endTime": "01:20"
+            }
+        ]
+    },
+    {
+        "code": "MATH 2310",
+        "sect": 1,
+        "title": "DIFFERENTIAL EQUATIONS",
+        "chr": 3.0,
+        "venue": null,
+        "lect": [
+            "DR. NURIZAN BINTI OMAR"
+        ],
+        "dayTime": [
+            {
+                "day": 1,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 2,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 3,
+                "startTime": "11:30",
+                "endTime": "12:50"
+            },
+            {
+                "day": 4,
+                "startTime": "11:30",
+                "endTime": "12:50"
             }
         ]
     },
@@ -424,7 +481,7 @@
         "chr": 2.0,
         "venue": null,
         "lect": [
-            "DR. MOHD ASYRAF BIN MOHD RAZIB",
+            "ASSOC. PROF. DR. MOHD ASYRAF BIN MOHD RAZIB",
             "ASSOC. PROF. DR. ABD HALIM BIN EMBONG"
         ],
         "dayTime": [
@@ -442,7 +499,7 @@
         "chr": 4.0,
         "venue": null,
         "lect": [
-            "DR. AIMI SHAZWANI BINTI GHAZALI",
+            "DR. NOR HIDAYATI DIYANA BINTI NORDIN",
             "DR. HASMAWATI BT. ANTONG"
         ],
         "dayTime": [
@@ -563,18 +620,18 @@
         "dayTime": [
             {
                 "day": 1,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 2,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             },
             {
                 "day": 3,
-                "startTime": "10:00",
-                "endTime": "11:20"
+                "startTime": "14:00",
+                "endTime": "15:20"
             }
         ]
     },
@@ -597,6 +654,18 @@
         "venue": null,
         "lect": [
             "ASSOC. PROF. DR. MUHAMMAD BIN ABDULLAH"
+        ],
+        "dayTime": []
+    },
+    {
+        "code": "MECH 4400",
+        "sect": 2,
+        "title": "FINAL YEAR PROJECT 2",
+        "chr": 4.0,
+        "venue": null,
+        "lect": [
+            "PROF. DR. MEFTAH HRAIRI",
+            "DR. SYED NOH BIN SYED ABU BAKAR"
         ],
         "dayTime": []
     },
@@ -662,7 +731,7 @@
         "chr": 5.0,
         "venue": null,
         "lect": [
-            "DR. NUR IDAYU BINTI AYOB"
+            "DR. SYAZWANI BINTI MOHD ZAKI"
         ],
         "dayTime": []
     },
